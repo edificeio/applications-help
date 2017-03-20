@@ -12,9 +12,9 @@ communauté]
 
 == Présentation
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Plutôt que de proposer un usage centré sur un outil (le blog ou le wiki
 par exemple), l'appli communautés permet de rassembler un groupe
@@ -28,9 +28,9 @@ image:../../wp-content/uploads/2016/04/Communaut_Pres-ConvertImage.png[Communaut
 
 == Créer et partager une communauté
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Pour accéder à l’appli Communautés, cliquez sur l’icône correspondante
 dans la page « Mes applis ».
@@ -116,9 +116,9 @@ services.
 
 == Note de version
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 A chaque nouvelle version de l'application, les nouveautés seront
 présentées dans cette section.

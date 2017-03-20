@@ -15,7 +15,7 @@ des notifications]
 
 == La page d'accueil
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 La page d’accueil est la première page affichée après vous être connecté
 sur la plateforme. Elle vous permet d’accéder à différentes fonctions et
@@ -28,7 +28,7 @@ link:../../wp-content/uploads/2016/12/Fil-complet.png[image:../../wp-content/upl
 
 == Le fil de nouveautés
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Le fil de nouveautés affiche les dernières informations et contenus qui
 vous concernent.
@@ -71,7 +71,7 @@ image:../../wp-content/uploads/2016/07/fil_3-1024x454.png[image]
 
 == Suppression et signalement des notifications
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Sur le fil de nouveauté, vous avez la possibilité de ne plus voir la
 notification reçue et/ou de signaler à l'administrateur de votre
@@ -105,7 +105,7 @@ link:../../wp-content/uploads/2016/12/Fil-historique-suppression.png[image:../..
 
 == Les widgets
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Les widgets se situent à gauche du fil de nouveautés. Ils sont composés
 des notes personnelles, du calendrier, des actualités, du flux RSS, du
@@ -155,7 +155,7 @@ la page.
 
 == Le bandeau de navigation
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Le bandeau de navigation situé en haut de la page permet d’accéder à
 différents services, quelle que soit l’appli dans laquelle vous
@@ -183,7 +183,7 @@ portail link:../../wp-content/uploads/2015/06/d12.png[image:../../wp-content/up
 
 == L’éditeur de texte
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 L’éditeur de texte permet de rédiger des contenus et de les mettre en
 forme : type de police, taille de l'écriture, couleur de texte, etc.
@@ -221,7 +221,7 @@ image:../../wp-content/uploads/2016/04/Image9.png[Image9]
 
 == La gestion des paramètres
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 La gestion des paramètres vous permet de modifier votre thème
 d’apparence mais également de choisir l’affichage de ses widgets.
@@ -250,7 +250,7 @@ image:../../wp-content/uploads/2016/01/Gestion-Widgets3.png[image]
 
 == Notifications externes
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 L'ENT est désormais doté d'un système de notification par mail qui
 permet aux utilisateurs de recevoir sur leur adresse personnelle des
@@ -287,7 +287,7 @@ link:../../wp-content/uploads/2016/08/notiff.png[image:../../wp-content/uploads/
 
 == Le moteur de recherche
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Le service Moteur de recherche a pour objectif de permettre à chaque
 utilisateur identifié d’effectuer une recherche par mots-clés parmi les
@@ -323,7 +323,7 @@ cliquant sur le bouton « GO ».
 
 == Message Flash
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Des messages d'informations à destinations de tous les utilisateurs de
 l'ENT s'affichent dans le fil de nouveautés via un bandeau coloré (1).
@@ -335,7 +335,7 @@ supprimer en cliquant sur la croix à droite de celui-ci (2).
 
 == Note de version
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Nouveauté de la version 0.6
 

@@ -11,9 +11,9 @@ support]
 
 == Présentation
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 L’utilisateur peut faire part de ses difficultés d'utilisation ou d'un
 dysfonctionnement via un formulaire dans lequel il peut également
@@ -27,9 +27,9 @@ image:../../wp-content/uploads/2016/08/aide_1-1024x248.png[image]
 
 == Créer une demande
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 La demande de création se fait en cliquant sur le bouton « Nouvelle
 demande » (1) disponible sur la page principale du service.
@@ -63,7 +63,7 @@ l'établissement.
 
 == Transmettre la demande au support
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Certains établissements ont la possibilité d'escalader leurs demandes
 d'assistance auprès d'un service de support aux utilisateurs de l'ENT. +
@@ -86,9 +86,9 @@ image:../../wp-content/uploads/2016/08/aide_4-1024x432.png[aide_4]
 
 == Note de version
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Nouveauté de la version 0.3.0
 

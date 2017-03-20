@@ -11,9 +11,9 @@ fonctionnement de la pensée.
 
 == Présentation
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 L'appli Carte Mentale permet de *représenter visuellement une
 arborescence* en créant des liens entre différentes idées. Le schéma se
@@ -27,9 +27,9 @@ image:../../wp-content/uploads/2015/04/Carte1.png[Carte1]
 
 == Créer une Carte Mentale
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Pour accéder à l’appli Carte mentale, cliquez sur l’icône correspondante
 dans la page « Mes applis ».
@@ -65,9 +65,9 @@ Votre carte est maintenant créée !
 
 == Partager une Carte Mentale
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Pour partager une carte mentale avec d’autres utilisateurs, cliquez sur
 le + (1) située à côté de la carte puis sur « Partager » (2).
@@ -93,9 +93,9 @@ image:../../wp-content/uploads/2015/06/m7.png[m7]
 
 == Note de version
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 A chaque nouvelle version de l'application, les nouveautés seront
 présentées dans cette section.

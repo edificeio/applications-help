@@ -12,9 +12,9 @@ différentes thématiques en ciblant les destinataires.
 
 == Présentation
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Cet outil vous permet de *diffuser facilement une information* (comme le
 déroulement d’un événement ou le menu de la cantine) en y
@@ -33,9 +33,9 @@ image:../../wp-content/uploads/2016/07/Actu_11-1024x475.png[image]
 
 == Créer un fil d'actualités
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Pour créer un fil d'actualités, suivez les étapes suivantes :
 
@@ -60,9 +60,9 @@ créer des fils d’actualités.
 
 == Partager un fil d'actualités
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Vous pouvez maintenant partager votre fil d'actualités :
 
@@ -94,9 +94,9 @@ d'actualités
 
 == Créer une actualité
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Pour créer une actualité, cliquez sur le bouton « Nouvelle actualité ».
 
@@ -120,9 +120,9 @@ compléter plus tard
 
 == Partager une actualité
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Vous pouvez décider d’attribuer des droits sur une actualité
 indépendamment des droits de partage définis sur le fil auquel elle
@@ -152,9 +152,9 @@ l’actualité
 
 == Note de version
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Nouveauté de la version 0.4.0
 

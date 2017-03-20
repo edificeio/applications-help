@@ -17,9 +17,9 @@ ressources]
 
 == Présentation
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 L’outil de réservation de ressources vous permet de faire des *demandes
 de réservation*, *ponctuelles ou périodiques*, de ressources (salle
@@ -36,7 +36,7 @@ link:../../wp-content/uploads/2016/01/RBS_PRESENTATION.png[image:../../wp-conten
 
 == Consulter les ressources disponibles
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Le* gestionnaire* de chaque *type de ressource*, choisit les
 utilisateurs autorisés à réserver les ressources qu’il a sous sa
@@ -112,7 +112,7 @@ image:../../wp-content/uploads/2015/06/r3.png[r3] +
 
 == Créer une demande de réservation
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Il est possible de réserver une ressource :
 
@@ -167,7 +167,7 @@ ressource concernant les intervalles minimum et maximum de réservation.
 
 == Valider une réservation
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Le gestionnaire et/ou le valideur du type de ressource  peuvent valider
 ou refuser les demandes de réservation.
@@ -216,7 +216,7 @@ link:../../wp-content/uploads/2016/01/RBS-VALIDATION-PERIODIQUE-2.png[image:../.
 
 == Définir les types de ressources
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Pour accéder à l’interface de gestion des ressources, les utilisateurs
 habilités (gestionnaires) doivent cliquer sur l’icône de la molette. (1)
@@ -252,7 +252,7 @@ image:../../wp-content/uploads/2015/06/r9.png[r9]
 
 == Définir les ressources
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Une fois les types de ressources définis, il faut créer les ressources.
 
@@ -280,9 +280,9 @@ image:../../wp-content/uploads/2015/06/r23.png[r2]
 
 == Note de version
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Nouveautés de la version 0.5 +
 

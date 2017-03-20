@@ -28,7 +28,7 @@ copier un sujet dans la bibliothèque]
 == Présentation
 
 link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 L'appli Exercices et évaluations permet de créer des sujets, de les
 distribuer et d’en faire automatiquement ou manuellement la correction.
@@ -42,7 +42,7 @@ link:../../wp-content/uploads/2016/09/Accueil-Exercices-et-évaluations1.png[ima
 == Elève / Apprenant - Réaliser un exercice
 
 link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Depuis la page d’accueil, cliquez sur « Mes applis » en haut à droite de
 l’écran puis cliquez sur « Exercices et évaluations ».
@@ -105,7 +105,7 @@ la copie]]
 == Elève / Apprenant – Voir la correction d’un exercice
 
 link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Lorsqu’un exercice est corrigé, vous êtes informés via une publication
 sur le fil de nouveauté.
@@ -138,7 +138,7 @@ link:../../wp-content/uploads/2016/10/Question.jpg[image:../../wp-content/upload
 == Enseignant - Créer un nouveau sujet
 
 link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Depuis la page d’accueil, cliquez sur « Mes applis » en haut à droite de
 l’écran puis cliquez sur « Exercices et évaluations ».
@@ -233,7 +233,7 @@ link:../../wp-content/uploads/2016/09/Aperçu.jpg[image:../../wp-content/uploads
 == Enseignant - Distribuer un sujet
 
 link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Une fois la création de votre sujet terminée, vous pouvez le distribuer
 en cliquant sur l’icône en haut à gauche de votre écran.
@@ -270,7 +270,7 @@ Cliquer sur « suivant » puis valider la distribution du sujet.
 == Enseignant - Partager un sujet
 
 link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Pour partager un sujet avec d’autres utilisateurs, cliquez sur la case à
 cocher correspondant au sujet (1) puis sur le bouton « Partager » (2).
@@ -328,7 +328,7 @@ et/ou gestion ont été ouverts._
 == Enseignant - Corriger un sujet
 
 link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Pour corriger un sujet, cliquez sur l’onglet « Mes corrections » en haut
 à gauche de l’écran.
@@ -351,7 +351,7 @@ volée le statut de ou de plusieurs copies en "corrigé" (2).
 == Enseignant - Publier un sujet dans la bibliothèque
 
 link:../../wp-content/uploads/2016/09/Licence.png[ ]link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Si vous souhaitez publier votre propre sujet dans la bibliothèque. Il
 vous suffit de cliquer sur l’onglet « Mes sujets » et de cocher la case
@@ -364,7 +364,7 @@ bibliothèque »
 == Enseignant - Chercher et copier un sujet dans la bibliothèque
 
 link:../../wp-content/uploads/2016/09/Licence.png[ ]link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Pour retrouver un sujet dans la bibliothèque, cliquez sur l’onglet
 « Bibliothèque » en haut à gauche de l’écran. Vous pouvez ensuite
@@ -384,4 +384,4 @@ link:../../wp-content/uploads/2016/09/Bibliothèque-2.jpg[image:../../wp-content
 ==
 
 link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+

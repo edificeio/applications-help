@@ -13,9 +13,9 @@ collaboratif]
 
 == Présentation
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Différents types de contenus (*son, image, texte, vidéo…*) peuvent être
 intégrés dans les notes. Par ailleurs, chaque*note* est accompagnée du
@@ -29,9 +29,9 @@ image:../../wp-content/uploads/2015/06/m112.png[m1]
 
 == Créer et partager un mur collaboratif
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Pour accéder à l’appli Mur collaboratif, cliquez sur l’icône
 correspondante dans la page « Mes applis ».
@@ -75,9 +75,9 @@ image:../../wp-content/uploads/2015/06/m52.png[m5]
 
 == Ajouter une note au mur collaboratif
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Pour créer une note sur un mur, cliquez sur le mur souhaité.
 
@@ -113,9 +113,9 @@ sur:image:../../wp-content/uploads/2015/06/m16.png[m16]
 
 == Note de version
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 A chaque nouvelle version de l'application, les nouveautés seront
 présentées dans cette section.

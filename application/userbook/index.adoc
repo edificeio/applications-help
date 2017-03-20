@@ -18,7 +18,7 @@ notifications émises]
 
 == Accéder à mon compte
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Pour mettre à jour votre humeur, votre devise, votre photo et vos autres
 informations personnelles, vous disposez d’un espace dédié. Vous pouvez
@@ -54,7 +54,7 @@ ce nom d'affichage est le prénom et le nom de l'utilisateur.
 
 == Changer ma photo de profil
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Pour changer votre photo, cliquez directement sur la photo ou sur
 l'avatar par défaut.
@@ -93,7 +93,7 @@ lorsque vous postez un message dans un forum.
 
 == Changer de mot de passe
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Pour changer votre mot de passe, cliquez sur « Modifier mon mot de
 passe ».
@@ -113,7 +113,7 @@ Votre mot de passe est maintenant modifié !
 
 == Ajouter ou modifier mon adresse mail
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Vous pouvez ajouter ou modifier votre adresse mail dans l’espace « Mon
 compte ».
@@ -128,7 +128,7 @@ envoyé sur l’adresse mail renseignée dans votre compte.
 
 == Ajouter une devise à mon compte
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Vous pouvez ajouter une devise à votre compte. Pour cela, remplissez le
 champ « Devise » sous vos coordonnées.
@@ -140,7 +140,7 @@ nouveautés des autres utilisateurs de l’ENT lorsque vous la modifierez.
 
 == Changer mon humeur
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Pour changer votre humeur, cliquez sur l’icône en dessous de votre
 photo.
@@ -159,7 +159,7 @@ lesquels vous avez le droit de communiquer.
 
 == Modifier mes centres d'intérêt
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Vous pouvez modifier vos centres d’intérêt : animaux, cinéma, musique,
 endroits et sports.
@@ -176,7 +176,7 @@ image:../../wp-content/uploads/2015/07/m15.png[m15]
 
 == Définir la visibilité de mes informations personnelles
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Vous avez la possibilité de définir la visibilité de vos informations
 personnelles grâce à l’icône située au bout de chaque ligne.
@@ -202,7 +202,7 @@ image:../../wp-content/uploads/2015/07/m19.png[m19]
 
 == Notifications externes
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 L'ENT est désormais doté d'un système de notification par mail qui
 permet aux utilisateurs de recevoir sur leur adresse personnelle des
@@ -241,7 +241,7 @@ externe - réception]]
 
 == Historique des notifications émises
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Vous avez la possibilité de ne pas diffuser une notification aux
 utilisateurs avec lesquels vous avez des droits de communication ou vous
@@ -261,7 +261,7 @@ link:../../wp-content/uploads/2016/12/Fil-historique-suppression.png[image:../..
 
 == Note de version
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 A chaque nouvelle version de l'application, les nouveautés seront
 présentées dans cette section.

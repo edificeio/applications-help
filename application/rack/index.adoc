@@ -15,9 +15,9 @@ vers l'appli Documents]
 
 == Présentation
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Le casier est composé de 3 dossiers :
 
@@ -38,9 +38,9 @@ possible de faire un second envoi avec une nouvelle version du document.
 
 == Déposer un document dans un casier
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Pour déposer un document dans le casier d'un autre utilisateur, accédez
 à l'appli Casier puis cliquez sur le bouton « Déposer dans un casier ».
@@ -65,9 +65,9 @@ image:../../wp-content/uploads/2016/04/Casier3.png[Casier3]
 
 == Sélection et action sur les documents
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Pour sélectionner un fichier, vous devez cliquer une fois dessus. Le
 fichier est alors surligné en bleu (1) et le menu d'option s'affiche en
@@ -87,9 +87,9 @@ link:../../wp-content/uploads/2016/08/rack-bouton-télécharger2.png[image:../..
 
 == Copier un document du casier vers l'appli Documents
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Lorsque vous recevez un document dans votre casier, vous avez la
 possibilité de le copier vers un dossier de votre espace documentaire. +
@@ -107,9 +107,9 @@ image:../../wp-content/uploads/2016/04/Casier5.png[Casier5]
 
 == Note de version
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Nouveauté de la version 0.6
 

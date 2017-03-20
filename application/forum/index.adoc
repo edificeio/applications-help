@@ -14,9 +14,9 @@ catégorie]
 
 == Présentation
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Le forum est un outil d'échange généralement *animé par une ou plusieurs
 personnes*. Il permet à différents utilisateurs *de publier des messages
@@ -31,9 +31,9 @@ image:../../wp-content/uploads/2016/01/FORUM_Presentation.png[image]
 
 == Créer et partager une catégorie
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Pour créer un forum, cliquez sur « Créer une catégorie ».
 
@@ -70,9 +70,9 @@ Cliquez sur le bouton « Terminer » pour créer votre discussion.
 
 == Créer une discussion
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Pour créer une discussion :
 
@@ -90,9 +90,9 @@ une discussion]]
 
 == Publier un message
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Pour poster un message, cliquez sur la discussion concernée.
 
@@ -104,9 +104,9 @@ image:../../wp-content/uploads/2015/07/f4.png[f4]
 
 == Gérer une catégorie
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Si vous êtes habilité à créer une catégorie de forum (présence du
 bouton « Nouvelle catégorie » en haut de l'écran), vous disposez
@@ -128,9 +128,9 @@ image:../../wp-content/uploads/2016/04/forum.png[forum]
 
 == Gérer une discussion
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Si vous êtes gestionnaire d'une discussion (présence du bouton «
 Nouvelle discussion » en haut de l'écran), vous disposez également des
@@ -153,9 +153,9 @@ image:../../wp-content/uploads/2015/07/f22.png[f2]
 
 == Note de version
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Nouveauté de la version 0.5 +
 

@@ -18,7 +18,7 @@ application]
 == Présentation
 
 link:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[CC-BY-NC-SA-3.0-FR-300x105]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Le service Moteur de recherche a pour objectif de permettre à chaque
 utilisateur d’effectuer une recherche par mots-clés parmi les ressources
@@ -46,7 +46,7 @@ sont affichées dans le moteur de recherche.
 == Description de la page de recherche
 
 link:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[CC-BY-NC-SA-3.0-FR-300x105]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 link:../../wp-content/uploads/2016/06/Presentation001.png[image:../../wp-content/uploads/2016/06/Presentation001.png[Presentation001]]
 
@@ -67,7 +67,7 @@ des filtres activés
 == Accès à la page de recherche
 
 link:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[CC-BY-NC-SA-3.0-FR-300x105]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Pour accéder à la page de recherche, vous devez cliquer sur l’icône de
 recherche de la barre de menu principale de l’ENT.
@@ -94,7 +94,7 @@ fermeture du navigateur) sur l’ENT.
 == Effectuer une recherche
 
 link:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[CC-BY-NC-SA-3.0-FR-300x105]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 link:../../wp-content/uploads/2016/06/Recherche001.png[image:../../wp-content/uploads/2016/06/Recherche001.png[Recherche001]]Pour
 rechercher une ressource, saisissez les mots-clés dans la zone de saisie
@@ -117,7 +117,7 @@ Cliquez sur le bouton "Rechercher" pour lancer la recherche.
 == Champs de recherche par application
 
 link:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[CC-BY-NC-SA-3.0-FR-300x105]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 La recherche s’effectue sur des champs spécifiques en fonction du  type
 de ressource. Pour qu’une ressource soit affichée dans la liste
@@ -130,7 +130,7 @@ filtre]]
 == Liste des résultats
 
 link:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[CC-BY-NC-SA-3.0-FR-300x105]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Les ressources correspondant aux filtres de recherche sont affichées
 sous la zone de saisie des mots-clés. +
@@ -161,7 +161,7 @@ link:../../wp-content/uploads/2016/06/Resultat003.png[image:../../wp-content/upl
 == Détail d'une ressource de la liste résultat
 
 link:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[CC-BY-NC-SA-3.0-FR-300x105]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 link:../../wp-content/uploads/2016/06/Detail001.png[image:../../wp-content/uploads/2016/06/Detail001.png[Detail001]]
 
@@ -183,4 +183,4 @@ permis sa création
 ==
 
 link:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[CC-BY-NC-SA-3.0-FR-300x105]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+

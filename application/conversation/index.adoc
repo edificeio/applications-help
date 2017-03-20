@@ -13,9 +13,9 @@ reçus]
 
 == Présentation
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 L'appli Messagerie permet d'envoyer simplement un message à *un
 utilisateur* ou à un *groupe d’utilisateurs*(les élèves d'une classe, le
@@ -34,9 +34,9 @@ image:../../wp-content/uploads/2016/04/messagerie2-1024x508.png[messagerie2]
 
 == Envoyer un message
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Dans le service Messagerie, cliquez sur le bouton « Créer » présent en
 haut de la page.
@@ -80,9 +80,9 @@ image:../../wp-content/uploads/2016/04/messagerie8-1024x488.png[messagerie8]
 
 == Visualiser mes messages reçus
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Lorsque vous recevez un nouveau message, la notification est indiquée
 dans le bandeau de navigation supérieur.
@@ -103,9 +103,9 @@ link:../../wp-content/uploads/2016/01/Messagerie-VISUALISER.png[image:../../wp-c
 
 == Supprimer un message
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Vous pouvez supprimer vos messages en cliquant sur la case à cocher
 correspondant au(x) message(s) (1).
@@ -121,9 +121,9 @@ dossier « Corbeille ».
 
 == Note de version
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Nouveautés de la version 1.13.1
 

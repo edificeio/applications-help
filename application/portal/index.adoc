@@ -6,7 +6,7 @@
 
 == Accéder à mes applis
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Pour accéder à vos applis, cliquez sur l’icône correspondante dans le
 bandeau de navigation.
@@ -27,7 +27,7 @@ La page d'accueil de l'appli apparaît.
 
 == Gestion des favoris
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 La gestion des favoris vous permet d’accéder rapidement à vos
 applications préférées. Le menu des favoris est accessible directement
@@ -42,7 +42,7 @@ image:../../wp-content/uploads/2016/01/GESTION_FAVORIS-2-1024x375.png[GESTION_FA
 
 == Note de version
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 A chaque nouvelle version de l'application, les nouveautés seront
 présentées dans cette section.

@@ -12,9 +12,9 @@ frise chronologique]
 
 == Présentation
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 L'appli Frise chronologique permet *d'associer des événements à leur
 position dans le temps* et de les représenter sous la forme d'une frise
@@ -26,9 +26,9 @@ image:../../wp-content/uploads/2015/04/Frise1.png[Frise1]
 
 == Créer et partager une frise chronologique
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Pour accéder à l’appli Frise chronologique, cliquez sur l’icône
 correspondante dans la page « Mes
@@ -63,9 +63,9 @@ image:../../wp-content/uploads/2015/06/f5.png[f5]
 
 == Créer un événement dans la frise chronologique
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Pour créer du contenu dans la frise, cliquez sur « Ajouter un
 événement ».
@@ -88,9 +88,9 @@ image:../../wp-content/uploads/2015/06/f8.png[f8]
 
 == Note de version
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 A chaque nouvelle version de l'application, les nouveautés seront
 présentées dans cette section.

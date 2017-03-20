@@ -19,9 +19,9 @@ versions de son document]
 
 == Présentation
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 L’application Document d’un utilisateur est composé de 4 dossiers :
 
@@ -48,9 +48,9 @@ quelle appli de l'ENT.*
 
 == Naviguer dans mes Documents
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Un nouveau mode de navigation plus intuitif a été mis en place sur
 l'application Document. +
@@ -84,9 +84,9 @@ dossier.
 
 == Importer un document
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Pour importer un document dans votre espace de stockage personnel,
 cliquez sur le bouton « Importer » situé en haut de l’interface.
@@ -130,9 +130,9 @@ link:../../wp-content/uploads/2016/08/Doc-glisser-déposer-pc2.png[image:../../w
 
 == Déplacer un document ou un dossier
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Vous pouvez déplacer vos documents et vos dossiers facilement dans votre
 espace documentaire. Pour cela, sélectionnez le document ou le dossier à
@@ -156,9 +156,9 @@ link:../../wp-content/uploads/2016/08/Doc-glisser-déposer-2.png[image:../../wp-
 
 == Connaître l'espace de stockage disponible
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 La jauge affichée sous la liste des dossiers de l’espace documentaire
 vous permet de connaître l’espace de stockage dont vous disposez.
@@ -169,9 +169,9 @@ image:../../wp-content/uploads/2016/04/Document11.png[Document11]
 
 == Ajouter la nouvelle version d'un document
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Vous pouvez mettre à jour un document tout en gardant une trace de ses
 précédentes versions et en conservant les droits de partage du document
@@ -209,9 +209,9 @@ peuvent mettre à jour de nouvelles versions. +
 
 == Accéder aux anciennes versions de son document
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Pour visualiser les anciennes versions d'un document, suivez les étapes
 suivantes:
@@ -236,9 +236,9 @@ image:../../wp-content/uploads/2016/04/Document8-1024x399.png[Document8]
 
 == Note de version
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Nouveautés de la version 1.13.1
 

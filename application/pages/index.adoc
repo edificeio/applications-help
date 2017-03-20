@@ -11,9 +11,9 @@ permettant de créer des mini sites web internes*.*
 
 == Présentation
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 L'appli Pages permet de créer des pages web qui sont organisées entre
 elles grâce à un menu de navigation, et offrant une grande liberté de
@@ -29,9 +29,9 @@ image:../../wp-content/uploads/2016/04/Image42-1024x478.png[Image4]
 
 == Créer un mini site
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Depuis la page d’accueil, cliquez sur « Mes applis » en haut à droite de
 l’écran puis cliquez sur « Pages ».
@@ -62,9 +62,9 @@ intégrant des contenus.
 
 == Partager un site web
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Pour partager votre page, avec d'autres utilisateurs, suivez les étapes
 suivantes :
@@ -100,9 +100,9 @@ soumises avant publication
 
 == Créer une nouvelle page
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Pour créer une nouvelle page, suivez les étapes suivantes :
 
@@ -142,9 +142,9 @@ image:../../wp-content/uploads/2016/04/Pages-creer_4.png[Pages-creer_4] +
 
 == Note de version
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Nouveautés de la version 0.5
 

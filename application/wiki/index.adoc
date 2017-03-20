@@ -15,9 +15,9 @@ pages]
 
 == Présentation
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Un wiki permet de *créer et publier des contenus (texte, images...) dans
 différentes pages liées entre elles*. La page d'accueil du wiki est
@@ -28,9 +28,9 @@ image:../../wp-content/uploads/2016/01/WIKI_PRESENTATION1.png[image]
 
 == Créer un Wiki
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Pour créer un wiki, cliquez sur le bouton « Créer un wiki » dans la page
 d'accueil de l'appli.
@@ -51,9 +51,9 @@ image:../../wp-content/uploads/2015/07/w2.png[w2]
 
 == Partager un Wiki
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Pour partager un Wiki avec d’autres utilisateurs, cliquez sur le +
 correspondant au Wiki (1) puis sur le bouton « Partager » (2).
@@ -81,9 +81,9 @@ sont les suivants :
 
 == Créer et éditer une page
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Pour créer et éditer une page dans le Wiki, suivez les étapes
 suivantes :
@@ -115,9 +115,9 @@ création de liens) afin de la rendre visible.
 
 == Modifier une page
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Vous pouvez modifier une page. Pour cela, suivez les étapes suivantes :
 
@@ -132,9 +132,9 @@ image:../../wp-content/uploads/2016/01/WIKI-MODIFIER-1-1024x410.png[image] +
 
 == Comparer deux versions de pages
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Lorsque vous modifiez une page de Wiki, une nouvelle version de celle-ci
 se crée automatiquement. Vous pouvez comparer deux versions de page pour
@@ -170,9 +170,9 @@ cliquant sur « Restaurer » en haut de la page correspondante.
 
 == Note de version
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Nouveauté de la version 0.5 +
 

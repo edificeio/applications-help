@@ -13,9 +13,9 @@ d'un agenda]
 
 == Présentation
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Le service Agenda permet de créer et partager des évènements.
 
@@ -41,9 +41,9 @@ sélectionnés.
 
 == Créer un agenda
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Pour créer un agenda, cliquez sur le bouton « Créer un agenda » dans le
 menu de gauche (1). +
@@ -85,9 +85,9 @@ utilisateurs.
 
 == Créer un événement
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Pour créer un événement, plusieurs options s’offrent à l’utilisateur, il
 est possible de cliquer dans le calendrier au créneau horaire souhaité
@@ -143,9 +143,9 @@ paramétrée après un nombre d’occurrences ou à une date donnée.
 
 == Partager un agenda
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 L’accès au partage de la ressource calendrier se fait grace au menu du
 bas lors de la sélection d’un calendrier dans la liste des calendriers
@@ -173,9 +173,9 @@ l’agenda
 
 == Visualiser les événements d'un agenda
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Les événements créés sont affichés sur la vue calendrier avec comme
 couleur de fond celle de l’agenda auxquels ils appartiennent. Si un
@@ -208,9 +208,9 @@ affichés.
 
 == Note de version
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 *Nouveautés de la version 0.3*
 

@@ -13,9 +13,9 @@ page]
 
 == Présentation
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 L'appli Sondage permet de créer des *sondages qui pourront être intégrés
 dans des pages web* (en utilisant l'appli Pages). L'utilisateur qui
@@ -30,9 +30,9 @@ image:../../wp-content/uploads/2016/04/Sonage_Pres.png[Sonage_Pres]
 
 == Créer un sondage
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Pour accéder à l’appli Sondage, cliquez sur l’icône correspondante dans
 la page « Mes applis ».
@@ -55,9 +55,9 @@ image:../../wp-content/uploads/2015/06/s3.png[s3] +
 
 == Partager un sondage
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Pour partager le sondage, cliquez sur le + (1), puis sur « Partager »
 (2).
@@ -81,9 +81,9 @@ image:../../wp-content/uploads/2015/06/s5.png[s5] +
 
 == Insérer un sondage dans une page
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 Une fois le sondage créé et partagé,  il est possible de l’insérer dans
 une page. Pour cela, cliquez sur l’appli « Pages ».
@@ -115,9 +115,9 @@ image:../../wp-content/uploads/2015/06/s13.png[s13]
 
 == Note de version
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR]]
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
+
+
 
 A chaque nouvelle version de l'application, les nouveautés seront
 présentées dans cette section.

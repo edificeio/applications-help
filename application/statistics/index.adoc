@@ -18,7 +18,7 @@ activés]
 
 == Présentation
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 L’appli Statistiques vous propose de suivre
 *cinq** indicateurs* calculés sur *une période donnée**(vous pouvez
@@ -38,7 +38,7 @@ image:../../wp-content/uploads/2016/01/STAT-PRESENTATION-1024x372.png[image]
 
 == Statistiques de connexion
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Pour accéder à l’appli Statistiques, cliquez sur l’icône correspondante
 dans la page « Mes applis ».
@@ -58,7 +58,7 @@ image:../../wp-content/uploads/2016/01/STAT-21-1024x442.png[image]
 
 == Statistiques d’accès aux applications
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Pour accéder à l’appli Statistiques, cliquez sur l’icône correspondante
 dans la page « Mes applis ».
@@ -79,7 +79,7 @@ image:../../wp-content/uploads/2016/01/STAT-3-1024x443.png[image]
 
 == Statistiques d’activations de comptes
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Pour accéder à l’appli Statistiques, cliquez sur l’icône correspondante
 dans la page « Mes applis ».
@@ -98,7 +98,7 @@ image:../../wp-content/uploads/2016/01/STAT-4-1024x442.png[image]
 
 == Statistiques de visiteurs uniques
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Pour accéder à l’appli Statistiques, cliquez sur l’icône correspondante
 dans la page « Mes applis ».
@@ -116,7 +116,7 @@ image:../../wp-content/uploads/2016/01/STAT-5-1024x441.png[image]
 
 == Statistiques des comptes activés
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Pour accéder à l’appli Statistiques, cliquez sur l’icône correspondante
 dans la page « Mes applis ».
@@ -134,7 +134,7 @@ link:../../wp-content/uploads/2016/01/STAT-61.png[image:../../wp-content/uploads
 
 == Note de version
 
-javascript:window.print()[image:../../wp-content/themes/ode/assets/img/print-blue.png[Imprimer]]
+
 
 Nouveauté de la version 0.14
 
