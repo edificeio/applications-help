@@ -12,10 +12,6 @@ communauté]
 
 == Présentation
 
-
-
-
-
 Plutôt que de proposer un usage centré sur un outil (le blog ou le wiki
 par exemple), l'appli communautés permet de rassembler un groupe
 d'utilisateurs autour d'un *projet collaboratif.*Pour chaque communauté

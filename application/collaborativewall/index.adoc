@@ -29,10 +29,6 @@ image:../../wp-content/uploads/2015/06/m112.png[m1]
 
 == Créer et partager un mur collaboratif
 
-
-
-
-
 Pour accéder à l’appli Mur collaboratif, cliquez sur l’icône
 correspondante dans la page « Mes applis ».
 
