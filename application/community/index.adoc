@@ -1,8 +1,9 @@
+[[communautés]]
 = Communautés
 
 L’appli *Communautés* permet de *rassembler* un *groupe d’utilisateurs*
-autour d’un *intérêt commun* pour *communiquer*, *partager* ou
-*collaborer* en utilisant différentes applis*(Blog, Forum, Wiki,
+autour d’un *intérêt commun* pour **communiquer**, *partager* ou
+*collaborer* en utilisant différentes applis *(Blog, Forum, Wiki,
 Documents...).*
 
 * link:index.html?iframe=true#presentation[Présentation]
@@ -10,39 +11,45 @@ Documents...).*
 communauté]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
+[[presentation]]
+[[présentation]]
 == Présentation
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
+BY-NC-SA 3.0 FR,width=100,height=35]]
 
 Plutôt que de proposer un usage centré sur un outil (le blog ou le wiki
 par exemple), l'appli communautés permet de rassembler un groupe
-d'utilisateurs autour d'un *projet collaboratif.*Pour chaque communauté
+d'utilisateurs autour d'un *projet collaboratif.* Pour chaque communauté
 créée (Espace CDI, parcours artistique, communauté de l'association
 sportive, ...), il est possible de définir précisément les droits de
 chaque utilisateur et les applis mises à disposition (blog, wiki,
 documents, forum, pages...).
 
-image:../../wp-content/uploads/2016/04/Communaut_Pres-ConvertImage.png[Communaut_Pres-ConvertImage]
+image:../../wp-content/uploads/2016/04/Communaut_Pres-ConvertImage.png[Communaut_Pres-ConvertImage,width=600,height=266]
 
+[[cas-d-usage-1]]
+[[créer-et-partager-une-communauté]]
 == Créer et partager une communauté
 
-
-
-
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
+BY-NC-SA 3.0 FR,width=100,height=35]]
 
 Pour accéder à l’appli Communautés, cliquez sur l’icône correspondante
 dans la page « Mes applis ».
 
-image:../../wp-content/uploads/2016/04/Mes_Applis_3-1024x231.png[Mes_Applis_3]
+image:../../wp-content/uploads/2016/04/Mes_Applis_3-1024x231.png[Mes_Applis_3,width=600,height=135]
 
 Cliquez sur « Créer une communauté ».
 
-image:../../wp-content/uploads/2016/08/communauté-11-1024x227.png[image]
+image:../../wp-content/uploads/2016/08/communauté-11-1024x227.png[image,width=600,height=133]
 
 Un assistant de création apparait pour vous guider dans les étapes à
 suivre.
 
 Cliquez sur « Suivant ».
 
-image:../../wp-content/uploads/2015/06/c3.png[c3]
+image:../../wp-content/uploads/2015/06/c3.png[c3,width=600,height=186]
 
 L’onglet Configuration de l’assistant s’affiche.
 
@@ -51,7 +58,7 @@ L’onglet Configuration de l’assistant s’affiche.
 3.  Renseignez une description
 4.  Cliquez sur « Suivant »
 
-image:../../wp-content/uploads/2015/06/c4.png[c4]
+image:../../wp-content/uploads/2015/06/c4.png[c4,width=549,height=169]
 
 L’onglet Services de l’assistant s’affiche.
 
@@ -59,7 +66,7 @@ L’onglet Services de l’assistant s’affiche.
 Communauté.
 2.  Cliquez sur « Suivant »
 
-image:../../wp-content/uploads/2016/08/communauté-2-1024x295.png[image]
+image:../../wp-content/uploads/2016/08/communauté-2-1024x295.png[image,width=600,height=173]
 
 L’onglet Membres de l’assistant s’affiche.
 
@@ -88,7 +95,7 @@ communauté
 
  4. Cliquez sur « Suivant ».
 
-image:../../wp-content/uploads/2015/06/c6.png[c6]
+image:../../wp-content/uploads/2015/06/c6.png[c6,width=492,height=217]
 
 La communauté est maintenant créée et partagée. Chaque appli de la
 communauté est accessible de manière différenciée. Par exemple, le wiki
@@ -110,11 +117,12 @@ Pour savoir comment créer du contenu dans les différents services de
 votre communauté,  reportez-vous aux cas d’usages de chacun de ces
 services.
 
+[[notes-de-versions]]
+[[note-de-version]]
 == Note de version
 
-
-
-
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
+BY-NC-SA 3.0 FR,width=100,height=35]]
 
 A chaque nouvelle version de l'application, les nouveautés seront
 présentées dans cette section.

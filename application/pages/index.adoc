@@ -1,81 +1,90 @@
+[[pages]]
 = Pages
 
 L'appli *Pages* est un outil de création et publication de contenus,
-permettant de créer des mini sites web internes*.*
+permettant de créer des mini sites web**.**
 
 * link:index.html?iframe=true#presentation[Présentation]
-* link:index.html?iframe=true#cas-d-usage-1[Créer un mini site]
-* link:index.html?iframe=true#cas-d-usage-2[Partager un site web]
-* link:index.html?iframe=true#cas-d-usage-3[Créer une nouvelle page]
+* link:index.html?iframe=true#cas-d-usage-1[Créer un projet]
+* link:index.html?iframe=true#cas-d-usage-2[Partager un projet]
+* link:index.html?iframe=true#cas-d-usage-3[Créer et éditer une nouvelle
+page]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
+[[presentation]]
+[[présentation]]
 == Présentation
 
-
-
-
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
+BY-NC-SA 3.0 FR,width=100,height=35]]
 
 L'appli Pages permet de créer des pages web qui sont organisées entre
 elles grâce à un menu de navigation, et offrant une grande liberté de
 mise en page du contenu.
 
-Il est possible d'insérer dans ces pages*différents*types de contenus*
-(*texte, image, son, vidéo...) et*des liens vers d’autres contenus*. En
-particulier, si un lien est enregistré vers un blog existant, la page
-sera automatiquement mise à jour avec les nouvelles publications
-effectuées dans le blog.
+Il est possible d'insérer dans ces pages **différents *types de
+contenus* (**texte, image, son, vidéo...) et** des liens vers d’autres
+contenus**. En particulier, si un lien est enregistré vers un blog, une
+frise chronologique, un wiki, ou un forum existant, la page sera
+automatiquement mise à jour avec les nouvelles publications effectuées
+dans le blog, la frise, le wiki ou le forum.
 
-image:../../wp-content/uploads/2016/04/Image42-1024x478.png[Image4]
+link:../../wp-content/uploads/2017/04/Captures-Pages-1.png[image:../../wp-content/uploads/2017/04/Captures-Pages-1.png[Captures
+Pages 1,width=643,height=413]]
 
-== Créer un mini site
+[[cas-d-usage-1]]
+[[créer-un-projet]]
+== Créer un projet
 
-
-
-
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
+BY-NC-SA 3.0 FR,width=100,height=35]]
 
 Depuis la page d’accueil, cliquez sur « Mes applis » en haut à droite de
 l’écran puis cliquez sur « Pages ».
 
-image:../../wp-content/uploads/2016/01/pages1.png[pages]
+image:../../wp-content/uploads/2016/01/pages1.png[pages,width=97,height=124]
 
-* Pour créer un site interne : Cliquez sur «  Créer un site» (1)
-* Pour créer un site public: Cliquez sur le « + » (2), puis sélectionner
-« site public » dans le menu d’actions qui s’affiche en bas de l’écran
-(3).
+* Pour créer un projet : Cliquez sur «  Créer un un projet» (1)
+* Choisissez ensuite si vous voulez créer un projet privé ou public (2)
 
 Lorsque vous créez un site public celui-ci est visible de tous dans
 l’ENT. De plus, toute personne extérieure à l’ENT peut accéder à ce site
 si elle dispose du lien.
 
-link:../../wp-content/uploads/2016/01/PAGES.png[image:../../wp-content/uploads/2016/04/Pages_1-2.png[Pages_1-2] +
- image:../../wp-content/uploads/2016/04/Pages2-2.png[Pages2-2]]
+ 
+
+link:../../wp-content/uploads/2017/04/Captures-Pages-2.png[image:../../wp-content/uploads/2017/04/Captures-Pages-2.png[Captures
+Pages 2,width=618,height=280]]
+
+link:../../wp-content/uploads/2017/04/Capture-Pages-3.png[image:../../wp-content/uploads/2017/04/Capture-Pages-3.png[Capture
+Pages 3,width=620,height=276]]
 
  
 
-Dans la nouvelle fenêtre, saisissez le titre de votre site (4) puis
-cliquez sur le bouton « Créer » (5)
+Dans la fenêtre, saisissez le titre de votre site (3) puis cliquez sur
+le bouton « Créer » (4)
 
-image:../../wp-content/uploads/2016/04/Pages3-3-1024x221.png[Pages3-3]
+link:../../wp-content/uploads/2017/04/Captures-Pages-4.png[image:../../wp-content/uploads/2017/04/Captures-Pages-4.png[Captures
+Pages 4,width=608,height=319]]
 
 Votre site web est maintenant créé, vous pouvez le compléter en y
 intégrant des contenus.
 
-== Partager un site web
+[[cas-d-usage-2]]
+[[partager-un-projet]]
+== Partager un projet
 
-
-
-
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
+BY-NC-SA 3.0 FR,width=100,height=35]]
 
 Pour partager votre page, avec d'autres utilisateurs, suivez les étapes
 suivantes :
 
 1.  Sélectionnez la case à cochez de la page (1)
-2.  Cliquez sur le bouton "Propriétés" (2)
-3.  Puis cliquez sur « Partager dans l’ENT » (3).
+2.  Cliquez sur le bouton "Partager" (2)
 
-image:../../wp-content/uploads/2016/04/Pages-Part_1-1024x474.png[Pages-Part_1]
-
-image:../../wp-content/uploads/2016/04/Pages-Part_3-1024x249.png[Pages-Part_3]
+link:../../wp-content/uploads/2017/04/Captures-Pages-5.png[image:../../wp-content/uploads/2017/04/Captures-Pages-5.png[Captures
+Pages 5,width=705,height=315]]
 
 La fenêtre de partage apparaît. Pour attribuer des droits à d’autres
 utilisateurs, suivez les étapes suivantes :
@@ -86,7 +95,7 @@ d’utilisateurs que vous recherchez (1).
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur
 attribuer (3).
 
-image:../../wp-content/uploads/2016/04/Pages-Part_4-1024x665.png[Pages-Part_4]
+image:../../wp-content/uploads/2016/04/Pages-Part_4-1024x665.png[Pages-Part_4,width=600,height=390]
 
 Vous pouvez attribuer différents droits aux autres utilisateurs de
 l’ENT :
@@ -96,115 +105,22 @@ l’ENT :
 soumises avant publication
 * Gérer : l’utilisateur peut modifier, partager ou supprimer la page
 
- 
+[[cas-d-usage-3]]
+[[créer-et-éditer-une-nouvelle-page]]
+== Créer et éditer une nouvelle page
 
-== Créer une nouvelle page
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
+BY-NC-SA 3.0 FR,width=100,height=35]]
 
+Pour créer une nouvelle page, vous pouvez   :
 
+* Cliquer sur l'icône d'ajout d'une page sur lorsque vous éditez votre
+projet (1)
 
+link:../../wp-content/uploads/2017/04/Captures-Pages-6.png[image:../../wp-content/uploads/2017/04/Captures-Pages-6.png[Captures
+Pages 6,width=681,height=269]]
 
+* Ou cliquer sur gérer les pages (2), puis sur "nouvelle page" (3)
 
-Pour créer une nouvelle page, suivez les étapes suivantes :
-
-1.  Sélectionnez la case à cochez de la page (1)
-2.  Cliquez sur le bouton "Liste des pages" (2)
-3.  Puis cliquez sur "Nouvelle page" (3).
-
-image:../../wp-content/uploads/2016/04/Pages-creer_1_2-1024x484.png[Pages-creer_1_2]
-
-image:../../wp-content/uploads/2016/04/Pages-Part_2-1024x155.png[Pages-Part_2]
-
-Une nouvelle page apparait.
-
-1.  Choisissez un titre à votre page.
-2.  Choisissez entre quatre modèles pour votre page : « Articles et
-navigation », « Texte et navigation », "Une colonne" ou "Deux colonnes".
-
-image:../../wp-content/uploads/2015/07/p3.png[p3]
-
-Votre nouvelle page apparaît. Pour la mettre en forme et y ajouter du
-contenu, cliquez sur « Modifier » en bas à droite de l’écran.
-
-image:../../wp-content/uploads/2016/04/Pages-creer_2-1024x478.png[Pages-creer_2]
-
-La page s’affiche avec différentes zones dans lesquelles vous pouvez
-ajouter, modifier ou supprimer du contenu et que vous pouvez déplacer
-sur la page.
-
-image:../../wp-content/uploads/2016/04/Pages-creer_3-1024x474.png[Pages-creer_3]
-
-Pour visualiser un aperçu de la page, cliquez sur « Afficher », en bas à
-droite de votre écran.
-
-image:../../wp-content/uploads/2016/04/Pages-creer_4.png[Pages-creer_4] +
- link:../../wp-content/uploads/2015/05/P102.png[ +
-]
-
-== Note de version
-
-
-
-
-
-Nouveautés de la version 0.5
-
-*Edition des billets de blog*
-
-Les billets d’un blog affichés dans une page sur le service Pages sont
-dorénavant modifiables directement depuis la page elle-même sans être
-redirigé vers le service blog.
-
-*Possibilité de dupliquer une page existante*
-
-Un bouton permettant de dupliquer les pages a été ajouté. +
- image:../../wp-content/uploads/2015/05/NDV-7.png[NDV 7]
-
-*Possibilité de renommer une page*
-
-Un autre bouton permet de renommer les pages des sites.
-
-image:../../wp-content/uploads/2015/05/NDV-8.png[NDV 8]
-
-*Modification de l’ordre des pages*
-
-Il est possible de modifier l’ordre d’affichage des pages. Cliquez sur
-le bouton suivant pour modifier la position de la page dans la
-liste:link:../../wp-content/uploads/2015/07/icone.png[ +
-] +
- image:../../wp-content/uploads/2015/07/icone1.png[icone]
-
-image:../../wp-content/uploads/2015/05/NDV-11.png[NDV 11] +
-
-*Nouveaux sniplets*
-
-Plusieurs sniplets* ont été ajoutés dans le service Pages. Les contenus
-ci-contre peuvent maintenant être ajoutés aux pages.
-
-image:../../wp-content/uploads/2015/05/NDV-12.png[NDV 12]
-
-_*Un sniplet est un module qui permet d’intégrer des contenus issus des
-applications._
-
-*Pages publiques *
-
-Le service Pages permet désormais de publier des sites publics
-accessibles en ligne sans être connecté à l’ENT. Sur la page d’accueil
-du service Pages, une icône permet de voir quels sont les sites publics.
-
-image:../../wp-content/uploads/2015/05/NDV-13.png[NDV 13]
-
-A la différence d’un site interne à l’ENT, il n’est pas possible
-d’ajouter de sniplet dans un site public.
-
-'''''
-
- 
-
-Nouveauté de la version 0.4
-
-*Ajout d'un droit de gestion +
-*
-
-Il est désormais possible d’attribuer un droit de gestion aux sites du
-service Pages. Ce droit permet d’avoir les mêmes permissions que le
-propriétaire du site web (partage, suppression, édition, …).
+ link:../../wp-content/uploads/2017/04/Capture-Pages-7.png[image:../../wp-content/uploads/2017/04/Capture-Pages-7.png[Capture
+Pages 7,width=683,height=280]]

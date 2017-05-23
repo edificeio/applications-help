@@ -1,3 +1,4 @@
+[[aide-support]]
 = Aide & Support
 
 L’appli *Aide & Support* permet de signaler une difficulté ou un
@@ -9,32 +10,34 @@ problème d'utilisation de l'ENT aux administrateurs de l'établissement.
 support]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
+[[presentation]]
+[[présentation]]
 == Présentation
 
-
-
-
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
+BY-NC-SA 3.0 FR,width=100,height=35]]
 
 L’utilisateur peut faire part de ses difficultés d'utilisation ou d'un
 dysfonctionnement via un formulaire dans lequel il peut également
 ajouter une copie d’écran pour illustrer son propos. Lorsqu’une demande
-est créée, l’*administrateur local* reçoit une *notification* qui lui
-permet de consulter rapidement la demande. Il peut alors la*mettre à
-jour* ou *changer son statut*. L’utilisateur recevra à son tour une
+est créée, l’**administrateur local** reçoit une *notification* qui lui
+permet de consulter rapidement la demande. Il peut alors la *mettre à
+jour* ou **changer son statut**. L’utilisateur recevra à son tour une
 *notification* pour être averti des modifications et réponses.
 
-image:../../wp-content/uploads/2016/08/aide_1-1024x248.png[image]
+image:../../wp-content/uploads/2016/08/aide_1-1024x248.png[image,width=600,height=145]
 
+[[cas-d-usage-1]]
+[[créer-une-demande]]
 == Créer une demande
 
-
-
-
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
+BY-NC-SA 3.0 FR,width=100,height=35]]
 
 La demande de création se fait en cliquant sur le bouton « Nouvelle
 demande » (1) disponible sur la page principale du service.
 
-image:../../wp-content/uploads/2016/08/aide_2-1024x248.png[image]
+image:../../wp-content/uploads/2016/08/aide_2-1024x248.png[image,width=600,height=145]
 
 La page de création d’une nouvelle demande se présente comme suit :
 
@@ -55,40 +58,42 @@ La saisie est enregistrée lorsque vous cliquez sur le bouton
 « Enregistrer »(6).
 
 link:../../wp-content/uploads/2016/04/4-Assistance-ENT.png[image:../../wp-content/uploads/2016/04/4-Assistance-ENT-1024x370.png[4-
-Assistance ENT]]
+Assistance ENT,width=601,height=217]]
 
 La création d’une nouvelle demande donne lieu à l'envoi d'une
 notification dans le fil de nouveautés de l’administrateur de
 l'établissement.
 
+[[cas-d-usage-2]]
+[[transmettre-la-demande-au-support]]
 == Transmettre la demande au support
 
 
 
 Certains établissements ont la possibilité d'escalader leurs demandes
 d'assistance auprès d'un service de support aux utilisateurs de l'ENT. +
- Les référents ENT reçoivent toutes les demandes des utilisateurs et
+Les référents ENT reçoivent toutes les demandes des utilisateurs et
 peuvent choisir d'y répondre ou de la transmettre au service de support.
 Pour ce faire, les référents ENT doivent cliquer sur le texte en forme
 de lien "Transmettre la demande au support" (1). +
-
 link:../../wp-content/uploads/2016/04/6-Assistance-ENT.png[image:../../wp-content/uploads/2016/04/6-Assistance-ENT-1024x286.png[6-
-Assistance ENT]] +
- Les référents ENT et les demandeurs de l'établissement seront notifiés
+Assistance ENT,width=612,height=171]] +
+Les référents ENT et les demandeurs de l'établissement seront notifiés
 sur leur fil de nouveauté lorsque le support aura fourni une réponse à
 la demande.
 
 Le référent ENT et le demandeur peuvent visualiser l'ensemble des
 échanges.
 
-image:../../wp-content/uploads/2016/08/aide_3-1024x455.png[aide_3]
-image:../../wp-content/uploads/2016/08/aide_4-1024x432.png[aide_4]
+image:../../wp-content/uploads/2016/08/aide_3-1024x455.png[aide_3,width=600,height=267]
+image:../../wp-content/uploads/2016/08/aide_4-1024x432.png[aide_4,width=600,height=253]
 
+[[notes-de-versions]]
+[[note-de-version]]
 == Note de version
 
-
-
-
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
+BY-NC-SA 3.0 FR,width=100,height=35]]
 
 Nouveauté de la version 0.3.0
 
@@ -100,7 +105,8 @@ du service Aide et Support, par exemple pour joindre des captures
 d’écran. L'ajout de pièces jointes reste disponible même quand le quota
 d’espace disponible de l'utilisateur est atteint.
 
-*image:../../wp-content/uploads/2015/04/NDF-13.png[NDF 13] +
+*image:../../wp-content/uploads/2015/04/NDF-13.png[NDF
+13,width=598,height=285] +
 *
 
 '''''
@@ -162,6 +168,6 @@ présent voir dans son fil d’actualité que des actions sont effectuées.
 
  +
 
-*** +
 **** +
+***** +
 *

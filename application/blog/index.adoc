@@ -1,3 +1,4 @@
+[[blog]]
 = Blog
 
 Le *Blog* est un outil de communication permettant la publication
@@ -13,40 +14,42 @@ publication]
 * link:index.html?iframe=true#cas-d-usage-5[Valider un billet]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
+[[presentation]]
+[[présentation]]
 == Présentation
 
-
-
-
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
+BY-NC-SA 3.0 FR,width=100,height=35]]
 
 L'appli *Blog* permet de publier facilement des informations, en y
-intégrant *différents types de contenus* : texte, images, fichiers
+intégrant **différents types de contenus** : texte, images, fichiers
 audio, vidéos, liens externes, etc. Les articles ou « billets » de blog
 sont datés, identifiés par leur auteur et sont affichés par ordre
 chronologique inversé (visualisation des derniers contenus publiés en
 haut de page).
 
 En cas de contribution de la part d'autres utilisateurs, le gestionnaire
-du blog choisit le *circuit de publication* souhaité : soit il relit les
-billets soumis par les autres utilisateurs avant de les publier, soit
-les billets sont publiés immédiatement quel qu'en soit l'auteur.
+du blog choisit le **circuit de publication** souhaité : soit il relit
+les billets soumis par les autres utilisateurs avant de les publier,
+soit les billets sont publiés immédiatement quel qu'en soit l'auteur.
 
-image:../../wp-content/uploads/2016/07/blog_1-1024x478.png[image]
+image:../../wp-content/uploads/2016/07/blog_1-1024x478.png[image,width=600,height=280]
 
+[[cas-d-usage-1]]
+[[créer-un-blog]]
 == Créer un blog
 
-
-
-
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
+BY-NC-SA 3.0 FR,width=100,height=35]]
 
 Cliquez sur la page « Mes applis » puis sur l’icône « Blog ».
 
-image:../../wp-content/uploads/2016/04/BLOG2-1024x231.png[BLOG2]
+image:../../wp-content/uploads/2016/04/BLOG2-1024x231.png[BLOG2,width=600,height=135]
 
 Dans le service Blog, cliquez sur le bouton « Créer un blog » présent en
 haut à droite de la page.
 
-image:../../wp-content/uploads/2016/07/Blog_2_11-1024x545.png[image]
+image:../../wp-content/uploads/2016/07/Blog_2_11-1024x545.png[image,width=600,height=319]
 
 Vous accédez à l’interface de création du blog.
 
@@ -55,15 +58,16 @@ Vous accédez à l’interface de création du blog.
 l’image, c’est la vignette par défaut qui s’affichera).
 3.  Cliquez sur « Enregistrer ».
 
-image:../../wp-content/uploads/2016/04/BLOG4-1024x240.png[BLOG4]
+image:../../wp-content/uploads/2016/04/BLOG4-1024x240.png[BLOG4,width=600,height=140]
 
  
 
+[[cas-d-usage-2]]
+[[partager-un-blog]]
 == Partager un blog
 
-
-
-
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
+BY-NC-SA 3.0 FR,width=100,height=35]]
 
 Pour partager un blog avec d’autres utilisateurs, suivez les étapes
 suivantes :
@@ -71,7 +75,7 @@ suivantes :
 1.  Cliquez sur le + du blog (1)
 2.  Cliquez sur le bouton « Partager » (2)
 
-image:../../wp-content/uploads/2016/07/Blog_3_1-1024x633.png[image]
+image:../../wp-content/uploads/2016/07/Blog_3_1-1024x633.png[image,width=600,height=371]
 
 Le blog a été créé mais n’est pas encore visible par les autres
 utilisateurs. Pour le partager, suivez les étapes suivantes :
@@ -82,61 +86,63 @@ d’utilisateurs que vous recherchez.
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur
 attribuer.
 
-image:../../wp-content/uploads/2016/04/Image11-1024x740.png[Image1]
+image:../../wp-content/uploads/2016/04/Image11-1024x740.png[Image1,width=600,height=434]
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs
 sont les suivants :
 
-* *Consulter*: l’utilisateur peut lire le contenu du blog
-* *Contribuer*: l’utilisateur peut publier un nouveau billet
-* *Gérer*: l’utilisateur peut gérer le blog, c'est-à-dire le modifier,
+* *Consulter* : l’utilisateur peut lire le contenu du blog
+* *Contribuer* : l’utilisateur peut publier un nouveau billet
+* *Gérer* : l’utilisateur peut gérer le blog, c'est-à-dire le modifier,
 le partager ou le supprimer
-* *Commenter*: l’utilisateur peut commenter les billets
+* *Commenter* : l’utilisateur peut commenter les billets
 
+[[cas-d-usage-3]]
+[[gérer-le-circuit-de-publication]]
 == Gérer le circuit de publication
 
-
-
-
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
+BY-NC-SA 3.0 FR,width=100,height=35]]
 
 Pour gérer le circuit de publication de votre blog, ouvrez la fenêtre de
 partage. Vous pouvez choisir entre deux options :
 
-* *Publication immédiate*: lorsque des utilisateurs contributeurs créent
-un billet, celui-ci est directement publié dans le blog.
-* *Billet à soumettre*: lorsque des utilisateurs contributeurs créent un
-billet, le billet passe au statut « Soumis » et c’est le gestionnaire du
-blog qui effectue l’action de publication du billet.
+* *Publication immédiate* : lorsque des utilisateurs contributeurs
+créent un billet, celui-ci est directement publié dans le blog.
+* *Billet à soumettre* : lorsque des utilisateurs contributeurs créent
+un billet, le billet passe au statut « Soumis » et c’est le gestionnaire
+du blog qui effectue l’action de publication du billet.
 
-image:../../wp-content/uploads/2016/04/Image22-1024x685.png[Image2]
+image:../../wp-content/uploads/2016/04/Image22-1024x685.png[Image2,width=550,height=368]
 
+[[cas-d-usage-4]]
+[[publier-un-billet]]
 == Publier un billet
 
-
-
-
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
+BY-NC-SA 3.0 FR,width=100,height=35]]
 
 Une fois votre blog créé, vous pouvez publier un billet. Pour cela,
 cliquez sur le bouton « Créer un billet » présent en haut de l’écran.
 
-image:../../wp-content/uploads/2016/07/Blog_4-1024x159.png[image]
+image:../../wp-content/uploads/2016/07/Blog_4-1024x159.png[image,width=524,height=82]
 
 L'outil de création du billet s’affiche dans la page :
 
 1.  Saisissez le titre
 2.  Rédigez le contenu du billet.
 
-image:../../wp-content/uploads/2016/04/BLOG9-1024x578.png[BLOG9]
+image:../../wp-content/uploads/2016/04/BLOG9-1024x578.png[BLOG9,width=524,height=296]
 
 Une fois la saisie terminée, vous pouvez soit :
 
-* *Enregistrer le billet*: il passe alors au format brouillon et n'est
+* *Enregistrer le billet* : il passe alors au format brouillon et n'est
 pas visible des autres utilisateurs ayant accès au blog
-* *Publier le billet*: le billet est alors visible par les utilisateurs
+* *Publier le billet* : le billet est alors visible par les utilisateurs
 ayant accès au blog
 * *Annuler* la création du billet
 
-image:../../wp-content/uploads/2016/04/Image33-1024x572.png[Image3]
+image:../../wp-content/uploads/2016/04/Image33-1024x572.png[Image3,width=524,height=293]
 
 '''''
 
@@ -148,13 +154,14 @@ chargera de la publication ou non du billet. +
 
 '''''
 
-image:../../wp-content/uploads/2016/04/Capture-1024x643.png[Capture]
+image:../../wp-content/uploads/2016/04/Capture-1024x643.png[Capture,width=524,height=329]
 
+[[cas-d-usage-5]]
+[[valider-un-billet]]
 == Valider un billet
 
-
-
-
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
+BY-NC-SA 3.0 FR,width=100,height=35]]
 
 Si vous avez activé un circuit de publication (billets à soumettre pour
 les contributeurs), les billets en attente de validation se trouvent
@@ -163,11 +170,11 @@ dans la catégorie « Soumis ».
 Cliquez la case à cocher des billets soumis pour afficher les billets
 rédigés par les contributeurs du blog.
 
-image:../../wp-content/uploads/2016/07/Blog_51.png[image]
+image:../../wp-content/uploads/2016/07/Blog_51.png[image,width=600,height=48]
 
 Vous pouvez réaliser les actions suivantes en cliquant sur « Publier »
 ou sur l'icône
-image:../../wp-content/uploads/2016/07/unnamed-file.png[image] :
+image:../../wp-content/uploads/2016/07/unnamed-file.png[image,width=38,height=43] :
 
 * *Publier* le billet sans mise à jour : le billet est alors visible par
 tous les utilisateurs ayant accès au blog
@@ -175,25 +182,26 @@ tous les utilisateurs ayant accès au blog
 texte pour apporter vos modifications
 * *Supprimer* le billet
 
-image:../../wp-content/uploads/2016/07/blog_2-1024x363.png[image]
+image:../../wp-content/uploads/2016/07/blog_2-1024x363.png[image,width=600,height=213]
 
+[[notes-de-versions]]
+[[note-de-version]]
 == Note de version
 
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
+BY-NC-SA 3.0 FR,width=100,height=35]]
 
-
-
-
-Nouveautés de la version 0.5* +
- Édition des billets de blog depuis l'appli Pages*
-
-Les billets d’un blog affichés dans une page sur le service Pages sont
-dorénavant modifiables directement depuis la page elle-même sans être
-redirigé vers le service Blog.
+[[notes-de-versions]]
+Nouveautés de la version 0.5** +
+Édition des billets de blog depuis l'appli Pages**Les billets d’un blog
+affichés dans une page sur le service Pages sont dorénavant modifiables
+directement depuis la page elle-même sans être redirigé vers le service
+Blog.
 
 '''''
 
  +
- Nouveauté de la version 1.19
+Nouveauté de la version 1.19
 
 *Évolution ergonomique*
 

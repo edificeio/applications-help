@@ -1,8 +1,9 @@
+[[mur-collaboratif]]
 = Mur Collaboratif
 
-Le*Mur Collaboratif* permet de créer un mur sur lequel les
-*contributeurs* peuvent chacun *ajouter des notes*, à la façon d’un
-tableau sur lequel on ajoute des post-it*.*
+Le *Mur Collaboratif* permet de créer un mur sur lequel les
+*contributeurs* peuvent chacun **ajouter des notes**, à la façon d’un
+tableau sur lequel on ajoute des post-it**.**
 
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Créer et partager un mur
@@ -11,34 +12,40 @@ collaboratif]
 collaboratif]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
+[[presentation]]
+[[présentation]]
 == Présentation
 
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
+BY-NC-SA 3.0 FR,width=100,height=35]]
 
-
-
-
-Différents types de contenus (*son, image, texte, vidéo…*) peuvent être
-intégrés dans les notes. Par ailleurs, chaque*note* est accompagnée du
-*nom de son auteur* et de *sa date et heure de publication*. Une
-*couleur de note* est automatiquement attribuée pour chaque participant
-au mur.
+Différents types de contenus (**son, image, texte, vidéo…**) peuvent
+être intégrés dans les notes. Par ailleurs, chaque *note* est
+accompagnée du *nom de son auteur* et de **sa date et heure de
+publication**. Une *couleur de note* est automatiquement attribuée pour
+chaque participant au mur.
 
  
 
-image:../../wp-content/uploads/2015/06/m112.png[m1]
+image:../../wp-content/uploads/2015/06/m112.png[m1,width=715,height=356]
 
+[[cas-d-usage-1]]
+[[créer-et-partager-un-mur-collaboratif]]
 == Créer et partager un mur collaboratif
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
+BY-NC-SA 3.0 FR,width=100,height=35]]
 
 Pour accéder à l’appli Mur collaboratif, cliquez sur l’icône
 correspondante dans la page « Mes applis ».
 
-image:../../wp-content/uploads/2016/08/mur-1.png[image]
+image:../../wp-content/uploads/2016/08/mur-1.png[image,width=374,height=57]
 
-image:../../wp-content/uploads/2015/06/m11.png[m1]
+image:../../wp-content/uploads/2015/06/m11.png[m1,width=114,height=106]
 
 Dans le service Mur Collaboratif, cliquez sur « Créer un mur ».
 
-image:../../wp-content/uploads/2015/07/c11.png[c1]
+image:../../wp-content/uploads/2015/07/c11.png[c1,width=147,height=50]
 
 Une nouvelle page apparaît.
 
@@ -48,11 +55,11 @@ Une nouvelle page apparaît.
 4.  Choisissez une image de fond
 5.  Cliquez sur « Sauvegarder »
 
-image:../../wp-content/uploads/2016/08/mur-2-1024x474.png[image]Pour
+image:../../wp-content/uploads/2016/08/mur-2-1024x474.png[image,width=600,height=278]Pour
 partager le mur, cliquez sur le + (1) correspondant au mur puis sur
 « Partager » (2).
 
-image:../../wp-content/uploads/2016/08/mur-3-1024x501.png[image]
+image:../../wp-content/uploads/2016/08/mur-3-1024x501.png[image,width=600,height=294]
 
 Dans la fenêtre de partage, vous pouvez donner des droits de  lecture,
 de contribution et de gestion à d’autres personnes sur votre mur. Pour
@@ -67,51 +74,53 @@ Les différents droits que vous pouvez attribuer sont les suivants :
 * Contribution : l’utilisateur peut ajouter des notes sur le mur
 * Gestion : l’utilisateur peut modifier, supprimer et partager le mur
 
-image:../../wp-content/uploads/2015/06/m52.png[m5]
+image:../../wp-content/uploads/2015/06/m52.png[m5,width=386,height=279]
 
+[[cas-d-usage-2]]
+[[ajouter-une-note-au-mur-collaboratif]]
 == Ajouter une note au mur collaboratif
 
-
-
-
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
+BY-NC-SA 3.0 FR,width=100,height=35]]
 
 Pour créer une note sur un mur, cliquez sur le mur souhaité.
 
-[line-through]**image:../../wp-content/uploads/2016/08/mur-4-1024x229.png[image] +
- Puis cliquez sur « Nouvelle note ».
+[line-through]**image:../../wp-content/uploads/2016/08/mur-4-1024x229.png[image,width=600,height=134] +
+Puis cliquez sur « Nouvelle note ».
 
-image:../../wp-content/uploads/2015/07/c4.png[c4]
+image:../../wp-content/uploads/2015/07/c4.png[c4,width=531,height=359]
 
 Un post-it apparaît, présentant différentes fonctionnalités disponibles
 sur la partie supérieure droite. +
- image:../../wp-content/uploads/2015/06/m9.png[m9]
+image:../../wp-content/uploads/2015/06/m9.png[m9,width=167,height=169]
 
 * Pour modifier  la couleur de la note, cliquez
-sur:image:../../wp-content/uploads/2015/06/m10.png[m10]
+sur:image:../../wp-content/uploads/2015/06/m10.png[m10,width=26,height=25]
 
 Une palette de couleurs apparait sur la partie supérieure de la page.
 Cliquez sur la couleur désirée.
 
-image:../../wp-content/uploads/2015/06/m111.png[m11]
+image:../../wp-content/uploads/2015/06/m111.png[m11,width=666,height=33]
 
 * Pour afficher l'auteur de la note, cliquez
-sur:image:../../wp-content/uploads/2015/06/m12.png[m12]
+sur:image:../../wp-content/uploads/2015/06/m12.png[m12,width=27,height=23]
 
-image:../../wp-content/uploads/2015/06/m13.png[m13]
+image:../../wp-content/uploads/2015/06/m13.png[m13,width=530,height=79]
 
 * Pour ajouter du contenu à la note, cliquez
-sur:image:../../wp-content/uploads/2015/06/m14.png[m14]
+sur:image:../../wp-content/uploads/2015/06/m14.png[m14,width=27,height=24]
 
-image:../../wp-content/uploads/2016/01/éditeur-texte_mur_collabora-1024x288.png[image]
+image:../../wp-content/uploads/2016/01/éditeur-texte_mur_collabora-1024x288.png[image,width=737,height=207]
 
 * Pour supprimer la note, cliquez
-sur:image:../../wp-content/uploads/2015/06/m16.png[m16]
+sur:image:../../wp-content/uploads/2015/06/m16.png[m16,width=25,height=22]
 
+[[notes-de-versions]]
+[[note-de-version]]
 == Note de version
 
-
-
-
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
+BY-NC-SA 3.0 FR,width=100,height=35]]
 
 A chaque nouvelle version de l'application, les nouveautés seront
 présentées dans cette section.

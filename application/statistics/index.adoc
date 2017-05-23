@@ -1,7 +1,8 @@
+[[statistiques-2d]]
 = Statistiques 2D
 
-L’appli *Statistiques* permet de suivre un ensemble d’indicateurs sur la
-fréquentation de l'ENT sur une période donnée (nombre de visiteurs ou
+L’appli **Statistiques** permet de suivre un ensemble d’indicateurs sur
+la fréquentation de l'ENT sur une période donnée (nombre de visiteurs ou
 fréquentation par application par exemple).
 
 * link:index.html?iframe=true#presentation[Présentation]
@@ -16,26 +17,31 @@ uniques]
 activés]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
+[[presentation]]
+[[présentation]]
 == Présentation
 
 
 
 L’appli Statistiques vous propose de suivre
-*cinq** indicateurs* calculés sur *une période donnée**(vous pouvez
-choisir la période à afficher)**:*
+**cinq indicateurs** calculés sur *une période donnée* *(vous pouvez
+choisir la période à afficher):*
 
-* *Connexions*: indique le nombre de connexions mensuelles par profil ;
-* *Visiteurs uniques* : calcule le nombre d’utilisateurs différents (par
-profil) qui se sont connectés mensuellement ;
-* *Accès aux applications* : indique le nombre de visites par appli sur
-la période choisie ;
+* **Connexions**: indique le nombre de connexions mensuelles par profil
+;
+* **Visiteurs uniques** : calcule le nombre d’utilisateurs différents
+(par profil) qui se sont connectés mensuellement ;
+* **Accès aux applications** : indique le nombre de visites par appli
+sur la période choisie ;
 * *Activation de comptes* : calcule le nombre de comptes activés
 mensuellement sur la période sélectionnée ;
 * *Comptes activés* : indique la proportion d’activations de comptes par
 rapport à l’effectif total par profil.
 
-image:../../wp-content/uploads/2016/01/STAT-PRESENTATION-1024x372.png[image]
+image:../../wp-content/uploads/2016/01/STAT-PRESENTATION-1024x372.png[image,width=600,height=218]
 
+[[cas-d-usage-1]]
+[[statistiques-de-connexion]]
 == Statistiques de connexion
 
 
@@ -43,7 +49,7 @@ image:../../wp-content/uploads/2016/01/STAT-PRESENTATION-1024x372.png[image]
 Pour accéder à l’appli Statistiques, cliquez sur l’icône correspondante
 dans la page « Mes applis ».
 
-image:../../wp-content/uploads/2015/07/s2.png[s2]
+image:../../wp-content/uploads/2015/07/s2.png[s2,width=122,height=123]
 
 A l’arrivée sur l’application, les statistiques de connexion s’affichent
 par défaut (1). Vous pouvez choisir la période pour laquelle vous
@@ -54,8 +60,10 @@ le diagramme » (4) pour afficher les résultats.
 Vous pouvez organiser les résultats par profil (5) et les exporter dans
 un fichier au format CSV (6).
 
-image:../../wp-content/uploads/2016/01/STAT-21-1024x442.png[image]
+image:../../wp-content/uploads/2016/01/STAT-21-1024x442.png[image,width=600,height=259]
 
+[[cas-d-usage-2]]
+[[statistiques-daccès-aux-applications]]
 == Statistiques d’accès aux applications
 
 
@@ -63,7 +71,7 @@ image:../../wp-content/uploads/2016/01/STAT-21-1024x442.png[image]
 Pour accéder à l’appli Statistiques, cliquez sur l’icône correspondante
 dans la page « Mes applis ».
 
-image:../../wp-content/uploads/2015/07/s2.png[s2]
+image:../../wp-content/uploads/2015/07/s2.png[s2,width=126,height=127]
 
 Cliquez sur l’indicateur « Accès aux applications » (1) puis choisissez
 l’appli pour laquelle souhaitez consulter les statistiques (2). Vous
@@ -75,8 +83,10 @@ pour afficher les résultats.
 Vous pouvez organiser les résultats par profil (6) et les exporter dans
 un fichier au format CSV (7).
 
-image:../../wp-content/uploads/2016/01/STAT-3-1024x443.png[image]
+image:../../wp-content/uploads/2016/01/STAT-3-1024x443.png[image,width=600,height=260]
 
+[[cas-d-usage-3]]
+[[statistiques-dactivations-de-comptes]]
 == Statistiques d’activations de comptes
 
 
@@ -84,7 +94,7 @@ image:../../wp-content/uploads/2016/01/STAT-3-1024x443.png[image]
 Pour accéder à l’appli Statistiques, cliquez sur l’icône correspondante
 dans la page « Mes applis ».
 
-image:../../wp-content/uploads/2015/07/s2.png[s2]
+image:../../wp-content/uploads/2015/07/s2.png[s2,width=110,height=111]
 
 Cliquez sur l’indicateur «Activations de comptes » puis choisissez la
 période pour laquelle vous souhaitez voir apparaître les statistiques en
@@ -94,8 +104,10 @@ Cliquez sur « Afficher le diagramme » (4) pour afficher les résultats.
 Vous pouvez organiser les résultats par profil (5) et les exporter dans
 un fichier au format CSV (6).
 
-image:../../wp-content/uploads/2016/01/STAT-4-1024x442.png[image]
+image:../../wp-content/uploads/2016/01/STAT-4-1024x442.png[image,width=600,height=259]
 
+[[cas-d-usage-4]]
+[[statistiques-de-visiteurs-uniques]]
 == Statistiques de visiteurs uniques
 
 
@@ -103,8 +115,8 @@ image:../../wp-content/uploads/2016/01/STAT-4-1024x442.png[image]
 Pour accéder à l’appli Statistiques, cliquez sur l’icône correspondante
 dans la page « Mes applis ».
 
-image:../../wp-content/uploads/2015/07/s2.png[s2] +
- Cliquez sur l’indicateur «Visiteurs uniques» puis choisissez la période
+image:../../wp-content/uploads/2015/07/s2.png[s2,width=110,height=111] +
+Cliquez sur l’indicateur «Visiteurs uniques» puis choisissez la période
 pour laquelle vous souhaitez voir apparaître les statistiques en
 cliquant sur le début de la période (2) et la fin de la période (3).
 Cliquez sur « Afficher le diagramme » (4) pour afficher les résultats.
@@ -112,8 +124,10 @@ Cliquez sur « Afficher le diagramme » (4) pour afficher les résultats.
 Vous pouvez organiser les résultats par profil (5) et les exporter dans
 un fichier au format CSV (6).
 
-image:../../wp-content/uploads/2016/01/STAT-5-1024x441.png[image]
+image:../../wp-content/uploads/2016/01/STAT-5-1024x441.png[image,width=600,height=259]
 
+[[cas-d-usage-5]]
+[[statistiques-des-comptes-activés]]
 == Statistiques des comptes activés
 
 
@@ -121,7 +135,7 @@ image:../../wp-content/uploads/2016/01/STAT-5-1024x441.png[image]
 Pour accéder à l’appli Statistiques, cliquez sur l’icône correspondante
 dans la page « Mes applis ».
 
-link:../../wp-content/uploads/2015/07/s2.png[image:../../wp-content/uploads/2015/07/s2.png[s2]]
+link:../../wp-content/uploads/2015/07/s2.png[image:../../wp-content/uploads/2015/07/s2.png[s2,width=124,height=125]]
 
 Cliquez sur l’indicateur «Comptes activés» puis choisissez la période
 pour laquelle vous souhaitez voir apparaître les statistiques en
@@ -130,8 +144,10 @@ Cliquez sur « Afficher le diagramme » (4) pour afficher les
 résultats.Vous pouvez exporter les résultats dans un fichier au format
 CSV (5).
 
-link:../../wp-content/uploads/2016/01/STAT-61.png[image:../../wp-content/uploads/2016/01/STAT-61.png[STAT-6]]
+link:../../wp-content/uploads/2016/01/STAT-61.png[image:../../wp-content/uploads/2016/01/STAT-61.png[STAT-6,width=599,height=259]]
 
+[[notes-de-versions]]
+[[note-de-version]]
 == Note de version
 
 

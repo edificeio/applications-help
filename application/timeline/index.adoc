@@ -1,9 +1,9 @@
+[[premiers-pas-dans-lent]]
 = Premiers pas dans l’ENT
 
 * link:index.html?iframe=true#presentation[La page d'accueil]
 * link:index.html?iframe=true#cas-d-usage-1[Le fil de nouveautés]
-* link:index.html?iframe=true#cas-d-usage-2[Suppression et signalement
-des notifications]
+* link:index.html?iframe=true#cas-d-usage-2[Suppression et signalement des notifications]
 * link:index.html?iframe=true#cas-d-usage-3[Les widgets]
 * link:index.html?iframe=true#cas-d-usage-4[Le bandeau de navigation]
 * link:index.html?iframe=true#cas-d-usage-5[L’éditeur de texte]
@@ -13,9 +13,9 @@ des notifications]
 * link:index.html?iframe=true#cas-d-usage-9[Message Flash]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
+
+[[la-page-daccueil]]
 == La page d'accueil
-
-
 
 La page d’accueil est la première page affichée après vous être connecté
 sur la plateforme. Elle vous permet d’accéder à différentes fonctions et
@@ -23,12 +23,11 @@ contenus, comme le fil de nouveautés, les widgets, le bandeau de
 navigation (présents sur chaque page de l’ENT) mais aussi de changer de
 thème.
 
-link:../../wp-content/uploads/2016/12/Fil-complet.png[image:../../wp-content/uploads/2016/12/Fil-complet.png[Fil
-- complet]]
+link:../../wp-content/uploads/2016/12/Fil-complet.png[image:../../wp-content/uploads/2016/12/Fil-complet.png[Fil-complet,width=501,height=325]]
 
+[[cas-d-usage-1]]
+[[le-fil-de-nouveautés]]
 == Le fil de nouveautés
-
-
 
 Le fil de nouveautés affiche les dernières informations et contenus qui
 vous concernent.
@@ -42,69 +41,62 @@ ou le contenu ;
 * Le lien vers l’information ou le contenu.
 * Une indication sur l'application concernée par la notification
 
-link:../../wp-content/uploads/2016/12/Fil-notif-et-filtre-2.png[image:../../wp-content/uploads/2016/12/Fil-notif-et-filtre-2.png[Fil
-- notif et filtre 2]]
+link:../../wp-content/uploads/2016/12/Fil-notif-et-filtre-2.png[image:../../wp-content/uploads/2016/12/Fil-notif-et-filtre-2.png[Fil-notif et filtre 2,width=501,height=398]]
 
 Pour filtrer les notifications reçues, déplier le menu "Filtrer les
 nouveautés" et cliquez sur les applications dont vous souhaitez
 visualiser les notifications ou non. +
-
-link:../../wp-content/uploads/2016/12/Fil-filtre.png[image:../../wp-content/uploads/2016/12/Fil-filtre.png[Fil
-- filtre]] +
- Pour accéder à une information ou un contenu qui vous a été partagé,
+link:../../wp-content/uploads/2016/12/Fil-filtre.png[image:../../wp-content/uploads/2016/12/Fil-filtre.png[Fil-filtre,width=350,height=137]] +
+Pour accéder à une information ou un contenu qui vous a été partagé,
 cliquez sur le lien présent dans la nouveauté.
 
-image:../../wp-content/uploads/2016/07/fil_1.1-1024x133.png[image]
+image:../../wp-content/uploads/2016/07/fil_1.1-1024x133.png[image,width=600,height=78]
 
 Le contenu s’affiche.
 
-image:../../wp-content/uploads/2016/07/fil_2-1024x425.png[image]
+image:../../wp-content/uploads/2016/07/fil_2-1024x425.png[image,width=600,height=249]
 
 Pour accéder au profil de l’utilisateur qui vous a partagé le contenu ou
 l’information, cliquez sur son identifiant.
 
-image:../../wp-content/uploads/2016/07/fil_1.2-1024x133.png[image]
+image:../../wp-content/uploads/2016/07/fil_1.2-1024x133.png[image,width=600,height=78]
 
 Le profil de l’utilisateur s’affiche.
 
-image:../../wp-content/uploads/2016/07/fil_3-1024x454.png[image]
+image:../../wp-content/uploads/2016/07/fil_3-1024x454.png[image,width=600,height=266]
 
+[[cas-d-usage-2]]
+[[suppression-et-signalement-des-notifications]]
 == Suppression et signalement des notifications
-
 
 
 Sur le fil de nouveauté, vous avez la possibilité de ne plus voir la
 notification reçue et/ou de signaler à l'administrateur de votre
 établissement une notification inappropriée. Une flèche d'action
 s'affiche sur la notification lors du survol de celle-ci. +
-
-link:../../wp-content/uploads/2016/12/Fil-survol1.png[image:../../wp-content/uploads/2016/12/Fil-survol1.png[Fil
-- survol]]Lorsque vous cliquez sur la flèche, les actions concernant la
-notification sélectionnée s'affichent. +
- Vous pouvez :
+link:../../wp-content/uploads/2016/12/Fil-survol1.png[image:../../wp-content/uploads/2016/12/Fil-survol1.png[Fil-survol,width=321,height=201]]Lorsque vous cliquez sur la flèche, les
+actions concernant la notification sélectionnée s'affichent. +
+Vous pouvez :
 
 * Supprimer l'affichage de la notification de votre fil de nouveauté
 * Signaler la notification comme inappropriée à votre référent ENT
 
-link:../../wp-content/uploads/2016/12/Fil-action.png[image:../../wp-content/uploads/2016/12/Fil-action.png[Fil
-- action]]Vous avez également la possibilité de ne pas diffuser une
-notification aux utilisateurs avec lesquels vous avez des droits de
-communication ou vous avez partagé du contenu. +
- Depuis votre espace "Mon compte", vous retrouverez toutes les
+link:../../wp-content/uploads/2016/12/Fil-action.png[image:../../wp-content/uploads/2016/12/Fil-action.png[Fil-action,width=414,height=89]]Vous avez également la possibilité de ne
+pas diffuser une notification aux utilisateurs avec lesquels vous avez
+des droits de communication ou vous avez partagé du contenu. +
+Depuis votre espace "Mon compte", vous retrouverez toutes les
 notifications que vous avez émises en cliquant sur l'onglet
 "Historique" +
+link:../../wp-content/uploads/2016/12/Fil-historique.png[image:../../wp-content/uploads/2016/12/Fil-historique.png[Fil-historique,width=602,height=220]]Comme précédemment, en survolant la
+notification avec la souris, vous verrez apparaître une flèche sur la
+droite de la notification. En cliquant sur cette flèche, une action
+apparaît vous permettant de supprimer définitivement la notification de
+l'ENT. +
+link:../../wp-content/uploads/2016/12/Fil-historique-suppression.png[image:../../wp-content/uploads/2016/12/Fil-historique-suppression.png[Fil-historique suppression,width=561,height=97]]
 
-link:../../wp-content/uploads/2016/12/Fil-historique.png[image:../../wp-content/uploads/2016/12/Fil-historique.png[Fil
-- historique]]Comme précédemment, en survolant la notification avec la
-souris, vous verrez apparaître une flèche sur la droite de la
-notification. En cliquant sur cette flèche, une action apparaît vous
-permettant de supprimer définitivement la notification de l'ENT. +
-
-link:../../wp-content/uploads/2016/12/Fil-historique-suppression.png[image:../../wp-content/uploads/2016/12/Fil-historique-suppression.png[Fil
-- historique suppression]]
-
+[[cas-d-usage-3]]
+[[les-widgets]]
 == Les widgets
-
 
 
 Les widgets se situent à gauche du fil de nouveautés. Ils sont composés
@@ -114,75 +106,77 @@ dictaphone et des signets.
 * Le widget *Notes* (pense-bêtes) permet à l'utilisateur de saisir des
 notes personnelles conservées à chaque déconnexion/reconnexion
 
-image:../../wp-content/uploads/2015/06/w1.png[w1]
+image:../../wp-content/uploads/2015/06/w1.png[w1,width=308,height=180]
 
 * Le widget *Calendrier* affiche le mois en cours et la date du jour
 
-image:../../wp-content/uploads/2015/06/w2.png[w2]
+image:../../wp-content/uploads/2015/06/w2.png[w2,width=304,height=169]
 
 * Le widget *Actualités* affiche les 5 dernières actualités publiées
 dans l’ENT
 
-image:../../wp-content/uploads/2015/06/w3.png[w3]
+image:../../wp-content/uploads/2015/06/w3.png[w3,width=339,height=204]
 
 * Le widget *Flux RSS* permet d’afficher un flux d’informations issues
 d’un site externe. L’utilisateur peut récupérer l’adresse du flux de 3
 sites externes maximum.
 
-image:../../wp-content/uploads/2015/06/w4.png[w4]
+image:../../wp-content/uploads/2015/06/w4.png[w4,width=339,height=146]
 
-* Le widget *S**ignets* permet de créer des liens redirigeant vers une
+* Le widget *Signets* permet de créer des liens redirigeant vers une
 adresse internet choisie dans un nouvel onglet. L’utilisateur saisit le
 nom du lien qui sera affiché, renseigne son adresse web et clique sur
 « Enregistrer ».
 
-image:../../wp-content/uploads/2015/06/w5.png[w5]
+image:../../wp-content/uploads/2015/06/w5.png[w5,width=355,height=163]
 
-* Le widget *Dictaphone*permet d’enregistrer des sons depuis le micro de
-son ordinateur. Les sons seront enregistrés dans l’espace documentaire
-de l’utilisateur.
+* Le widget *Dictaphone* permet d’enregistrer des sons depuis le micro
+de son ordinateur. Les sons seront enregistrés dans l’espace
+documentaire de l’utilisateur.
 
-image:../../wp-content/uploads/2015/06/w6.png[w6]
+image:../../wp-content/uploads/2015/06/w6.png[w6,width=328,height=172]
 
-* Le widget *Applications préférées*permet d'afficher les applications
+* Le widget *Applications préférées* permet d'afficher les applications
 favorites sur la page d'accueil de l'ENT.
 
-image:../../wp-content/uploads/2016/07/Image11.png[image]
+image:../../wp-content/uploads/2016/07/Image11.png[image,width=328,height=110]
 
 Vous pouvez changer l’ordre d’apparition des widgets sur la page
 d’accueil de l’ENT en sélectionnant le widget puis en le déplaçant sur
 la page.
 
+[[cas-d-usage-4]]
+[[le-bandeau-de-navigation]]
 == Le bandeau de navigation
-
 
 
 Le bandeau de navigation situé en haut de la page permet d’accéder à
 différents services, quelle que soit l’appli dans laquelle vous
 naviguez.
 
-link:../../wp-content/uploads/2016/06/Bandeau.png[image:../../wp-content/uploads/2016/06/Bandeau.png[Bandeau]]
+link:../../wp-content/uploads/2016/06/Bandeau.png[image:../../wp-content/uploads/2016/06/Bandeau.png[Bandeau,width=371,height=47]]
 
 Les différents services disponibles sont les suivants :
 
 * L’accès à votre
-compte link:../../wp-content/uploads/2016/06/tete.png[image:../../wp-content/uploads/2016/06/tete.png[tete]]
+compte link:../../wp-content/uploads/2016/06/tete.png[image:../../wp-content/uploads/2016/06/tete.png[tete,width=40,height=36]]
 * Le bouton de retour à la page
-d’accueil link:../../wp-content/uploads/2015/06/a14.png[image:../../wp-content/uploads/2015/06/a14.png[a1]]
+d’accueil link:../../wp-content/uploads/2015/06/a14.png[image:../../wp-content/uploads/2015/06/a14.png[a1,width=38,height=36]]
 * Le bouton d’accès aux
-applis link:../../wp-content/uploads/2015/06/a15.png[image:../../wp-content/uploads/2015/06/a15.png[a1]]
+applis link:../../wp-content/uploads/2015/06/a15.png[image:../../wp-content/uploads/2015/06/a15.png[a1,width=39,height=38]]
 * Le bouton d’accès à l'appli
-Communautés link:../../wp-content/uploads/2015/06/c14.png[image:../../wp-content/uploads/2015/06/c14.png[c1]]
+Communautés link:../../wp-content/uploads/2015/06/c14.png[image:../../wp-content/uploads/2015/06/c14.png[c1,width=39,height=39]]
 * Le bouton de recherche sur
-l'ENT link:../../wp-content/uploads/2016/06/Loupe.png[image:../../wp-content/uploads/2016/06/Loupe.png[Loupe]]
+l'ENT link:../../wp-content/uploads/2016/06/Loupe.png[image:../../wp-content/uploads/2016/06/Loupe.png[Loupe,width=43,height=34]]
 * Le bouton de notification de nouveaux messages reçus dans l’ENT et
 d'accès à la
-messagerie link:../../wp-content/uploads/2015/06/m114.png[image:../../wp-content/uploads/2015/06/m114.png[m1]]
+messagerie link:../../wp-content/uploads/2015/06/m114.png[image:../../wp-content/uploads/2015/06/m114.png[m1,width=42,height=36]]
 * Le bouton de déconnexion du
-portail link:../../wp-content/uploads/2015/06/d12.png[image:../../wp-content/uploads/2015/06/d12.png[d1]]
+portail link:../../wp-content/uploads/2015/06/d12.png[image:../../wp-content/uploads/2015/06/d12.png[d1,width=40,height=39]]
 
+[[cas-d-usage-5]]
+[[léditeur-de-texte]]
 == L’éditeur de texte
-
 
 
 L’éditeur de texte permet de rédiger des contenus et de les mettre en
@@ -196,31 +190,32 @@ L’éditeur permet également d’intégrer différents types de contenus :
 4.  Une formule Latex
 5.  Un lien
 
-image:../../wp-content/uploads/2016/04/Image5-1024x387.png[Image5]
+image:../../wp-content/uploads/2016/04/Image5-1024x387.png[Image5,width=600,height=227]
 
 L'éditeur permet désormais d'ajouter plus simplement des pièces jointes
 dans un contenu.
 
-image:../../wp-content/uploads/2016/04/Image61.png[Image6]
+image:../../wp-content/uploads/2016/04/Image61.png[Image6,width=600,height=63]
 
 Lorsque l'on clique sur l'icône d'ajout de pièces jointes, on peut
 choisir un document de sa bibliothèque multimédia (1) ou charger un
 document depuis son poste (2).
 
-image:../../wp-content/uploads/2016/04/Image7.png[Image7]
+image:../../wp-content/uploads/2016/04/Image7.png[Image7,width=400,height=320]
 
 La ou les pièces jointes sélectionnées apparaissent dans la zone
 d'édition dans un cadre dédié.
 
-image:../../wp-content/uploads/2016/04/Image8.png[Image8]
+image:../../wp-content/uploads/2016/04/Image8.png[Image8,width=600,height=234]
 
 Pour modifier les pièces jointes, faire un clic droit dans la zone
 grisée et cliquer sur "Modifier les fichiers" (3).
 
-image:../../wp-content/uploads/2016/04/Image9.png[Image9]
+image:../../wp-content/uploads/2016/04/Image9.png[Image9,width=314,height=171]
 
+[[cas-d-usage-6]]
+[[la-gestion-des-paramètres]]
 == La gestion des paramètres
-
 
 
 La gestion des paramètres vous permet de modifier votre thème
@@ -231,13 +226,13 @@ nouveautés.
 
 L’onglet de gestion de vos paramètres apparaît.
 
-image:../../wp-content/uploads/2015/06/f11.png[f1]
+image:../../wp-content/uploads/2015/06/f11.png[f1,width=600,height=222]
 
-image:../../wp-content/uploads/2016/01/Gestion-Widgets.png[image] +
- Pour changer l’apparence de votre thème, cliquez sur celui de votre
+image:../../wp-content/uploads/2016/01/Gestion-Widgets.png[image,width=200,height=274] +
+Pour changer l’apparence de votre thème, cliquez sur celui de votre
 choix.
 
-image:../../wp-content/uploads/2016/01/Gestion-Widgets2.png[image]
+image:../../wp-content/uploads/2016/01/Gestion-Widgets2.png[image,width=200,height=274]
 
 L’apparence de votre thème est modifiée.
 
@@ -246,36 +241,37 @@ que vous ne souhaitez pas voir apparaître sur votre page d’accueil.
 
 Ils seront grisés dans la gestion de vos paramètres.
 
-image:../../wp-content/uploads/2016/01/Gestion-Widgets3.png[image]
+image:../../wp-content/uploads/2016/01/Gestion-Widgets3.png[image,width=200,height=274]
 
+[[cas-d-usage-7]]
+[[notifications-externes]]
 == Notifications externes
-
 
 
 L'ENT est désormais doté d'un système de notification par mail qui
 permet aux utilisateurs de recevoir sur leur adresse personnelle des
 mails contenant les nouveautés de l'ENT qui les concernent. +
- Chaque utilisateur peut modifier les notifications qu'il souhaite
+Chaque utilisateur peut modifier les notifications qu'il souhaite
 recevoir et la fréquence de chacune d'elles (immédiate, quotidienne,
 hebdomadaire). +
- Pour accéder à ce paramétrage, aller dans Mon compte (1) et cliquer sur
+Pour accéder à ce paramétrage, aller dans Mon compte (1) et cliquer sur
 le bouton "Gérer mes notifications externes" (2).
 
-image:../../wp-content/uploads/2016/04/Image1.png[Image1]
+image:../../wp-content/uploads/2016/04/Image1.png[Image1,width=600,height=251]
 
 La page de paramétrage des notifications externes permet de modifier
 l'adresse de réception des mails (3) et de choisir la fréquence d'envoi
 de chaque notification (immédiat, quotidien, hebdomadaire, jamais)
 (4). +
- Le détail des notifications disponibles par service est accessible en
+Le détail des notifications disponibles par service est accessible en
 cliquant sur le nom du service dans la ligne correspondante (5).
 
-image:../../wp-content/uploads/2016/04/Image2.png[Image2]
+image:../../wp-content/uploads/2016/04/Image2.png[Image2,width=600,height=339]
 
 Lorsque les modifications sont terminées, cliquer sur "Enregistrer" en
 bas du tableau (6).
 
-image:../../wp-content/uploads/2016/04/Image31.png[image]
+image:../../wp-content/uploads/2016/04/Image31.png[image,width=600,height=81]
 
 Une fois la notification reçue dans sa boîte mail personnelle,
 l'utilisateur peut cliquer sur le lien correspondant afin d'accéder au
@@ -283,10 +279,11 @@ contenu. S'il n'est pas connecté à l'ENT, il devra saisir son
 identifiant et son mot de passe pour accéder à l'objet de la
 notification.
 
-link:../../wp-content/uploads/2016/08/notiff.png[image:../../wp-content/uploads/2016/08/notiff.png[notiff]]
+link:../../wp-content/uploads/2016/08/notiff.png[image:../../wp-content/uploads/2016/08/notiff.png[notiff,width=590,height=345]]
 
+[[cas-d-usage-8]]
+[[le-moteur-de-recherche]]
 == Le moteur de recherche
-
 
 
 Le service Moteur de recherche a pour objectif de permettre à chaque
@@ -312,7 +309,7 @@ Les ressources sont recherchées dans les catégories suivantes :
 Seules les ressources pour lesquelles l’utilisateur a un droit d’accès
 sont affichées dans le moteur de recherche.
 
-link:../../wp-content/uploads/2016/06/Acces0011.png[image:../../wp-content/uploads/2016/06/Acces0011.png[Acces001]]
+link:../../wp-content/uploads/2016/06/Acces0011.png[image:../../wp-content/uploads/2016/06/Acces0011.png[Acces001,width=302,height=92]]
 
 Vous pouvez accéder à la page de recherche en cliquant sur l’icône de
 recherche (1) de la barre de menu principale de l’ENT.
@@ -321,20 +318,22 @@ Sinon, vous pouvez saisir des mots-clés dans la zone de saisie (2) et
 validez votre recherche en appuyant sur la touche « Entrée » ou en
 cliquant sur le bouton « GO ».
 
+[[cas-d-usage-9]]
+[[message-flash]]
 == Message Flash
-
 
 
 Des messages d'informations à destinations de tous les utilisateurs de
 l'ENT s'affichent dans le fil de nouveautés via un bandeau coloré (1).
 
-image:../../wp-content/uploads/2016/11/Image12-1024x556.png[image]
+image:../../wp-content/uploads/2016/11/Image12-1024x556.png[image,width=600,height=326]
 
 Après avoir pris connaissance du message, vous avez la possibilité de le
 supprimer en cliquant sur la croix à droite de celui-ci (2).
 
+[[notes-de-versions]]
+[[note-de-version]]
 == Note de version
-
 
 
 Nouveauté de la version 0.6
@@ -355,7 +354,7 @@ Un nouveau widget fait son apparition. Il permet d’afficher les
 applications favorites sur la page d’accueil de l’ENT.
 
 * +
- Moteur de recherche : prise en compte des ressources du blog*
+Moteur de recherche : prise en compte des ressources du blog*
 
 Le moteur de recherche effectue ses recherches parmi les billets des
 blogs sur les champs suivants:
@@ -365,7 +364,7 @@ blogs sur les champs suivants:
 * commentaires.
 
 * +
- Moteur de recherche : activation par profil ou par établissement*
+Moteur de recherche : activation par profil ou par établissement*
 
 Il est désormais possible d’activer la recherche transverse par profil
 ou par établissement.
