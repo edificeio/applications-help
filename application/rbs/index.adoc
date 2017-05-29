@@ -345,6 +345,3 @@ Nouveauté de la version 0.4.0
 Les administrateurs locaux sont désormais gestionnaires par défaut de
 tous les types de ressources rattachés aux établissements dont ils sont
 administrateurs.
-
-[[section]]
-====
