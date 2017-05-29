@@ -14,7 +14,6 @@ catégorie]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
 [[presentation]]
-[[présentation]]
 == Présentation
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -32,7 +31,6 @@ publication et l’identifiant de la personne qui a posté le message.
 image:../../wp-content/uploads/2016/01/FORUM_Presentation.png[image,width=600,height=268]
 
 [[cas-d-usage-1]]
-[[créer-et-partager-une-catégorie]]
 == Créer et partager une catégorie
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -72,7 +70,6 @@ droits de partage du forum
 Cliquez sur le bouton « Terminer » pour créer votre discussion.
 
 [[cas-d-usage-2]]
-[[créer-une-discussion]]
 == Créer une discussion
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -89,8 +86,8 @@ image:../../wp-content/uploads/2015/07/f21.png[f2,width=600,height=249]
 Dans la fenêtre qui s'ouvre, renseignez le titre de la discussion (3),
 saisissez le premier message (2) et cliquez sur « Envoyer » (3).
 
-link:../../wp-content/uploads/2016/01/Créer-une-discussion.png[image:../../wp-content/uploads/2016/01/Créer-une-discussion1-1024x445.png[Créer
-une discussion,width=600,height=261]]
+image:../../wp-content/uploads/2016/01/Créer-une-discussion1-1024x445.png[Créer
+une discussion,width=600,height=261]
 
 [[cas-d-usage-3]]
 [[publier-un-message]]
@@ -108,7 +105,6 @@ cliquez sur « Répondre » (2).
 image:../../wp-content/uploads/2015/07/f4.png[f4,width=442,height=344]
 
 [[cas-d-usage-4]]
-[[gérer-une-catégorie]]
 == Gérer une catégorie
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -133,7 +129,6 @@ associée.
 image:../../wp-content/uploads/2016/04/forum.png[forum,width=300,height=409]
 
 [[cas-d-usage-5]]
-[[gérer-une-discussion]]
 == Gérer une discussion
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC

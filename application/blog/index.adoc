@@ -15,7 +15,7 @@ publication]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
 [[presentation]]
-[[présentation]]
+
 == Présentation
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -36,7 +36,6 @@ soit les billets sont publiés immédiatement quel qu'en soit l'auteur.
 image:../../wp-content/uploads/2016/07/blog_1-1024x478.png[image,width=600,height=280]
 
 [[cas-d-usage-1]]
-[[créer-un-blog]]
 == Créer un blog
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -98,7 +97,6 @@ le partager ou le supprimer
 * *Commenter* : l’utilisateur peut commenter les billets
 
 [[cas-d-usage-3]]
-[[gérer-le-circuit-de-publication]]
 == Gérer le circuit de publication
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC

@@ -11,10 +11,9 @@ en temps réel sur un éditeur de texte en ligne.
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
 [[presentation]]
-[[présentation]]
 == Présentation
 
-link:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051-300x105.png[CC-BY-NC-SA-3.0-FR-300x105,width=111,height=39]]
+image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051-300x105.png[CC-BY-NC-SA-3.0-FR-300x105,width=111,height=39]
 
 Le Pad est un éditeur de texte en ligne fonctionnant en mode
 collaboratif temps réel. Il vous permet de partager l'élaboration
@@ -23,10 +22,9 @@ instantanée. Il promeut des usages pédagogiques, notamment pour
 l’apprentissage collaboratif.
 
 [[cas-d-usage-1]]
-[[créer-un-pad]]
 == Créer un Pad
 
-link:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051-300x105.png[CC-BY-NC-SA-3.0-FR-300x105,width=111,height=39]]
+image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051-300x105.png[CC-BY-NC-SA-3.0-FR-300x105,width=111,height=39]
 
 [[:1gc]]Pour créer un Pad, cliquez sur le bouton « Créer un Pad » dans
 la page d'accueil de l'appli.
@@ -49,7 +47,7 @@ image:../../wp-content/uploads/2016/01/nouveaupad2.png[nouveaupad2,width=598,hei
 [[partager-un-pad]]
 == Partager un Pad
 
-link:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051-300x105.png[CC-BY-NC-SA-3.0-FR-300x105,width=111,height=39]]
+image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051-300x105.png[CC-BY-NC-SA-3.0-FR-300x105,width=111,height=39]
 
 Pour partager un Pad avec d’autres utilisateurs, cliquez sur la case à
 cocher correspondant à votre Pad (1) puis sur le bouton « Partager »
@@ -66,8 +64,8 @@ d’utilisateurs que vous recherchez.
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur
 attribuer.
 
-link:../../wp-content/uploads/2016/01/partagePad2.png[image:../../wp-content/uploads/2016/01/partagePad2.png[partagePad2,width=450,height=326] +
-]Les droits de partage que vous pouvez attribuer aux autres utilisateurs
+image:../../wp-content/uploads/2016/01/partagePad2.png[partagePad2,width=450,height=326] +
+Les droits de partage que vous pouvez attribuer aux autres utilisateurs
 sont les suivants :
 
 * *Lecteur* : l’utilisateur peut lire le contenu
@@ -83,7 +81,7 @@ Pad
 [[travailler-avec-un-pad]]
 == Travailler avec un Pad
 
-link:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051-300x105.png[CC-BY-NC-SA-3.0-FR-300x105,width=111,height=39]]
+image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051-300x105.png[CC-BY-NC-SA-3.0-FR-300x105,width=111,height=39]
 
 Pour travailler avec un Pad partagé, il vous suffit de saisir le texte
 qui sera transmis automatiquement à tous les collaborateurs en ligne sur
@@ -102,7 +100,7 @@ travaux.
 (gras, italique, souligné, etc.)
 * La partie droite offre certaines fonctionnalités complémentaires :
 
-link:../../wp-content/uploads/2016/01/barre-outil.png[image:../../wp-content/uploads/2016/01/barre-outil.png[barre-outil,width=189,height=42]]
+image:../../wp-content/uploads/2016/01/barre-outil.png[barre-outil,width=189,height=42]
 
 * Importer/exporter un Pad dans divers formats ;
 * Accéder à l’historique dynamique. Cette fonctionnalité présente une
@@ -115,7 +113,7 @@ cinématique des différentes versions du contenu du Pad ;
 [[note-de-version]]
 == Note de version
 
-link:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051-300x105.png[CC-BY-NC-SA-3.0-FR-300x105,width=111,height=39]]
+image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051-300x105.png[CC-BY-NC-SA-3.0-FR-300x105,width=111,height=39]
 
 A chaque nouvelle version de l'application, les nouveautés seront
 présentées dans cette section.

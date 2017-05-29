@@ -12,7 +12,6 @@ selon différentes thématiques en ciblant les destinataires.
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
 [[presentation]]
-[[présentation]]
 == Présentation
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -34,7 +33,6 @@ dans leur *fil de nouveautés* et voient apparaître l’actualité dans le
 image:../../wp-content/uploads/2016/07/Actu_11-1024x475.png[image,width=600,height=278]
 
 [[cas-d-usage-1]]
-[[créer-un-fil-dactualités]]
 == Créer un fil d'actualités
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -62,7 +60,6 @@ créer des fils d’actualités.
  
 
 [[cas-d-usage-2]]
-[[partager-un-fil-dactualités]]
 == Partager un fil d'actualités
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -97,7 +94,6 @@ seront soumises avant publication
 d'actualités
 
 [[cas-d-usage-3]]
-[[créer-une-actualité]]
 == Créer une actualité
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -124,7 +120,6 @@ actualités
 compléter plus tard
 
 [[cas-d-usage-4]]
-[[partager-une-actualité]]
 == Partager une actualité
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC

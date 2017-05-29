@@ -13,7 +13,6 @@ reçus]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
 [[presentation]]
-[[présentation]]
 == Présentation
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -70,7 +69,7 @@ link:../../wp-content/uploads/2015/03/Messagerie-3.png[ +
 image:../../wp-content/uploads/2016/04/messagerie6-1024x818.png[messagerie6,width=600,height=479] +
 Choisissez le document depuis votre poste de travail.
 
-link:../../wp-content/uploads/2015/07/m41.png[image:../../wp-content/uploads/2015/07/m41.png[m4,width=445,height=237]]
+image:../../wp-content/uploads/2015/07/m41.png[m4,width=445,height=237]
 
 Une fois que votre message est prêt, vous pouvez l'envoyer.
 
@@ -82,7 +81,6 @@ l'annuler en cliquant sur " + " (1) puis sur le bouton correspondant
 image:../../wp-content/uploads/2016/04/messagerie8-1024x488.png[messagerie8,width=600,height=286]
 
 [[cas-d-usage-2]]
-[[visualiser-mes-messages-reçus]]
 == Visualiser mes messages reçus
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -101,7 +99,7 @@ messages s’affichent en gras (2).
 
 Cliquez sur le titre d’un message pour en lire le contenu.
 
-link:../../wp-content/uploads/2016/01/Messagerie-VISUALISER.png[image:../../wp-content/uploads/2016/01/Messagerie-VISUALISER-1024x199.png[image,width=600,height=116]]
+image:../../wp-content/uploads/2016/01/Messagerie-VISUALISER-1024x199.png[image,width=600,height=116]
 
  
 
@@ -118,7 +116,7 @@ correspondant au(x) message(s) (1).
 Puis cliquez sur le bouton « Supprimer » qui apparait en bas à gauche de
 la page (2).
 
-link:../../wp-content/uploads/2016/01/Messagerie-SUPPRIMER.png[image:../../wp-content/uploads/2016/01/Messagerie-SUPPRIMER-1024x449.png[image,width=600,height=263]]
+image:../../wp-content/uploads/2016/01/Messagerie-SUPPRIMER-1024x449.png[image,width=600,height=263]
 
 Le message se trouve maintenant dans votre corbeille. Vous pouvez le
 supprimer définitivement ou le restaurer en le sélectionnant dans le

@@ -12,7 +12,6 @@ frise chronologique]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
 [[presentation]]
-[[présentation]]
 == Présentation
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -27,7 +26,6 @@ peut être partagée avec un utilisateur ou un groupe d'utilisateurs.
 image:../../wp-content/uploads/2015/04/Frise1.png[Frise1,width=537,height=479]
 
 [[cas-d-usage-1]]
-[[créer-et-partager-une-frise-chronologique]]
 == Créer et partager une frise chronologique
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -48,7 +46,7 @@ Suivez les étapes suivantes :
 * Renseignez le descriptif de la frise
 * Cliquez sur « Sauvegarder »
 
-link:../../wp-content/uploads/2016/01/FRISE_1.png[image:../../wp-content/uploads/2016/01/FRISE_1.png[image,width=1650,height=760]]
+image:../../wp-content/uploads/2016/01/FRISE_1.png[image,width=1650,height=760]
 
 La frise chronologique est maintenant créée. Pour la partager, saisissez
 les premières lettres du nom de l’utilisateur ou d’un groupe
@@ -65,7 +63,6 @@ Les différents droits que vous pouvez attribuer sont les suivants :
 image:../../wp-content/uploads/2015/06/f5.png[f5,width=494,height=205]
 
 [[cas-d-usage-2]]
-[[créer-un-événement-dans-la-frise-chronologique]]
 == Créer un événement dans la frise chronologique
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -83,8 +80,7 @@ Vous devez renseigner plusieurs informations pour créer un évènement :
 * Une image d’illustration
 * Une description
 
-link:../../wp-content/uploads/2016/01/FRISE_21.png[ +
-image:../../wp-content/uploads/2016/01/FRISE_21.png[image,width=1650,height=681]]
+image:../../wp-content/uploads/2016/01/FRISE_21.png[image,width=1650,height=681]
 
 * Une fois l’événement créé, il apparaît dans la frise chronologique.
 

@@ -27,10 +27,9 @@ copier un sujet dans la bibliothèque]
 * link:index.html?iframe=true#notes-de-versions[]
 
 [[presentation]]
-[[présentation]]
 == Présentation
 
-link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
+image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]
 
 L'appli Exercices et évaluations permet de créer des sujets, de les
 distribuer et d’en faire automatiquement ou manuellement la correction.
@@ -38,14 +37,13 @@ Grâce à la Bibliothèque de l’appli, il est notamment possible de
 rechercher des sujets publiés par d’autres enseignants et de les ajouter
 à ses sujets personnels pour une réutilisation ou une adaptation.
 
-link:../../wp-content/uploads/2016/09/Accueil-Exercices-et-évaluations1.png[image:../../wp-content/uploads/2016/09/Accueil-Exercices-et-évaluations1.png[Accueil
-- Exercices et évaluations,width=614,height=197]]
+image:../../wp-content/uploads/2016/09/Accueil-Exercices-et-évaluations1.png[Accueil
+- Exercices et évaluations,width=614,height=197]
 
 [[cas-d-usage-1]]
-[[elève-apprenant---réaliser-un-exercice]]
 == Elève / Apprenant - Réaliser un exercice
 
-link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
+image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]
 
 Depuis la page d’accueil, cliquez sur « Mes applis » en haut à droite de
 l’écran puis cliquez sur « Exercices et évaluations ».
@@ -55,7 +53,7 @@ l’écran.
 
 Cliquez sur le sujet de votre choix.
 
-link:../../wp-content/uploads/2016/09/Apprenant.png[image:../../wp-content/uploads/2016/09/Apprenant.png[Apprenant,width=612,height=296]]
+image:../../wp-content/uploads/2016/09/Apprenant.png[Apprenant,width=612,height=296]
 
  
 
@@ -65,8 +63,8 @@ durée de réalisation (2) et une description de l’exercice.
 Pour réaliser l’exercice, cliquez sur le bouton orange « suivant » en
 bas à droite de la fenêtre.
 
-link:../../wp-content/uploads/2016/10/Réaliser-un-exercice.jpg[image:../../wp-content/uploads/2016/10/Réaliser-un-exercice.jpg[Réaliser
-un exercice,width=801,height=306]]
+image:../../wp-content/uploads/2016/10/Réaliser-un-exercice.jpg[Réaliser
+un exercice,width=801,height=306]
 
  
 
@@ -78,72 +76,65 @@ En cas de difficulté à trouver la réponse, une aide peut parfois vous
 être proposée. Il suffit de cliquer sur le bouton « Aide à la réponse »
 en haut à droite de l’écran (3).
 
-link:../../wp-content/uploads/2016/10/Aide-à-la-réponse.jpg[image:../../wp-content/uploads/2016/10/Aide-à-la-réponse.jpg[Aide
-à la réponse,width=820,height=312]]
+image:../../wp-content/uploads/2016/10/Aide-à-la-réponse.jpg[Aide
+à la réponse,width=820,height=312]
 
  
 
 Si vous souhaitez vous interrompre et continuer plus tard l’exercice,
 vous pouvez cliquer sur le bouton "continuer plus tard".
 
-link:../../wp-content/uploads/2016/10/Continuer-plus-tard.jpg[image:../../wp-content/uploads/2016/10/Continuer-plus-tard.jpg[Continuer
-plus tard,width=451,height=61] +
-]
+image:../../wp-content/uploads/2016/10/Continuer-plus-tard.jpg[Continuer
+plus tard,width=451,height=61]
 
 Dans le cas où la date de rendue de la copie est **dépassée**, le sujet
 affiché dans la page d’accueil comporte un bouton « rendre la copie »
 pour que l’élève puisse tout de même rendre sa copie, en revanche il ne
 pourra plus y accéder.
 
-link:../../wp-content/uploads/2016/10/Rendre-copie.jpg[image:../../wp-content/uploads/2016/10/Rendre-copie.jpg[Rendre
-copie,width=422,height=145] +
-]
+image:../../wp-content/uploads/2016/10/Rendre-copie.jpg[Rendre
+copie,width=422,height=145]
 
 Une fois l’exercice terminé, cliquez sur rendre la copie. Un message de
 confirmation s’affiche :
 
-link:../../wp-content/uploads/2016/10/Rendre-la-copie.jpg[image:../../wp-content/uploads/2016/10/Rendre-la-copie.jpg[Rendre
-la copie,width=786,height=202]]
+image:../../wp-content/uploads/2016/10/Rendre-la-copie.jpg[Rendre
+la copie,width=786,height=202]
 
 [[cas-d-usage-2]]
-[[elève-apprenant-voir-la-correction-dun-exercice]]
 == Elève / Apprenant – Voir la correction d’un exercice
 
-link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
+image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]
 
 Lorsqu’un exercice est corrigé, vous êtes informés via une publication
 sur le fil de nouveauté.
 
-link:../../wp-content/uploads/2016/10/Notif.jpg[image:../../wp-content/uploads/2016/10/Notif.jpg[Notif,width=711,height=84] +
-]
+image:../../wp-content/uploads/2016/10/Notif.jpg[Notif,width=711,height=84]
 
 Vous pouvez vous rendre sur l’application « Exercices et évaluations »,
 cliquez sur l’onglet « terminés » en haut et à gauche de la page (1).
 
 Les sujets corrigés s’affichent.
 
-link:../../wp-content/uploads/2016/10/Terminés.jpg[image:../../wp-content/uploads/2016/10/Terminés.jpg[Terminés,width=712,height=232] +
-]
+image:../../wp-content/uploads/2016/10/Terminés.jpg[Terminés,width=712,height=232]
 
 Cliquez ensuite sur le sujet dont vous souhaitez voir la correction (2).
 
 Un résumé s’affiche avec le score final et éventuellement des
 commentaires formulés par le professeur.
 
-link:../../wp-content/uploads/2016/10/Copie.jpg[image:../../wp-content/uploads/2016/10/Copie.jpg[Copie,width=726,height=263] +
-]
+image:../../wp-content/uploads/2016/10/Copie.jpg[Copie,width=726,height=263]
 
 Vous pouvez ensuite accéder au-dessous à la correction par question.
 
 Les bonnes réponses s’affichent en vert et les mauvaises en rouge.
 
-link:../../wp-content/uploads/2016/10/Question.jpg[image:../../wp-content/uploads/2016/10/Question.jpg[Question,width=719,height=184]]
+image:../../wp-content/uploads/2016/10/Question.jpg[Question,width=719,height=184]
 
 [[cas-d-usage-3]]
-[[enseignant---créer-un-nouveau-sujet]]
 == Enseignant - Créer un nouveau sujet
 
-link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
+image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]
 
 Depuis la page d’accueil, cliquez sur « Mes applis » en haut à droite de
 l’écran puis cliquez sur « Exercices et évaluations ».
@@ -151,8 +142,8 @@ l’écran puis cliquez sur « Exercices et évaluations ».
 Pour créer un nouveau sujet, cliquez sur le bouton « nouveau sujet »
 dans la page d’accueil de l’appli.
 
-link:../../wp-content/uploads/2016/09/Accueil-nouveau-sujet.png[image:../../wp-content/uploads/2016/09/Accueil-nouveau-sujet.png[Accueil
-- nouveau sujet,width=545,height=271]]
+image:../../wp-content/uploads/2016/09/Accueil-nouveau-sujet.png[Accueil
+- nouveau sujet,width=545,height=271]
 
 Saisissez un titre (1) et ajoutez  si vous le souhaitez une image
 d’illustration du sujet (sinon c’est l’icône par défaut qui est
@@ -160,19 +151,19 @@ affichée) (2). Vous pouvez ajouter une description (3).
 
 Cliquez enfin sur « Enregistrer » (4)
 
-link:../../wp-content/uploads/2016/09/Propriétés-Sujet.jpg[image:../../wp-content/uploads/2016/09/Propriétés-Sujet.jpg[Propriétés
-Sujet,width=571,height=248]]
+image:../../wp-content/uploads/2016/09/Propriétés-Sujet.jpg[Propriétés
+Sujet,width=571,height=248]
 
 Pour ajouter du contenu à votre sujet, cliquez sur « ajouter un
 élément » :
 
-link:../../wp-content/uploads/2016/09/Ajouter-un-élément.png[image:../../wp-content/uploads/2016/09/Ajouter-un-élément.png[Ajouter
-un élément,width=549,height=39]] +
+image:../../wp-content/uploads/2016/09/Ajouter-un-élément.png[Ajouter
+un élément,width=549,height=39] +
 Pour sélectionner le type de contenu à ajouter, cliquez sur « Enoncé »
 ou « Question ».
 
-link:../../wp-content/uploads/2016/09/Types-de-questions.jpg[image:../../wp-content/uploads/2016/09/Types-de-questions.jpg[Types
-de questions,width=556,height=108]]
+image:../../wp-content/uploads/2016/09/Types-de-questions.jpg[Types
+de questions,width=556,height=108]
 
 Si vous avez sélectionné l’outil question, vous pouvez choisir le type
 de question en cliquant sur l’une de ces  icônes.
@@ -207,8 +198,8 @@ renseignant :
 5.  L’explication de la réponse
 6.  L’aide à la réponse
 
-link:../../wp-content/uploads/2016/09/Renseigner-un-exercice.jpg[image:../../wp-content/uploads/2016/09/Renseigner-un-exercice.jpg[Renseigner
-un exercice,width=545,height=310]]
+image:../../wp-content/uploads/2016/09/Renseigner-un-exercice.jpg[Renseigner
+un exercice,width=545,height=310]
 
 Cliquez ensuite sur « ajouter un élément » et choisissez le type de la
 prochaine question.
@@ -217,21 +208,21 @@ En cochant la case à gauche du titre de la question, un bandeau orange
 en bas de votre écran s’affiche. Vous pouvez « dupliquer » ou
 « supprimer » la question.
 
-link:../../wp-content/uploads/2016/09/Case-à-cocher.jpg[image:../../wp-content/uploads/2016/09/Case-à-cocher.jpg[Case
-à cocher,width=533,height=81]]
+image:../../wp-content/uploads/2016/09/Case-à-cocher.jpg[Case
+à cocher,width=533,height=81]
 
  
 
 Le volet à gauche de l’écran vous permet de glisser et de déposer des
 questions avec votre  curseur pour les ordonner.
 
-link:../../wp-content/uploads/2016/09/Menu-navigation.png[image:../../wp-content/uploads/2016/09/Menu-navigation.png[Menu
-navigation,width=241,height=300]]
+image:../../wp-content/uploads/2016/09/Menu-navigation.png[Menu
+navigation,width=241,height=300]
 
 Il est possible de visualiser votre sujet en cliquant sur l’icône
 « aperçu » en haut à droite de votre écran.
 
-link:../../wp-content/uploads/2016/09/Aperçu.jpg[image:../../wp-content/uploads/2016/09/Aperçu.jpg[Aperçu,width=408,height=45]]
+image:../../wp-content/uploads/2016/09/Aperçu.jpg[Aperçu,width=408,height=45]
 
  
 
@@ -239,18 +230,18 @@ link:../../wp-content/uploads/2016/09/Aperçu.jpg[image:../../wp-content/uploads
 [[enseignant---distribuer-un-sujet]]
 == Enseignant - Distribuer un sujet
 
-link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
+image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]
 
 Une fois la création de votre sujet terminée, vous pouvez le distribuer
 en cliquant sur l’icône en haut à gauche de votre écran.
 
-link:../../wp-content/uploads/2016/09/Distribuer.jpg[image:../../wp-content/uploads/2016/09/Distribuer.jpg[Distribuer,width=381,height=38]]
+image:../../wp-content/uploads/2016/09/Distribuer.jpg[Distribuer,width=381,height=38]
 
 Saisissez les premières lettres du nom de l’utilisateur ou du groupe
 d’utilisateurs que vous recherchez puis sélectionnez le nom de
 l’utilisateur ou du groupe.
 
-link:../../wp-content/uploads/2016/09/Destinataires.jpg[image:../../wp-content/uploads/2016/09/Destinataires.jpg[Destinataires,width=538,height=229]]
+image:../../wp-content/uploads/2016/09/Destinataires.jpg[Destinataires,width=538,height=229]
 
 Cliquer ensuite sur le bouton « suivant ».
 
@@ -259,7 +250,7 @@ Les options de distribution s’affichent dans la fenêtre ci-dessous.
 Renseignez les dates de début et de fin de distribution (1) ainsi que le
 temps de réalisation  (2).
 
-link:../../wp-content/uploads/2016/10/Options-Distribution.jpg[image:../../wp-content/uploads/2016/10/Options-Distribution.jpg[Options-Distribution,width=597,height=322]]
+image:../../wp-content/uploads/2016/10/Options-Distribution.jpg[Options-Distribution,width=597,height=322]
 
 En cochant la case « Autoriser l’élève à améliorer sa copie », l’élève
 aura la possibilité de revenir sur sa copie après la remise dans la
@@ -277,13 +268,13 @@ Cliquer sur « suivant » puis valider la distribution du sujet.
 [[enseignant---partager-un-sujet]]
 == Enseignant - Partager un sujet
 
-link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
+image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]
 
 Pour partager un sujet avec d’autres utilisateurs, cliquez sur la case à
 cocher correspondant au sujet (1) puis sur le bouton « Partager » (2).
 
-link:../../wp-content/uploads/2016/09/Partager-un-sujet.jpg[image:../../wp-content/uploads/2016/09/Partager-un-sujet.jpg[Partager
-un sujet,width=578,height=370]]
+image:../../wp-content/uploads/2016/09/Partager-un-sujet.jpg[Partager
+un sujet,width=578,height=370]
 
  
 
@@ -296,8 +287,8 @@ d’utilisateurs que vous recherchez.
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur
 attribuer.
 
-link:../../wp-content/uploads/2016/09/Fenêtre-de-partage.png[image:../../wp-content/uploads/2016/09/Fenêtre-de-partage.png[Fenêtre
-de partage,width=568,height=239]]
+image:../../wp-content/uploads/2016/09/Fenêtre-de-partage.png[Fenêtre
+de partage,width=568,height=239]
 
 Vous pouvez attribuer différents droits aux autres utilisateurs de
 l’ENT :
@@ -312,14 +303,13 @@ rubrique « Sujets partagés avec moi ». En fonction des droits accordés,
 elle a la possibilité de le modifier et de le distribuer en cliquant sur
 l’intitulé du sujet.
 
-link:../../wp-content/uploads/2016/09/Sujets-partagés-avec-moi.jpg[image:../../wp-content/uploads/2016/09/Sujets-partagés-avec-moi.jpg[Sujets
-partagés avec moi,width=544,height=275] +
-]
+image:../../wp-content/uploads/2016/09/Sujets-partagés-avec-moi.jpg[Sujets
+partagés avec moi,width=544,height=275]
 
 Elle peut aussi copier le sujet en cochant la case en bas à droite du
 sujet et faire des modifications dans sa propre version.
 
-link:../../wp-content/uploads/2016/09/Copier.jpg[image:../../wp-content/uploads/2016/09/Copier.jpg[Copier,width=544,height=38]]
+image:../../wp-content/uploads/2016/09/Copier.jpg[Copier,width=544,height=38]
 
 _Nota Bene : Contrairement à la publication de sujet dans la
 bibliothèque (cf. onglet dédié) cette fonction de partage est restreinte
@@ -336,13 +326,13 @@ et/ou gestion ont été ouverts._
 [[enseignant---corriger-un-sujet]]
 == Enseignant - Corriger un sujet
 
-link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
+image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]
 
 Pour corriger un sujet, cliquez sur l’onglet « Mes corrections » en haut
 à gauche de l’écran.
 
-link:../../wp-content/uploads/2016/09/Mes-corrections.jpg[image:../../wp-content/uploads/2016/09/Mes-corrections.jpg[Mes
-corrections,width=605,height=208]]
+image:../../wp-content/uploads/2016/09/Mes-corrections.jpg[Mes
+corrections,width=605,height=208]
 
 Cliquez sur le sujet que vous souhaitez corriger.
 
@@ -351,48 +341,46 @@ distribué le sujet.
 
 Cliquez sur le nom de l’élève pour corriger la copie (1).
 
-link:../../wp-content/uploads/2016/09/Corrections.jpg[image:../../wp-content/uploads/2016/09/Corrections.jpg[Corrections,width=600,height=131]]
+image:../../wp-content/uploads/2016/09/Corrections.jpg[Corrections,width=600,height=131]
 
 Vous pouvez cochez la case à gauche du nom de l’élève pour changer à la
 volée le statut de ou de plusieurs copies en "corrigé" (2).
 
 [[cas-d-usage-7]]
-[[enseignant---publier-un-sujet-dans-la-bibliothèque]]
 == Enseignant - Publier un sujet dans la bibliothèque
 
-link:../../wp-content/uploads/2016/09/Licence.png[ ]link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
+link:../../wp-content/uploads/2016/09/Licence.png[ ]image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]
 
 Si vous souhaitez publier votre propre sujet dans la bibliothèque. Il
 vous suffit de cliquer sur l’onglet « Mes sujets » et de cocher la case
 en bas à droite du sujet que vous voulez publier (1). Le bandeau orange
 en bas de l’écran s’affiche. Cliquez sur le bouton « publiez dans la
 bibliothèque »
-(2).link:../../wp-content/uploads/2016/09/Biliothèque-3.jpg[image:../../wp-content/uploads/2016/09/Biliothèque-3.jpg[Biliothèque
-3,width=581,height=366]]
+(2).image:../../wp-content/uploads/2016/09/Biliothèque-3.jpg[Biliothèque
+3,width=581,height=366]
 
 [[cas-d-usage-8]]
-[[enseignant---chercher-et-copier-un-sujet-dans-la-bibliothèque]]
 == Enseignant - Chercher et copier un sujet dans la bibliothèque
 
-link:../../wp-content/uploads/2016/09/Licence.png[ ]link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
+link:../../wp-content/uploads/2016/09/Licence.png[ ]image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]
 
 Pour retrouver un sujet dans la bibliothèque, cliquez sur l’onglet
 « Bibliothèque » en haut à gauche de l’écran. Vous pouvez ensuite
 rechercher un sujet par étiquettes (2), titre (3) ou à l’aide du filtre
 par matière ou niveau (4).
 
-link:../../wp-content/uploads/2016/09/Bibliothèque-1.jpg[image:../../wp-content/uploads/2016/09/Bibliothèque-1.jpg[Bibliothèque
-1,width=615,height=214]]
+image:../../wp-content/uploads/2016/09/Bibliothèque-1.jpg[Bibliothèque
+1,width=615,height=214]
 
 Il est possible de copier le sujet dans « Mes sujets » en cochant la
 case à droite du sujet (1) puis en cliquant sur le bouton « copier dans
 mes sujets » (2).
 
-link:../../wp-content/uploads/2016/09/Bibliothèque-2.jpg[image:../../wp-content/uploads/2016/09/Bibliothèque-2.jpg[Bibliothèque
-2,width=607,height=294]]
+image:../../wp-content/uploads/2016/09/Bibliothèque-2.jpg[Bibliothèque
+2,width=607,height=294]
 
 [[notes-de-versions]]
 [[section]]
 ==
 
-link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
+image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]

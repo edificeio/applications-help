@@ -11,7 +11,6 @@ fonctionnement de la pensée.
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
 [[presentation]]
-[[présentation]]
 == Présentation
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -28,7 +27,6 @@ selon les souhaits du créateur de la carte.
 image:../../wp-content/uploads/2015/04/Carte1.png[Carte1,width=654,height=215]
 
 [[cas-d-usage-1]]
-[[créer-une-carte-mentale]]
 == Créer une Carte Mentale
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC

@@ -21,7 +21,6 @@ groupe manuel]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
 [[presentation]]
-[[présentation]]
 == Présentation
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -40,7 +39,6 @@ image:../../wp-content/uploads/2015/03/Console-dadmin.png[Console
 d'admin,width=594,height=293]
 
 [[cas-d-usage-1]]
-[[accéder-à-la-console-dadministration]]
 == Accéder à la Console d’administration
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -71,7 +69,6 @@ Pour passer d’un menu à l’autre, glissez la souris sur le bandeau gris
 de navigation.
 
 [[cas-d-usage-2]]
-[[rechercher-un-utilisateur]]
 == Rechercher un utilisateur
 
 
@@ -149,7 +146,6 @@ image:../../wp-content/uploads/2015/07/a15.png[a15,width=598,height=299]
  
 
 [[cas-d-usage-3]]
-[[examiner-la-fiche-dun-utilisateur]]
 == Examiner la fiche d’un utilisateur
 
 
@@ -258,7 +254,6 @@ Lorsqu’un utilisateur est  bloqué, il n’apparait plus dans l’annuaire et
 dans les écrans de partage des autres utilisateurs.
 
 [[cas-d-usage-4]]
-[[opérations-sur-les-classes]]
 == Opérations sur les classes
 
 
@@ -310,9 +305,7 @@ de l’espace de stockage (3) puis cliquez sur « Enregistrer » (4).
 image:../../wp-content/uploads/2015/07/a54.png[a5,width=523,height=350]
 
 [[cas-d-usage-5]]
-[[opérations-sur-les-groupes]]
 == Opérations sur les groupes
-
 
 
 *1. Créer un groupe manuel*
@@ -353,7 +346,6 @@ communication pour qu’il puisse communiquer et être vu par d’autres
 utilisateurs de l’ENT.
 
 [[cas-d-usage-6]]
-[[exporter-tous-les-comptes-dun-établissement]]
 == Exporter tous les comptes d’un établissement
 
 
@@ -401,7 +393,6 @@ colonne est vide.
  
 
 [[cas-d-usage-7]]
-[[les-règles-de-communication]]
 == Les règles de communication
 
 
@@ -493,7 +484,6 @@ image:../../wp-content/uploads/2015/07/a43.png[a4,width=645,height=286]
 Les règles sont bien établies.
 
 [[cas-d-usage-8]]
-[[cas-dusage-de-création-dun-groupe-manuel]]
 == Cas d’usage de création d’un groupe manuel
 
 
@@ -546,7 +536,7 @@ image:../../wp-content/uploads/2015/07/a113.png[a1,width=655,height=264]
 (communication sortante)
 
 Dans ces deux cas, les membres ne verront pas le groupe. +
-link:../../wp-content/uploads/2015/07/a83.png[image:../../wp-content/uploads/2015/07/a83.png[a8,width=597,height=241]]
+image:../../wp-content/uploads/2015/07/a83.png[a8,width=597,height=241]
 
 *3. Ajouter des droits de communication*
 
@@ -563,7 +553,6 @@ Pour rendre votre groupe visible par d’autres personnes, sélectionnez le
 groupe qui doit le voir dans la partie de gauche (1) puis sélectionnez
 le groupe à rendre visible dans la partie droite (2).
 
-link:../../wp-content/uploads/2015/07/a83.png[ +
 image:../../wp-content/uploads/2015/07/a101.png[a10,width=567,height=365] +
 ]
 

@@ -9,7 +9,6 @@ et partagés dans leur espace documentaire.
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
 [[presentation]]
-[[présentation]]
 == Présentation
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -39,8 +38,8 @@ prévenu que s'il n'a pas le temps d'attendre la fin de la génération de
 l'archive, il trouvera un lien vers cette archive dans son fil de
 nouveautés.
 
-link:../../wp-content/uploads/2016/01/Export_avertissement.png[image:../../wp-content/uploads/2016/01/Export_avertissement.png[Export_avertissement,width=431,height=228]] +
+image:../../wp-content/uploads/2016/01/Export_avertissement.png[Export_avertissement,width=431,height=228] +
 Si l'utilisateur sort de la page sans récupérer son archive, il peut
 alors la retrouver dans le fil de notifications.
 
-link:../../wp-content/uploads/2016/01/Export_notif.png[image:../../wp-content/uploads/2016/01/Export_notif.png[Export_notif,width=600,height=88]]
+image:../../wp-content/uploads/2016/01/Export_notif.png[Export_notif,width=600,height=88]

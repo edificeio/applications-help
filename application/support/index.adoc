@@ -11,7 +11,6 @@ support]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
 [[presentation]]
-[[présentation]]
 == Présentation
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -28,7 +27,6 @@ jour* ou **changer son statut**. L’utilisateur recevra à son tour une
 image:../../wp-content/uploads/2016/08/aide_1-1024x248.png[image,width=600,height=145]
 
 [[cas-d-usage-1]]
-[[créer-une-demande]]
 == Créer une demande
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -57,8 +55,8 @@ d’écran ou un document pour illustrer votre propos.
 La saisie est enregistrée lorsque vous cliquez sur le bouton
 « Enregistrer »(6).
 
-link:../../wp-content/uploads/2016/04/4-Assistance-ENT.png[image:../../wp-content/uploads/2016/04/4-Assistance-ENT-1024x370.png[4-
-Assistance ENT,width=601,height=217]]
+image:../../wp-content/uploads/2016/04/4-Assistance-ENT-1024x370.png[4-
+Assistance ENT,width=601,height=217]
 
 La création d’une nouvelle demande donne lieu à l'envoi d'une
 notification dans le fil de nouveautés de l’administrateur de
@@ -76,8 +74,8 @@ Les référents ENT reçoivent toutes les demandes des utilisateurs et
 peuvent choisir d'y répondre ou de la transmettre au service de support.
 Pour ce faire, les référents ENT doivent cliquer sur le texte en forme
 de lien "Transmettre la demande au support" (1). +
-link:../../wp-content/uploads/2016/04/6-Assistance-ENT.png[image:../../wp-content/uploads/2016/04/6-Assistance-ENT-1024x286.png[6-
-Assistance ENT,width=612,height=171]] +
+image:../../wp-content/uploads/2016/04/6-Assistance-ENT-1024x286.png[6-
+Assistance ENT,width=612,height=171] +
 Les référents ENT et les demandeurs de l'établissement seront notifiés
 sur leur fil de nouveauté lorsque le support aura fourni une réponse à
 la demande.

@@ -14,7 +14,6 @@ codes d'activation]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
 [[presentation]]
-[[présentation]]
 == Présentation
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -27,7 +26,6 @@ classe, d’activer de nouveaux services pour la classe, modifier le nom
 de la classe, etc.
 
 [[cas-d-usage-1]]
-[[créer-des-utilisateurs-dans-la-classe]]
 == Créer des utilisateurs dans la classe
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC

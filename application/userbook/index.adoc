@@ -18,7 +18,6 @@ notifications émises]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
 [[presentation]]
-[[accéder-à-mon-compte]]
 == Accéder à mon compte
 
 
@@ -136,7 +135,6 @@ En cas d’oubli de votre mot de passe, un lien de récupération vous sera
 envoyé sur l’adresse mail renseignée dans votre compte.
 
 [[cas-d-usage-5]]
-[[ajouter-une-devise-à-mon-compte]]
 == Ajouter une devise à mon compte
 
 
@@ -171,7 +169,6 @@ visible dans le fil de nouveautés des autres utilisateurs de l’ENT avec
 lesquels vous avez le droit de communiquer.
 
 [[cas-d-usage-7]]
-[[modifier-mes-centres-dintérêt]]
 == Modifier mes centres d'intérêt
 
 
@@ -190,7 +187,6 @@ Mais aussi d'autres commentaires dans « Divers ».
 image:../../wp-content/uploads/2015/07/m15.png[m15,width=620,height=118]
 
 [[cas-d-usage-8]]
-[[définir-la-visibilité-de-mes-informations-personnelles]]
 == Définir la visibilité de mes informations personnelles
 
 
@@ -232,8 +228,8 @@ hebdomadaire). +
 Pour accéder à ce paramétrage, aller dans mon compte (1) et cliquer sur
 le bouton "Gérer mes notifications externes" (2)
 
-link:../../wp-content/uploads/2016/12/notif-ext2.png[image:../../wp-content/uploads/2016/12/notif-ext2.png[notif
-ext2,width=599,height=241]]
+image:../../wp-content/uploads/2016/12/notif-ext2.png[notif
+ext2,width=599,height=241]
 
 La page de paramétrage des notifications externes permet de modifier
 l'adresse de réception des mails (3) et de choisir la fréquence d'envoi
@@ -255,11 +251,10 @@ contenu. S'il n'est pas connecté à l'ENT, il devra saisir son
 identifiant et son mot de passe pour accéder à l'objet de la
 notification.
 
-link:../../wp-content/uploads/2016/12/notif-externe-réception.png[image:../../wp-content/uploads/2016/12/notif-externe-réception.png[notif
-externe - réception,width=500,height=268]]
+image:../../wp-content/uploads/2016/12/notif-externe-réception.png[notif
+externe - réception,width=500,height=268]
 
 [[cas-d-usage-10]]
-[[historique-des-notifications-émises]]
 == Historique des notifications émises
 
 
@@ -270,13 +265,13 @@ avez partagé du contenu. +
 Depuis votre espace "Mon compte", vous retrouverez toutes les
 notifications que vous avez émis en cliquant sur l'onglet
 "Historique". +
-link:../../wp-content/uploads/2016/12/Fil-historique.png[image:../../wp-content/uploads/2016/12/Fil-historique.png[Fil
-- historique,width=599,height=219]]En survolant la notification avec la
+image:../../wp-content/uploads/2016/12/Fil-historique.png[Fil
+- historique,width=599,height=219]En survolant la notification avec la
 souris, vous verrez apparaître une flèche sur la droite de la
 notification. En cliquant sur cette flèche, une action apparaît vous
 permettant de supprimer définitivement la notification de l'ENT. +
-link:../../wp-content/uploads/2016/12/Fil-historique-suppression.png[image:../../wp-content/uploads/2016/12/Fil-historique-suppression.png[Fil
-- historique suppression,width=550,height=95]]
+image:../../wp-content/uploads/2016/12/Fil-historique-suppression.png[Fil
+- historique suppression,width=550,height=95]
 
 [[notes-de-versions]]
 [[note-de-version]]

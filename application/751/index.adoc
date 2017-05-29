@@ -12,10 +12,9 @@ textes]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
 [[presentation]]
-[[présentation]]
 == Présentation
 
-link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
+image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]
 
 Il est facile de publier les devoirs des élèves dans le cahier de
 textes. Les élèves y accèdent  jour par jour et disposent également
@@ -28,10 +27,9 @@ image:../../wp-content/uploads/2015/05/cahier-de-textes.png[cahier de
 textes,width=408,height=343]
 
 [[cas-d-usage-1]]
-[[créer-un-cahier-de-textes]]
 == Créer un cahier de textes
 
-link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
+image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]
 
 Pour accéder à l’appli Cahier de textes, cliquez sur l’icône
 correspondante dans la page « Mes applis ». +
@@ -49,7 +47,7 @@ Votre cahier est désormais créé mais n’est pas encore visible.
 [[partager-un-cahier-de-textes]]
 == Partager un cahier de textes
 
-link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
+image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]
 
 Pour partager un cahier de textes avec d’autres utilisateurs, cliquez
 sur la case à cocher (1) située à côté du cahier puis sur « Partager »
@@ -77,10 +75,9 @@ de textes
 de textes
 
 [[cas-d-usage-3]]
-[[créer-une-activité]]
 == Créer une activité
 
-link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
+image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]
 
 Une fois votre cahier de textes créé, vous pouvez y ajouter des
 activités.
@@ -124,7 +121,7 @@ calendrier
 [[note-de-version]]
 == Note de version
 
-link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
+image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]
 
 A chaque nouvelle version de l'application, les nouveautés seront
 présentées dans cette section.

@@ -18,7 +18,6 @@ activés]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
 [[presentation]]
-[[présentation]]
 == Présentation
 
 
@@ -63,7 +62,6 @@ un fichier au format CSV (6).
 image:../../wp-content/uploads/2016/01/STAT-21-1024x442.png[image,width=600,height=259]
 
 [[cas-d-usage-2]]
-[[statistiques-daccès-aux-applications]]
 == Statistiques d’accès aux applications
 
 
@@ -127,7 +125,6 @@ un fichier au format CSV (6).
 image:../../wp-content/uploads/2016/01/STAT-5-1024x441.png[image,width=600,height=259]
 
 [[cas-d-usage-5]]
-[[statistiques-des-comptes-activés]]
 == Statistiques des comptes activés
 
 
@@ -135,7 +132,7 @@ image:../../wp-content/uploads/2016/01/STAT-5-1024x441.png[image,width=600,heigh
 Pour accéder à l’appli Statistiques, cliquez sur l’icône correspondante
 dans la page « Mes applis ».
 
-link:../../wp-content/uploads/2015/07/s2.png[image:../../wp-content/uploads/2015/07/s2.png[s2,width=124,height=125]]
+image:../../wp-content/uploads/2015/07/s2.png[s2,width=124,height=125]
 
 Cliquez sur l’indicateur «Comptes activés» puis choisissez la période
 pour laquelle vous souhaitez voir apparaître les statistiques en
@@ -144,7 +141,7 @@ Cliquez sur « Afficher le diagramme » (4) pour afficher les
 résultats.Vous pouvez exporter les résultats dans un fichier au format
 CSV (5).
 
-link:../../wp-content/uploads/2016/01/STAT-61.png[image:../../wp-content/uploads/2016/01/STAT-61.png[STAT-6,width=599,height=259]]
+image:../../wp-content/uploads/2016/01/STAT-61.png[STAT-6,width=599,height=259]
 
 [[notes-de-versions]]
 [[note-de-version]]
@@ -158,5 +155,3 @@ Nouveauté de la version 0.14
 
 Afin de faciliter la lecture des diagrammes, le total de chaque mois est
 calculé et affiché au-dessous de la barre correspondante.
-
- 

@@ -13,7 +13,6 @@ page]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
 [[presentation]]
-[[présentation]]
 == Présentation
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -31,7 +30,6 @@ image:../../wp-content/uploads/2016/04/Sonage_Pres.png[Sonage_Pres,width=570,hei
  
 
 [[cas-d-usage-1]]
-[[créer-un-sondage]]
 == Créer un sondage
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -84,7 +82,6 @@ image:../../wp-content/uploads/2015/06/s5.png[s5,width=468,height=340] +
 Votre sondage est bien créé et partagé.
 
 [[cas-d-usage-3]]
-[[insérer-un-sondage-dans-une-page]]
 == Insérer un sondage dans une page
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC

@@ -12,7 +12,6 @@ communauté]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
 [[presentation]]
-[[présentation]]
 == Présentation
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -29,7 +28,6 @@ documents, forum, pages...).
 image:../../wp-content/uploads/2016/04/Communaut_Pres-ConvertImage.png[Communaut_Pres-ConvertImage,width=600,height=266]
 
 [[cas-d-usage-1]]
-[[créer-et-partager-une-communauté]]
 == Créer et partager une communauté
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC

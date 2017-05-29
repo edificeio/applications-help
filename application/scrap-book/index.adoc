@@ -15,10 +15,9 @@ cahier multimédia]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
 [[presentation]]
-[[présentation]]
 == Présentation
 
-link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
+image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]
 
 Les cahiers créés peuvent être utilisés comme des *supports de
 restitution* de travaux ou encore comme *outil de communication* avec
@@ -29,15 +28,13 @@ Les utilisateurs ayant des droits de contribution dans le cahier
 choisissent le nombre de pages du cahier et la mise en forme qu'ils
 souhaitent appliquer à chaque page.
 
-link:../../wp-content/uploads/2015/03/casier1.png[image:../../wp-content/uploads/2015/04/Cahier-multimédia.jpg[Cahier
-multimédia,width=451,height=383] +
-]
+image:../../wp-content/uploads/2015/04/Cahier-multimédia.jpg[Cahier
+multimédia,width=451,height=383]
 
 [[cas-d-usage-1]]
-[[créer-et-partager-un-cahier-multimédia]]
 == Créer et partager un cahier multimédia
 
-link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
+image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]
 
 Pour accéder à l’appli Cahier multimédia, cliquez sur l’icône
 correspondante dans la page « Mes
@@ -74,10 +71,9 @@ cases correspondant aux droits que vous souhaitez leur attribuer (3).
 image:../../wp-content/uploads/2015/06/m53.png[m5,width=366,height=311]
 
 [[cas-d-usage-2]]
-[[editer-les-pages-du-cahier-multimédia]]
 == Editer les pages du cahier multimédia
 
-link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
+image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]
 
 Une
 fois http://one1d.fr/aide-support/aide-support/7-cahier-multimedia/creer-et-partager-un-cahier-multimedia/[votre
@@ -88,8 +84,7 @@ image:../../wp-content/uploads/2015/06/m18.png[m1,width=467,height=243]
 
 Lorsque le cahier est affiché à l’écran, cliquez sur « Modifier ».
 
-link:../../wp-content/uploads/2015/06/m43.png[image:../../wp-content/uploads/2015/06/m43.png[m4,width=470,height=382] +
-]
+image:../../wp-content/uploads/2015/06/m43.png[m4,width=470,height=382]
 
 Pour ajouter de nouvelles pages, cliquez sur « Ajouter une page » (1) ou
 sur la flèche à droite du cahier (2).
@@ -129,10 +124,9 @@ N’oubliez pas d’enregistrer vos travaux avant de quitter la page en
 cliquant sur « Sauvegarder ».
 
 [[cas-d-usage-3]]
-[[publier-une-vidéo-dans-un-cahier-multimédia]]
 == Publier une vidéo dans un cahier multimédia
 
-link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
+image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]
 
 Il est possible d’ajouter dans vos cahiers multimédia des vidéos
 stockées sur des plateformes d’hébergement comme Youtube, Dailymotion,
@@ -173,7 +167,7 @@ Votre cahier est complété et la vidéo prête à être regardée !
 [[note-de-version]]
 == Note de version
 
-link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
+image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]
 
 A chaque nouvelle version de l'application, les nouveautés seront
 présentées dans cette section.

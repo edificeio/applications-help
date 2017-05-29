@@ -13,7 +13,6 @@ collaboratif]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
 [[presentation]]
-[[présentation]]
 == Présentation
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -30,7 +29,6 @@ chaque participant au mur.
 image:../../wp-content/uploads/2015/06/m112.png[m1,width=715,height=356]
 
 [[cas-d-usage-1]]
-[[créer-et-partager-un-mur-collaboratif]]
 == Créer et partager un mur collaboratif
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC

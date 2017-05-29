@@ -11,10 +11,9 @@ disponibles]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
 [[presentation]]
-[[présentation]]
 == Présentation
 
-link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
+image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]
 
 L’appli Statistiques vous propose de suivre *sept indicateurs* calculés
 sur *une période donnée* (soit sur le mois écoulé, soit depuis le 1er
@@ -38,10 +37,9 @@ image:../../wp-content/uploads/2015/04/Stats-1.jpg[Stats
 1,width=329,height=365]
 
 [[cas-d-usage-1]]
-[[comprendre-les-données-disponibles]]
 == Comprendre les données disponibles
 
-link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
+image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]
 
 Pour accéder à l’appli Statistiques, cliquez sur l’icône correspondante
 dans la page « Mes applis ».
@@ -71,7 +69,7 @@ image:../../wp-content/uploads/2015/06/s31.png[s3,width=467,height=313]
 [[note-de-version]]
 == Note de version
 
-link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
+image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]
 
 A chaque nouvelle version de l'application, les nouveautés seront
 présentées dans cette section.

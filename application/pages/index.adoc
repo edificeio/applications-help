@@ -12,7 +12,6 @@ page]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
 [[presentation]]
-[[présentation]]
 == Présentation
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -29,11 +28,10 @@ frise chronologique, un wiki, ou un forum existant, la page sera
 automatiquement mise à jour avec les nouvelles publications effectuées
 dans le blog, la frise, le wiki ou le forum.
 
-link:../../wp-content/uploads/2017/04/Captures-Pages-1.png[image:../../wp-content/uploads/2017/04/Captures-Pages-1.png[Captures
-Pages 1,width=643,height=413]]
+image:../../wp-content/uploads/2017/04/Captures-Pages-1.png[Captures
+Pages 1,width=643,height=413]
 
 [[cas-d-usage-1]]
-[[créer-un-projet]]
 == Créer un projet
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -53,19 +51,19 @@ si elle dispose du lien.
 
  
 
-link:../../wp-content/uploads/2017/04/Captures-Pages-2.png[image:../../wp-content/uploads/2017/04/Captures-Pages-2.png[Captures
-Pages 2,width=618,height=280]]
+image:../../wp-content/uploads/2017/04/Captures-Pages-2.png[Captures
+Pages 2,width=618,height=280]
 
-link:../../wp-content/uploads/2017/04/Capture-Pages-3.png[image:../../wp-content/uploads/2017/04/Capture-Pages-3.png[Capture
-Pages 3,width=620,height=276]]
+image:../../wp-content/uploads/2017/04/Capture-Pages-3.png[Capture
+Pages 3,width=620,height=276]
 
  
 
 Dans la fenêtre, saisissez le titre de votre site (3) puis cliquez sur
 le bouton « Créer » (4)
 
-link:../../wp-content/uploads/2017/04/Captures-Pages-4.png[image:../../wp-content/uploads/2017/04/Captures-Pages-4.png[Captures
-Pages 4,width=608,height=319]]
+image:../../wp-content/uploads/2017/04/Captures-Pages-4.png[Captures
+Pages 4,width=608,height=319]
 
 Votre site web est maintenant créé, vous pouvez le compléter en y
 intégrant des contenus.
@@ -83,8 +81,8 @@ suivantes :
 1.  Sélectionnez la case à cochez de la page (1)
 2.  Cliquez sur le bouton "Partager" (2)
 
-link:../../wp-content/uploads/2017/04/Captures-Pages-5.png[image:../../wp-content/uploads/2017/04/Captures-Pages-5.png[Captures
-Pages 5,width=705,height=315]]
+image:../../wp-content/uploads/2017/04/Captures-Pages-5.png[Captures
+Pages 5,width=705,height=315]
 
 La fenêtre de partage apparaît. Pour attribuer des droits à d’autres
 utilisateurs, suivez les étapes suivantes :
@@ -106,7 +104,6 @@ soumises avant publication
 * Gérer : l’utilisateur peut modifier, partager ou supprimer la page
 
 [[cas-d-usage-3]]
-[[créer-et-éditer-une-nouvelle-page]]
 == Créer et éditer une nouvelle page
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -117,10 +114,10 @@ Pour créer une nouvelle page, vous pouvez   :
 * Cliquer sur l'icône d'ajout d'une page sur lorsque vous éditez votre
 projet (1)
 
-link:../../wp-content/uploads/2017/04/Captures-Pages-6.png[image:../../wp-content/uploads/2017/04/Captures-Pages-6.png[Captures
-Pages 6,width=681,height=269]]
+image:../../wp-content/uploads/2017/04/Captures-Pages-6.png[Captures
+Pages 6,width=681,height=269]
 
 * Ou cliquer sur gérer les pages (2), puis sur "nouvelle page" (3)
 
- link:../../wp-content/uploads/2017/04/Capture-Pages-7.png[image:../../wp-content/uploads/2017/04/Capture-Pages-7.png[Capture
-Pages 7,width=683,height=280]]
+image:../../wp-content/uploads/2017/04/Capture-Pages-7.png[Capture
+Pages 7,width=683,height=280]

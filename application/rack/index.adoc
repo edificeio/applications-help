@@ -15,7 +15,6 @@ vers l'appli Documents]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
 [[presentation]]
-[[présentation]]
 == Présentation
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -39,7 +38,6 @@ de le modifier, ni de le supprimer a posteriori**. Il est néanmoins
 possible de faire un second envoi avec une nouvelle version du document.
 
 [[cas-d-usage-1]]
-[[déposer-un-document-dans-un-casier]]
 == Déposer un document dans un casier
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -48,8 +46,8 @@ BY-NC-SA 3.0 FR,width=100,height=35]]
 Pour déposer un document dans le casier d'un autre utilisateur, accédez
 à l'appli Casier puis cliquez sur le bouton « Déposer dans un casier ».
 
-link:../../wp-content/uploads/2016/08/rack-déposer-casier.png[image:../../wp-content/uploads/2016/08/rack-déposer-casier-1024x279.png[rack
-- déposer casier,width=628,height=171]]
+image:../../wp-content/uploads/2016/08/rack-déposer-casier-1024x279.png[rack
+- déposer casier,width=628,height=171]
 
 Dans la nouvelle fenêtre, cliquez sur « Parcourir » (1) pour
 sélectionner sur votre ordinateur le document à envoyer puis
@@ -67,7 +65,6 @@ image:../../wp-content/uploads/2016/04/Casier3.png[Casier3,width=600,height=564]
  
 
 [[cas-d-usage-2]]
-[[sélection-et-action-sur-les-documents]]
 == Sélection et action sur les documents
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -85,8 +82,8 @@ image:../../wp-content/uploads/2016/08/rack-tous-sélectionnés2-1024x512.png[ra
 Vous disposez également d'un bouton "télécharger" (1) sur chaque fichier
 si vous souhaitez télécharger directement le fichier sur votre
 ordinateur. +
-link:../../wp-content/uploads/2016/08/rack-bouton-télécharger2.png[image:../../wp-content/uploads/2016/08/rack-bouton-télécharger2.png[rack
-- bouton télécharger2,width=110,height=102]]
+image:../../wp-content/uploads/2016/08/rack-bouton-télécharger2.png[rack
+- bouton télécharger2,width=110,height=102]
 
 [[cas-d-usage-3]]
 [[copier-un-document-du-casier-vers-lappli-documents]]
