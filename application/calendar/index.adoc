@@ -1,9 +1,4 @@
-[[agenda]]
-= Agenda
-
-L’appli *Agenda* permet la création et la visualisation d’événements
-sous forme d’un calendrier ou d’une liste.
-
+[[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Créer un agenda]
 * link:index.html?iframe=true#cas-d-usage-2[Créer un événement]
@@ -14,6 +9,9 @@ d'un agenda]
 
 [[presentation]]
 == Présentation
+
+L’appli *Agenda* permet la création et la visualisation d’événements
+sous forme d’un calendrier ou d’une liste.
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]

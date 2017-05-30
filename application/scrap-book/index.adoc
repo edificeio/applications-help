@@ -1,10 +1,4 @@
-[[cahier-multimédia]]
-= Cahier multimédia
-
-L’appli *Cahier multimédia* est un outil de création et publication de
-contenus multimédia (son, image, texte, vidéo…) offrant une grande
-souplesse de mise en page.  
-
+[[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Créer et partager un cahier
 multimédia]
@@ -16,6 +10,10 @@ cahier multimédia]
 
 [[presentation]]
 == Présentation
+
+L’appli *Cahier multimédia* est un outil de création et publication de
+contenus multimédia (son, image, texte, vidéo…) offrant une grande
+souplesse de mise en page.  
 
 image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]
 

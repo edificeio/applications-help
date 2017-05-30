@@ -1,10 +1,4 @@
-[[blog]]
-= Blog
-
-Le *Blog* est un outil de communication permettant la publication
-périodique et régulière de nouveaux articles (les billets), généralement
-succincts, et rendant compte d’une actualité autour d’un sujet donné.
-
+[[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Créer un blog]
 * link:index.html?iframe=true#cas-d-usage-2[Partager un blog]
@@ -15,8 +9,11 @@ publication]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
 [[presentation]]
-
 == Présentation
+
+Le *Blog* est un outil de communication permettant la publication
+périodique et régulière de nouveaux articles (les billets), généralement
+succincts, et rendant compte d’une actualité autour d’un sujet donné.
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]

@@ -1,6 +1,4 @@
-[[mon-compte]]
-= Mon compte
-
+[[summary]]
 * link:index.html?iframe=true#presentation[Accéder à mon compte]
 * link:index.html?iframe=true#cas-d-usage-2[Changer ma photo de profil]
 * link:index.html?iframe=true#cas-d-usage-3[Changer de mot de passe]
@@ -19,8 +17,6 @@ notifications émises]
 
 [[presentation]]
 == Accéder à mon compte
-
-
 
 Pour mettre à jour votre humeur, votre devise, votre photo et vos autres
 informations personnelles, vous disposez d’un espace dédié. Vous pouvez

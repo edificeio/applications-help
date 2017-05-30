@@ -1,10 +1,4 @@
-[[statistiques-2d]]
-= Statistiques 2D
-
-L’appli **Statistiques** permet de suivre un ensemble d’indicateurs sur
-la fréquentation de l'ENT sur une période donnée (nombre de visiteurs ou
-fréquentation par application par exemple).
-
+[[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Statistiques de connexion]
 * link:index.html?iframe=true#cas-d-usage-2[Statistiques d’accès aux
@@ -20,7 +14,9 @@ activés]
 [[presentation]]
 == Présentation
 
-
+L’appli **Statistiques** permet de suivre un ensemble d’indicateurs sur
+la fréquentation de l'ENT sur une période donnée (nombre de visiteurs ou
+fréquentation par application par exemple).
 
 L’appli Statistiques vous propose de suivre
 **cinq indicateurs** calculés sur *une période donnée* *(vous pouvez

@@ -1,9 +1,4 @@
-[[pad-collaboratif]]
-= Pad collaboratif
-
-L’appli *Pad collaboratif* permet de travailler à plusieurs personnes et
-en temps réel sur un éditeur de texte en ligne.
-
+[[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Créer un Pad]
 * link:index.html?iframe=true#cas-d-usage-2[Partager un Pad]
@@ -12,6 +7,9 @@ en temps réel sur un éditeur de texte en ligne.
 
 [[presentation]]
 == Présentation
+
+L’appli *Pad collaboratif* permet de travailler à plusieurs personnes et
+en temps réel sur un éditeur de texte en ligne.
 
 image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051-300x105.png[CC-BY-NC-SA-3.0-FR-300x105,width=111,height=39]
 

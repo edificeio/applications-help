@@ -1,6 +1,4 @@
-[[premiers-pas-dans-lent]]
-= Premiers pas dans l’ENT
-
+[[summary]]
 * link:index.html?iframe=true#presentation[La page d'accueil]
 * link:index.html?iframe=true#cas-d-usage-1[Le fil de nouveautés]
 * link:index.html?iframe=true#cas-d-usage-2[Suppression et signalement des notifications]

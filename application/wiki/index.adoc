@@ -1,10 +1,4 @@
-[[wiki]]
-= Wiki
-
-Un *Wiki* est un ensemble de pages modifiables par les utilisateurs
-habilités afin de permettre l'écriture et l'illustration collaboratives
-des documents numériques qu'il contient.
-
+[[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Créer un Wiki]
 * link:index.html?iframe=true#cas-d-usage-2[Partager un Wiki]
@@ -16,6 +10,10 @@ pages]
 
 [[presentation]]
 == Présentation
+
+Un *Wiki* est un ensemble de pages modifiables par les utilisateurs
+habilités afin de permettre l'écriture et l'illustration collaboratives
+des documents numériques qu'il contient.
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]

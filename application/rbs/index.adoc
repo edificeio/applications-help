@@ -1,10 +1,4 @@
-[[réservation-de-ressources]]
-= Réservation de ressources
-
-Le service *Réservation de Ressources* permet aux utilisateurs de
-réserver en ligne des ressources (matériel, salles, véhicules, etc.)
-pré-configurées par l'établissement.
-
+[[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Consulter les ressources
 disponibles]
@@ -18,6 +12,10 @@ ressources]
 
 [[presentation]]
 == Présentation
+
+Le service *Réservation de Ressources* permet aux utilisateurs de
+réserver en ligne des ressources (matériel, salles, véhicules, etc.)
+pré-configurées par l'établissement.
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]

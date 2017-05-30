@@ -1,9 +1,4 @@
-[[cahier-de-textes-1d]]
-= Cahier de textes 1D
-
-L’appli Cahier de textes permet de planifier et d’organiser les
-activités des élèves en fonction des jours de la semaine.
-
+[[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Créer un cahier de textes]
 * link:index.html?iframe=true#cas-d-usage-2[Partager un cahier de
@@ -13,6 +8,9 @@ textes]
 
 [[presentation]]
 == Présentation
+
+L’appli Cahier de textes permet de planifier et d’organiser les
+activités des élèves en fonction des jours de la semaine.
 
 image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]
 
