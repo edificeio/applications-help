@@ -1,4 +1,9 @@
-[[summary]]
+[[aide-support]]
+= Aide & Support
+
+L’appli *Aide & Support* permet de signaler une difficulté ou un
+problème d'utilisation de l'ENT aux administrateurs de l'établissement.
+
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Créer une demande]
 * link:index.html?iframe=true#cas-d-usage-2[Transmettre la demande au
@@ -7,9 +12,6 @@ support]
 
 [[presentation]]
 == Présentation
-
-L’appli *Aide & Support* permet de signaler une difficulté ou un
-problème d'utilisation de l'ENT aux administrateurs de l'établissement.
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
@@ -53,15 +55,14 @@ d’écran ou un document pour illustrer votre propos.
 La saisie est enregistrée lorsque vous cliquez sur le bouton
 « Enregistrer »(6).
 
-image:../../wp-content/uploads/2016/04/4-Assistance-ENT-1024x370.png[4-
-Assistance ENT,width=601,height=217]
+link:../../wp-content/uploads/2016/04/4-Assistance-ENT.png[image:../../wp-content/uploads/2016/04/4-Assistance-ENT-1024x370.png[4-
+Assistance ENT,width=601,height=217]]
 
 La création d’une nouvelle demande donne lieu à l'envoi d'une
 notification dans le fil de nouveautés de l’administrateur de
 l'établissement.
 
 [[cas-d-usage-2]]
-[[transmettre-la-demande-au-support]]
 == Transmettre la demande au support
 
 
@@ -72,8 +73,8 @@ Les référents ENT reçoivent toutes les demandes des utilisateurs et
 peuvent choisir d'y répondre ou de la transmettre au service de support.
 Pour ce faire, les référents ENT doivent cliquer sur le texte en forme
 de lien "Transmettre la demande au support" (1). +
-image:../../wp-content/uploads/2016/04/6-Assistance-ENT-1024x286.png[6-
-Assistance ENT,width=612,height=171] +
+link:../../wp-content/uploads/2016/04/6-Assistance-ENT.png[image:../../wp-content/uploads/2016/04/6-Assistance-ENT-1024x286.png[6-
+Assistance ENT,width=612,height=171]] +
 Les référents ENT et les demandeurs de l'établissement seront notifiés
 sur leur fil de nouveauté lorsque le support aura fourni une réponse à
 la demande.
@@ -85,7 +86,6 @@ image:../../wp-content/uploads/2016/08/aide_3-1024x455.png[aide_3,width=600,heig
 image:../../wp-content/uploads/2016/08/aide_4-1024x432.png[aide_4,width=600,height=253]
 
 [[notes-de-versions]]
-[[note-de-version]]
 == Note de version
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC

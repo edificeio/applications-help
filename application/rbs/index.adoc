@@ -1,4 +1,10 @@
-[[summary]]
+[[réservation-de-ressources]]
+= Réservation de ressources
+
+Le service *Réservation de Ressources* permet aux utilisateurs de
+réserver en ligne des ressources (matériel, salles, véhicules, etc.)
+pré-configurées par l'établissement.
+
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Consulter les ressources
 disponibles]
@@ -12,10 +18,6 @@ ressources]
 
 [[presentation]]
 == Présentation
-
-Le service *Réservation de Ressources* permet aux utilisateurs de
-réserver en ligne des ressources (matériel, salles, véhicules, etc.)
-pré-configurées par l'établissement.
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
@@ -31,10 +33,9 @@ place un *principe de validation des réservations* pour certaines
 ressources et définir plusieurs paramètres (comme par exemple la date à
 partir de laquelle une réservation peut être effectuée).
 
-image:../../wp-content/uploads/2016/01/RBS_PRESENTATION.png[image,width=602,height=237]
+link:../../wp-content/uploads/2016/01/RBS_PRESENTATION.png[image:../../wp-content/uploads/2016/01/RBS_PRESENTATION.png[image,width=602,height=237]]
 
 [[cas-d-usage-1]]
-[[consulter-les-ressources-disponibles]]
 == Consulter les ressources disponibles
 
 
@@ -62,7 +63,7 @@ L’utilisateur dispose d’un certain nombre de *filtres* :
 * Filtre pour afficher uniquement les réservations **en attente de
 validation**(5)
 
-image:../../wp-content/uploads/2016/01/RBS-Vue-Calendrier.png[image,width=602,height=240]
+link:../../wp-content/uploads/2016/01/RBS-Vue-Calendrier.png[image:../../wp-content/uploads/2016/01/RBS-Vue-Calendrier.png[image,width=602,height=240]]
 
 Chaque réservation est matérialisée sur le calendrier par un pavé de la
 même couleur que le type de ressource concerné.
@@ -72,7 +73,7 @@ même couleur que le type de ressource concerné.
 * La réservation a été refusée. (3)
 * Il s’agit d’une réservation périodique. (4)
 
-image:../../wp-content/uploads/2016/01/RBS-Vue-Calendrier-2.png[image,width=602,height=275] +
+link:../../wp-content/uploads/2016/01/RBS-Vue-Calendrier-2.png[image:../../wp-content/uploads/2016/01/RBS-Vue-Calendrier-2.png[image,width=602,height=275]] +
 Pour visualiser le détail d’une réservation, il suffit de cliquer sur la
 réservation en question, pour afficher une fenêtre (pop-up) qui présente
 plusieurs sections. Chaque section se déplie en cliquant sur le titre.
@@ -99,7 +100,7 @@ Il bénéficie par ailleurs des mêmes filtres que sur la vue Calendrier.
 Le tri peut être fait sur toutes les colonnes du tableau : demandeur,
 ressource, date de début, date de fin et état.
 
-*image:../../wp-content/uploads/2016/01/RBS-VUE-LISTE.png[image,width=603,height=235]*
+*link:../../wp-content/uploads/2016/01/RBS-VUE-LISTE.png[image:../../wp-content/uploads/2016/01/RBS-VUE-LISTE.png[image,width=603,height=235]]*
 
 ** +
 **Pour visualiser le détail d’une réservation, il suffit de cliquer sur
@@ -119,7 +120,7 @@ Il est possible de réserver une ressource :
 
 * Soit en cliquant sur « Nouvelle réservation » en haut de l’écran
 
-image:../../wp-content/uploads/2016/01/RBS_CREATION.png[image,width=602,height=240]
+link:../../wp-content/uploads/2016/01/RBS_CREATION.png[image:../../wp-content/uploads/2016/01/RBS_CREATION.png[image,width=602,height=240]]
 
 * Soit en cliquant sur un créneau dans le calendrier.
 
@@ -182,13 +183,13 @@ Liste, effectuer un filtre sur le type de ressource (1), et afficher
 uniquement les réservations en attente de validation (2). L’icône
 signifie que la réservation est en attente de validation. (3).
 
-image:../../wp-content/uploads/2016/01/RBS-VALIDATION.png[image,width=603,height=151] +
+link:../../wp-content/uploads/2016/01/RBS-VALIDATION.png[image:../../wp-content/uploads/2016/01/RBS-VALIDATION.png[image,width=603,height=151]] +
 *Valider une réservation ponctuelle*
 
 Pour accepter ou refuser une réservation ponctuelle, le valideur doit
 sélectionner la réservation (1) et cliquer sur le bouton Valider ou
 Refuser (2). +
-image:../../wp-content/uploads/2016/01/RBS-VALIDATION-PONCTUELLE.png[image,width=602,height=212]
+link:../../wp-content/uploads/2016/01/RBS-VALIDATION-PONCTUELLE.png[image:../../wp-content/uploads/2016/01/RBS-VALIDATION-PONCTUELLE.png[image,width=602,height=212]]
 
 Le valideur qui refuse une réservation peut indiquer le motif de son
 refus (1) (champ non obligatoire), puis confirmer son refus. (2)
@@ -203,7 +204,7 @@ créneaux), il est possible :
 la case correspondant à la réservation (1) puis en cliquant sur le
 bouton d’action en bas de l’écran : supprimer, valider et refuser (2) :
 
-image:../../wp-content/uploads/2016/01/RBS-VALIDATION-PERIODIQUE.png[image,width=603,height=210]
+link:../../wp-content/uploads/2016/01/RBS-VALIDATION-PERIODIQUE.png[image:../../wp-content/uploads/2016/01/RBS-VALIDATION-PERIODIQUE.png[image,width=603,height=210]]
 
 * De déplier la réservation (1) pour visualiser les différents créneaux
 qui la composent en cliquant sur l'icône suivant:
@@ -213,7 +214,7 @@ image:../../wp-content/uploads/2015/06/r51.png[r5,width=34,height=32]
 Puis en sélectionnant les seuls créneaux que l’on veut
 valider/refuser(2) :
 
-image:../../wp-content/uploads/2016/01/RBS-VALIDATION-PERIODIQUE-2.png[image,width=602,height=214]
+link:../../wp-content/uploads/2016/01/RBS-VALIDATION-PERIODIQUE-2.png[image:../../wp-content/uploads/2016/01/RBS-VALIDATION-PERIODIQUE-2.png[image,width=602,height=214]]
 
 [[cas-d-usage-4]]
 == Définir les types de ressources
@@ -273,8 +274,8 @@ intervalle maximum de réservation.
 3.  Une description éditée par un éditeur de texte HTML permettant
 d'intégrer différents contenus: texte, images, liens, son...
 
-image:../../wp-content/uploads/2015/06/r15.png[r1,width=502,height=411] +
-Après enregistrement, la nouvelle ressource s'affiche dans la liste des
+link:../../wp-content/uploads/2015/06/r15.png[image:../../wp-content/uploads/2015/06/r15.png[r1,width=502,height=411] +
+]Après enregistrement, la nouvelle ressource s'affiche dans la liste des
 ressources. En cochant la case à cocher y correspondant, des boutons
 d'action apparaissent en bas de page pour supprimer ou éditer la
 ressource.
@@ -282,7 +283,6 @@ ressource.
 image:../../wp-content/uploads/2015/06/r23.png[r2,width=600,height=179]
 
 [[notes-de-versions]]
-[[note-de-version]]
 == Note de version
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -338,3 +338,6 @@ Nouveauté de la version 0.4.0
 Les administrateurs locaux sont désormais gestionnaires par défaut de
 tous les types de ressources rattachés aux établissements dont ils sont
 administrateurs.
+
+[[section]]
+====

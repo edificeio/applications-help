@@ -1,4 +1,6 @@
-[[summary]]
+[[mon-compte]]
+= Mon compte
+
 * link:index.html?iframe=true#presentation[Accéder à mon compte]
 * link:index.html?iframe=true#cas-d-usage-2[Changer ma photo de profil]
 * link:index.html?iframe=true#cas-d-usage-3[Changer de mot de passe]
@@ -17,6 +19,8 @@ notifications émises]
 
 [[presentation]]
 == Accéder à mon compte
+
+
 
 Pour mettre à jour votre humeur, votre devise, votre photo et vos autres
 informations personnelles, vous disposez d’un espace dédié. Vous pouvez
@@ -51,7 +55,6 @@ ce nom d'affichage est le prénom et le nom de l'utilisateur.
  
 
 [[cas-d-usage-2]]
-[[changer-ma-photo-de-profil]]
 == Changer ma photo de profil
 
 
@@ -92,7 +95,6 @@ utilisateurs lorsque vous leur partagez un contenu mais également
 lorsque vous postez un message dans un forum.
 
 [[cas-d-usage-3]]
-[[changer-de-mot-de-passe]]
 == Changer de mot de passe
 
 
@@ -114,7 +116,6 @@ image:../../wp-content/uploads/2016/01/MON-COMPTE-1024x463.png[image,width=737,h
 Votre mot de passe est maintenant modifié !
 
 [[cas-d-usage-4]]
-[[ajouter-ou-modifier-mon-adresse-mail]]
 == Ajouter ou modifier mon adresse mail
 
 
@@ -144,7 +145,6 @@ Votre devise sera visible sur votre profil et apparaitra dans le fil de
 nouveautés des autres utilisateurs de l’ENT lorsque vous la modifierez.
 
 [[cas-d-usage-6]]
-[[changer-mon-humeur]]
 == Changer mon humeur
 
 
@@ -210,7 +210,6 @@ automatique.
 image:../../wp-content/uploads/2015/07/m19.png[m19,width=779,height=170]
 
 [[cas-d-usage-9]]
-[[notifications-externes]]
 == Notifications externes
 
 
@@ -224,8 +223,8 @@ hebdomadaire). +
 Pour accéder à ce paramétrage, aller dans mon compte (1) et cliquer sur
 le bouton "Gérer mes notifications externes" (2)
 
-image:../../wp-content/uploads/2016/12/notif-ext2.png[notif
-ext2,width=599,height=241]
+link:../../wp-content/uploads/2016/12/notif-ext2.png[image:../../wp-content/uploads/2016/12/notif-ext2.png[notif
+ext2,width=599,height=241]]
 
 La page de paramétrage des notifications externes permet de modifier
 l'adresse de réception des mails (3) et de choisir la fréquence d'envoi
@@ -247,8 +246,8 @@ contenu. S'il n'est pas connecté à l'ENT, il devra saisir son
 identifiant et son mot de passe pour accéder à l'objet de la
 notification.
 
-image:../../wp-content/uploads/2016/12/notif-externe-réception.png[notif
-externe - réception,width=500,height=268]
+link:../../wp-content/uploads/2016/12/notif-externe-réception.png[image:../../wp-content/uploads/2016/12/notif-externe-réception.png[notif
+externe - réception,width=500,height=268]]
 
 [[cas-d-usage-10]]
 == Historique des notifications émises
@@ -261,16 +260,15 @@ avez partagé du contenu. +
 Depuis votre espace "Mon compte", vous retrouverez toutes les
 notifications que vous avez émis en cliquant sur l'onglet
 "Historique". +
-image:../../wp-content/uploads/2016/12/Fil-historique.png[Fil
-- historique,width=599,height=219]En survolant la notification avec la
+link:../../wp-content/uploads/2016/12/Fil-historique.png[image:../../wp-content/uploads/2016/12/Fil-historique.png[Fil
+- historique,width=599,height=219]]En survolant la notification avec la
 souris, vous verrez apparaître une flèche sur la droite de la
 notification. En cliquant sur cette flèche, une action apparaît vous
 permettant de supprimer définitivement la notification de l'ENT. +
-image:../../wp-content/uploads/2016/12/Fil-historique-suppression.png[Fil
-- historique suppression,width=550,height=95]
+link:../../wp-content/uploads/2016/12/Fil-historique-suppression.png[image:../../wp-content/uploads/2016/12/Fil-historique-suppression.png[Fil
+- historique suppression,width=550,height=95]]
 
 [[notes-de-versions]]
-[[note-de-version]]
 == Note de version
 
 

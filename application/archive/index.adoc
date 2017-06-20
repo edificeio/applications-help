@@ -1,13 +1,15 @@
-[[summary]]
+[[export]]
+= Export
+
+L’appli **Export** permet aux utilisateurs de générer un fichier
+compressé (archive) contenant l’ensemble de leurs documents personnels
+et partagés dans leur espace documentaire.
+
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
 [[presentation]]
 == Présentation
-
-L’appli **Export** permet aux utilisateurs de générer un fichier
-compressé (archive) contenant l’ensemble de leurs documents personnels
-et partagés dans leur espace documentaire.
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
@@ -23,7 +25,6 @@ exemple.
 image:../../wp-content/uploads/2016/04/export-1024x140.png[export,width=600,height=82]
 
 [[notes-de-versions]]
-[[note-de-version]]
 == Note de version
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -36,8 +37,8 @@ prévenu que s'il n'a pas le temps d'attendre la fin de la génération de
 l'archive, il trouvera un lien vers cette archive dans son fil de
 nouveautés.
 
-image:../../wp-content/uploads/2016/01/Export_avertissement.png[Export_avertissement,width=431,height=228] +
+link:../../wp-content/uploads/2016/01/Export_avertissement.png[image:../../wp-content/uploads/2016/01/Export_avertissement.png[Export_avertissement,width=431,height=228]] +
 Si l'utilisateur sort de la page sans récupérer son archive, il peut
 alors la retrouver dans le fil de notifications.
 
-image:../../wp-content/uploads/2016/01/Export_notif.png[Export_notif,width=600,height=88]
+link:../../wp-content/uploads/2016/01/Export_notif.png[image:../../wp-content/uploads/2016/01/Export_notif.png[Export_notif,width=600,height=88]]

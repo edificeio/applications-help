@@ -1,4 +1,10 @@
-[[summary]]
+[[documents]]
+= Documents
+
+L’appli *Documents* permet de stocker et partager ses documents en
+ligne. Chaque utilisateur accède ainsi à tous les fichiers dont il a
+besoin.  
+
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Naviguer dans mes Documents]
 * link:index.html?iframe=true#cas-d-usage-2[Importer un document]
@@ -14,10 +20,6 @@ versions de son document]
 
 [[presentation]]
 == Présentation
-
-L’appli *Documents* permet de stocker et partager ses documents en
-ligne. Chaque utilisateur accède ainsi à tous les fichiers dont il a
-besoin. 
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
@@ -46,7 +48,6 @@ quelle appli de l'ENT.*
  
 
 [[cas-d-usage-1]]
-[[naviguer-dans-mes-documents]]
 == Naviguer dans mes Documents
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -74,8 +75,8 @@ Vous pouvez également sélectionner plusieurs fichiers ou dossiers si
 vous souhaitez effectuer une action sur tous ces documents
 simultanément.
 
-image:../../wp-content/uploads/2016/08/Doc-Sélection-multi-fichier-1024x491.png[Doc
-- Sélection multi fichier,width=628,height=301] +
+link:../../wp-content/uploads/2016/08/Doc-Sélection-multi-fichier.png[image:../../wp-content/uploads/2016/08/Doc-Sélection-multi-fichier-1024x491.png[Doc
+- Sélection multi fichier,width=628,height=301]] +
 *ATTENTION* +
 Si vous effectuez une action de partage sur plusieurs fichiers ou
 dossiers alors que l'un de ces fichiers ou dossiers possède déjà un
@@ -83,7 +84,6 @@ partage, vous supprimerez l'ancien partage effectué sur ce fichier ou
 dossier.
 
 [[cas-d-usage-2]]
-[[importer-un-document]]
 == Importer un document
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -126,8 +126,8 @@ effectuant un glisser-déposer. Pour cela, sélectionnez le ou les
 documents à déplacer (1) depuis votre espace de travail et glissez-le
 vers son nouvel emplacement (2).
 
-image:../../wp-content/uploads/2016/08/Doc-glisser-déposer-pc2-1024x354.png[Doc
-- glisser-déposer pc2,width=628,height=217]
+link:../../wp-content/uploads/2016/08/Doc-glisser-déposer-pc2.png[image:../../wp-content/uploads/2016/08/Doc-glisser-déposer-pc2-1024x354.png[Doc
+- glisser-déposer pc2,width=628,height=217]]
 
 [[cas-d-usage-3]]
 == Déplacer un document ou un dossier
@@ -139,8 +139,8 @@ Vous pouvez déplacer vos documents et vos dossiers facilement dans votre
 espace documentaire. Pour cela, sélectionnez le document ou le dossier à
 déplacer (1) et glissez-le vers son nouvel emplacement (2).
 
-image:../../wp-content/uploads/2016/08/Doc-glisser-déposer-avec-1024x263.png[Doc
-- glisser-déposer avec,width=627,height=161]
+link:../../wp-content/uploads/2016/08/Doc-glisser-déposer-avec.png[image:../../wp-content/uploads/2016/08/Doc-glisser-déposer-avec-1024x263.png[Doc
+- glisser-déposer avec,width=627,height=161]]
 
 '''''
 
@@ -152,8 +152,8 @@ les applis ».
 
 Le dossier se trouve maintenant à l’emplacement choisi.
 
-image:../../wp-content/uploads/2016/08/Doc-glisser-déposer-2-1024x273.png[Doc
-- glisser-déposer 2,width=630,height=168]
+link:../../wp-content/uploads/2016/08/Doc-glisser-déposer-2.png[image:../../wp-content/uploads/2016/08/Doc-glisser-déposer-2-1024x273.png[Doc
+- glisser-déposer 2,width=630,height=168]]
 
 [[cas-d-usage-4]]
 == Connaître l'espace de stockage disponible
@@ -169,7 +169,6 @@ droite indique l’espace total de l’utilisateur.
 image:../../wp-content/uploads/2016/04/Document11.png[Document11,width=346,height=110]
 
 [[cas-d-usage-5]]
-[[ajouter-la-nouvelle-version-dun-document]]
 == Ajouter la nouvelle version d'un document
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -183,8 +182,8 @@ Pour mettre à jour un document, cliquer une fois sur le document pour
 qu'il soit surligner en bleu. La barre d'action s'affiche en bas de
 page, cliquez sur le bouton « Versions ».
 
-image:../../wp-content/uploads/2016/08/Doc-Sélection-fichier.png[Doc
-- Sélection fichier,width=139,height=136]
+link:../../wp-content/uploads/2016/08/Doc-Sélection-fichier.png[image:../../wp-content/uploads/2016/08/Doc-Sélection-fichier.png[Doc
+- Sélection fichier,width=139,height=136]]
 
 Une nouvelle page s’affiche, cliquez sur le bouton « Nouvelle version ».
 
@@ -221,8 +220,8 @@ suivantes:
 1.  Cliquez une fois sur le document pour qu'il soit surligné en bleu
 2.  Cliquez sur le bouton "Versions" en bas de page
 
-image:../../wp-content/uploads/2016/08/Doc-Sélection-fichier.png[Doc
-- Sélection fichier,width=139,height=136]
+link:../../wp-content/uploads/2016/08/Doc-Sélection-fichier.png[image:../../wp-content/uploads/2016/08/Doc-Sélection-fichier.png[Doc
+- Sélection fichier,width=139,height=136]]
 
 Toutes les versions du document s’affichent. Chaque version permet
 d’accéder aux informations suivantes :
@@ -237,7 +236,6 @@ dernière mise à jour.
 image:../../wp-content/uploads/2016/04/Document8-1024x399.png[Document8,width=550,height=214]
 
 [[notes-de-versions]]
-[[note-de-version]]
 == Note de version
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -385,3 +383,5 @@ Nouveauté de la version 1.21
 Les cases à cocher ont été supprimées en mode vignette. La sélection
 d’un ou plusieurs documents se fait désormais en cochant la ou les
 vignettes.
+
+

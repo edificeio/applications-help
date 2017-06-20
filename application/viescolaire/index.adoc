@@ -1,4 +1,10 @@
-[[summary]]
+[[compétences]]
+= Compétences
+
+Cet outil permet d’**évaluer les élèves** de l’établissement, que ce
+soit de façon numérique (avec des notes) ou non, et d’y associer des
+compétences.
+
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Créer une évaluation avec
 des compétences]
@@ -19,11 +25,7 @@ compétences des classes]
 [[presentation]]
 == Présentation
 
-Cet outil permet d’**évaluer les élèves** de l’établissement, que ce
-soit de façon numérique (avec des notes) ou non, et d’y associer des
-compétences.
-
-image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]
+link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
 
 Le module permet :
 
@@ -38,21 +40,21 @@ depuis la liste
 * la possibilité de remplacement d’enseignants (pour le chef
 d’établissement)
 
-image:../../wp-content/uploads/2017/03/Compétences-Présentation.jpg[Compétences
-- Présentation,width=726,height=289]
+link:../../wp-content/uploads/2017/03/Compétences-Présentation.jpg[image:../../wp-content/uploads/2017/03/Compétences-Présentation.jpg[Compétences
+- Présentation,width=726,height=289]]
 
 [[cas-d-usage-1]]
 == Créer une évaluation avec des compétences
 
-image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]
+link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
 
 Pour créer une évaluation **avec des compétences**, suivez les étapes
 suivantes :
 
 \1. Cliquez sur le bouton « Créer évaluation »
 
-image:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences.jpg[Evaluation
-avec des compétences,width=158,height=30]
+link:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences.jpg[image:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences.jpg[Evaluation
+avec des compétences,width=158,height=30]]
 
 \2. Sélectionner ou saisir les informations obligatoires suivantes :
 
@@ -73,27 +75,27 @@ avec des compétences,width=158,height=30]
 ?" pour évaluer les élèves avec des notes ou pas. +
 5. Modifier si besoin le coefficient et la note maximum +
 6. Cliquer sur l'onglet "Compétences" +
-image:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences-2.jpg[Evaluation
-avec des compétences 2,width=455,height=504]
+link:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences-2.jpg[image:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences-2.jpg[Evaluation
+avec des compétences 2,width=455,height=504]]
 
 \7. Sélectionner des connaissances ou compétences +
 8. Cliquez sur "Enregistrer"
 
-image:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences-3.jpg[Evaluation
-avec des compétences 3,width=733,height=392]
+link:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences-3.jpg[image:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences-3.jpg[Evaluation
+avec des compétences 3,width=733,height=392]]
 
 [[cas-d-usage-2]]
 == Créer une évaluation sans coompétences
 
-image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]
+link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
 
 Pour créer une évaluation **sans compétence**, suivez les étapes
 suivantes :
 
 \1. Cliquez sur le bouton « Créer évaluation »
 
-image:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences.jpg[Evaluation
-avec des compétences,width=158,height=30]
+link:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences.jpg[image:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences.jpg[Evaluation
+avec des compétences,width=158,height=30]]
 
 \2. Sélectionner ou saisir les informations obligatoires suivantes :
 
@@ -114,27 +116,27 @@ avec des compétences,width=158,height=30]
 ?" pour évaluer les élèves avec des notes ou pas. +
 5. Modifier si besoin le coefficient et la note maximum +
 6. Cliquez sur "Enregistrer" +
-image:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences-2.jpg[Evaluation
-avec des compétences 2,width=455,height=504] +
+link:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences-2.jpg[image:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences-2.jpg[Evaluation
+avec des compétences 2,width=455,height=504]] +
 *_Par défaut seuls les enseignants sont habilités à créer des
 évaluations._*
 
 [[cas-d-usage-3]]
 == Evaluer un élève
 
-image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]
+link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
 
 Pour évaluer les élèves suivez les étapes suivantes : +
 1. Cliquez sur le menu "Liste des évaluations"
 
-image:../../wp-content/uploads/2017/03/Evaluer-un-élève-1.jpg[Evaluer
-un élève 1,width=162,height=135]
+link:../../wp-content/uploads/2017/03/Evaluer-un-élève-1.jpg[image:../../wp-content/uploads/2017/03/Evaluer-un-élève-1.jpg[Evaluer
+un élève 1,width=162,height=135]]
 
 \2. Renseigner les critères +
 3. Cliquer que le devoir à évaluer
 
-image:../../wp-content/uploads/2017/03/Evaluer-un-élève-2.jpg[Evaluer
-un élève 2,width=720,height=231]
+link:../../wp-content/uploads/2017/03/Evaluer-un-élève-2.jpg[image:../../wp-content/uploads/2017/03/Evaluer-un-élève-2.jpg[Evaluer
+un élève 2,width=720,height=231]]
 
 \4. Le détail de l’évaluation est disponible sur la partie gauche de
 l’écran +
@@ -157,23 +159,23 @@ Le détail des compétences est disponible sur la partie droite de l’écran
 \7. Une appréciation peut être indiquée dans le champ Appréciation. Si
 le devoir comprend beaucoup de compétences, l’appréciation est
 accessible via le bouton : 
-image:../../wp-content/uploads/2017/03/Evaluer-un-élève-3.jpg[Evaluer
-un élève 3,width=30,height=30]
+link:../../wp-content/uploads/2017/03/Evaluer-un-élève-3.jpg[image:../../wp-content/uploads/2017/03/Evaluer-un-élève-3.jpg[Evaluer
+un élève 3,width=30,height=30]]
 
-image:../../wp-content/uploads/2017/03/Evaluer-un-élève-4.jpg[Evaluer
-un élève 4,width=732,height=351]
+link:../../wp-content/uploads/2017/03/Evaluer-un-élève-4.jpg[image:../../wp-content/uploads/2017/03/Evaluer-un-élève-4.jpg[Evaluer
+un élève 4,width=732,height=351]]
 
 [[cas-d-usage-4]]
 == Accéder au relevé de notes
 
-image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]
+link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
 
 Pour accéder au relevé de notes, suivez les étapes suivantes :
 
 \1. Cliquez sur le menu «Relevés de notes »
 
-image:../../wp-content/uploads/2017/03/Relevé-de-notes.jpg[Relevé
-de notes,width=185,height=154] +
+link:../../wp-content/uploads/2017/03/Relevé-de-notes.jpg[image:../../wp-content/uploads/2017/03/Relevé-de-notes.jpg[Relevé
+de notes,width=185,height=154]] +
 2. Renseigner les critères +
 3. Il est possible d’accéder aux détails des devoirs en cliquant sur
 l’entête de l’évaluation (une évaluation avec des compétences est
@@ -181,28 +183,28 @@ soulignée en orange) +
 4. Il est possible de modifier les notes des élèves directement sur le
 relevé
 
-image:../../wp-content/uploads/2017/03/relevé-de-notes-2.jpg[relevé
-de notes 2,width=749,height=340]
+link:../../wp-content/uploads/2017/03/relevé-de-notes-2.jpg[image:../../wp-content/uploads/2017/03/relevé-de-notes-2.jpg[relevé
+de notes 2,width=749,height=340]]
 
 [[cas-d-usage-5]]
 == Suivre le niveau des élèves
 
-image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]
+link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
 
 Pour suivre le niveau des élèves individuellement, suivez les étapes
 suivantes :
 
 \1. Cliquez sur le menu « Suivi élève »
 
-image:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-1.jpg[Suivre
-le niveau des élèves 1,width=203,height=169]
+link:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-1.jpg[image:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-1.jpg[Suivre
+le niveau des élèves 1,width=203,height=169]]
 
 \2. Renseigner les critères pour choisir un élève +
 3. Il est possible d’afficher le détail des évaluations ayant entrainé
 le suivi d’une compétence en cliquant sur la compétence souhaitée.
 
-image:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-2.jpg[Suivre
-le niveau des élèves 2,width=680,height=384]
+link:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-2.jpg[image:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-2.jpg[Suivre
+le niveau des élèves 2,width=680,height=384]]
 
 \4. Par défaut une vue graphique est affichée. Il est cependant possible
 d’accéder à une vue en liste +
@@ -210,73 +212,75 @@ d’accéder à une vue en liste +
 en cliquant sur « Ajouter une évaluation libre ». Elle permet d’évaluer
 la compétence de l’élève.
 
-image:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-3.jpg[Suivre
-le niveau des élèves 3,width=684,height=442]
+link:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-3.jpg[image:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-3.jpg[Suivre
+le niveau des élèves 3,width=684,height=442]]
 
 [[cas-d-usage-6]]
 == Visualiser le bilan de suivi des élèves
 
-image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]
+link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
 
 Pour voir le bilan du niveau des élèves individuellement, suivez les
 étapes suivantes :
 
 \1. Cliquez sur le menu « Suivi élève »
 
-image:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-1.jpg[Suivre
+link:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-1.jpg[image:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-1.jpg[Suivre
 le niveau des élèves 1,width=203,height=169] +
+] +
 2. Renseigner les critères pour choisir un élève +
 3. Il est possible d’afficher le bilan de compétences d’un élève en
 cliquant sur
-:image:../../wp-content/uploads/2017/03/Visualisation-bilan.jpg[Visualisation
+:link:../../wp-content/uploads/2017/03/Visualisation-bilan.jpg[image:../../wp-content/uploads/2017/03/Visualisation-bilan.jpg[Visualisation
 bilan,width=33,height=30] +
-image:../../wp-content/uploads/2017/03/Visualisation-bilan-2.jpg[Visualisation
-bilan 2,width=620,height=228]
+] +
+link:../../wp-content/uploads/2017/03/Visualisation-bilan-2.jpg[image:../../wp-content/uploads/2017/03/Visualisation-bilan-2.jpg[Visualisation
+bilan 2,width=620,height=228]]
 
  
 
 \4. Le bilan du niveau de compétence de l’élève est accessible
 
-image:../../wp-content/uploads/2017/03/Visualisation-bilan-3.jpg[Visualisation
-bilan 3,width=638,height=370]
+link:../../wp-content/uploads/2017/03/Visualisation-bilan-3.jpg[image:../../wp-content/uploads/2017/03/Visualisation-bilan-3.jpg[Visualisation
+bilan 3,width=638,height=370]]
 
 [[cas-d-usage-7]]
 == Visualiser le bilan de fin de cycle des élèves
 
-image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]
+link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
 
 Pour voir le bilan du niveau des élèves individuellement, suivez les
 étapes suivantes :
 
 \1. Cliquez sur le menu « Suivi élève »
 
-image:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-1.jpg[Suivre
-le niveau des élèves 1,width=180,height=150]
+link:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-1.jpg[image:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-1.jpg[Suivre
+le niveau des élèves 1,width=180,height=150]]
 
 \2. Renseigner les critères pour choisir un élève +
 3. Il est possible d’afficher le bilan de compétences d’un élève en
 cliquant sur :
-image:../../wp-content/uploads/2017/03/Visualisation-bilan-5.jpg[Visualisation
-bilan 5,width=29,height=27] +
-image:../../wp-content/uploads/2017/03/Visualisation-bilan-4.jpg[Visualisation
-bilan 4,width=696,height=256] +
+link:../../wp-content/uploads/2017/03/Visualisation-bilan-5.jpg[image:../../wp-content/uploads/2017/03/Visualisation-bilan-5.jpg[Visualisation
+bilan 5,width=29,height=27]] +
+link:../../wp-content/uploads/2017/03/Visualisation-bilan-4.jpg[image:../../wp-content/uploads/2017/03/Visualisation-bilan-4.jpg[Visualisation
+bilan 4,width=696,height=256]] +
 4. Le bilan de fin de cycle de l’élève est accessible.
 
-image:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-4.jpg[Suivre
-le niveau des élèves 4,width=699,height=362]
+link:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-4.jpg[image:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-4.jpg[Suivre
+le niveau des élèves 4,width=699,height=362]]
 
 [[cas-d-usage-8]]
 == Suivre le niveau de compétences des classes
 
-image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]
+link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
 
 Pour suivre le niveau des compétences de classe, suivez les étapes
 suivantes :
 
 \1. Cliquez sur le menu « Suivi classe »
 
-image:../../wp-content/uploads/2017/03/Suivi-classe.jpg[Suivi
-classe,width=203,height=170]
+link:../../wp-content/uploads/2017/03/Suivi-classe.jpg[image:../../wp-content/uploads/2017/03/Suivi-classe.jpg[Suivi
+classe,width=203,height=170]]
 
 \2. Renseigner les critères pour cho  isir une classe +
 3. Pour chaque compétence, le niveau de la classe est affiché sous forme
@@ -285,21 +289,20 @@ de barre avec différents niveaux de maitrise.
 Il est possible de cliquer sur une compétence pour afficher la liste des
 élèves avec leur niveau
 
-image:../../wp-content/uploads/2017/03/Suivi-classe-2.jpg[Suivi
-classe 2,width=729,height=420]
+link:../../wp-content/uploads/2017/03/Suivi-classe-2.jpg[image:../../wp-content/uploads/2017/03/Suivi-classe-2.jpg[Suivi
+classe 2,width=729,height=420]]
 
 \4. Il est possible de filtrer l’affichage des élèves suivant leur
 niveau de maitrise de la compétence. +
 5. En cliquant sur un élève, s’affiche le suivi de compétence de l’élève
 
-image:../../wp-content/uploads/2017/03/Suivi-classe-3.jpg[Suivi
-classe 3,width=690,height=427]
+link:../../wp-content/uploads/2017/03/Suivi-classe-3.jpg[image:../../wp-content/uploads/2017/03/Suivi-classe-3.jpg[Suivi
+classe 3,width=690,height=427]]
 
 [[cas-d-usage-9]]
-[[effectuer-un-remplacement]]
 == Effectuer un remplacement
 
-image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]
+link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
 
 Le remplacement d’un enseignant par un autre permet à l’enseignant
 remplaçant de pouvoir créer des évaluations sur les classes remplacées.
@@ -310,27 +313,27 @@ Pour effectuer le remplacement d’un enseignant par un autre enseignant
 pour un temps donné :
 
 \1. Cliquez sur le menu « Gérer les remplacements » +
-image:../../wp-content/uploads/2017/03/Remplacement-1.jpg[Remplacement
-1,width=179,height=71] +
+link:../../wp-content/uploads/2017/03/Remplacement-1.jpg[image:../../wp-content/uploads/2017/03/Remplacement-1.jpg[Remplacement
+1,width=179,height=71]] +
 2. Renseigner les critères pour choisir l’enseignant à remplacer,
 l’enseignant remplaçant, ainsi que les dates durant lesquelles le
 remplacement a cours.
 
-image:../../wp-content/uploads/2017/03/Remplacement-2.jpg[Remplacement
+link:../../wp-content/uploads/2017/03/Remplacement-2.jpg[image:../../wp-content/uploads/2017/03/Remplacement-2.jpg[Remplacement
 2,width=627,height=226] +
+] +
 3. La liste des remplacements effectués s’affiche dans l’encart en bas
 de la page. Il est possible de trier sur les différents champs.
 
 La sélection d’un ou plusieurs remplacements permet ensuite l’édition ou
 la suppression de ceux-ci
 
-image:../../wp-content/uploads/2017/03/Remplacement-3.jpg[Remplacement
-3,width=664,height=97]
+link:../../wp-content/uploads/2017/03/Remplacement-3.jpg[image:../../wp-content/uploads/2017/03/Remplacement-3.jpg[Remplacement
+3,width=664,height=97]]
 
 [[notes-de-versions]]
-[[version-bêta]]
 == Version Bêta
 
-image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]
+link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
 
 Version de l'application en cours d'expérimentation

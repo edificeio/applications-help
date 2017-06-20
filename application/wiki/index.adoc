@@ -1,4 +1,10 @@
-[[summary]]
+[[wiki]]
+= Wiki
+
+Un *Wiki* est un ensemble de pages modifiables par les utilisateurs
+habilités afin de permettre l'écriture et l'illustration collaboratives
+des documents numériques qu'il contient.
+
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Créer un Wiki]
 * link:index.html?iframe=true#cas-d-usage-2[Partager un Wiki]
@@ -10,10 +16,6 @@ pages]
 
 [[presentation]]
 == Présentation
-
-Un *Wiki* est un ensemble de pages modifiables par les utilisateurs
-habilités afin de permettre l'écriture et l'illustration collaboratives
-des documents numériques qu'il contient.
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
@@ -49,7 +51,6 @@ image:../../wp-content/uploads/2015/07/w2.png[w2,width=600,height=157]
  
 
 [[cas-d-usage-2]]
-[[partager-un-wiki]]
 == Partager un Wiki
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -69,7 +70,7 @@ d’utilisateurs que vous recherchez.
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur
 attribuer.
 
-image:../../wp-content/uploads/2016/01/WIKI-PARTAGE-1024x870.png[image,width=600,height=510]
+link:../../wp-content/uploads/2016/01/WIKI-PARTAGE.png[image:../../wp-content/uploads/2016/01/WIKI-PARTAGE-1024x870.png[image,width=600,height=510]]
 
 Les droits de partage que vous pouvez attribuer aux autres utilisateurs
 sont les suivants :
@@ -114,7 +115,6 @@ nécessaire de la référencer dans d’autres pages (grâce à l'outil de
 création de liens) afin de la rendre visible.
 
 [[cas-d-usage-4]]
-[[modifier-une-page]]
 == Modifier une page
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -127,11 +127,11 @@ Vous pouvez modifier une page. Pour cela, suivez les étapes suivantes :
 « Enregistrer ».
 
 image:../../wp-content/uploads/2016/01/WIKI-MODIFIER-1-1024x410.png[image,width=600,height=240] +
-image:../../wp-content/uploads/2016/01/WIKI-MODIFIER-2-1024x538.png[image,width=600,height=315] +
+link:../../wp-content/uploads/2016/01/WIKI-MODIFIER-2.png[ +
+]image:../../wp-content/uploads/2016/01/WIKI-MODIFIER-2-1024x538.png[image,width=600,height=315] +
 La page s’affiche avec les modifications effectuées.
 
 [[cas-d-usage-5]]
-[[comparer-deux-versions-de-pages]]
 == Comparer deux versions de pages
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -170,7 +170,6 @@ Il est également possible de restaurer une version précédente en
 cliquant sur « Restaurer » en haut de la page correspondante.
 
 [[notes-de-versions]]
-[[note-de-version]]
 == Note de version
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC

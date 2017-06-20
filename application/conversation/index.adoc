@@ -1,4 +1,10 @@
-[[summary]]
+[[messagerie]]
+= Messagerie
+
+La *Messagerie* permet d’échanger des messages électroniques avec
+d’autres utilisateurs selon des règles de communication préalablement
+définies.  
+
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Envoyer un message]
 * link:index.html?iframe=true#cas-d-usage-2[Visualiser mes messages
@@ -8,10 +14,6 @@ reçus]
 
 [[presentation]]
 == Présentation
-
-La *Messagerie* permet d’échanger des messages électroniques avec
-d’autres utilisateurs selon des règles de communication préalablement
-définies.
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
@@ -32,7 +34,6 @@ image:../../wp-content/uploads/2016/04/messagerie2-1024x508.png[messagerie2,widt
  
 
 [[cas-d-usage-1]]
-[[envoyer-un-message]]
 == Envoyer un message
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -67,7 +68,7 @@ link:../../wp-content/uploads/2015/03/Messagerie-3.png[ +
 image:../../wp-content/uploads/2016/04/messagerie6-1024x818.png[messagerie6,width=600,height=479] +
 Choisissez le document depuis votre poste de travail.
 
-image:../../wp-content/uploads/2015/07/m41.png[m4,width=445,height=237]
+link:../../wp-content/uploads/2015/07/m41.png[image:../../wp-content/uploads/2015/07/m41.png[m4,width=445,height=237]]
 
 Une fois que votre message est prêt, vous pouvez l'envoyer.
 
@@ -97,12 +98,11 @@ messages s’affichent en gras (2).
 
 Cliquez sur le titre d’un message pour en lire le contenu.
 
-image:../../wp-content/uploads/2016/01/Messagerie-VISUALISER-1024x199.png[image,width=600,height=116]
+link:../../wp-content/uploads/2016/01/Messagerie-VISUALISER.png[image:../../wp-content/uploads/2016/01/Messagerie-VISUALISER-1024x199.png[image,width=600,height=116]]
 
  
 
 [[cas-d-usage-3]]
-[[supprimer-un-message]]
 == Supprimer un message
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -114,14 +114,13 @@ correspondant au(x) message(s) (1).
 Puis cliquez sur le bouton « Supprimer » qui apparait en bas à gauche de
 la page (2).
 
-image:../../wp-content/uploads/2016/01/Messagerie-SUPPRIMER-1024x449.png[image,width=600,height=263]
+link:../../wp-content/uploads/2016/01/Messagerie-SUPPRIMER.png[image:../../wp-content/uploads/2016/01/Messagerie-SUPPRIMER-1024x449.png[image,width=600,height=263]]
 
 Le message se trouve maintenant dans votre corbeille. Vous pouvez le
 supprimer définitivement ou le restaurer en le sélectionnant dans le
 dossier « Corbeille ».
 
 [[notes-de-versions]]
-[[note-de-version]]
 == Note de version
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC

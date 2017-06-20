@@ -1,4 +1,10 @@
-[[summary]]
+[[statistiques-1d]]
+= Statistiques 1D
+
+L’appli *Statistiques* permet de suivre un ensemble d’indicateurs sur la
+fréquentation de l'ENT sur une période donnée (nombre de visiteurs ou
+répartition des visites dans la journée par exemple).
+
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Comprendre les données
 disponibles]
@@ -7,11 +13,7 @@ disponibles]
 [[presentation]]
 == Présentation
 
-L’appli *Statistiques* permet de suivre un ensemble d’indicateurs sur la
-fréquentation de l'ENT sur une période donnée (nombre de visiteurs ou
-répartition des visites dans la journée par exemple).
-
-image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]
+link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
 
 L’appli Statistiques vous propose de suivre *sept indicateurs* calculés
 sur *une période donnée* (soit sur le mois écoulé, soit depuis le 1er
@@ -37,7 +39,7 @@ image:../../wp-content/uploads/2015/04/Stats-1.jpg[Stats
 [[cas-d-usage-1]]
 == Comprendre les données disponibles
 
-image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]
+link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
 
 Pour accéder à l’appli Statistiques, cliquez sur l’icône correspondante
 dans la page « Mes applis ».
@@ -64,10 +66,9 @@ confondu dont 47 visites pour le profil Enseignant.
 image:../../wp-content/uploads/2015/06/s31.png[s3,width=467,height=313]
 
 [[notes-de-versions]]
-[[note-de-version]]
 == Note de version
 
-image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]
+link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
 
 A chaque nouvelle version de l'application, les nouveautés seront
 présentées dans cette section.

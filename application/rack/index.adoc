@@ -1,4 +1,10 @@
-[[summary]]
+[[casier]]
+= Casier
+
+L’appli *Casier* permet de déposer des documents dans le casier d’autres
+utilisateurs. Les documents ainsi échangés sont horodatés et peuvent
+être déplacés vers d'autres dossiers de l'appli Documents.
+
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Déposer un document dans un
 casier]
@@ -10,10 +16,6 @@ vers l'appli Documents]
 
 [[presentation]]
 == Présentation
-
-L’appli *Casier* permet de déposer des documents dans le casier d’autres
-utilisateurs. Les documents ainsi échangés sont horodatés et peuvent
-être déplacés vers d'autres dossiers de l'appli Documents.
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
@@ -44,8 +46,8 @@ BY-NC-SA 3.0 FR,width=100,height=35]]
 Pour déposer un document dans le casier d'un autre utilisateur, accédez
 à l'appli Casier puis cliquez sur le bouton « Déposer dans un casier ».
 
-image:../../wp-content/uploads/2016/08/rack-déposer-casier-1024x279.png[rack
-- déposer casier,width=628,height=171]
+link:../../wp-content/uploads/2016/08/rack-déposer-casier.png[image:../../wp-content/uploads/2016/08/rack-déposer-casier-1024x279.png[rack
+- déposer casier,width=628,height=171]]
 
 Dans la nouvelle fenêtre, cliquez sur « Parcourir » (1) pour
 sélectionner sur votre ordinateur le document à envoyer puis
@@ -80,11 +82,10 @@ image:../../wp-content/uploads/2016/08/rack-tous-sélectionnés2-1024x512.png[ra
 Vous disposez également d'un bouton "télécharger" (1) sur chaque fichier
 si vous souhaitez télécharger directement le fichier sur votre
 ordinateur. +
-image:../../wp-content/uploads/2016/08/rack-bouton-télécharger2.png[rack
-- bouton télécharger2,width=110,height=102]
+link:../../wp-content/uploads/2016/08/rack-bouton-télécharger2.png[image:../../wp-content/uploads/2016/08/rack-bouton-télécharger2.png[rack
+- bouton télécharger2,width=110,height=102]]
 
 [[cas-d-usage-3]]
-[[copier-un-document-du-casier-vers-lappli-documents]]
 == Copier un document du casier vers l'appli Documents
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -105,7 +106,6 @@ que vous souhaitez (2).
 image:../../wp-content/uploads/2016/04/Casier5.png[Casier5,width=600,height=302]
 
 [[notes-de-versions]]
-[[note-de-version]]
 == Note de version
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC

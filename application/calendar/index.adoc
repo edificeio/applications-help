@@ -1,4 +1,9 @@
-[[summary]]
+[[agenda]]
+= Agenda
+
+L’appli *Agenda* permet la création et la visualisation d’événements
+sous forme d’un calendrier ou d’une liste.
+
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Créer un agenda]
 * link:index.html?iframe=true#cas-d-usage-2[Créer un événement]
@@ -10,15 +15,15 @@ d'un agenda]
 [[presentation]]
 == Présentation
 
-L’appli *Agenda* permet la création et la visualisation d’événements
-sous forme d’un calendrier ou d’une liste.
-
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
 
 Le service Agenda permet de créer et partager des évènements.
 
-image:../../wp-content/uploads/2016/01/Agenda-Page-1-1024x615.png[Agenda - Page 1,width=599,height=360]
+link:../../wp-content/uploads/2016/01/Agenda-Page-1.png[ +
+image:../../wp-content/uploads/2016/01/Agenda-Page-1-1024x615.png[Agenda
+- Page 1,width=599,height=360] +
+]
 
 Il comprend les éléments suivants :
 
@@ -27,10 +32,10 @@ qui appartiennent à l’utilisateur et ceux qui lui sont partagés.
 2.  Un bandeau qui permet de faire défiler les semaines.
 3.  Les 2 icônes en haut à droite permettent de permuter l’affichage du
 mode calendrier
-image:../../wp-content/uploads/2016/01/Agenda-icone-calendrier.png[Agenda
-- icone calendrier,width=24,height=24]  au mode liste d’événements
-image:../../wp-content/uploads/2016/01/Agenda-Icone-liste.png[Agenda
-- Icone liste,width=27,height=20].
+link:../../wp-content/uploads/2016/01/Agenda-icone-calendrier.png[image:../../wp-content/uploads/2016/01/Agenda-icone-calendrier.png[Agenda
+- icone calendrier,width=24,height=24]]  au mode liste d’événements
+link:../../wp-content/uploads/2016/01/Agenda-Icone-liste.png[image:../../wp-content/uploads/2016/01/Agenda-Icone-liste.png[Agenda
+- Icone liste,width=27,height=20]].
 4.  Le calendrier qui permet d'afficher les événements des agendas
 sélectionnés.
 
@@ -45,8 +50,8 @@ menu de gauche (1). +
 Il faut ensuite saisir un titre pour l’agenda et éventuellement choisir
 une couleur avant de valider l’enregistrement.
 
-image:../../wp-content/uploads/2016/01/Agenda-Création-1024x241.png[Agenda
-- Création,width=450,height=106]
+link:../../wp-content/uploads/2016/01/Agenda-Création.png[image:../../wp-content/uploads/2016/01/Agenda-Création-1024x241.png[Agenda
+- Création,width=450,height=106]]
 
 Une fois créé, l'agenda apparaît dans la liste des agendas de
 l’utilisateur.
@@ -59,8 +64,8 @@ en le sélectionnant à l’aide de la case à cocher (2). +
 Un menu apparaît alors en bas de l’écran proposant les actions
 supplémentaires suivantes. +
 
-image:../../wp-content/uploads/2016/01/Agenda-menu-bas.png[Agenda
-- menu bas,width=399,height=43]
+link:../../wp-content/uploads/2016/01/Agenda-menu-bas.png[image:../../wp-content/uploads/2016/01/Agenda-menu-bas.png[Agenda
+- menu bas,width=399,height=43]]
 
 Description des actions :
 
@@ -72,8 +77,8 @@ l’agenda sélectionné ; +
 * Supprimer, permet la suppression de l’agenda sélectionné après
 confirmation ; +
 
-image:../../wp-content/uploads/2016/01/Agenda-supression.png[Agenda
-- supression,width=373,height=70]
+link:../../wp-content/uploads/2016/01/Agenda-supression.png[image:../../wp-content/uploads/2016/01/Agenda-supression.png[Agenda
+- supression,width=373,height=70]]
 
 * Partager, permet le partage de l’agenda sélectionné avec d’autres
 utilisateurs.
@@ -87,12 +92,12 @@ BY-NC-SA 3.0 FR,width=100,height=35]]
 Pour créer un événement, plusieurs options s’offrent à l’utilisateur, il
 est possible de cliquer dans le calendrier au créneau horaire souhaité
 ou d’utiliser le bouton
-image:../../wp-content/uploads/2016/01/Agenda-Créé-événement.png[Agenda
-- Créé événement,width=128,height=30]. La fenêtre de création
+link:../../wp-content/uploads/2016/01/Agenda-Créé-événement.png[image:../../wp-content/uploads/2016/01/Agenda-Créé-événement.png[Agenda
+- Créé événement,width=128,height=30]]. La fenêtre de création
 d’événement apparait en popup. Elle se décompose en trois onglets. +
 
-image:../../wp-content/uploads/2016/01/Agenda-Création-événement.png[Agenda
-- Création événement,width=598,height=489] +
+link:../../wp-content/uploads/2016/01/Agenda-Création-événement.png[image:../../wp-content/uploads/2016/01/Agenda-Création-événement.png[Agenda
+- Création événement,width=598,height=489]] +
 Le premier onglet appelé "Détails" comporte les informations générales
 de l’événement à créer :
 
@@ -105,8 +110,8 @@ calendriers que l’utilisateur peut modifier), +
 Le second onglet appelé "Dates" permet la sélection de la plage horaire
 de l’événement.
 
-image:../../wp-content/uploads/2016/01/Agenda-Création-date.png[Agenda
-- Création date,width=598,height=489]
+link:../../wp-content/uploads/2016/01/Agenda-Création-date.png[image:../../wp-content/uploads/2016/01/Agenda-Création-date.png[Agenda
+- Création date,width=598,height=489]]
 
 Il est possible de changer les dates et heures de début et de fin. La
 case à cocher « Toute la journée » permet de définir un événement sans
@@ -115,8 +120,8 @@ heure de début ou de fin.
 Enfin le dernier onglet appelé "Récurrence" permet de définir la
 récurrence de l’événement si nécessaire.
 
-image:../../wp-content/uploads/2016/01/Agenda-Création-récurrence.png[Agenda
-- Création récurrence,width=598,height=489]
+link:../../wp-content/uploads/2016/01/Agenda-Création-récurrence.png[image:../../wp-content/uploads/2016/01/Agenda-Création-récurrence.png[Agenda
+- Création récurrence,width=598,height=489]]
 
 Pour cela, il faut cocher la case « Récurrent » pour pouvoir accéder à
 la sélection du paramétrage de la récurrence. +
@@ -130,8 +135,8 @@ jours de la semaine apparaît afin de choisir le ou les jours sur
 lesquelles se produira la récurrence (ici tous les mercredis une semaine
 sur 2).*
 
-image:../../wp-content/uploads/2016/01/Agenda-Récurrence.png[Agenda
-- Récurrence,width=496,height=85]
+link:../../wp-content/uploads/2016/01/Agenda-Récurrence.png[image:../../wp-content/uploads/2016/01/Agenda-Récurrence.png[Agenda
+- Récurrence,width=496,height=85]]
 
      3.  la fin de la série d’événements récurrents. Cette fin peut être
 paramétrée après un nombre d’occurrences ou à une date donnée.
@@ -147,8 +152,8 @@ L’accès au partage de la ressource calendrier se fait grace au menu du
 bas lors de la sélection d’un calendrier dans la liste des calendriers
 de l’utilisateur.
 
-image:../../wp-content/uploads/2016/01/Agenda-Partage.png[Agenda
-- Partage,width=598,height=433] +
+link:../../wp-content/uploads/2016/01/Agenda-Partage.png[image:../../wp-content/uploads/2016/01/Agenda-Partage.png[Agenda
+- Partage,width=598,height=433]] +
 Dans la fenêtre, vous pouvez donner aux utilisateurs de l’ENT différents
 droits d'accès à votre agenda. Pour cela, suivez les étapes suivantes :
 
@@ -167,6 +172,7 @@ sont les suivants :
 l’agenda
 
 [[cas-d-usage-4]]
+[[visualiser-les-événements-dun-agenda]]
 == Visualiser les événements d'un agenda
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -178,24 +184,24 @@ couleur de fond celle de l’agenda auxquels ils appartiennent. Si un
 calendrier une petite bulle contenant le nombre d’événements antérieurs
 est affichée (+1 ici).
 
-image:../../wp-content/uploads/2016/01/Agenda-Calendrier.png[Agenda
-- Calendrier,width=449,height=160]
+link:../../wp-content/uploads/2016/01/Agenda-Calendrier.png[image:../../wp-content/uploads/2016/01/Agenda-Calendrier.png[Agenda
+- Calendrier,width=449,height=160]]
 
 Il est possible de choisir les agendas affichés sur le calendrier en
 cliquant dessus dans la partie de gauche. Les agenda non sélectionnés
 sont grisés (ici « Agenda numéro 2 » est désactivé).
 
-image:../../wp-content/uploads/2016/01/Agenda-Désactivé.png[Agenda
-- Désactivé,width=245,height=190]
+link:../../wp-content/uploads/2016/01/Agenda-Désactivé.png[image:../../wp-content/uploads/2016/01/Agenda-Désactivé.png[Agenda
+- Désactivé,width=245,height=190]]
 
 La seconde façon de visualiser les événements est la vue liste
 accessible par l’icône
-image:../../wp-content/uploads/2016/01/Agenda-Icone-liste.png[Agenda
-- Icone liste,width=25,height=19] en haut à droite de la vue
+link:../../wp-content/uploads/2016/01/Agenda-Icone-liste.png[image:../../wp-content/uploads/2016/01/Agenda-Icone-liste.png[Agenda
+- Icone liste,width=25,height=19]] en haut à droite de la vue
 principale.
 
-image:../../wp-content/uploads/2016/01/Agenda-liste.png[Agenda
-- liste,width=597,height=357]
+link:../../wp-content/uploads/2016/01/Agenda-liste.png[image:../../wp-content/uploads/2016/01/Agenda-liste.png[Agenda
+- liste,width=597,height=357]]
 
 Elle synthétise les informations des événements des différents agendas
 affichés.
@@ -203,7 +209,6 @@ affichés.
  
 
 [[notes-de-versions]]
-[[note-de-version]]
 == Note de version
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC

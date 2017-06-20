@@ -1,4 +1,11 @@
-[[summary]]
+[[communautés]]
+= Communautés
+
+L’appli *Communautés* permet de *rassembler* un *groupe d’utilisateurs*
+autour d’un *intérêt commun* pour **communiquer**, *partager* ou
+*collaborer* en utilisant différentes applis *(Blog, Forum, Wiki,
+Documents...).*
+
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Créer et partager une
 communauté]
@@ -6,11 +13,6 @@ communauté]
 
 [[presentation]]
 == Présentation
-
-L’appli *Communautés* permet de *rassembler* un *groupe d’utilisateurs*
-autour d’un *intérêt commun* pour **communiquer**, *partager* ou
-*collaborer* en utilisant différentes applis *(Blog, Forum, Wiki,
-Documents...).*
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
@@ -114,7 +116,6 @@ votre communauté,  reportez-vous aux cas d’usages de chacun de ces
 services.
 
 [[notes-de-versions]]
-[[note-de-version]]
 == Note de version
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC

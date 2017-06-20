@@ -1,4 +1,10 @@
-[[summary]]
+[[mur-collaboratif]]
+= Mur Collaboratif
+
+Le *Mur Collaboratif* permet de créer un mur sur lequel les
+*contributeurs* peuvent chacun **ajouter des notes**, à la façon d’un
+tableau sur lequel on ajoute des post-it**.**
+
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Créer et partager un mur
 collaboratif]
@@ -8,10 +14,6 @@ collaboratif]
 
 [[presentation]]
 == Présentation
-
-Le *Mur Collaboratif* permet de créer un mur sur lequel les
-*contributeurs* peuvent chacun **ajouter des notes**, à la façon d’un
-tableau sur lequel on ajoute des post-it**.**
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
@@ -73,7 +75,6 @@ Les différents droits que vous pouvez attribuer sont les suivants :
 image:../../wp-content/uploads/2015/06/m52.png[m5,width=386,height=279]
 
 [[cas-d-usage-2]]
-[[ajouter-une-note-au-mur-collaboratif]]
 == Ajouter une note au mur collaboratif
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -112,7 +113,6 @@ image:../../wp-content/uploads/2016/01/éditeur-texte_mur_collabora-1024x288.png
 sur:image:../../wp-content/uploads/2015/06/m16.png[m16,width=25,height=22]
 
 [[notes-de-versions]]
-[[note-de-version]]
 == Note de version
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC

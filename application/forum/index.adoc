@@ -1,4 +1,9 @@
-[[summary]]
+[[forum]]
+= Forum
+
+Un *Forum* est un espace de discussion ouvert permettant une
+communication asynchrone entre plusieurs participants.  
+
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Créer et partager une
 catégorie]
@@ -10,9 +15,6 @@ catégorie]
 
 [[presentation]]
 == Présentation
-
-Un *Forum* est un espace de discussion ouvert permettant une
-communication asynchrone entre plusieurs participants.  
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
@@ -84,11 +86,10 @@ image:../../wp-content/uploads/2015/07/f21.png[f2,width=600,height=249]
 Dans la fenêtre qui s'ouvre, renseignez le titre de la discussion (3),
 saisissez le premier message (2) et cliquez sur « Envoyer » (3).
 
-image:../../wp-content/uploads/2016/01/Créer-une-discussion1-1024x445.png[Créer
-une discussion,width=600,height=261]
+link:../../wp-content/uploads/2016/01/Créer-une-discussion.png[image:../../wp-content/uploads/2016/01/Créer-une-discussion1-1024x445.png[Créer
+une discussion,width=600,height=261]]
 
 [[cas-d-usage-3]]
-[[publier-un-message]]
 == Publier un message
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -152,7 +153,6 @@ image:../../wp-content/uploads/2015/07/f22.png[f2,width=600,height=254]
  
 
 [[notes-de-versions]]
-[[note-de-version]]
 == Note de version
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC

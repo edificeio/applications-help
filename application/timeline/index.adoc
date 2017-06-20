@@ -1,7 +1,10 @@
-[[summary]]
+[[premiers-pas-dans-lent]]
+= Premiers pas dans l’ENT
+
 * link:index.html?iframe=true#presentation[La page d'accueil]
 * link:index.html?iframe=true#cas-d-usage-1[Le fil de nouveautés]
-* link:index.html?iframe=true#cas-d-usage-2[Suppression et signalement des notifications]
+* link:index.html?iframe=true#cas-d-usage-2[Suppression et signalement
+des notifications]
 * link:index.html?iframe=true#cas-d-usage-3[Les widgets]
 * link:index.html?iframe=true#cas-d-usage-4[Le bandeau de navigation]
 * link:index.html?iframe=true#cas-d-usage-5[L’éditeur de texte]
@@ -11,9 +14,10 @@
 * link:index.html?iframe=true#cas-d-usage-9[Message Flash]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
-
-[[la-page-daccueil]]
+[[presentation]]
 == La page d'accueil
+
+
 
 La page d’accueil est la première page affichée après vous être connecté
 sur la plateforme. Elle vous permet d’accéder à différentes fonctions et
@@ -21,11 +25,13 @@ contenus, comme le fil de nouveautés, les widgets, le bandeau de
 navigation (présents sur chaque page de l’ENT) mais aussi de changer de
 thème.
 
-link:../../wp-content/uploads/2016/12/Fil-complet.png[image:../../wp-content/uploads/2016/12/Fil-complet.png[Fil-complet,width=501,height=325]]
+link:../../wp-content/uploads/2016/12/Fil-complet.png[image:../../wp-content/uploads/2016/12/Fil-complet.png[Fil
+- complet,width=501,height=325]]
 
 [[cas-d-usage-1]]
-[[le-fil-de-nouveautés]]
 == Le fil de nouveautés
+
+
 
 Le fil de nouveautés affiche les dernières informations et contenus qui
 vous concernent.
@@ -39,12 +45,14 @@ ou le contenu ;
 * Le lien vers l’information ou le contenu.
 * Une indication sur l'application concernée par la notification
 
-link:../../wp-content/uploads/2016/12/Fil-notif-et-filtre-2.png[image:../../wp-content/uploads/2016/12/Fil-notif-et-filtre-2.png[Fil-notif et filtre 2,width=501,height=398]]
+link:../../wp-content/uploads/2016/12/Fil-notif-et-filtre-2.png[image:../../wp-content/uploads/2016/12/Fil-notif-et-filtre-2.png[Fil
+- notif et filtre 2,width=501,height=398]]
 
 Pour filtrer les notifications reçues, déplier le menu "Filtrer les
 nouveautés" et cliquez sur les applications dont vous souhaitez
 visualiser les notifications ou non. +
-link:../../wp-content/uploads/2016/12/Fil-filtre.png[image:../../wp-content/uploads/2016/12/Fil-filtre.png[Fil-filtre,width=350,height=137]] +
+link:../../wp-content/uploads/2016/12/Fil-filtre.png[image:../../wp-content/uploads/2016/12/Fil-filtre.png[Fil
+- filtre,width=350,height=137]] +
 Pour accéder à une information ou un contenu qui vous a été partagé,
 cliquez sur le lien présent dans la nouveauté.
 
@@ -64,37 +72,41 @@ Le profil de l’utilisateur s’affiche.
 image:../../wp-content/uploads/2016/07/fil_3-1024x454.png[image,width=600,height=266]
 
 [[cas-d-usage-2]]
-[[suppression-et-signalement-des-notifications]]
 == Suppression et signalement des notifications
+
 
 
 Sur le fil de nouveauté, vous avez la possibilité de ne plus voir la
 notification reçue et/ou de signaler à l'administrateur de votre
 établissement une notification inappropriée. Une flèche d'action
 s'affiche sur la notification lors du survol de celle-ci. +
-link:../../wp-content/uploads/2016/12/Fil-survol1.png[image:../../wp-content/uploads/2016/12/Fil-survol1.png[Fil-survol,width=321,height=201]]Lorsque vous cliquez sur la flèche, les
+link:../../wp-content/uploads/2016/12/Fil-survol1.png[image:../../wp-content/uploads/2016/12/Fil-survol1.png[Fil
+- survol,width=321,height=201]]Lorsque vous cliquez sur la flèche, les
 actions concernant la notification sélectionnée s'affichent. +
 Vous pouvez :
 
 * Supprimer l'affichage de la notification de votre fil de nouveauté
 * Signaler la notification comme inappropriée à votre référent ENT
 
-link:../../wp-content/uploads/2016/12/Fil-action.png[image:../../wp-content/uploads/2016/12/Fil-action.png[Fil-action,width=414,height=89]]Vous avez également la possibilité de ne
+link:../../wp-content/uploads/2016/12/Fil-action.png[image:../../wp-content/uploads/2016/12/Fil-action.png[Fil
+- action,width=414,height=89]]Vous avez également la possibilité de ne
 pas diffuser une notification aux utilisateurs avec lesquels vous avez
 des droits de communication ou vous avez partagé du contenu. +
 Depuis votre espace "Mon compte", vous retrouverez toutes les
 notifications que vous avez émises en cliquant sur l'onglet
 "Historique" +
-link:../../wp-content/uploads/2016/12/Fil-historique.png[image:../../wp-content/uploads/2016/12/Fil-historique.png[Fil-historique,width=602,height=220]]Comme précédemment, en survolant la
+link:../../wp-content/uploads/2016/12/Fil-historique.png[image:../../wp-content/uploads/2016/12/Fil-historique.png[Fil
+- historique,width=602,height=220]]Comme précédemment, en survolant la
 notification avec la souris, vous verrez apparaître une flèche sur la
 droite de la notification. En cliquant sur cette flèche, une action
 apparaît vous permettant de supprimer définitivement la notification de
 l'ENT. +
-link:../../wp-content/uploads/2016/12/Fil-historique-suppression.png[image:../../wp-content/uploads/2016/12/Fil-historique-suppression.png[Fil-historique suppression,width=561,height=97]]
+link:../../wp-content/uploads/2016/12/Fil-historique-suppression.png[image:../../wp-content/uploads/2016/12/Fil-historique-suppression.png[Fil
+- historique suppression,width=561,height=97]]
 
 [[cas-d-usage-3]]
-[[les-widgets]]
 == Les widgets
+
 
 
 Les widgets se situent à gauche du fil de nouveautés. Ils sont composés
@@ -144,8 +156,8 @@ d’accueil de l’ENT en sélectionnant le widget puis en le déplaçant sur
 la page.
 
 [[cas-d-usage-4]]
-[[le-bandeau-de-navigation]]
 == Le bandeau de navigation
+
 
 
 Le bandeau de navigation situé en haut de la page permet d’accéder à
@@ -173,8 +185,8 @@ messagerie link:../../wp-content/uploads/2015/06/m114.png[image:../../wp-conten
 portail link:../../wp-content/uploads/2015/06/d12.png[image:../../wp-content/uploads/2015/06/d12.png[d1,width=40,height=39]]
 
 [[cas-d-usage-5]]
-[[léditeur-de-texte]]
 == L’éditeur de texte
+
 
 
 L’éditeur de texte permet de rédiger des contenus et de les mettre en
@@ -212,8 +224,8 @@ grisée et cliquer sur "Modifier les fichiers" (3).
 image:../../wp-content/uploads/2016/04/Image9.png[Image9,width=314,height=171]
 
 [[cas-d-usage-6]]
-[[la-gestion-des-paramètres]]
 == La gestion des paramètres
+
 
 
 La gestion des paramètres vous permet de modifier votre thème
@@ -242,8 +254,8 @@ Ils seront grisés dans la gestion de vos paramètres.
 image:../../wp-content/uploads/2016/01/Gestion-Widgets3.png[image,width=200,height=274]
 
 [[cas-d-usage-7]]
-[[notifications-externes]]
 == Notifications externes
+
 
 
 L'ENT est désormais doté d'un système de notification par mail qui
@@ -280,8 +292,8 @@ notification.
 link:../../wp-content/uploads/2016/08/notiff.png[image:../../wp-content/uploads/2016/08/notiff.png[notiff,width=590,height=345]]
 
 [[cas-d-usage-8]]
-[[le-moteur-de-recherche]]
 == Le moteur de recherche
+
 
 
 Le service Moteur de recherche a pour objectif de permettre à chaque
@@ -317,8 +329,8 @@ validez votre recherche en appuyant sur la touche « Entrée » ou en
 cliquant sur le bouton « GO ».
 
 [[cas-d-usage-9]]
-[[message-flash]]
 == Message Flash
+
 
 
 Des messages d'informations à destinations de tous les utilisateurs de
@@ -330,8 +342,8 @@ Après avoir pris connaissance du message, vous avez la possibilité de le
 supprimer en cliquant sur la croix à droite de celui-ci (2).
 
 [[notes-de-versions]]
-[[note-de-version]]
 == Note de version
+
 
 
 Nouveauté de la version 0.6
