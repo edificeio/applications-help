@@ -1,4 +1,4 @@
-[[communautés]]
+[[communautes]]
 = Communautés
 
 L’appli *Communautés* permet de *rassembler* un *groupe d’utilisateurs*

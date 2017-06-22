@@ -1,4 +1,4 @@
-[[actualités]]
+[[actualites]]
 = Actualités
 
 L’appli **Actualités** permet de publier des informations organisées

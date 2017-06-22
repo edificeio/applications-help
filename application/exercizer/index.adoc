@@ -1,4 +1,4 @@
-[[exercices-et-évaluations]]
+[[exercices-et-evaluations]]
 = Exercices et évaluations
 
 L’appli Exercices et évaluations est un outil de création, de

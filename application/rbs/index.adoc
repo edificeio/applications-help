@@ -1,4 +1,4 @@
-[[réservation-de-ressources]]
+[[reservation-de-ressources]]
 = Réservation de ressources
 
 Le service *Réservation de Ressources* permet aux utilisateurs de

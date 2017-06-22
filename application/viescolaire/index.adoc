@@ -1,4 +1,4 @@
-[[compétences]]
+[[competences]]
 = Compétences
 
 Cet outil permet d’**évaluer les élèves** de l’établissement, que ce
