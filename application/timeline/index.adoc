@@ -1,5 +1,5 @@
 [[premiers-pas-dans-lent]]
-= TEST DEPLOY
+= Premiers pas dans l'ENT
 
 * link:index.html?iframe=true#presentation[La page d'accueil]
 * link:index.html?iframe=true#cas-d-usage-1[Le fil de nouveautés]
