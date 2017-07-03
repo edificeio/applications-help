@@ -1,7 +1,7 @@
 [[blog]]
 = Blog
 
-Le *Blog* est un outil de communication permettant la publication
+Le *Blog* est un service de communication permettant la publication
 périodique et régulière de nouveaux articles (les billets), généralement
 succincts, et rendant compte d’une actualité autour d’un sujet donné.
 

@@ -1,3 +1,6 @@
+= Summary
+
+* link:README.adoc[Introduction]
 * link:application/751/index.adoc[751]
 * link:application/actualites/index.adoc[actualites]
 * link:application/administration/index.adoc[administration]
@@ -30,3 +33,5 @@
 * link:application/viescolaire/index.adoc[viescolaire]
 * link:application/wiki/index.adoc[wiki]
 * link:application/workspace/index.adoc[workspace]
+
+
