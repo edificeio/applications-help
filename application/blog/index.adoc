@@ -1,5 +1,5 @@
 [[blog]]
-= Blog
+= Blog BBBBB
 
 Le *Blog* est un service de communication permettant la publication
 périodique et régulière de nouveaux articles (les billets), généralement
