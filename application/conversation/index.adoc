@@ -18,6 +18,8 @@ reçus]
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
 
+image:/assets/ACAP.jpg[alt=""]
+
 L'appli Messagerie permet d'envoyer simplement un message à *un
 utilisateur* ou à un *groupe d’utilisateurs* (les élèves d'une classe,
 le personnel de l'établissement, etc.) ayant un accès à l'ENT.
@@ -27,9 +29,7 @@ Elle est indiquée par une *notification* dans le bandeau de navigation
 image:../../wp-content/uploads/2016/04/messagerie.png[messagerie,width=33,height=32] et
 dans le fil de nouveautés.
 
-image:../../wp-content/uploads/2016/04/messagerie2-1024x508.png[messagerie2,width=600,height=297]
-
- 
+image:../../wp-content/uploads/2016/04/messagerie2-1024x508.png[messagerie2,width=200,height=297]
 
  
 
