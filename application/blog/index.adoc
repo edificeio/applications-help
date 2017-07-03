@@ -1,5 +1,5 @@
 [[blog]]
-= Blog
+= Blog BBBBB
 
 Le *Blog* est un service de communication permettant la publication
 périodique et régulière de nouveaux articles (les billets), généralement
@@ -13,6 +13,9 @@ publication]
 * link:index.html?iframe=true#cas-d-usage-4[Publier un billet]
 * link:index.html?iframe=true#cas-d-usage-5[Valider un billet]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
+* link:index.html?iframe=true#ma-nouvelle-section[Ma nouvelle section]
+
+
 
 [[presentation]]
 == Présentation
@@ -190,6 +193,20 @@ Nouveautés de la version 0.5** +
 affichés dans une page sur le service Pages sont dorénavant modifiables
 directement depuis la page elle-même sans être redirigé vers le service
 Blog.
+
+[[ma-nouvelle-section]]
+== Ma nouvelle section
+
+=== Titre de ma section
+
+
+C'est magnifique !!
+
+image:/assets/Carte calvados Educ.png[alt=""]
+
+
+
+
 
 '''''
 
