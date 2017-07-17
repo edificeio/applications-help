@@ -194,20 +194,6 @@ affichés dans une page sur le service Pages sont dorénavant modifiables
 directement depuis la page elle-même sans être redirigé vers le service
 Blog.
 
-[[ma-nouvelle-section]]
-== Ma nouvelle section
-
-=== Titre de ma section
-
-
-C'est magnifique !!
-
-image:/assets/Carte calvados Educ.png[alt=""]
-
-
-
-
-
 '''''
 
  +
@@ -224,3 +210,21 @@ multiples plus ergonomiques et plus adaptés pour les supports mobiles.
 
 Le menu de gauche et les filtres ont été mis en avant pour être plus
 identifiables. La navigation dans le menu de gauche a été améliorée.
+
+
+[[ma-nouvelle-section]]
+== Ma nouvelle section
+
+=== Titre de ma section
+
+
+C'est magnifique !!
+
+image:/assets/Carte calvados Educ.png[alt=""]
+
+testdgsysd
+
+
+
+
+
