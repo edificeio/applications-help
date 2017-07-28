@@ -1,0 +1,126 @@
+[[cahier-de-textes-1d]]
+= Cahier de textes 1D
+
+L’appli Cahier de textes permet de planifier et d’organiser les
+activités des élèves en fonction des jours de la semaine.
+
+* link:index.html?iframe=true#presentation[Présentation]
+* link:index.html?iframe=true#cas-d-usage-1[Créer un cahier de textes]
+* link:index.html?iframe=true#cas-d-usage-2[Partager un cahier de
+textes]
+* link:index.html?iframe=true#cas-d-usage-3[Créer une activité]
+* link:index.html?iframe=true#notes-de-versions[Note de version]
+
+[[presentation]]
+== Présentation
+
+link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
+
+Il est facile de publier les devoirs des élèves dans le cahier de
+textes. Les élèves y accèdent  jour par jour et disposent également
+d’une synthèse de la semaine (vue semaine).
+
+Le cahier peut être partagé avec un utilisateur ou un groupe
+d’utilisateurs, selon les souhaits de l’enseignant.
+
+image:../../wp-content/uploads/2015/05/cahier-de-textes.png[cahier de
+textes,width=408,height=343]
+
+[[cas-d-usage-1]]
+== Créer un cahier de textes
+
+link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
+
+Pour accéder à l’appli Cahier de textes, cliquez sur l’icône
+correspondante dans la page « Mes applis ». +
+image:../../wp-content/uploads/2015/06/t1.png[t1,width=273,height=49] +
+image:../../wp-content/uploads/2015/06/t2.png[t2,width=403,height=200]
+
+Pour créer un nouveau cahier de textes, cliquez sur le bouton « Créer »
+en haut de la page.
+
+image:../../wp-content/uploads/2015/06/t3.png[t3,width=523,height=134]
+
+Votre cahier est désormais créé mais n’est pas encore visible.
+
+[[cas-d-usage-2]]
+[[partager-un-cahier-de-textes]]
+== Partager un cahier de textes
+
+link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
+
+Pour partager un cahier de textes avec d’autres utilisateurs, cliquez
+sur la case à cocher (1) située à côté du cahier puis sur « Partager »
+(2).
+
+image:../../wp-content/uploads/2015/06/t4.png[t4,width=574,height=297]
+
+Dans la fenêtre de partage, vous pouvez donner des droits de  lecture,
+de contribution et de gestion à d’autres personnes sur votre cahier.
+Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du
+groupe d’utilisateurs que vous recherchez (1), sélectionnez le résultat
+(2) et cochez les cases correspondant aux droits que vous souhaitez leur
+attribuer (3). +
+image:../../wp-content/uploads/2015/06/t5.png[t5,width=450,height=302]
+
+Votre cahier de textes est initialisé, vous pouvez désormais créer les
+premières activités !
+
+Les différents droits que vous pouvez attribuer sont les suivants :
+
+* Lecture : l’utilisateur visualise le cahier de textes
+* Contribution : l’utilisateur peut créer des activités dans le cahier
+de textes
+* Gestion : l’utilisateur peut partager, modifier et supprimer le cahier
+de textes
+
+[[cas-d-usage-3]]
+== Créer une activité
+
+link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
+
+Une fois votre cahier de textes créé, vous pouvez y ajouter des
+activités.
+
+Pour cela, cliquez sur le titre du cahier dans le dossier
+correspondant.image:../../wp-content/uploads/2015/06/t6.png[t6,width=591,height=124]
+
+Lorsque le cahier est affiché à l’écran, cliquez sur un jour de la
+semaine pour saisir une nouvelle
+activité.image:../../wp-content/uploads/2015/06/t7.png[t7,width=465,height=434]
+
+Une fois le jour sélectionné, cliquez sur le bouton
+« Créer ».image:../../wp-content/uploads/2015/06/t8.png[t8,width=521,height=281]
+
+Vous pouvez ajouter une activité directement dans le cahier. Tout
+d’abord, saisissez la matière dans la colonne de
+gauche.image:../../wp-content/uploads/2015/06/t9.png[t9,width=517,height=276]
+
+Cliquez dans la colonne principale pour afficher l’éditeur de texte. +
+image:../../wp-content/uploads/2015/06/t10.png[t10,width=523,height=279]
+
+Comme pour les autres services, vous pouvez intégrer plusieurs types de
+contenus dans l’activité : texte, image, lecteur audio, lecteur vidéo,
+formule mathématique…
+
+Lorsque vous saisissez des contenus, l’enregistrement des données est
+automatique. Il suffit de cliquer dans la zone de saisie pour effectuer
+les modifications.
+
+Une fois que vous avez terminé, cliquez sur le bouton « Afficher la vue
+semaine » pour revenir à la page d’accueil du
+cahier.image:../../wp-content/uploads/2015/06/t11.png[t11,width=499,height=268]
+
+La semaine en cours est affichée par défaut. Pour saisir une activité
+pour une semaine ultérieure, vous pouvez soit faire défiler les semaines
+en cliquant sur les flèches (1) soit sélectionner la date dans le
+calendrier
+(2).image:../../wp-content/uploads/2015/06/t12.png[t12,width=605,height=291]
+
+[[notes-de-versions]]
+== Note de version
+
+link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
+
+A chaque nouvelle version de l'application, les nouveautés seront
+présentées dans cette section.

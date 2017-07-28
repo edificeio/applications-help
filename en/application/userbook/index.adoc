@@ -1,0 +1,277 @@
+[[mon-compte]]
+= Mon compte
+
+* link:index.html?iframe=true#presentation[Accéder à mon compte]
+* link:index.html?iframe=true#cas-d-usage-2[Changer ma photo de profil]
+* link:index.html?iframe=true#cas-d-usage-3[Changer de mot de passe]
+* link:index.html?iframe=true#cas-d-usage-4[Ajouter ou modifier mon
+adresse mail]
+* link:index.html?iframe=true#cas-d-usage-5[Ajouter une devise à mon
+compte]
+* link:index.html?iframe=true#cas-d-usage-6[Changer mon humeur]
+* link:#cas-d-usage-7[Modifier mes centres d'intérêt]
+* link:index.html?iframe=true#cas-d-usage-8[Définir la visibilité de mes
+informations personnelles]
+* link:index.html?iframe=true#cas-d-usage-9[Notifications externes]
+* link:index.html?iframe=true#cas-d-usage-10[Historique des
+notifications émises]
+* link:index.html?iframe=true#notes-de-versions[Note de version]
+
+[[presentation]]
+== Accéder à mon compte
+
+
+
+Pour mettre à jour votre humeur, votre devise, votre photo et vos autres
+informations personnelles, vous disposez d’un espace dédié. Vous pouvez
+choisir de rendre visibles vos informations aux autres utilisateurs de
+l’ENT ou de les laisser invisibles.
+
+Pour accéder à votre compte, connectez-vous à l’ENT en saisissant votre
+identifiant et votre mot de passe dans la fenêtre de connexion.
+
+Cliquez sur « Connexion ».
+
+image:../../wp-content/uploads/2015/07/m1.png[m1,width=454,height=256]
+
+Cliquez sur l’avatar en haut à gauche de l'écran.
+
+image:../../wp-content/uploads/2016/07/Compte1.png[image,width=300,height=44]
+
+Vous accédez à votre espace personnel où vous pouvez modifier vos
+informations : photo, coordonnées, devise, humeur, centres d’intérêt, en
+cliquant simplement sur le champ à modifier.
+
+image:../../wp-content/uploads/2016/07/Compte2-1024x487.png[image,width=600,height=285]
+
+'''''
+
+Les enseignants ont la possibilité de choisir un nom d’affichage
+personnalisé, visible par les autres utilisateurs de l'ENT. Par défaut,
+ce nom d'affichage est le prénom et le nom de l'utilisateur.
+
+'''''
+
+ 
+
+[[cas-d-usage-2]]
+== Changer ma photo de profil
+
+
+
+Pour changer votre photo, cliquez directement sur la photo ou sur
+l'avatar par défaut.
+
+image:../../wp-content/uploads/2015/07/m3.jpg[m3,width=169,height=171]
+
+Vous pouvez choisir une photo à partir de votre espace personnel de
+l’ENT en la sélectionnant dans :
+
+* « Mes documents » : documents personnels stockés dans l’ENT,
+* « Documents partagés avec moi » : documents partagés par d’autres
+utilisateurs,
+* « Documents ajoutés dans les applis » : documents insérés dans une
+appli.
+
+image:../../wp-content/uploads/2015/07/m4.png[m4,width=478,height=314]
+
+Vous pouvez aussi choisir d’importer une photo à partir de votre poste
+de travail.
+
+* Cliquez sur « Charger un document ».
+* Cliquez sur « Parcourir ».
+
+Sélectionnez un fichier dans votre poste de travail et cliquez sur
+ouvrir. Cliquez en suite sur « Importer » pour lancer le téléchargement.
+
+image:../../wp-content/uploads/2015/07/m5.png[m5,width=850,height=396]
+
+Votre photo est maintenant visible dans votre compte et par tous les
+utilisateurs !
+
+image:../../wp-content/uploads/2016/07/Compte3-1024x379.png[image,width=600,height=222] +
+Votre photo est visible dans le fil de nouveautés des autres
+utilisateurs lorsque vous leur partagez un contenu mais également
+lorsque vous postez un message dans un forum.
+
+[[cas-d-usage-3]]
+== Changer de mot de passe
+
+
+
+Pour changer votre mot de passe, cliquez sur « Modifier mon mot de
+passe ».
+
+image:../../wp-content/uploads/2015/07/m7.png[m7,width=619,height=248]
+
+Puis suivez les étapes suivantes :
+
+* Saisissez votre « Ancien mot de passe »
+* Saisissez votre « Nouveau mot de passe »
+* Saisissez la « Confirmation du mot de passe »
+* Cliquez sur « Réinitialiser »
+
+image:../../wp-content/uploads/2016/01/MON-COMPTE-1024x463.png[image,width=737,height=333]
+
+Votre mot de passe est maintenant modifié !
+
+[[cas-d-usage-4]]
+== Ajouter ou modifier mon adresse mail
+
+
+
+Vous pouvez ajouter ou modifier votre adresse mail dans l’espace « Mon
+compte ».
+
+Pour ajouter ou modifier votre adresse mail, saisissez votre nouvelle
+adresse dans le champ prévu, en face de « Adresse courrielle ».
+
+image:../../wp-content/uploads/2016/07/Compte4-1024x379.png[image,width=600,height=222]
+
+En cas d’oubli de votre mot de passe, un lien de récupération vous sera
+envoyé sur l’adresse mail renseignée dans votre compte.
+
+[[cas-d-usage-5]]
+== Ajouter une devise à mon compte
+
+
+
+Vous pouvez ajouter une devise à votre compte. Pour cela, remplissez le
+champ « Devise » sous vos coordonnées.
+
+image:../../wp-content/uploads/2015/07/m10.png[m10,width=544,height=241]
+
+Votre devise sera visible sur votre profil et apparaitra dans le fil de
+nouveautés des autres utilisateurs de l’ENT lorsque vous la modifierez.
+
+[[cas-d-usage-6]]
+== Changer mon humeur
+
+
+
+Pour changer votre humeur, cliquez sur l’icône en dessous de votre
+photo.
+
+image:../../wp-content/uploads/2015/07/m11.png[m11,width=275,height=436]
+
+Une liste d’humeurs apparaît. Choisissez celle que vous souhaitez.
+
+image:../../wp-content/uploads/2015/07/m12.png[m12,width=457,height=222]
+
+ 
+
+Votre nouvelle humeur apparaît sur votre compte et est maintenant
+visible dans le fil de nouveautés des autres utilisateurs de l’ENT avec
+lesquels vous avez le droit de communiquer.
+
+[[cas-d-usage-7]]
+== Modifier mes centres d'intérêt
+
+
+
+Vous pouvez modifier vos centres d’intérêt : animaux, cinéma, musique,
+endroits et sports.
+
+image:../../wp-content/uploads/2015/07/m13.png[m13,width=596,height=143]
+
+Saisissez les informations souhaitées dans les champs correspondants.
+
+image:../../wp-content/uploads/2015/07/m14.png[m14,width=607,height=144]
+
+Mais aussi d'autres commentaires dans « Divers ».
+
+image:../../wp-content/uploads/2015/07/m15.png[m15,width=620,height=118]
+
+[[cas-d-usage-8]]
+== Définir la visibilité de mes informations personnelles
+
+
+
+Vous avez la possibilité de définir la visibilité de vos informations
+personnelles grâce à l’icône située au bout de chaque ligne.
+
+En un seul clic, vous choisissez l’icône correspondant au niveau de
+visibilité que vous souhaitez :
+
+* L’icône “Cadenas” signifie que l’information est privée, vous êtes le
+(la) seul(e) à la voir.
+
+image:../../wp-content/uploads/2015/07/m16.png[m16,width=36,height=36]
+
+* L’icône “Globe” signifie que l’information est visible des autres
+utilisateurs de l’ENT, en fonction des droits de communication dont ils
+disposent.
+
+image:../../wp-content/uploads/2015/07/m18.png[m18,width=32,height=27] +
+Lorsque vous ajoutez ou modifiez le texte ou les paramètres de
+visibilité dans votre espace personnel, l’enregistrement est
+automatique.
+
+image:../../wp-content/uploads/2015/07/m19.png[m19,width=779,height=170]
+
+[[cas-d-usage-9]]
+== Notifications externes
+
+
+
+L'ENT est désormais doté d'un système de notification par mail qui
+permet aux utilisateurs de recevoir sur leur adresse personnelle des
+mails contenant les nouveautés de l'ENT qui les concernent. +
+Chaque utilisateur peut modifier les notifications qu'il souhaite
+recevoir et la fréquence de chacune d'elles (immédiate, quotidienne,
+hebdomadaire). +
+Pour accéder à ce paramétrage, aller dans mon compte (1) et cliquer sur
+le bouton "Gérer mes notifications externes" (2)
+
+link:../../wp-content/uploads/2016/12/notif-ext2.png[image:../../wp-content/uploads/2016/12/notif-ext2.png[notif
+ext2,width=599,height=241]]
+
+La page de paramétrage des notifications externes permet de modifier
+l'adresse de réception des mails (3) et de choisir la fréquence d'envoi
+de chaque notification (immédiat, quotidien, hebdomadaire, jamais)
+(4). +
+Le détail des notifications disponibles par service est accessible en
+cliquant sur le nom du service dans la ligne correspondante (5).
+
+image:../../wp-content/uploads/2016/07/notif2.png[notif2,width=600,height=339]
+
+Lorsque les modifications sont terminées, cliquer sur "Enregistrer" en
+bas du tableau (6).
+
+image:../../wp-content/uploads/2016/07/notif3.png[notif3,width=600,height=81]
+
+Une fois la notification reçue dans sa boîte mail personnelle,
+l'utilisateur peut cliquer sur le lien correspondant afin d'accéder au
+contenu. S'il n'est pas connecté à l'ENT, il devra saisir son
+identifiant et son mot de passe pour accéder à l'objet de la
+notification.
+
+link:../../wp-content/uploads/2016/12/notif-externe-réception.png[image:../../wp-content/uploads/2016/12/notif-externe-réception.png[notif
+externe - réception,width=500,height=268]]
+
+[[cas-d-usage-10]]
+== Historique des notifications émises
+
+
+
+Vous avez la possibilité de ne pas diffuser une notification aux
+utilisateurs avec lesquels vous avez des droits de communication ou vous
+avez partagé du contenu. +
+Depuis votre espace "Mon compte", vous retrouverez toutes les
+notifications que vous avez émis en cliquant sur l'onglet
+"Historique". +
+link:../../wp-content/uploads/2016/12/Fil-historique.png[image:../../wp-content/uploads/2016/12/Fil-historique.png[Fil
+- historique,width=599,height=219]]En survolant la notification avec la
+souris, vous verrez apparaître une flèche sur la droite de la
+notification. En cliquant sur cette flèche, une action apparaît vous
+permettant de supprimer définitivement la notification de l'ENT. +
+link:../../wp-content/uploads/2016/12/Fil-historique-suppression.png[image:../../wp-content/uploads/2016/12/Fil-historique-suppression.png[Fil
+- historique suppression,width=550,height=95]]
+
+[[notes-de-versions]]
+== Note de version
+
+
+
+A chaque nouvelle version de l'application, les nouveautés seront
+présentées dans cette section.
