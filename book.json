@@ -1,7 +1,0 @@
-{
-    "structure": {
-        "readme": "./README.adoc",
-        "summary": "./SUMMARY.adoc",
-        "languages": "./LANGS.adoc"
-    }
-}
