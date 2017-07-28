@@ -1,7 +1,7 @@
 {
     //"root": "book.language", //Get root according to current language
     "structure": {
-        "readme": "README.adoc",
-        "summary": "SUMMARY.adoc",
+        "readme": "./README.adoc",
+        "summary": "./SUMMARY.adoc"
     }
 }
