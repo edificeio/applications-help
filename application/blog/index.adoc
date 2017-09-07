@@ -13,9 +13,6 @@ publication]
 * link:index.html?iframe=true#cas-d-usage-4[Publier un billet]
 * link:index.html?iframe=true#cas-d-usage-5[Valider un billet]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
-* link:index.html?iframe=true#ma-nouvelle-section[Ma nouvelle section]
-
-
 
 [[presentation]]
 == Présentation
@@ -210,23 +207,3 @@ multiples plus ergonomiques et plus adaptés pour les supports mobiles.
 
 Le menu de gauche et les filtres ont été mis en avant pour être plus
 identifiables. La navigation dans le menu de gauche a été améliorée.
-
-
-[[ma-nouvelle-section]]
-== Ma nouvelle section
-
-=== Titre de ma section
-
-
-C'est magnifique !!
-
-image:/assets/Carte calvados Educ.png[alt=""]
-
-testdgsysdvxdxdvxvdbdbx
-
-testchangerequest2
-
-
-
-
-
