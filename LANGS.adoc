@@ -1,4 +1,0 @@
-= Langues
-
-. link:en/[English]
-. link:fr/[French]
