@@ -14,8 +14,6 @@ textes]
 [[presentation]]
 == Présentation
 
-link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
-
 Il est facile de publier les devoirs des élèves dans le cahier de
 textes. Les élèves y accèdent  jour par jour et disposent également
 d’une synthèse de la semaine (vue semaine).
@@ -29,30 +27,26 @@ textes,width=408,height=343]
 [[cas-d-usage-1]]
 == Créer un cahier de textes
 
-link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
-
 Pour accéder à l’appli Cahier de textes, cliquez sur l’icône
 correspondante dans la page « Mes applis ». +
-image:../../wp-content/uploads/2015/06/t1.png[t1,width=273,height=49] +
-image:../../wp-content/uploads/2015/06/t2.png[t2,width=403,height=200]
+image:/assets/cahier-de-textes.png[alt=""] +
+image:/assets/Cahier-de-texte-2.png[alt=""]
 
 Pour créer un nouveau cahier de textes, cliquez sur le bouton « Créer »
 en haut de la page.
 
-image:../../wp-content/uploads/2015/06/t3.png[t3,width=523,height=134]
+image:/assets/Cahier-de-texte-3.png[alt=""]
 
 Votre cahier est désormais créé mais n’est pas encore visible.
 
 [[cas-d-usage-2]]
 == Partager un cahier de textes
 
-link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
-
 Pour partager un cahier de textes avec d’autres utilisateurs, cliquez
 sur la case à cocher (1) située à côté du cahier puis sur « Partager »
 (2).
 
-image:../../wp-content/uploads/2015/06/t4.png[t4,width=574,height=297]
+image:/assets/Cahier-de-texte-4.png[alt=""]
 
 Dans la fenêtre de partage, vous pouvez donner des droits de  lecture,
 de contribution et de gestion à d’autres personnes sur votre cahier.
@@ -60,7 +54,7 @@ Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du
 groupe d’utilisateurs que vous recherchez (1), sélectionnez le résultat
 (2) et cochez les cases correspondant aux droits que vous souhaitez leur
 attribuer (3). +
-image:../../wp-content/uploads/2015/06/t5.png[t5,width=450,height=302]
+image:/assets/Cahier-de-texte-5.png[alt=""]
 
 Votre cahier de textes est initialisé, vous pouvez désormais créer les
 premières activités !
@@ -76,17 +70,15 @@ de textes
 [[cas-d-usage-3]]
 == Créer une activité
 
-link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
-
 Une fois votre cahier de textes créé, vous pouvez y ajouter des
 activités.
 
 Pour cela, cliquez sur le titre du cahier dans le dossier
-correspondant.image:../../wp-content/uploads/2015/06/t6.png[t6,width=591,height=124]
+correspondant.image:/assets/Cahier-de-texte-6.png[alt=""]
 
 Lorsque le cahier est affiché à l’écran, cliquez sur un jour de la
 semaine pour saisir une nouvelle
-activité.image:../../wp-content/uploads/2015/06/t7.png[t7,width=465,height=434]
+activité.image:/assets/Cahier-de-texte-7.png[alt=""]
 
 Une fois le jour sélectionné, cliquez sur le bouton
 « Créer ».image:../../wp-content/uploads/2015/06/t8.png[t8,width=521,height=281]
@@ -118,8 +110,6 @@ calendrier
 
 [[notes-de-versions]]
 == Note de version
-
-link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
 
 A chaque nouvelle version de l'application, les nouveautés seront
 présentées dans cette section.

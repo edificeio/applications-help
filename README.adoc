@@ -1,6 +1,6 @@
 
 = Manuel d’utilisation des applications de votre réseau collaboratif
 
-image:/assets/ode.png[alt=""]
+image:/assets/ode-logo.png[alt=""]
 
 Découvrez toutes les applications de votre réseau social éducatif.
