@@ -6,7 +6,7 @@
 * link:application/administration/index.adoc[administration]
 * link:application/archive/index.adoc[archive]
 * link:application/blog/index.adoc[blog]
-* link:application/calendar/index.adoc[calendar]
+* link:application/calendar/index.adoc[calendrier]
 * link:application/collaborative-editor/index.adoc[collaborative-editor]
 * link:application/collaborativewall/index.adoc[collaborativewall]
 * link:application/community/index.adoc[community]
