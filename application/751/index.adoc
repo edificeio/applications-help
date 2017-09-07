@@ -44,7 +44,6 @@ image:../../wp-content/uploads/2015/06/t3.png[t3,width=523,height=134]
 Votre cahier est désormais créé mais n’est pas encore visible.
 
 [[cas-d-usage-2]]
-[[partager-un-cahier-de-textes]]
 == Partager un cahier de textes
 
 link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
