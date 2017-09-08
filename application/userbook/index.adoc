@@ -113,7 +113,7 @@ Puis suivez les étapes suivantes :
 * Saisissez la « Confirmation du mot de passe »
 * Cliquez sur « Réinitialiser »
 
-image:../../wp-content/uploads/2016/01/MON-COMPTE-1024x463.png[image,width=737,height=333]
+image:../../wp-content/uploads/2016/01/MON-COMPTE-1024x463.png[image,width=500]
 
 Votre mot de passe est maintenant modifié !
 
@@ -154,11 +154,11 @@ nouveautés des autres utilisateurs de l’ENT lorsque vous la modifierez.
 Pour changer votre humeur, cliquez sur l’icône en dessous de votre
 photo.
 
-image:../../wp-content/uploads/2015/07/m11.png[m11,width=275,height=436]
+image:../../wp-content/uploads/2015/07/m11.png[m11,width=200]
 
 Une liste d’humeurs apparaît. Choisissez celle que vous souhaitez.
 
-image:../../wp-content/uploads/2015/07/m12.png[m12,width=457,height=222]
+image:../../wp-content/uploads/2015/07/m12.png[m12,width=250]
 
  
 
@@ -249,7 +249,7 @@ identifiant et son mot de passe pour accéder à l'objet de la
 notification.
 
 link:../../wp-content/uploads/2016/12/notif-externe-réception.png[image:../../wp-content/uploads/2016/12/notif-externe-réception.png[notif
-externe - réception,width=500,height=268]]
+externe - réception,width=200]]
 
 [[cas-d-usage-10]]
 == Historique des notifications émises
