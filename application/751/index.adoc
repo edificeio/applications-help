@@ -34,14 +34,15 @@ image:../../wp-content/uploads/2015/05/cahier-de-textes.png[image,width=400]
 == Créer un cahier de textes
 
 Pour accéder à l’appli Cahier de textes, cliquez sur l’icône
-correspondante dans la page « Mes applis ». +
+correspondante dans la page « Mes applis ».
+
 image:/assets/cahier-de-textes.png[image,width=200] +
 image:/assets/Cahier-de-texte-2.png[image,width=400]
 
 Pour créer un nouveau cahier de textes, cliquez sur le bouton « Créer »
 en haut de la page.
 
-image:/assets/Cahier-de-texte-3.png[alt=""]
+image:/assets/Cahier-de-texte-3.png[image,width=400]
 
 Votre cahier est désormais créé mais n’est pas encore visible.
 
@@ -52,7 +53,7 @@ Pour partager un cahier de textes avec d’autres utilisateurs, cliquez
 sur la case à cocher (1) située à côté du cahier puis sur « Partager »
 (2).
 
-image:/assets/Cahier-de-texte-4.png[alt=""]
+image:/assets/Cahier-de-texte-4.png[image,width=400]
 
 Dans la fenêtre de partage, vous pouvez donner des droits de  lecture,
 de contribution et de gestion à d’autres personnes sur votre cahier.
@@ -60,7 +61,7 @@ Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du
 groupe d’utilisateurs que vous recherchez (1), sélectionnez le résultat
 (2) et cochez les cases correspondant aux droits que vous souhaitez leur
 attribuer (3). +
-image:/assets/Cahier-de-texte-5.png[alt=""]
+image:/assets/Cahier-de-texte-5.png[image,width=200]
 
 Votre cahier de textes est initialisé, vous pouvez désormais créer les
 premières activités ! Les différents droits que vous pouvez attribuer sont les suivants :
@@ -78,26 +79,26 @@ Une fois votre cahier de textes créé, vous pouvez y ajouter des
 activités. Pour cela, cliquez sur le titre du cahier dans le dossier
 correspondant.
 
-image:/assets/Cahier-de-texte-6.png[alt=""]
+image:/assets/Cahier-de-texte-6.png[image,width=400]
 
 Lorsque le cahier est affiché à l’écran, cliquez sur un jour de la
 semaine pour saisir une nouvelle activité.
 
-image:/assets/Cahier-de-texte-7.png[alt=""]
+image:/assets/Cahier-de-texte-7.png[image,width=400]
 
 Une fois le jour sélectionné, cliquez sur le bouton « Créer ».
 
-image:../../wp-content/uploads/2015/06/t8.png[t8,width=521,height=281]
+image:../../wp-content/uploads/2015/06/t8.png[t8,width=300]
 
 Vous pouvez ajouter une activité directement dans le cahier. Tout
 d’abord, saisissez la matière dans la colonne de
 gauche.
 
-image:../../wp-content/uploads/2015/06/t9.png[t9,width=517,height=276]
+image:../../wp-content/uploads/2015/06/t9.png[t9,width=300]
 
 Cliquez dans la colonne principale pour afficher l’éditeur de texte.
 
-image:../../wp-content/uploads/2015/06/t10.png[t10,width=523,height=279]
+image:../../wp-content/uploads/2015/06/t10.png[t10,width=300]
 
 Comme pour les autres services, vous pouvez intégrer plusieurs types de
 contenus dans l’activité : texte, image, lecteur audio, lecteur vidéo,
@@ -111,14 +112,14 @@ Une fois que vous avez terminé, cliquez sur le bouton « Afficher la vue
 semaine » pour revenir à la page d’accueil du
 cahier.
 
-image:../../wp-content/uploads/2015/06/t11.png[t11,width=499,height=268]
+image:../../wp-content/uploads/2015/06/t11.png[t11,width=300]
 
 La semaine en cours est affichée par défaut. Pour saisir une activité
 pour une semaine ultérieure, vous pouvez soit faire défiler les semaines
 en cliquant sur les flèches (1) soit sélectionner la date dans le
 calendrier (2).
 
-image:../../wp-content/uploads/2015/06/t12.png[t12,width=605,height=291]
+image:../../wp-content/uploads/2015/06/t12.png[t12,width=300]
 
 [[notes-de-versions]]
 == Note de version
