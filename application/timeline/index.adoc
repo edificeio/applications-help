@@ -172,18 +172,17 @@ Les différents services disponibles sont les suivants :
 * L’accès à votre
 compte link:../../wp-content/uploads/2016/06/tete.png[image:../../wp-content/uploads/2016/06/tete.png[tete,width=40,height=36]]
 * Le bouton de retour à la page
-d’accueil link:../../wp-content/uploads/2015/06/a14.png[image:../../wp-content/uploads/2015/06/a14.png[a1,width=38,height=36]]
+d’accueil link:../../wp-content/uploads/2015/06/a14.png[image:../../wp-content/uploads/2015/06/a14.png[a1,width=40]]
 * Le bouton d’accès aux
-applis link:../../wp-content/uploads/2015/06/a15.png[image:../../wp-content/uploads/2015/06/a15.png[a1,width=39,height=38]]
+applis link:../../wp-content/uploads/2015/06/a15.png[image:../../wp-content/uploads/2015/06/a15.png[a1,width=40]]
 * Le bouton d’accès à l'appli
-Communautés link:../../wp-content/uploads/2015/06/c14.png[image:../../wp-content/uploads/2015/06/c14.png[c1,width=39,height=39]]
+Communautés link:../../wp-content/uploads/2015/06/c14.png[image:../../wp-content/uploads/2015/06/c14.png[c1,width=40]]
 * Le bouton de recherche sur
-l'ENT link:../../wp-content/uploads/2016/06/Loupe.png[image:../../wp-content/uploads/2016/06/Loupe.png[Loupe,width=43,height=34]]
+l'ENT link:../../wp-content/uploads/2016/06/Loupe.png[image:../../wp-content/uploads/2016/06/Loupe.png[Loupe,width=40]]
 * Le bouton de notification de nouveaux messages reçus dans l’ENT et
-d'accès à la
-messagerie link:../../wp-content/uploads/2015/06/m114.png[image:../../wp-content/uploads/2015/06/m114.png[m1,width=42,height=36]]
+d'accès à la messagerie link:../../wp-content/uploads/2015/06/m114.png[image:../../wp-content/uploads/2015/06/m114.png[m1,width=40]]
 * Le bouton de déconnexion du
-portail link:../../wp-content/uploads/2015/06/d12.png[image:../../wp-content/uploads/2015/06/d12.png[d1,width=40,height=39]]
+portail link:../../wp-content/uploads/2015/06/d12.png[image:../../wp-content/uploads/2015/06/d12.png[d1,width=40]]
 
 [[cas-d-usage-5]]
 == L’éditeur de texte
@@ -364,8 +363,7 @@ ENT
 Un nouveau widget fait son apparition. Il permet d’afficher les
 applications favorites sur la page d’accueil de l’ENT.
 
-* +
-Moteur de recherche : prise en compte des ressources du blog*
+* Moteur de recherche : prise en compte des ressources du blog*
 
 Le moteur de recherche effectue ses recherches parmi les billets des
 blogs sur les champs suivants:
@@ -374,8 +372,7 @@ blogs sur les champs suivants:
 * contenu,
 * commentaires.
 
-* +
-Moteur de recherche : activation par profil ou par établissement*
+* Moteur de recherche : activation par profil ou par établissement
 
 Il est désormais possible d’activer la recherche transverse par profil
 ou par établissement.

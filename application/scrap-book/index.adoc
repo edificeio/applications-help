@@ -29,7 +29,7 @@ Les utilisateurs ayant des droits de contribution dans le cahier
 choisissent le nombre de pages du cahier et la mise en forme qu'ils
 souhaitent appliquer à chaque page.
 
-link:../../wp-content/uploads/2015/03/casier1.png[image:../../wp-content/uploads/2015/04/Cahier-multimédia.jpg[Cahier
+image:../../wp-content/uploads/2015/04/Cahier-multimédia.jpg[Cahier
 multimédia,width=451,height=383] 
 
 [[cas-d-usage-1]]

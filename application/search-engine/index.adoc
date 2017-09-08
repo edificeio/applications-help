@@ -54,16 +54,16 @@ link:../../wp-content/uploads/2016/06/Presentation001.png[image:../../wp-content
 (1) Les icônes correspondants aux applications sont des filtres qui vous
 permettent d’activer ou de désactiver la recherche dans cette catégorie.
 
-\(2) Zone de saisie des mots-clés à rechercher
+(2) Zone de saisie des mots-clés à rechercher
 
-\(3) Bouton permettant de lancer la recherche
+(3) Bouton permettant de lancer la recherche
 
-\(4) Liste des ressources trouvées en fonction des mots-clés saisis et
+(4) Liste des ressources trouvées en fonction des mots-clés saisis et
 des filtres activés
 
-\(5) Lien qui vous permet d’accéder à la ressource
+(5) Lien qui vous permet d’accéder à la ressource
 
-\(6) Désignation du propriétaire de la ressource
+(6) Désignation du propriétaire de la ressource
 
 [[cas-d-usage-2]]
 == Accès à la page de recherche
@@ -157,19 +157,19 @@ link:../../wp-content/uploads/2016/06/Resultat003.png[image:../../wp-content/upl
 
 link:../../wp-content/uploads/2016/06/Detail001.png[image:../../wp-content/uploads/2016/06/Detail001.png[Detail001,width=600,height=346]]
 
-\(1) Titre de la ressource
+(1) Titre de la ressource
 
-\(2) Date de dernière modification de la ressource
+(2) Date de dernière modification de la ressource
 
-\(3) Description de la ressource. La description est tronquée si elle
+(3) Description de la ressource. La description est tronquée si elle
 s’affiche sur plus de deux lignes. Le texte « **… **» est affiché en fin
 de description. En cliquant une ressource dont la description est
 tronquée, la totalité de description est affichée. Il suffit ensuite de
 cliquer sur la ressource pour réduire son affichage.
 
-\(4) Désignation du propriétaire de la ressource
+(4) Désignation du propriétaire de la ressource
 
-\(5) Lien qui permet d’afficher la ressource dans l’application qui a
+(5) Lien qui permet d’afficher la ressource dans l’application qui a
 permis sa création
 
 [[notes-de-versions]]
