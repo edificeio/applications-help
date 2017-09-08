@@ -100,13 +100,15 @@ les modifications.
 
 Une fois que vous avez terminé, cliquez sur le bouton « Afficher la vue
 semaine » pour revenir à la page d’accueil du
-cahier.image:../../wp-content/uploads/2015/06/t11.png[t11,width=499,height=268]
+cahier.
+image:../../wp-content/uploads/2015/06/t11.png[t11,width=499,height=268]
 
 La semaine en cours est affichée par défaut. Pour saisir une activité
 pour une semaine ultérieure, vous pouvez soit faire défiler les semaines
 en cliquant sur les flèches (1) soit sélectionner la date dans le
 calendrier
-(2).image:../../wp-content/uploads/2015/06/t12.png[t12,width=605,height=291]
+(2).
+image:../../wp-content/uploads/2015/06/t12.png[t12,width=605,height=291]
 
 [[notes-de-versions]]
 == Note de version
