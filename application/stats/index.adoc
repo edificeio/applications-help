@@ -42,11 +42,11 @@ image:../../wp-content/uploads/2015/04/Stats-1.jpg[Stats
 Pour accéder à l’appli Statistiques, cliquez sur l’icône correspondante
 dans la page « Mes applis ».
 
-image:../../wp-content/uploads/2015/06/p14.png[p1,width=285,height=52]
+image:../../wp-content/uploads/2015/06/p14.png[p1,width=150]
 
 Un récapitulatif des statistiques de fréquentation de l’ENT s’affiche.
 
-image:../../wp-content/uploads/2015/06/s14.png[s1,width=426,height=328]
+image:../../wp-content/uploads/2015/06/s14.png[s1,width=300]
 
 Pour plus de détails, cliquez sur la vignette de l’indicateur. Un graphe
 s’affiche.
@@ -54,14 +54,14 @@ s’affiche.
 L’encart situé en haut à droite permet de choisir la période d’affichage
 des résultats.
 
-image:../../wp-content/uploads/2015/06/s21.png[s2,width=346,height=384]
+image:../../wp-content/uploads/2015/06/s21.png[s2,width=300]
 
 En positionnant le curseur de la souris sur le graphe, vous pouvez
 consulter le détail de l’indicateur par profil. Par exemple dans l’écran
 ci-dessous, on constate pour le mois de janvier 76 visites tout profil
 confondu dont 47 visites pour le profil Enseignant.
 
-image:../../wp-content/uploads/2015/06/s31.png[s3,width=467,height=313]
+image:../../wp-content/uploads/2015/06/s31.png[s3,width=300]
 
 [[notes-de-versions]]
 == Note de version
