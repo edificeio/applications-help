@@ -15,7 +15,7 @@ selon différentes thématiques en ciblant les destinataires.
 == Présentation
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
+BY-NC-SA 3.0 FR,width=50,height=17,5]]
 
 Cet outil vous permet de *diffuser facilement une information* (comme le
 déroulement d’un événement ou le menu de la cantine) en y
@@ -30,7 +30,7 @@ l’information. Les personnes concernées reçoivent une *notification*
 dans leur *fil de nouveautés* et voient apparaître l’actualité dans le
 **widget Actualités**.
 
-image:../../wp-content/uploads/2016/07/Actu_11-1024x475.png[image,width=600,height=278]
+image:../../wp-content/uploads/2016/07/Actu_11-1024x475.png[image,width=300,height=139]
 
 [[cas-d-usage-1]]
 == Créer un fil d'actualités

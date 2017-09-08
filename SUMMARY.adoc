@@ -25,7 +25,7 @@
 * link:application/search-engine/index.adoc[Moteur recherche]
 * link:application/share-big-files/index.adoc[Poste-fichiers]
 * link:application/statistics/index.adoc[Statistiques 2D]
-* link:application/stats/index.adoc[Statistiques 2D]
+* link:application/stats/index.adoc[Statistiques 1D]
 * link:application/support/index.adoc[Aide &amp; Support]
 * link:application/timeline/index.adoc[Premiers pas dans l&apos;ENT]
 * link:application/timelinegenerator/index.adoc[Frise chronologique]

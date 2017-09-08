@@ -142,7 +142,6 @@ link:../../wp-content/uploads/2016/01/Agenda-Récurrence.png[image:../../wp-cont
 paramétrée après un nombre d’occurrences ou à une date donnée.
 
 [[cas-d-usage-3]]
-[[partager-un-agenda]]
 == Partager un agenda
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -172,7 +171,6 @@ sont les suivants :
 l’agenda
 
 [[cas-d-usage-4]]
-[[visualiser-les-événements-dun-agenda]]
 == Visualiser les événements d'un agenda
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
