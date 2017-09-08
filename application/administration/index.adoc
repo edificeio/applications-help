@@ -117,12 +117,11 @@ suivants :
 
 * pour désélectionner tous les champs image:../../wp-content/uploads/2015/07/a13.png[a13,width=26,height=20]
 
-image:../../wp-content/uploads/2015/07/a13.png[a13,width=26,height=2près avoir choisi les filtres souhaités (2), la liste des résultats
-apparaî sur la partie gauche de l’écran (3).
+Après avoir choisi les filtres souhaités (2), la liste des résultats
+apparaît sur la partie gauche de l’écran (3).
 
-image:../../wp-content/uploads
+image:../../wp-content/uploads/2015/07/a14.png[a14,width=552,height=578] 
 
-/2015/07/a14.png[a14,width=552,height=578] +
 *2. Effectuer une recherche par nom ou par prénom*
 
 Pour chercher un utilisateur en particulier, saisir les premières
@@ -137,8 +136,6 @@ image:../../wp-content/uploads/2015/07/a15.png[a15,width=598,height=299]
 
 [[cas-d-usage-3]]
 == Examiner la fiche d’un utilisateur
-
-
 
 Pour faire apparaître la fiche d’un utilisateur, cliquez sur son
 identifiant.
@@ -158,7 +155,7 @@ l’AAF)
 
 image:../../wp-content/uploads/2015/07/a17.png[a17,width=312,height=365,25]image:../../wp-content/uploads/2015/07/a18.png[a18,width=325,5,height=284,25]
 
-1.  *Changer le mot de passe d'un utilisateur*
+*1.  Changer le mot de passe d'un utilisateur*
 
 Lorsqu’un utilisateur perd son mot de passe, l’administrateur peut
 lancer sa réinitialisation. Pour réinitialiser un nouveau mot de passe,
@@ -181,7 +178,8 @@ saisissez le nombre souhaité (2) puis cliquez sur « Enregistrer » (3).
 Si le quota attribué est trop élevé par rapport à la limite fixée, un
 message d’erreur apparaît.
 
-image:../../wp-content/uploads/2015/07/a24.png[a2,width=282,75,height=138] +
+image:../../wp-content/uploads/2015/07/a24.png[a2,width=200] +
+
 *3. link:../../wp-content/uploads/2015/07/a181.png[Attribuer la fonction
 d’administrateur local à un utilisateur]*
 
@@ -196,8 +194,8 @@ Pour cela, suivez les étapes ci-dessous :
 saisir le début de son prénom dans la barre de recherche
 4.  Au bas de la fiche utilisateur, cliquez sur « Attribuer »
 
-image:../../wp-content/uploads/2015/07/a32.png[a3,width=246,height=139] +
-image:../../wp-content/uploads/2015/07/a41.png[a4,width=496,height=298]
+image:../../wp-content/uploads/2015/07/a32.png[a3,width=200] +
+image:../../wp-content/uploads/2015/07/a41.png[a4,width=200]
 
 *4. link:../../wp-content/uploads/2015/07/a181.png[ ]Créer manuellement
 un nouvel utilisateur*
@@ -233,7 +231,7 @@ Pour cela, suivez les étapes ci-dessous :
 le début de son prénom pour le trouver plus rapidement
 * Cliquez sur « Bloquer »
 
-image:../../wp-content/uploads/2015/07/a34.png[a3,width=260,height=148] +
+image:../../wp-content/uploads/2015/07/a34.png[a3,width=200] +
 image:../../wp-content/uploads/2015/07/a42.png[a4,width=635,height=296]
 
 Pour débloquer le compte d’un utilisateur, cliquez sur « débloquer ».
@@ -257,7 +255,8 @@ vous obtenez les informations relatives à la classe.
 Pour consulter tous les utilisateurs d’une classe, cliquez sur le lien
 « Voir les personnes rattachées à cette classe » (2), vous êtes redirigé
 sur la page « Opérations sur les utilisateurs » où les membres de la
-classe apparaissent. +
+classe apparaissent. 
+
 image:../../wp-content/uploads/2015/07/a61.png[a6,width=597,height=453] +
 *1. Exporter les comptes des utilisateurs d’une classe*
 
@@ -453,8 +452,6 @@ contactés par un autre groupe
 * *Communication dans les deux sens* : les membres d’un groupe peuvent
 contacter et être contactés par les membres d’un autre groupe
 
-* *
-
 Pour définir des règles personnalisées, suivez les étapes suivantes :
 
 1.  Sélectionnez le groupe de référence en le recherchant dans la barre
@@ -627,8 +624,7 @@ transverse. Les administrateurs intervenant sur plusieurs établissements
 peuvent donc retrouver un utilisateur sans savoir à quel établissement
 il appartient.
 
-*Modification des champs des exports +
-* +
+*Modification des champs des exports* +
 Les champs suivants sont maintenant présents dans les exports de comptes
 utilisateurs :
 
