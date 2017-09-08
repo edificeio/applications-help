@@ -47,12 +47,8 @@ link:../../wp-content/uploads/2016/09/Accueil-Exercices-et-évaluations1.png[ima
 == Elève / Apprenant - Réaliser un exercice
 
 Depuis la page d’accueil, cliquez sur « Mes applis » en haut à droite de
-l’écran puis cliquez sur « Exercices et évaluations ».
-
-Vous retrouvez les sujets à réaliser dans la semaine à gauche de
-l’écran.
-
-Cliquez sur le sujet de votre choix.
+l’écran puis cliquez sur « Exercices et évaluations ». Vous retrouvez les sujets à réaliser dans la semaine à gauche de
+l’écran. Cliquez sur le sujet de votre choix.
 
 link:../../wp-content/uploads/2016/09/Apprenant.png[image:../../wp-content/uploads/2016/09/Apprenant.png[Apprenant,width=612,height=296]]
 

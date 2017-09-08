@@ -19,8 +19,7 @@ BY-NC-SA 3.0 FR,width=100,height=35]]
 Le Pad est un éditeur de texte en ligne fonctionnant en mode
 collaboratif temps réel. Il vous permet de partager l'élaboration
 simultanée d'un texte, et d'en discuter en parallèle, via une messagerie
-instantanée. Il promeut des usages pédagogiques, notamment pour
-l’apprentissage collaboratif.
+instantanée. Il promeut des usages pédagogiques, notamment pour l’apprentissage collaboratif.
 
 [[cas-d-usage-1]]
 == Créer un Pad

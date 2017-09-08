@@ -113,7 +113,7 @@ droit de gestionnaire dans les fonctions de partage.
 Pour gérer une catégorie, cliquez sur la case à cocher qui y est
 associée.
 
-image:../../wp-content/uploads/2016/04/forum.png[forum,width=300,height=409]
+image:../../wp-content/uploads/2016/04/forum.png[forum,width=100]
 
 [[cas-d-usage-5]]
 == Gérer une discussion

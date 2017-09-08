@@ -74,7 +74,7 @@ image:../../wp-content/uploads/2015/06/m52.png[m5,width=386,height=279]
 
 Pour créer une note sur un mur, cliquez sur le mur souhaité.
 
-[line-through]**image:../../wp-content/uploads/2016/08/mur-4-1024x229.png[image,width=600,height=134] +
+image:../../wp-content/uploads/2016/08/mur-4-1024x229.png[image,width=600,height=134] +
 Puis cliquez sur « Nouvelle note ».
 
 image:../../wp-content/uploads/2015/07/c4.png[c4,width=531,height=359]
@@ -83,26 +83,26 @@ Un post-it apparaît, présentant différentes fonctionnalités disponibles
 sur la partie supérieure droite. +
 image:../../wp-content/uploads/2015/06/m9.png[m9,width=167,height=169]
 
-* Pour modifier  la couleur de la note, cliquez
-sur:image:../../wp-content/uploads/2015/06/m10.png[m10,width=26,height=25]
+Pour modifier  la couleur de la note, cliquez
+sur: image:../../wp-content/uploads/2015/06/m10.png[m10,width=26,height=25]
 
 Une palette de couleurs apparait sur la partie supérieure de la page.
 Cliquez sur la couleur désirée.
 
 image:../../wp-content/uploads/2015/06/m111.png[m11,width=666,height=33]
 
-* Pour afficher l'auteur de la note, cliquez
-sur:image:../../wp-content/uploads/2015/06/m12.png[m12,width=27,height=23]
+Pour afficher l'auteur de la note, cliquez
+sur: image:../../wp-content/uploads/2015/06/m12.png[m12,width=27,height=23]
 
 image:../../wp-content/uploads/2015/06/m13.png[m13,width=530,height=79]
 
-* Pour ajouter du contenu à la note, cliquez
-sur:image:../../wp-content/uploads/2015/06/m14.png[m14,width=27,height=24]
+Pour ajouter du contenu à la note, cliquez
+sur: image:../../wp-content/uploads/2015/06/m14.png[m14,width=27,height=24]
 
 image:../../wp-content/uploads/2016/01/éditeur-texte_mur_collabora-1024x288.png[image,width=737,height=207]
 
-* Pour supprimer la note, cliquez
-sur:image:../../wp-content/uploads/2015/06/m16.png[m16,width=25,height=22]
+Pour supprimer la note, cliquez
+sur: image:../../wp-content/uploads/2015/06/m16.png[m16,width=25,height=22]
 
 [[notes-de-versions]]
 == Note de version
