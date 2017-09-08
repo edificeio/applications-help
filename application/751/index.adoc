@@ -25,7 +25,7 @@ d’une synthèse de la semaine (vue semaine).
 Le cahier peut être partagé avec un utilisateur ou un groupe
 d’utilisateurs, selon les souhaits de l’enseignant.
 
-image:../../wp-content/uploads/2015/05/cahier-de-textes.png[image,width=550]
+image:../../wp-content/uploads/2015/05/cahier-de-textes.png[image,width=400]
 
 
 
@@ -35,8 +35,8 @@ image:../../wp-content/uploads/2015/05/cahier-de-textes.png[image,width=550]
 
 Pour accéder à l’appli Cahier de textes, cliquez sur l’icône
 correspondante dans la page « Mes applis ». +
-image:/assets/cahier-de-textes.png[cahier-de-textes, scalewidth="40%"] +
-image:/assets/Cahier-de-texte-2.png[alt=""]
+image:/assets/cahier-de-textes.png[image,width=200] +
+image:/assets/Cahier-de-texte-2.png[image,width=400]
 
 Pour créer un nouveau cahier de textes, cliquez sur le bouton « Créer »
 en haut de la page.
