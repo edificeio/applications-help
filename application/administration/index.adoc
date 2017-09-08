@@ -62,7 +62,8 @@ image:../../wp-content/uploads/2015/07/a31.png[a3,width=576,height=88]
 peut envoyer un message, partager des contenus et à quels utilisateurs
 il aura accès dans l’annuaire.
 
-image:../../wp-content/uploads/2015/07/a4.png[a4,width=763,height=124] +
+image:../../wp-content/uploads/2015/07/a4.png[a4,width=576] 
+
 Pour passer d’un menu à l’autre, glissez la souris sur le bandeau gris
 de navigation.
 
