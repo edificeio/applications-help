@@ -88,22 +88,22 @@ Vous pouvez effectuer les opérations suivantes :
 
 * Afficher/cacher les filtres
 
-image:../../wp-content/uploads/2015/07/a7.png[a7,width=38,height=36]
+image:../../wp-content/uploads/2015/07/a7.png[a7,width=20,height=20]
 
 * Ordonner par nom/rôle
 
-image:../../wp-content/uploads/2015/07/a8.png[a8,width=39,height=37]
+image:../../wp-content/uploads/2015/07/a8.png[a8,width=20,height=20]
 
 * Créer un utilisateur
 
-image:../../wp-content/uploads/2015/07/a9.png[a9,width=39,height=38]
+image:../../wp-content/uploads/2015/07/a9.png[a9,width=20,height=20]
 
 * Afficher la légende
 
-image:../../wp-content/uploads/2015/07/a10.png[a10,width=40,height=38]
+image:../../wp-content/uploads/2015/07/a10.png[a10,width=20,height=20]
 
 La légende est la suivante : +
-image:../../wp-content/uploads/2015/07/a11.png[a11,width=200,height=277]
+image:../../wp-content/uploads/2015/07/a11.png[a11,width=100,height=138,5]
 
 1.  *Effectuer une recherche filtrée*
 
@@ -118,11 +118,11 @@ filtres » (1). Plusieurs filtres sont disponibles :
 Pour faciliter votre recherche, vous pouvez cliquer sur les boutons
 suivants :
 
-image:../../wp-content/uploads/2015/07/a12.png[a12,width=41,height=31]
+image:../../wp-content/uploads/2015/07/a12.png[a12,width=26,height=20]
 
 * pour sélectionner tous les champs
 
-image:../../wp-content/uploads/2015/07/a13.png[a13,width=43,height=29]
+image:../../wp-content/uploads/2015/07/a13.png[a13,width=26,height=20]
 
 * pour désélectionner tous les champs
 
@@ -163,7 +163,7 @@ l’AAF)
 * L’attribution de structures et de classes de rattachement
 * L’attribution de droits d’administrateur central et local
 
-image:../../wp-content/uploads/2015/07/a17.png[a17,width=416,height=487]image:../../wp-content/uploads/2015/07/a18.png[a18,width=434,height=379]
+image:../../wp-content/uploads/2015/07/a17.png[a17,width=312,height=365,25]image:../../wp-content/uploads/2015/07/a18.png[a18,width=325,5,height=284,25]
 
 1.  *Changer le mot de passe d'un utilisateur*
 
@@ -188,7 +188,7 @@ saisissez le nombre souhaité (2) puis cliquez sur « Enregistrer » (3).
 Si le quota attribué est trop élevé par rapport à la limite fixée, un
 message d’erreur apparaît.
 
-image:../../wp-content/uploads/2015/07/a24.png[a2,width=377,height=184] +
+image:../../wp-content/uploads/2015/07/a24.png[a2,width=282,75,height=138] +
 *3. link:../../wp-content/uploads/2015/07/a181.png[Attribuer la fonction
 d’administrateur local à un utilisateur]*
 
