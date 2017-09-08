@@ -25,7 +25,9 @@ d’une synthèse de la semaine (vue semaine).
 Le cahier peut être partagé avec un utilisateur ou un groupe
 d’utilisateurs, selon les souhaits de l’enseignant.
 
-image:../../wp-content/uploads/2015/05/cahier-de-textes.png[alt=""]
+image:../../wp-content/uploads/2015/05/cahier-de-textes.png[image,width=550]
+
+
 
 
 [[cas-d-usage-1]]
