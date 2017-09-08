@@ -129,11 +129,11 @@ image:../../wp-content/uploads/2016/04/Image33-1024x572.png[Image3,width=524,hei
 
 '''''
 
-*Pour les utilisateurs pouvant contribuer à un blog dans lequel le
+Pour les utilisateurs pouvant contribuer à un blog dans lequel le
 circuit de publication a été activé, un bouton « Envoyer » s'affiche :
 il leur permet de soumettre leur billet au gestionnaire du blog qui se
 chargera de la publication ou non du billet. +
-*
+
 
 '''''
 

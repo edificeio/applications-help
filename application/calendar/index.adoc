@@ -32,10 +32,10 @@ qui appartiennent à l’utilisateur et ceux qui lui sont partagés.
 2.  Un bandeau qui permet de faire défiler les semaines.
 3.  Les 2 icônes en haut à droite permettent de permuter l’affichage du
 mode calendrier
-link:../../wp-content/uploads/2016/01/Agenda-icone-calendrier.png[image:../../wp-content/uploads/2016/01/Agenda-icone-calendrier.png[Agenda
-- icone calendrier,width=24,height=24]]  au mode liste d’événements
-link:../../wp-content/uploads/2016/01/Agenda-Icone-liste.png[image:../../wp-content/uploads/2016/01/Agenda-Icone-liste.png[Agenda
-- Icone liste,width=27,height=20]].
+link:../../wp-content/uploads/2016/01/Agenda-icone-calendrier.png[image:../../wp-content/uploads/2016/01/Agenda-icone-calendrier.png[Agenda - icone calendrier,width=24,height=24]]  
+
+au mode liste d’événements link:../../wp-content/uploads/2016/01/Agenda-Icone-liste.png[image:../../wp-content/uploads/2016/01/Agenda-Icone-liste.png[Agenda - Icone liste,width=27,height=20]].
+
 4.  Le calendrier qui permet d'afficher les événements des agendas
 sélectionnés.
 
@@ -87,11 +87,12 @@ Pour créer un événement, plusieurs options s’offrent à l’utilisateur, il
 est possible de cliquer dans le calendrier au créneau horaire souhaité
 ou d’utiliser le bouton
 link:../../wp-content/uploads/2016/01/Agenda-Créé-événement.png[image:../../wp-content/uploads/2016/01/Agenda-Créé-événement.png[Agenda
-- Créé événement,width=128,height=30]]. La fenêtre de création
-d’événement apparait en popup. Elle se décompose en trois onglets. +
+- Créé événement,width=128,height=30]]. 
 
-link:../../wp-content/uploads/2016/01/Agenda-Création-événement.png[image:../../wp-content/uploads/2016/01/Agenda-Création-événement.png[Agenda
-- Création événement,width=598,height=489]] +
+La fenêtre de création d’événement apparait en popup. Elle se décompose en trois onglets.
+
+link:../../wp-content/uploads/2016/01/Agenda-Création-événement.png[image:../../wp-content/uploads/2016/01/Agenda-Création-événement.png[Agenda - Création événement,width=598,height=489]] +
+
 Le premier onglet appelé "Détails" comporte les informations générales
 de l’événement à créer :
 
