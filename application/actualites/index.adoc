@@ -75,7 +75,7 @@ d’utilisateurs que vous recherchez
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur
 attribuer.
 
-image:../../wp-content/uploads/2015/06/a11.png[a1,width=450,height=291]
+image:../../wp-content/uploads/2015/06/a11.png[a1,width=300]
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs
 de l’ENT sur le fil d'actualités sont les suivants :
@@ -91,7 +91,7 @@ d'actualités
 
 Pour créer une actualité, cliquez sur le bouton « Nouvelle actualité ».
 
-image:../../wp-content/uploads/2016/01/Capture.png[image,width=94,height=22]
+image:../../wp-content/uploads/2016/01/Capture.png[image,width=120]
 
 Dans la nouvelle fenêtre, indiquez le titre de l'actualité (1), le fil
 auquel l'actualité sera rattachée (2), les dates de publication et
@@ -129,7 +129,7 @@ d’utilisateurs que vous recherchez
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur
 attribuer :
 
-image:../../wp-content/uploads/2016/01/ACTU-3-1024x559.png[image,width=512,height=279,5]
+image:../../wp-content/uploads/2016/01/ACTU-3-1024x559.png[image,width=300]
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs
 de l’ENT sur l'actualité sont les suivants :
