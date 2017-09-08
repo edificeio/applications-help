@@ -22,7 +22,7 @@ Le cahier peut être partagé avec un utilisateur ou un groupe
 d’utilisateurs, selon les souhaits de l’enseignant.
 
 image:../../wp-content/uploads/2015/05/cahier-de-textes.png[cahier de
-textes,width=408,height=343]
+textes,408,33]a
 
 [[cas-d-usage-1]]
 == Créer un cahier de textes
