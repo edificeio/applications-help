@@ -46,7 +46,7 @@ Pour créer un fil d'actualités, suivez les étapes suivantes :
 4.  Choisissez une image d'illustration
 5.  Cliquez sur « Sauvegarder »
 
-image:../../wp-content/uploads/2016/07/Actu_2_1-1024x318.png[image,width=600,height=186] +
+image:../../wp-content/uploads/2016/07/Actu_2_1-1024x318.png[image,width=204,height=63,6] +
 image:../../wp-content/uploads/2015/07/a28.png[a2,width=158,height=44] +
 image:../../wp-content/uploads/2015/07/a37.png[a3,width=600,height=135]
 
