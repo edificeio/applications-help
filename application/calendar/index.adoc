@@ -12,11 +12,11 @@ sous forme d’un calendrier ou d’une liste.
 d'un agenda]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
-[[presentation]]
-== Présentation
-
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
+
+[[presentation]]
+== Présentation
 
 Le service Agenda permet de créer et partager des évènements.
 
@@ -41,9 +41,6 @@ sélectionnés.
 
 [[cas-d-usage-1]]
 == Créer un agenda
-
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
 
 Pour créer un agenda, cliquez sur le bouton « Créer un agenda » dans le
 menu de gauche (1). +
@@ -85,9 +82,6 @@ utilisateurs.
 
 [[cas-d-usage-2]]
 == Créer un événement
-
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
 
 Pour créer un événement, plusieurs options s’offrent à l’utilisateur, il
 est possible de cliquer dans le calendrier au créneau horaire souhaité
@@ -144,9 +138,6 @@ paramétrée après un nombre d’occurrences ou à une date donnée.
 [[cas-d-usage-3]]
 == Partager un agenda
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
-
 L’accès au partage de la ressource calendrier se fait grace au menu du
 bas lors de la sélection d’un calendrier dans la liste des calendriers
 de l’utilisateur.
@@ -172,9 +163,6 @@ l’agenda
 
 [[cas-d-usage-4]]
 == Visualiser les événements d'un agenda
-
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
 
 Les événements créés sont affichés sur la vue calendrier avec comme
 couleur de fond celle de l’agenda auxquels ils appartiennent. Si un
@@ -208,9 +196,6 @@ affichés.
 
 [[notes-de-versions]]
 == Note de version
-
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
 
 *Nouveautés de la version 0.3*
 

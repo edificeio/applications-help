@@ -10,11 +10,11 @@ problème d'utilisation de l'ENT aux administrateurs de l'établissement.
 support]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
-[[presentation]]
-== Présentation
-
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
+
+[[presentation]]
+== Présentation
 
 L’utilisateur peut faire part de ses difficultés d'utilisation ou d'un
 dysfonctionnement via un formulaire dans lequel il peut également
@@ -28,9 +28,6 @@ image:../../wp-content/uploads/2016/08/aide_1-1024x248.png[image,width=600,heigh
 
 [[cas-d-usage-1]]
 == Créer une demande
-
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
 
 La demande de création se fait en cliquant sur le bouton « Nouvelle
 demande » (1) disponible sur la page principale du service.
@@ -88,22 +85,17 @@ image:../../wp-content/uploads/2016/08/aide_4-1024x432.png[aide_4,width=600,heig
 [[notes-de-versions]]
 == Note de version
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
-
 Nouveauté de la version 0.3.0
 
-*Ajout de pièces jointes +
-*
+*Ajout de pièces jointes*
 
 Il est désormais possible d’ajouter des pièces jointes dans les demandes
 du service Aide et Support, par exemple pour joindre des captures
 d’écran. L'ajout de pièces jointes reste disponible même quand le quota
 d’espace disponible de l'utilisateur est atteint.
 
-*image:../../wp-content/uploads/2015/04/NDF-13.png[NDF
+image:../../wp-content/uploads/2015/04/NDF-13.png[NDF
 13,width=598,height=285] +
-*
 
 '''''
 
@@ -162,8 +154,4 @@ Les administrateurs locaux étaient les seuls à être notifiés lorsqu'un
 ticket escaladé sur Redmine avait été mis à jour. Le demandeur peut à
 présent voir dans son fil d’actualité que des actions sont effectuées.
 
- +
 
-**** +
-***** +
-*

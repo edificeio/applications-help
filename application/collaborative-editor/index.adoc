@@ -10,10 +10,11 @@ en temps réel sur un éditeur de texte en ligne.
 * link:index.html?iframe=true#cas-d-usage-3[Travailler avec un Pad]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
+BY-NC-SA 3.0 FR,width=100,height=35]]
+
 [[presentation]]
 == Présentation
-
-link:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051-300x105.png[CC-BY-NC-SA-3.0-FR-300x105,width=111,height=39]]
 
 Le Pad est un éditeur de texte en ligne fonctionnant en mode
 collaboratif temps réel. Il vous permet de partager l'élaboration
@@ -23,8 +24,6 @@ l’apprentissage collaboratif.
 
 [[cas-d-usage-1]]
 == Créer un Pad
-
-link:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051-300x105.png[CC-BY-NC-SA-3.0-FR-300x105,width=111,height=39]]
 
 [[:1gc]]Pour créer un Pad, cliquez sur le bouton « Créer un Pad » dans
 la page d'accueil de l'appli.
@@ -45,8 +44,6 @@ image:../../wp-content/uploads/2016/01/nouveaupad2.png[nouveaupad2,width=598,hei
 
 [[cas-d-usage-2]]
 == Partager un Pad
-
-link:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051-300x105.png[CC-BY-NC-SA-3.0-FR-300x105,width=111,height=39]]
 
 Pour partager un Pad avec d’autres utilisateurs, cliquez sur la case à
 cocher correspondant à votre Pad (1) puis sur le bouton « Partager »
@@ -79,8 +76,6 @@ Pad
 [[cas-d-usage-3]]
 == Travailler avec un Pad
 
-link:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051-300x105.png[CC-BY-NC-SA-3.0-FR-300x105,width=111,height=39]]
-
 Pour travailler avec un Pad partagé, il vous suffit de saisir le texte
 qui sera transmis automatiquement à tous les collaborateurs en ligne sur
 ce même Pad.
@@ -109,8 +104,6 @@ cinématique des différentes versions du contenu du Pad ;
 
 [[notes-de-versions]]
 == Note de version
-
-link:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051-300x105.png[CC-BY-NC-SA-3.0-FR-300x105,width=111,height=39]]
 
 A chaque nouvelle version de l'application, les nouveautés seront
 présentées dans cette section.

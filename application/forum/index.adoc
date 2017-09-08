@@ -13,11 +13,11 @@ catégorie]
 * link:index.html?iframe=true#cas-d-usage-5[Gérer une discussion]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
-[[presentation]]
-== Présentation
-
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
+
+[[presentation]]
+== Présentation
 
 Le forum est un outil d'échange généralement **animé par une ou
 plusieurs personnes**. Il permet à différents utilisateurs **de publier
@@ -32,9 +32,6 @@ image:../../wp-content/uploads/2016/01/FORUM_Presentation.png[image,width=600,he
 
 [[cas-d-usage-1]]
 == Créer et partager une catégorie
-
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
 
 Pour créer un forum, cliquez sur « Créer une catégorie ».
 
@@ -72,9 +69,6 @@ Cliquez sur le bouton « Terminer » pour créer votre discussion.
 [[cas-d-usage-2]]
 == Créer une discussion
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
-
 Pour créer une discussion :
 
 1.  Cliquez sur la case à cocher de la catégorie de forum dans laquelle
@@ -92,9 +86,6 @@ une discussion,width=600,height=261]]
 [[cas-d-usage-3]]
 == Publier un message
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
-
 Pour poster un message, cliquez sur la discussion concernée.
 
 image:../../wp-content/uploads/2015/07/f3.png[f3,width=756,height=284] +
@@ -105,9 +96,6 @@ image:../../wp-content/uploads/2015/07/f4.png[f4,width=442,height=344]
 
 [[cas-d-usage-4]]
 == Gérer une catégorie
-
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
 
 Si vous êtes habilité à créer une catégorie de forum (présence du
 bouton « Nouvelle catégorie » en haut de l'écran), vous disposez
@@ -130,9 +118,6 @@ image:../../wp-content/uploads/2016/04/forum.png[forum,width=300,height=409]
 [[cas-d-usage-5]]
 == Gérer une discussion
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
-
 Si vous êtes gestionnaire d'une discussion (présence du bouton «
 Nouvelle discussion » en haut de l'écran), vous disposez également des
 droits de gestion de la discussion, c'est-à-dire que vous pouvez :
@@ -154,9 +139,6 @@ image:../../wp-content/uploads/2015/07/f22.png[f2,width=600,height=254]
 
 [[notes-de-versions]]
 == Note de version
-
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
 
 Nouveauté de la version 0.5 +
 

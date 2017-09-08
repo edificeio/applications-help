@@ -14,10 +14,11 @@ multimédia]
 cahier multimédia]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
+link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
+
+
 [[presentation]]
 == Présentation
-
-link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
 
 Les cahiers créés peuvent être utilisés comme des *supports de
 restitution* de travaux ou encore comme *outil de communication* avec
@@ -29,17 +30,17 @@ choisissent le nombre de pages du cahier et la mise en forme qu'ils
 souhaitent appliquer à chaque page.
 
 link:../../wp-content/uploads/2015/03/casier1.png[image:../../wp-content/uploads/2015/04/Cahier-multimédia.jpg[Cahier
-multimédia,width=451,height=383] +
-]
+multimédia,width=451,height=383] 
 
 [[cas-d-usage-1]]
 == Créer et partager un cahier multimédia
 
-link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
 
 Pour accéder à l’appli Cahier multimédia, cliquez sur l’icône
 correspondante dans la page « Mes
-applis ».image:../../wp-content/uploads/2015/06/p14.png[p1,width=268,height=49] +
+applis ».
+
+image:../../wp-content/uploads/2015/06/p14.png[p1,width=268,height=49] +
 image:../../wp-content/uploads/2015/06/m17.png[m1,width=439,height=214]
 
 Dans le service Cahier multimédia, cliquez sur le bouton « Créer » en
@@ -74,10 +75,7 @@ image:../../wp-content/uploads/2015/06/m53.png[m5,width=366,height=311]
 [[cas-d-usage-2]]
 == Editer les pages du cahier multimédia
 
-link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
-
-Une
-fois http://one1d.fr/aide-support/aide-support/7-cahier-multimedia/creer-et-partager-un-cahier-multimedia/[votre
+Une fois http://one1d.fr/aide-support/aide-support/7-cahier-multimedia/creer-et-partager-un-cahier-multimedia/[votre
 cahier multimédia créé], vous pouvez publier des pages. Pour cela,
 cliquez sur le titre du cahier dans la page d’accueil.
 
@@ -93,12 +91,10 @@ sur la flèche à droite du cahier (2).
 
 image:../../wp-content/uploads/2015/06/m54.png[m5,width=476,height=385]
 
- +
 Vous pouvez ajouter les contenus suivants dans vos cahiers :
 
 image:../../wp-content/uploads/2015/06/m65.png[m6,width=600,height=184]
 
- +
 Il est possible de modifier une zone de texte. Pour cela, cliquez sur la
 zone : une barre d’édition s’affiche. L’éditeur offre de nombreuses
 possibilités pour mettre le texte en forme.
@@ -128,7 +124,6 @@ cliquant sur « Sauvegarder ».
 [[cas-d-usage-3]]
 == Publier une vidéo dans un cahier multimédia
 
-link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
 
 Il est possible d’ajouter dans vos cahiers multimédia des vidéos
 stockées sur des plateformes d’hébergement comme Youtube, Dailymotion,
@@ -145,12 +140,12 @@ Voici un exemple de procédure pour le site Youtube :
 
 image:../../wp-content/uploads/2015/06/m44.png[m4,width=608,height=204]
 
- +
 Ouvrez le cahier multimédia dans lequel vous souhaitez ajouter cette
 vidéo et cliquez sur l’icône d’ajout de
-vidéo.image:../../wp-content/uploads/2015/06/m55.png[m5,width=302,height=92]
+vidéo.
 
- +
+image:../../wp-content/uploads/2015/06/m55.png[m5,width=302,height=92]
+
 Dans la fenêtre qui s’ouvre, collez le lien précédemment copié depuis le
 site hébergeant la vidéo (1) puis cliquez sur « Ajouter » (2).
 
@@ -162,13 +157,10 @@ Positionnez ensuite la vidéo dans la page et sauvegardez votre travail.
 
 image:../../wp-content/uploads/2015/06/m74.png[m7,width=366,height=297]
 
- +
 Votre cahier est complété et la vidéo prête à être regardée !
 
 [[notes-de-versions]]
 == Note de version
-
-link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
 
 A chaque nouvelle version de l'application, les nouveautés seront
 présentées dans cette section.

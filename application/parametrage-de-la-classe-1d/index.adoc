@@ -13,11 +13,11 @@ codes d'activation]
 * link:index.html?iframe=true#cas-d-usage-4[Supprimer un utilisateur]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
-[[presentation]]
-== Présentation
-
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
+
+[[presentation]]
+== Présentation
 
 Cette appli permet notamment de créer de nouveaux comptes (élèves,
 parents, personnels, enseignants), d’exporter les identifiants et code
@@ -28,12 +28,11 @@ de la classe, etc.
 [[cas-d-usage-1]]
 == Créer des utilisateurs dans la classe
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
-
 Pour accéder à l’appli Paramétrage de la classe, cliquez sur l’icône
 correspondante dans la page « Mes
-applis ».image:../../wp-content/uploads/2015/06/p1.png[p1,width=274,height=50] +
+applis ».
+
+image:../../wp-content/uploads/2015/06/p1.png[p1,width=274,height=50] +
 image:../../wp-content/uploads/2015/06/p2.png[p2,width=474,height=213]
 
 Vous accédez à la page de gestion de votre classe, qui vous permet de
@@ -42,13 +41,14 @@ modifier le nom de votre classe et d’administrer les utilisateurs
 
 Il est alors possible d’ajouter des élèves (1), des parents (2), des
 enseignants (3) et des personnels
-(4).image:../../wp-content/uploads/2015/06/p3.png[p3,width=480,height=252]
+(4).
+
+image:../../wp-content/uploads/2015/06/p3.png[p3,width=480,height=252]
 
 Pour ajouter des élèves, vous pouvez soit :
 
 * Saisir manuellement les élèves (1),
 * Importer un fichier au format Base Elèves 1^er^ Degré (BE1D) (2).
-
  
 
 Si vous ne disposez pas d’export BE1D, vous pouvez créer un fichier CSV
@@ -89,12 +89,11 @@ correspondant.
 [[cas-d-usage-2]]
 == Renouveler un mot de passe
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
-
 Pour accéder à l’appli Paramétrage de la classe, cliquez sur l’icône
 correspondante dans la page « Mes
-applis ».image:../../wp-content/uploads/2015/06/p11.png[p1,width=268,height=49] +
+applis ».
+
+image:../../wp-content/uploads/2015/06/p11.png[p1,width=268,height=49] +
 image:../../wp-content/uploads/2015/06/p6.png[p6,width=411,height=245]
 
 Vous accédez à la page de gestion de votre classe, qui vous permet de
@@ -144,9 +143,6 @@ alors se connecter avec son nouveau mot de passe.
 [[cas-d-usage-3]]
 == Exporter les identifiants et codes d'activation
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
-
 Pour accéder à l’appli Paramétrage de la classe, cliquez sur l’icône
 correspondante dans la page « Mes applis ».
 
@@ -175,9 +171,6 @@ classe.
 [[cas-d-usage-4]]
 == Supprimer un utilisateur
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
-
 Pour accéder à l’appli Paramétrage de la classe, cliquez sur l’icône
 correspondante dans la page « Mes applis ». +
 image:../../wp-content/uploads/2015/06/p13.png[p1,width=312,height=57]
@@ -202,9 +195,6 @@ n’est conservée.
 
 [[notes-de-versions]]
 == Note de version
-
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
 
 A chaque nouvelle version de l'application, les nouveautés seront
 présentées dans cette section.

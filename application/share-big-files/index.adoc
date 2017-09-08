@@ -17,10 +17,11 @@ espace de stockage]
 téléchargement d’un fichier]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
+BY-NC-SA 3.0 FR,width=100,height=35]]
+
 [[presentation]]
 == Présentation
-
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[CC-BY-NC-SA-3.0-FR-300x105,width=100,height=35]]
 
 Poste-fichiers est un service de partage de fichiers volumineux.
 
@@ -46,8 +47,6 @@ consulter l’historique de téléchargement.
 
 [[cas-d-usage-1]]
 == Liste des fichiers
-
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[CC-BY-NC-SA-3.0-FR-300x105,width=100,height=35]]
 
 La page d’accueil de Poste-fichiers affiche les fichiers que vous avez
 déposés et ceux qui ont été partagés avec vous par d’autres
@@ -102,8 +101,6 @@ disposez sur ces fichiers. Les actions disponibles sont :
 [[cas-d-usage-2]]
 == Envoyer un fichier dans mon espace de stockage
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[CC-BY-NC-SA-3.0-FR-300x105,width=100,height=35]]
-
 Pour envoyer un fichier dans votre espace de stockage, cliquez sur le
 bouton "Envoyer un fichier".
 
@@ -132,8 +129,6 @@ link:../../wp-content/uploads/2016/04/005-Deposer.png[image:../../wp-content/upl
 
 [[cas-d-usage-3]]
 == Partager un fichier
-
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[CC-BY-NC-SA-3.0-FR-300x105,width=100,height=35]]
 
 Pour partager un ou plusieurs fichiers avec d’autres utilisateurs,
 cochez les cases des fichiers à partager (1) puis cliquez sur le bouton
@@ -167,8 +162,6 @@ fichier
 [[cas-d-usage-4]]
 == Mettre à jour un fichier
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[CC-BY-NC-SA-3.0-FR-300x105,width=100,height=35]]
-
 Pour modifier le titre, la description ou la date d’expiration d’un
 fichier, vous devez cliquer sur le lien *Editer* (1) de la ligne d’un
 fichier.
@@ -190,8 +183,6 @@ link:../../wp-content/uploads/2016/04/203-Modifier1.png[image:../../wp-content/u
 [[cas-d-usage-5]]
 == Supprimer un fichier
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[CC-BY-NC-SA-3.0-FR-300x105,width=100,height=35]]
-
 Pour supprimer un fichier, vous devez sélectionner le fichier en cochant
 la case (1) située devant le titre, puis cliquez sur le bouton
 "Supprimer" (2).
@@ -200,8 +191,6 @@ link:../../wp-content/uploads/2016/04/301-Supprimer1.png[image:../../wp-content/
 
 [[cas-d-usage-6]]
 == Télécharger un fichier qui a été partagé avec moi
-
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[CC-BY-NC-SA-3.0-FR-300x105,width=100,height=35]]
 
 Pour télécharger un fichier partagé avec moi, il suffit de cliquer sur
 le nom du fichier (1). Vous pouvez également sélectionner le fichier à
@@ -225,8 +214,6 @@ fichier volumineux n’est plus disponible ».
 [[cas-d-usage-7]]
 == Consulter le journal de téléchargement d’un fichier
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[CC-BY-NC-SA-3.0-FR-300x105,width=100,height=35]]
-
 Pour consulter le journal de téléchargement d’un fichier, vous devez
 avoir les droits de contributeur. En cliquant sur le lien qui indique le
 nombre de téléchargements (1), le journal de téléchargement est affiché.
@@ -242,7 +229,5 @@ link:../../wp-content/uploads/2016/04/503-Historique1.png[image:../../wp-content
 
 [[notes-de-versions]]
 == Note de version
-
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[CC-BY-NC-SA-3.0-FR-300x105,width=100,height=35]]
 
 Les évolutions du service seront consignées dans cette rubrique.

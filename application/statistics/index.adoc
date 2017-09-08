@@ -17,10 +17,12 @@ uniques]
 activés]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
+BY-NC-SA 3.0 FR,width=100,height=35]]
+
+
 [[presentation]]
 == Présentation
-
-
 
 L’appli Statistiques vous propose de suivre
 **cinq indicateurs** calculés sur *une période donnée* *(vous pouvez

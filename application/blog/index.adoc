@@ -14,11 +14,11 @@ publication]
 * link:index.html?iframe=true#cas-d-usage-5[Valider un billet]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
-[[presentation]]
-== Présentation
-
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
+
+[[presentation]]
+== Présentation
 
 L'appli *Blog* permet de publier facilement des informations, en y
 intégrant **différents types de contenus** : texte, images, fichiers
@@ -36,9 +36,6 @@ image:../../wp-content/uploads/2016/07/blog_1-1024x478.png[image,width=600,heigh
 
 [[cas-d-usage-1]]
 == Créer un blog
-
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
 
 Cliquez sur la page « Mes applis » puis sur l’icône « Blog ».
 
@@ -62,9 +59,6 @@ image:../../wp-content/uploads/2016/04/BLOG4-1024x240.png[BLOG4,width=600,height
 
 [[cas-d-usage-2]]
 == Partager un blog
-
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
 
 Pour partager un blog avec d’autres utilisateurs, suivez les étapes
 suivantes :
@@ -97,9 +91,6 @@ le partager ou le supprimer
 [[cas-d-usage-3]]
 == Gérer le circuit de publication
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
-
 Pour gérer le circuit de publication de votre blog, ouvrez la fenêtre de
 partage. Vous pouvez choisir entre deux options :
 
@@ -113,9 +104,6 @@ image:../../wp-content/uploads/2016/04/Image22-1024x685.png[Image2,width=550,hei
 
 [[cas-d-usage-4]]
 == Publier un billet
-
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
 
 Une fois votre blog créé, vous pouvez publier un billet. Pour cela,
 cliquez sur le bouton « Créer un billet » présent en haut de l’écran.
@@ -154,9 +142,6 @@ image:../../wp-content/uploads/2016/04/Capture-1024x643.png[Capture,width=524,he
 [[cas-d-usage-5]]
 == Valider un billet
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
-
 Si vous avez activé un circuit de publication (billets à soumettre pour
 les contributeurs), les billets en attente de validation se trouvent
 dans la catégorie « Soumis ».
@@ -181,9 +166,6 @@ image:../../wp-content/uploads/2016/07/blog_2-1024x363.png[image,width=600,heigh
 [[notes-de-versions]]
 == Note de version
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
-
 [[notes-de-versions]]
 Nouveautés de la version 0.5** +
 Édition des billets de blog depuis l'appli Pages**Les billets d’un blog
@@ -193,7 +175,6 @@ Blog.
 
 '''''
 
- +
 Nouveauté de la version 1.19
 
 *Évolution ergonomique*

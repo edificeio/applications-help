@@ -16,11 +16,11 @@ ressources]
 * link:index.html?iframe=true#cas-d-usage-5[Définir les ressources]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
-[[presentation]]
-== Présentation
-
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
+
+[[presentation]]
+== Présentation
 
 L’outil de réservation de ressources vous permet de faire des **demandes
 de réservation**, **ponctuelles ou périodiques**, de ressources (salle
@@ -38,8 +38,6 @@ link:../../wp-content/uploads/2016/01/RBS_PRESENTATION.png[image:../../wp-conten
 [[cas-d-usage-1]]
 == Consulter les ressources disponibles
 
-
-
 Le** gestionnaire** de chaque **type de ressource**, choisit les
 utilisateurs autorisés à réserver les ressources qu’il a sous sa
 responsabilité.
@@ -48,8 +46,7 @@ Pour consulter les réservations enregistrées, l’utilisateur dispose de
 deux approches : une vue par le **calendrier**, et une vue sous la forme
 de **liste**.
 
-*La vue calendrier +
-*
+*La vue calendrier*
 
 La vue calendrier est accessible en cliquant sur (1)
 
@@ -87,8 +84,7 @@ réservation (5) et les boutons d’action apparaissent au bas de la page.
 Si la réservation ne propose pas de case à cocher, c’est que
 l’utilisateur connecté n’est pas autorisé à agir sur cette réservation.
 
-*La vue liste +
-* +
+*La vue liste* +
 La vue Liste est accessible en cliquant sur (1).
 
 L’utilisateur peut afficher toute la liste des réservations effectuées
@@ -102,14 +98,11 @@ ressource, date de début, date de fin et état.
 
 *link:../../wp-content/uploads/2016/01/RBS-VUE-LISTE.png[image:../../wp-content/uploads/2016/01/RBS-VUE-LISTE.png[image,width=603,height=235]]*
 
-** +
-**Pour visualiser le détail d’une réservation, il suffit de cliquer sur
+Pour visualiser le détail d’une réservation, il suffit de cliquer sur
 la réservation en question dans la liste, pour afficher une fenêtre
 (pop-up) qui donne toutes les informations.
 
 image:../../wp-content/uploads/2015/06/r3.png[r3,width=322,height=259] +
-* +
-*
 
 [[cas-d-usage-2]]
 == Créer une demande de réservation
@@ -285,9 +278,6 @@ image:../../wp-content/uploads/2015/06/r23.png[r2,width=600,height=179]
 [[notes-de-versions]]
 == Note de version
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
-
 Nouveautés de la version 0.5 +
 
 *Passer facilement d’une semaine à l’autre*
@@ -332,8 +322,7 @@ image:../../wp-content/uploads/2015/05/NDV-15.png[NDV
 
 Nouveauté de la version 0.4.0
 
-*Gestion des ressources par les administrateurs locaux +
-*
+*Gestion des ressources par les administrateurs locaux* 
 
 Les administrateurs locaux sont désormais gestionnaires par défaut de
 tous les types de ressources rattachés aux établissements dont ils sont

@@ -1,226 +1,319 @@
-[[wiki]]
-= Wiki
+[[competences]]
+= Compétences
 
-Un *Wiki* est un ensemble de pages modifiables par les utilisateurs
-habilités afin de permettre l'écriture et l'illustration collaboratives
-des documents numériques qu'il contient.
+Cet outil permet d’**évaluer les élèves** de l’établissement, que ce
+soit de façon numérique (avec des notes) ou non, et d’y associer des
+compétences.
 
 * link:index.html?iframe=true#presentation[Présentation]
-* link:index.html?iframe=true#cas-d-usage-1[Créer un Wiki]
-* link:index.html?iframe=true#cas-d-usage-2[Partager un Wiki]
-* link:index.html?iframe=true#cas-d-usage-3[Créer et éditer une page]
-* link:index.html?iframe=true#cas-d-usage-4[Modifier une page]
-* link:index.html?iframe=true#cas-d-usage-5[Comparer deux versions de
-pages]
-* link:index.html?iframe=true#notes-de-versions[Note de version]
+* link:index.html?iframe=true#cas-d-usage-1[Créer une évaluation avec
+des compétences]
+* link:index.html?iframe=true#cas-d-usage-2[Créer une évaluation sans
+coompétences]
+* link:index.html?iframe=true#cas-d-usage-3[Evaluer un élève]
+* link:index.html?iframe=true#cas-d-usage-4[Accéder au relevé de notes]
+* link:index.html?iframe=true#cas-d-usage-5[Suivre le niveau des élèves]
+* link:index.html?iframe=true#cas-d-usage-6[Visualiser le bilan de suivi
+des élèves]
+* link:index.html?iframe=true#cas-d-usage-7[Visualiser le bilan de fin
+de cycle des élèves]
+* link:index.html?iframe=true#cas-d-usage-8[Suivre le niveau de
+compétences des classes]
+* link:index.html?iframe=true#cas-d-usage-9[Effectuer un remplacement]
+* link:index.html?iframe=true#notes-de-versions[Version Bêta]
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
+BY-NC-SA 3.0 FR,width=100,height=35]]
 
 [[presentation]]
 == Présentation
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
+Le module permet :
 
-Un wiki permet de **créer et publier des contenus (texte, images...)
-dans différentes pages liées entre elles**. La page d'accueil du wiki
-est souvent utilisée comme un index référençant l'ensemble des pages
-créées dans le wiki.
+* La *création d’évaluations* avec ou sans compétences
+* un **suivi complet de chaque élève **: suivi du niveau évalué par
+compétences, un accès au bilan de l’élève et un accès au bilan de fin de
+cycle par domaine
+* un **suivi global par classe**: suivi du niveau évalué par compétences
+pour chaque classe, détail par élève et accès au suivi élève directement
+depuis la liste
+* la mise à disposition d’un *relevé de notes*
+* la possibilité de remplacement d’enseignants (pour le chef
+d’établissement)
 
-image:../../wp-content/uploads/2016/01/WIKI_PRESENTATION1.png[image,width=1110,height=536]
+link:../../wp-content/uploads/2017/03/Compétences-Présentation.jpg[image:../../wp-content/uploads/2017/03/Compétences-Présentation.jpg[Compétences
+- Présentation,width=726,height=289]]
 
 [[cas-d-usage-1]]
-== Créer un Wiki
+== Créer une évaluation avec des compétences
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
-
-Pour créer un wiki, cliquez sur le bouton « Créer un wiki » dans la page
-d'accueil de l'appli.
-
-image:../../wp-content/uploads/2015/07/w1.png[w1,width=144,height=50]
-
-Saisissez un titre (1) et enregistrez si vous le souhaitez une image
-d’illustration du wiki (sinon c’est l’icône par défaut qui est affichée)
-(2).
-
-Cliquez enfin sur « Enregistrer » (3)
-
-image:../../wp-content/uploads/2015/07/w2.png[w2,width=600,height=157]
-
- 
-
- 
-
-[[cas-d-usage-2]]
-== Partager un Wiki
-
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
-
-Pour partager un Wiki avec d’autres utilisateurs, cliquez sur le +
-correspondant au Wiki (1) puis sur le bouton « Partager » (2).
-
-image:../../wp-content/uploads/2016/08/Wiki_1-1024x490.png[image,width=600,height=287]
-
-Dans la fenêtre, vous pouvez donner aux utilisateurs de l’ENT différents
-droits d'accès à votre wiki. Pour cela, suivez les étapes suivantes :
-
-1.  Saisissez les premières lettres du nom de l’utilisateur ou du groupe
-d’utilisateurs que vous recherchez.
-2.  Sélectionnez le résultat.
-3.  Cochez les cases correspondant aux droits que vous souhaitez leur
-attribuer.
-
-link:../../wp-content/uploads/2016/01/WIKI-PARTAGE.png[image:../../wp-content/uploads/2016/01/WIKI-PARTAGE-1024x870.png[image,width=600,height=510]]
-
-Les droits de partage que vous pouvez attribuer aux autres utilisateurs
-sont les suivants :
-
-* *Lire* : l’utilisateur peut lire le contenu du Wiki
-* *Contribuer* : l’utilisateur peut modifier le Wiki
-* *Gérer* : l’utilisateur peut modifier, supprimer ou partager le Wiki
-* *Commenter* : l’utilisateur peut commenter le Wiki
-
-[[cas-d-usage-3]]
-== Créer et éditer une page
-
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
-
-Pour créer et éditer une page dans le Wiki, suivez les étapes
+Pour créer une évaluation **avec des compétences**, suivez les étapes
 suivantes :
 
-1.  Cliquez sur le bouton « Nouvelle Page »
-2.  Saisissez un titre
-3.  Saisissez du contenu
-4.  Cliquez sur « Enregistrer »
+1. Cliquez sur le bouton « Créer évaluation »
 
-image:../../wp-content/uploads/2015/07/w4.png[w4,width=600,height=134]
+link:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences.jpg[image:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences.jpg[Evaluation
+avec des compétences,width=158,height=30]] + 
+2. Sélectionner ou saisir les informations obligatoires suivantes :
 
-image:../../wp-content/uploads/2016/01/WIKI-EDITER-1024x539.png[image,width=600,height=316]
+* Établissement
+* Classe ou groupe du cycle 3
+* Matière
+* Type
+* Titre de l'évaluation
+* Période
+* Date de l'évaluation et date de publication de la note
 
-'''''
+3. Date de l'évaluation et date de publication de la note
 
-*Une page peut être définie comme page d’accueil du wiki, en cliquant
-dans la case prévue à cet effet. Elle devient ainsi la 1ère page sur
-laquelle sont dirigés les utilisateurs lorsqu'ils accèdent au wiki. +
-*
+* Sous matière (si présente)
+* Description
 
-'''''
+4. Cocher si vous le souhaitez la case "Activer l'évaluation numérique
+?" pour évaluer les élèves avec des notes ou pas. +
+5. Modifier si besoin le coefficient et la note maximum +
+6. Cliquer sur l'onglet "Compétences" +
+link:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences-2.jpg[image:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences-2.jpg[Evaluation
+avec des compétences 2,width=455,height=504]]
 
-Des liens peuvent être faits entre les différentes pages du wiki grâce à
-l'outil de création de liens.
+7. Sélectionner des connaissances ou compétences +
+8. Cliquez sur "Enregistrer"
 
-Lorsqu’une page n’est pas définie comme page d’accueil du wiki, il est
-nécessaire de la référencer dans d’autres pages (grâce à l'outil de
-création de liens) afin de la rendre visible.
+link:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences-3.jpg[image:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences-3.jpg[Evaluation
+avec des compétences 3,width=733,height=392]]
+
+[[cas-d-usage-2]]
+== Créer une évaluation sans coompétences
+
+Pour créer une évaluation **sans compétence**, suivez les étapes
+suivantes :
+
+\1. Cliquez sur le bouton « Créer évaluation »
+
+link:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences.jpg[image:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences.jpg[Evaluation
+avec des compétences,width=158,height=30]]
+
+\2. Sélectionner ou saisir les informations obligatoires suivantes :
+
+* Établissement
+* Classe ou groupe du cycle 3
+* Matière
+* Type
+* Titre de l'évaluation
+* Période
+* Date de l'évaluation et date de publication de la note
+
+\3. Date de l'évaluation et date de publication de la note
+
+* Sous matière (si présente)
+* Description
+
+\4. Cocher si vous le souhaitez la case "Activer l'évaluation numérique
+?" pour évaluer les élèves avec des notes ou pas. +
+5. Modifier si besoin le coefficient et la note maximum +
+6. Cliquez sur "Enregistrer" +
+link:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences-2.jpg[image:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences-2.jpg[Evaluation
+avec des compétences 2,width=455,height=504]] +
+*_Par défaut seuls les enseignants sont habilités à créer des
+évaluations._*
+
+[[cas-d-usage-3]]
+== Evaluer un élève
+
+Pour évaluer les élèves suivez les étapes suivantes : +
+1. Cliquez sur le menu "Liste des évaluations"
+
+link:../../wp-content/uploads/2017/03/Evaluer-un-élève-1.jpg[image:../../wp-content/uploads/2017/03/Evaluer-un-élève-1.jpg[Evaluer
+un élève 1,width=162,height=135]]
+
+\2. Renseigner les critères +
+3. Cliquer que le devoir à évaluer
+
+link:../../wp-content/uploads/2017/03/Evaluer-un-élève-2.jpg[image:../../wp-content/uploads/2017/03/Evaluer-un-élève-2.jpg[Evaluer
+un élève 2,width=720,height=231]]
+
+\4. Le détail de l’évaluation est disponible sur la partie gauche de
+l’écran +
+5. Si le devoir est numérique, il est possible de mettre des notes à
+chaque élève dans la colonne résultat (possibilité d’utiliser le clavier
+pour se déplacer d’élèves en élèves) +
+6. Si le devoir possède une ou plusieurs compétences, il est possible
+d’évaluer les compétences des élèves avec les pastilles (possibilité
+d’utiliser le clavier avec les touches de 0 à 4 pour évaluer les
+compétences)
+
+* Pastille grise : Compétence non évaluée
+* Pastille rouge : Maitrise insuffisante
+* Pastille orange : maitrise fragile
+* Pastille jaune : maitrise satisfaisante
+* Pastille verte : très bonne maitrise
+
+Le détail des compétences est disponible sur la partie droite de l’écran
+
+\7. Une appréciation peut être indiquée dans le champ Appréciation. Si
+le devoir comprend beaucoup de compétences, l’appréciation est
+accessible via le bouton : 
+link:../../wp-content/uploads/2017/03/Evaluer-un-élève-3.jpg[image:../../wp-content/uploads/2017/03/Evaluer-un-élève-3.jpg[Evaluer
+un élève 3,width=30,height=30]]
+
+link:../../wp-content/uploads/2017/03/Evaluer-un-élève-4.jpg[image:../../wp-content/uploads/2017/03/Evaluer-un-élève-4.jpg[Evaluer
+un élève 4,width=732,height=351]]
 
 [[cas-d-usage-4]]
-== Modifier une page
+== Accéder au relevé de notes
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
+Pour accéder au relevé de notes, suivez les étapes suivantes :
 
-Vous pouvez modifier une page. Pour cela, suivez les étapes suivantes :
+\1. Cliquez sur le menu «Relevés de notes »
 
-1.  Cliquez sur le bouton « Modifier », en haut à droite de la page.
-2.  Effectuez les modifications nécessaires et cliquez sur le bouton
-« Enregistrer ».
+link:../../wp-content/uploads/2017/03/Relevé-de-notes.jpg[image:../../wp-content/uploads/2017/03/Relevé-de-notes.jpg[Relevé
+de notes,width=185,height=154]] +
+2. Renseigner les critères +
+3. Il est possible d’accéder aux détails des devoirs en cliquant sur
+l’entête de l’évaluation (une évaluation avec des compétences est
+soulignée en orange) +
+4. Il est possible de modifier les notes des élèves directement sur le
+relevé
 
-image:../../wp-content/uploads/2016/01/WIKI-MODIFIER-1-1024x410.png[image,width=600,height=240] +
-link:../../wp-content/uploads/2016/01/WIKI-MODIFIER-2.png[ +
-]image:../../wp-content/uploads/2016/01/WIKI-MODIFIER-2-1024x538.png[image,width=600,height=315] +
-La page s’affiche avec les modifications effectuées.
+link:../../wp-content/uploads/2017/03/relevé-de-notes-2.jpg[image:../../wp-content/uploads/2017/03/relevé-de-notes-2.jpg[relevé
+de notes 2,width=749,height=340]]
 
 [[cas-d-usage-5]]
-== Comparer deux versions de pages
+== Suivre le niveau des élèves
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
+Pour suivre le niveau des élèves individuellement, suivez les étapes
+suivantes :
 
-Lorsque vous modifiez une page de Wiki, une nouvelle version de celle-ci
-se crée automatiquement. Vous pouvez comparer deux versions de page pour
-visualiser les ajouts et suppressions de contenu.
+\1. Cliquez sur le menu « Suivi élève »
 
-Pour comparer deux versions de page, suivez les étapes suivantes :
+link:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-1.jpg[image:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-1.jpg[Suivre
+le niveau des élèves 1,width=203,height=169]]
 
-1.  Cliquez sur le bouton « Plus » en haut à droite de la page.
-2.  Cliquez sur le bouton « Versions »
+\2. Renseigner les critères pour choisir un élève +
+3. Il est possible d’afficher le détail des évaluations ayant entrainé
+le suivi d’une compétence en cliquant sur la compétence souhaitée.
 
-image:../../wp-content/uploads/2016/01/WIKI-VERSION-1-1024x451.png[image,width=600,height=264]
+link:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-2.jpg[image:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-2.jpg[Suivre
+le niveau des élèves 2,width=680,height=384]]
 
-La liste des versions de la page s’affiche, avec pour chacune les
-informations suivantes :
+\4. Par défaut une vue graphique est affichée. Il est cependant possible
+d’accéder à une vue en liste +
+5. L’ajout d’une évaluation libre est également possible sur cette page
+en cliquant sur « Ajouter une évaluation libre ». Elle permet d’évaluer
+la compétence de l’élève.
 
-* L’identifiant de la personne qui a effectué les modifications
-* La date de la modification
+link:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-3.jpg[image:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-3.jpg[Suivre
+le niveau des élèves 3,width=684,height=442]]
 
-Pour comparer deux versions de page, sélectionnez les cases à cocher des
-versions correspondantes (1) et cliquez sur « Comparer » en bas à gauche
-de la page (2).
+[[cas-d-usage-6]]
+== Visualiser le bilan de suivi des élèves
 
-image:../../wp-content/uploads/2015/07/w21.png[w2,width=600,height=254]
+Pour voir le bilan du niveau des élèves individuellement, suivez les
+étapes suivantes :
 
-Les deux versions de page apparaissent l’une à côté de l’autre avec :
+\1. Cliquez sur le menu « Suivi élève »
 
-* En vert : les ajouts
-* En rouge : les suppressions
-
-image:../../wp-content/uploads/2016/01/WIKI-VERSION-2-1024x467.png[image,width=600,height=273] +
-Il est également possible de restaurer une version précédente en
-cliquant sur « Restaurer » en haut de la page correspondante.
-
-[[notes-de-versions]]
-== Note de version
-
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
-
-Nouveauté de la version 0.5 +
-
-*Notification lors de l’ajout de commentaires*
-
-Lorsqu’une personne commente un wiki, une notification est maintenant
-envoyée à toutes les personnes ayant accès au wiki.
-
-image:../../wp-content/uploads/2015/05/NDV-16.png[NDV
-16,width=470,height=89]
-
-'''''
-
-Nouveauté de la version 0.4
-
-*Gestion des versions de page** +
-*
-
-Le wiki permet maintenant de gérer les versions des pages.
-
-Pour accéder à la fonctionnalité, allez sur une page et cliquez sur
-« Plus » puis « Versions ».
-
-*image:../../wp-content/uploads/2015/04/NDV-10.png[NDV
-10,width=203,height=139]*
-
-Sélectionnez ensuite les versions à comparer.
-
-image:../../wp-content/uploads/2015/04/NDV-11.png[NDV
-11,width=507,height=241]
-
-Les différences entre les deux versions sont surlignées en vert (ajout)
-ou en rouge (suppression).
-
-image:../../wp-content/uploads/2015/04/NDV-12.png[NDV
-12,width=483,height=442]
-
-Il est également possible de restaurer une précédente version en
-cliquant sur Restaurer.
-
-'''''
-
-Nouveauté de la version 0.12
-
-*Évolution ergonomique*
-
-Les cases à cocher ont été remplacées par des composants de sélections
-multiples plus ergonomiques et plus adaptés pour les supports mobiles.
+link:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-1.jpg[image:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-1.jpg[Suivre
+le niveau des élèves 1,width=203,height=169] +
+] +
+2. Renseigner les critères pour choisir un élève +
+3. Il est possible d’afficher le bilan de compétences d’un élève en
+cliquant sur
+:link:../../wp-content/uploads/2017/03/Visualisation-bilan.jpg[image:../../wp-content/uploads/2017/03/Visualisation-bilan.jpg[Visualisation
+bilan,width=33,height=30] +
+] +
+link:../../wp-content/uploads/2017/03/Visualisation-bilan-2.jpg[image:../../wp-content/uploads/2017/03/Visualisation-bilan-2.jpg[Visualisation
+bilan 2,width=620,height=228]]
 
  
+
+\4. Le bilan du niveau de compétence de l’élève est accessible
+
+link:../../wp-content/uploads/2017/03/Visualisation-bilan-3.jpg[image:../../wp-content/uploads/2017/03/Visualisation-bilan-3.jpg[Visualisation
+bilan 3,width=638,height=370]]
+
+[[cas-d-usage-7]]
+== Visualiser le bilan de fin de cycle des élèves
+
+Pour voir le bilan du niveau des élèves individuellement, suivez les
+étapes suivantes :
+
+\1. Cliquez sur le menu « Suivi élève »
+
+link:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-1.jpg[image:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-1.jpg[Suivre
+le niveau des élèves 1,width=180,height=150]]
+
+\2. Renseigner les critères pour choisir un élève +
+3. Il est possible d’afficher le bilan de compétences d’un élève en
+cliquant sur :
+link:../../wp-content/uploads/2017/03/Visualisation-bilan-5.jpg[image:../../wp-content/uploads/2017/03/Visualisation-bilan-5.jpg[Visualisation
+bilan 5,width=29,height=27]] +
+link:../../wp-content/uploads/2017/03/Visualisation-bilan-4.jpg[image:../../wp-content/uploads/2017/03/Visualisation-bilan-4.jpg[Visualisation
+bilan 4,width=696,height=256]] +
+4. Le bilan de fin de cycle de l’élève est accessible.
+
+link:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-4.jpg[image:../../wp-content/uploads/2017/03/Suivre-le-niveau-des-élèves-4.jpg[Suivre
+le niveau des élèves 4,width=699,height=362]]
+
+[[cas-d-usage-8]]
+== Suivre le niveau de compétences des classes
+
+Pour suivre le niveau des compétences de classe, suivez les étapes
+suivantes :
+
+\1. Cliquez sur le menu « Suivi classe »
+
+link:../../wp-content/uploads/2017/03/Suivi-classe.jpg[image:../../wp-content/uploads/2017/03/Suivi-classe.jpg[Suivi
+classe,width=203,height=170]]
+
+\2. Renseigner les critères pour cho  isir une classe +
+3. Pour chaque compétence, le niveau de la classe est affiché sous forme
+de barre avec différents niveaux de maitrise.
+
+Il est possible de cliquer sur une compétence pour afficher la liste des
+élèves avec leur niveau
+
+link:../../wp-content/uploads/2017/03/Suivi-classe-2.jpg[image:../../wp-content/uploads/2017/03/Suivi-classe-2.jpg[Suivi
+classe 2,width=729,height=420]]
+
+\4. Il est possible de filtrer l’affichage des élèves suivant leur
+niveau de maitrise de la compétence. +
+5. En cliquant sur un élève, s’affiche le suivi de compétence de l’élève
+
+link:../../wp-content/uploads/2017/03/Suivi-classe-3.jpg[image:../../wp-content/uploads/2017/03/Suivi-classe-3.jpg[Suivi
+classe 3,width=690,height=427]]
+
+[[cas-d-usage-9]]
+== Effectuer un remplacement
+
+Le remplacement d’un enseignant par un autre permet à l’enseignant
+remplaçant de pouvoir créer des évaluations sur les classes remplacées.
+L’enseignant titulaire a également la possibilité de voir et gérer ces
+évaluations.
+
+Pour effectuer le remplacement d’un enseignant par un autre enseignant
+pour un temps donné :
+
+\1. Cliquez sur le menu « Gérer les remplacements » +
+link:../../wp-content/uploads/2017/03/Remplacement-1.jpg[image:../../wp-content/uploads/2017/03/Remplacement-1.jpg[Remplacement
+1,width=179,height=71]] +
+2. Renseigner les critères pour choisir l’enseignant à remplacer,
+l’enseignant remplaçant, ainsi que les dates durant lesquelles le
+remplacement a cours.
+
+link:../../wp-content/uploads/2017/03/Remplacement-2.jpg[image:../../wp-content/uploads/2017/03/Remplacement-2.jpg[Remplacement
+2,width=627,height=226] +
+] +
+3. La liste des remplacements effectués s’affiche dans l’encart en bas
+de la page. Il est possible de trier sur les différents champs.
+
+La sélection d’un ou plusieurs remplacements permet ensuite l’édition ou
+la suppression de ceux-ci
+
+link:../../wp-content/uploads/2017/03/Remplacement-3.jpg[image:../../wp-content/uploads/2017/03/Remplacement-3.jpg[Remplacement
+3,width=664,height=97]]
+
+[[notes-de-versions]]
+== Version Bêta
+
+Version de l'application en cours d'expérimentation

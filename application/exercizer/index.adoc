@@ -24,12 +24,15 @@ sujet]
 sujet dans la bibliothèque]
 * link:index.html?iframe=true#cas-d-usage-8[Enseignant - Chercher et
 copier un sujet dans la bibliothèque]
-* link:index.html?iframe=true#notes-de-versions[]
+* link:index.html?iframe=true#notes-de-versions[Note de version]
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
+BY-NC-SA 3.0 FR,width=100,height=35]]
+
+
 
 [[presentation]]
 == Présentation
-
-link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
 
 L'appli Exercices et évaluations permet de créer des sujets, de les
 distribuer et d’en faire automatiquement ou manuellement la correction.
@@ -42,8 +45,6 @@ link:../../wp-content/uploads/2016/09/Accueil-Exercices-et-évaluations1.png[ima
 
 [[cas-d-usage-1]]
 == Elève / Apprenant - Réaliser un exercice
-
-link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
 
 Depuis la page d’accueil, cliquez sur « Mes applis » en haut à droite de
 l’écran puis cliquez sur « Exercices et évaluations ».
@@ -106,8 +107,6 @@ la copie,width=786,height=202]]
 [[cas-d-usage-2]]
 == Elève / Apprenant – Voir la correction d’un exercice
 
-link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
-
 Lorsqu’un exercice est corrigé, vous êtes informés via une publication
 sur le fil de nouveauté.
 
@@ -138,8 +137,6 @@ link:../../wp-content/uploads/2016/10/Question.jpg[image:../../wp-content/upload
 
 [[cas-d-usage-3]]
 == Enseignant - Créer un nouveau sujet
-
-link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
 
 Depuis la page d’accueil, cliquez sur « Mes applis » en haut à droite de
 l’écran puis cliquez sur « Exercices et évaluations ».
@@ -234,8 +231,6 @@ link:../../wp-content/uploads/2016/09/Aperçu.jpg[image:../../wp-content/uploads
 [[cas-d-usage-4]]
 == Enseignant - Distribuer un sujet
 
-link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
-
 Une fois la création de votre sujet terminée, vous pouvez le distribuer
 en cliquant sur l’icône en haut à gauche de votre écran.
 
@@ -262,16 +257,9 @@ limite du délai imparti et de la correction par l’enseignant.
 
 Cliquer sur « suivant » puis valider la distribution du sujet.
 
- 
-
- 
-
- 
 
 [[cas-d-usage-5]]
 == Enseignant - Partager un sujet
-
-link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
 
 Pour partager un sujet avec d’autres utilisateurs, cliquez sur la case à
 cocher correspondant au sujet (1) puis sur le bouton « Partager » (2).
@@ -279,7 +267,6 @@ cocher correspondant au sujet (1) puis sur le bouton « Partager » (2).
 link:../../wp-content/uploads/2016/09/Partager-un-sujet.jpg[image:../../wp-content/uploads/2016/09/Partager-un-sujet.jpg[Partager
 un sujet,width=578,height=370]]
 
- 
 
 La fenêtre de partage apparaît. Pour attribuer des droits d’accès à
 votre sujet à d’autres utilisateurs, suivez les étapes suivantes :
@@ -321,15 +308,8 @@ aux seules personnes à qui les droits de consultation, contribution
 et/ou gestion ont été ouverts._
 
  
-
- 
-
- 
-
 [[cas-d-usage-6]]
 == Enseignant - Corriger un sujet
-
-link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
 
 Pour corriger un sujet, cliquez sur l’onglet « Mes corrections » en haut
 à gauche de l’écran.
@@ -352,8 +332,6 @@ volée le statut de ou de plusieurs copies en "corrigé" (2).
 [[cas-d-usage-7]]
 == Enseignant - Publier un sujet dans la bibliothèque
 
-link:../../wp-content/uploads/2016/09/Licence.png[ ]link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
-
 Si vous souhaitez publier votre propre sujet dans la bibliothèque. Il
 vous suffit de cliquer sur l’onglet « Mes sujets » et de cocher la case
 en bas à droite du sujet que vous voulez publier (1). Le bandeau orange
@@ -364,8 +342,6 @@ bibliothèque »
 
 [[cas-d-usage-8]]
 == Enseignant - Chercher et copier un sujet dans la bibliothèque
-
-link:../../wp-content/uploads/2016/09/Licence.png[ ]link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
 
 Pour retrouver un sujet dans la bibliothèque, cliquez sur l’onglet
 « Bibliothèque » en haut à gauche de l’écran. Vous pouvez ensuite
@@ -385,4 +361,3 @@ link:../../wp-content/uploads/2016/09/Bibliothèque-2.jpg[image:../../wp-content
 [[notes-de-versions]]
 == Note de version
 
-link:../../wp-content/uploads/2016/09/Licence.png[image:../../wp-content/uploads/2016/09/Licence.png[Licence,width=104,height=37]]
