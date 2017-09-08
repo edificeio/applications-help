@@ -26,7 +26,7 @@ BY-NC-SA 3.0 FR,width=100,height=35]]
 
 L’application Document d’un utilisateur est composé de 4 dossiers :
 
-image:../../wp-content/uploads/2016/04/Document.png[Document,width=333,height=239]
+image:../../wp-content/uploads/2016/04/Document.png[Document,width=150]
 
 L’utilisateur peut importer depuis son poste de travail *tout type de
 document* sans restriction de format, et les *organiser* en dossiers
@@ -86,7 +86,7 @@ dossier.
 Pour importer un document dans votre espace de stockage personnel,
 cliquez sur le bouton « Importer » situé en haut de l’interface.
 
-image:../../wp-content/uploads/2016/04/Document3-1024x507.png[Document3,width=600,height=297]
+image:../../wp-content/uploads/2016/04/Document3-1024x507.png[Document3,width=300]
 
 Dans la nouvelle fenêtre, suivez les étapes suivantes :
 
@@ -104,7 +104,7 @@ document est en cours.*
 
 '''''
 
-*image:../../wp-content/uploads/2016/04/Document31-1024x507.png[Document3,width=550,height=272]*
+*image:../../wp-content/uploads/2016/04/Document31-1024x507.png[Document3,width=300]*
 
 * *
 
@@ -154,7 +154,7 @@ vous permet de connaître l’espace de stockage dont vous disposez.
 L’espace utilisé est indiqué sur la gauche. Le chiffre situé sur la
 droite indique l’espace total de l’utilisateur.
 
-image:../../wp-content/uploads/2016/04/Document11.png[Document11,width=346,height=110]
+image:../../wp-content/uploads/2016/04/Document11.png[Document11,width=200]
 
 [[cas-d-usage-5]]
 == Ajouter la nouvelle version d'un document
@@ -168,11 +168,11 @@ qu'il soit surligner en bleu. La barre d'action s'affiche en bas de
 page, cliquez sur le bouton « Versions ».
 
 link:../../wp-content/uploads/2016/08/Doc-Sélection-fichier.png[image:../../wp-content/uploads/2016/08/Doc-Sélection-fichier.png[Doc
-- Sélection fichier,width=139,height=136]]
+- Sélection fichier,width=100]]
 
 Une nouvelle page s’affiche, cliquez sur le bouton « Nouvelle version ».
 
-image:../../wp-content/uploads/2016/04/Document5-1024x328.png[Document5,width=600,height=192]
+image:../../wp-content/uploads/2016/04/Document5-1024x328.png[Document5,width=300]
 
 Choisissez le document depuis votre poste de travail et cliquez sur «
 Ouvrir ».
@@ -203,7 +203,7 @@ suivantes:
 2.  Cliquez sur le bouton "Versions" en bas de page
 
 link:../../wp-content/uploads/2016/08/Doc-Sélection-fichier.png[image:../../wp-content/uploads/2016/08/Doc-Sélection-fichier.png[Doc
-- Sélection fichier,width=139,height=136]]
+- Sélection fichier,width=100]]
 
 Toutes les versions du document s’affichent. Chaque version permet
 d’accéder aux informations suivantes :
@@ -284,10 +284,8 @@ Une nouvelle vue fait son apparition dans l’espace documentaire : la vue
 carrousel. Elle permet de faire défiler un aperçu de toutes les images
 du dossier courant.
 
-* +
 image:../../wp-content/uploads/2015/04/NDV-3.png[NDV
-3,width=519,height=267] +
-*
+3,width=519,height=267] 
 
 Le carrousel est également présent dans la liste des "sniplets"
 disponible dans l'appli Pages.
@@ -298,13 +296,13 @@ Il est désormais possible de mettre à jour un document tout en
 conservant une trace de l’historique des versions de ce dernier. Pour
 cela, cliquez sur l’icône « Voir les versions archivées ». +
 image:../../wp-content/uploads/2015/04/NDV-41.png[NDV
-4,width=196,height=184] +
+4,width=196,height=184]
 
 La liste affichée permet de voir toutes les versions déposées et les
 utilisateurs qui les ont déposées.
 
 image:../../wp-content/uploads/2015/04/NDV-5.png[NDV
-5,width=391,height=151]
+5,width=250]
 
 Il est ensuite possible de supprimer les anciennes versions d’un
 document en cliquant sur la croix blanche en face d’une version.
@@ -351,7 +349,7 @@ sélectionnez la case à cocher correspondant au document et cliquez sur
 le bouton « Commentaire ».
 
 image:../../wp-content/uploads/2015/04/NDV-7.png[NDV
-7,width=154,height=201]
+7,width=100]
 
 '''''
 
