@@ -20,11 +20,11 @@ d’un établissement]
 groupe manuel]
 * link:index.html?iframe=true#notes-de-versions[Note de version]
 
-[[presentation]]
-== Présentation
-
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
+
+[[presentation]]
+== Présentation
 
 Les administrateurs accèdent à une appli leur permettant de gérer un
 ensemble de paramètres en toute autonomie. Cette appli leur permet
@@ -41,24 +41,21 @@ d'admin,width=594,height=293]
 [[cas-d-usage-1]]
 == Accéder à la Console d’administration
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
-
 Seuls les utilisateurs ayant la fonction d’administrateur local peuvent
 accéder à la console d’administration. Pour accéder à la console
 d’administration, connectez-vous à l’ENT, puis cliquez sur l’appli «
 Administration » dans la page « Mes applis ».
 
-image:../../wp-content/uploads/2016/04/Image32-1024x348.png[Image3,width=600,height=204]
+image:../../wp-content/uploads/2016/04/Image32-1024x348.png[Image3,width=512,height=174]
 
 Deux menus sont accessibles dans la console d’administration :
 
-image:../../wp-content/uploads/2015/07/a22.png[a2,width=263,height=134]
+image:../../wp-content/uploads/2015/07/a22.png[a2,width=210,4,height=107,2]
 
 * L’annuaire permettant de gérer les comptes des utilisateurs, les
 classes, les groupes et la gestion des doublons.
 
-image:../../wp-content/uploads/2015/07/a31.png[a3,width=720,height=110]
+image:../../wp-content/uploads/2015/07/a31.png[a3,width=576,height=88]
 
 * Les règles de communication permettant de définir à qui un utilisateur
 peut envoyer un message, partager des contenus et à quels utilisateurs
