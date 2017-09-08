@@ -29,7 +29,7 @@ image:../../wp-content/uploads/2015/05/cahier-de-textes.png[alt=""]
 
 Pour accéder à l’appli Cahier de textes, cliquez sur l’icône
 correspondante dans la page « Mes applis ». +
-image:/assets/cahier-de-textes.png[cahier-de-textes, scalewidth=50%] +
+image:/assets/cahier-de-textes.png[cahier-de-textes, 50, 50] +
 image:/assets/Cahier-de-texte-2.png[alt=""]
 
 Pour créer un nouveau cahier de textes, cliquez sur le bouton « Créer »
