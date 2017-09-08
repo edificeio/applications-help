@@ -43,9 +43,9 @@ Pour créer un fil d'actualités, suivez les étapes suivantes :
 4.  Choisissez une image d'illustration
 5.  Cliquez sur « Sauvegarder »
 
-image:../../wp-content/uploads/2016/07/Actu_2_1-1024x318.png[image,width=204,height=63,6] +
-image:../../wp-content/uploads/2015/07/a28.png[a2,width=158,height=44] +
-image:../../wp-content/uploads/2015/07/a37.png[a3,width=600,height=135]
+image:../../wp-content/uploads/2016/07/Actu_2_1-1024x318.png[image,width=512,height=159] +
+image:../../wp-content/uploads/2015/07/a28.png[a2,width=79,height=22] +
+image:../../wp-content/uploads/2015/07/a37.png[a3,width=300,height=67,5]
 
 '''''
 
@@ -59,17 +59,14 @@ créer des fils d’actualités.
 [[cas-d-usage-2]]
 == Partager un fil d'actualités
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
-
 Vous pouvez maintenant partager votre fil d'actualités :
 
 1.  Cliquez sur « Gérer les fils »
 2.  Sélectionnez la case à cocher du fil à partager
 3.  Cliquez sur « Partager »
 
-image:../../wp-content/uploads/2016/07/Actu_2_1-1024x318.png[image,width=600,height=186] +
-image:../../wp-content/uploads/2016/07/Actu_3_1-1024x633.png[image,width=600,height=371] +
+image:../../wp-content/uploads/2016/07/Actu_2_1-1024x318.png[image,width=512,height=159] +
+image:../../wp-content/uploads/2016/07/Actu_3_1-1024x633.png[image,width=512,height=316,5] +
 Pour partager le fil d'actualités avec d'autres utilisateurs, suivez les
 étapes suivantes :
 
@@ -93,12 +90,9 @@ d'actualités
 [[cas-d-usage-3]]
 == Créer une actualité
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
-
 Pour créer une actualité, cliquez sur le bouton « Nouvelle actualité ».
 
-image:../../wp-content/uploads/2016/01/Capture.png[image,width=188,height=44]
+image:../../wp-content/uploads/2016/01/Capture.png[image,width=94,height=22]
 
 Dans la nouvelle fenêtre, indiquez le titre de l'actualité (1), le fil
 auquel l'actualité sera rattachée (2), les dates de publication et
@@ -106,7 +100,7 @@ d'expiration (3), et le contenu de votre actualité (4). +
 La case à cocher « Mettre à la une » permet de laisser votre actualité
 en haut de la liste.
 
-image:../../wp-content/uploads/2016/01/ACTU-2-1024x524.png[image,width=600,height=307]
+image:../../wp-content/uploads/2016/01/ACTU-2-1024x524.png[image,width=512,height=262]
 
 Plusieurs actions sont ensuite proposées :
 
@@ -119,9 +113,6 @@ compléter plus tard
 [[cas-d-usage-4]]
 == Partager une actualité
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
-
 Vous pouvez décider d’attribuer des droits sur une actualité
 indépendamment des droits de partage définis sur le fil auquel elle
 appartient.
@@ -129,7 +120,7 @@ appartient.
 Pour cela, cliquez sur la case à cocher de l'actualité concernée (1)
 puis sur « Partager » (2).
 
-image:../../wp-content/uploads/2016/07/Actu_4-1-1024x626.png[image,width=600,height=367]
+image:../../wp-content/uploads/2016/07/Actu_4-1-1024x626.png[image,width=512,height=313]
 
 Pour attribuer ces droits, suivez les étapes suivantes :
 
@@ -139,7 +130,7 @@ d’utilisateurs que vous recherchez
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur
 attribuer :
 
-image:../../wp-content/uploads/2016/01/ACTU-3-1024x559.png[image,width=600,height=328]
+image:../../wp-content/uploads/2016/01/ACTU-3-1024x559.png[image,width=512,height=279,5]
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs
 de l’ENT sur l'actualité sont les suivants :
@@ -150,9 +141,6 @@ l’actualité
 
 [[notes-de-versions]]
 == Note de version
-
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
 
 Nouveauté de la version 0.4.0
 
@@ -167,8 +155,7 @@ Les droits suivants sont définis au niveau des actualités :
 * Lire
 * Commenter
 
-image:../../wp-content/uploads/2015/04/NDV-8.png[NDV
-8,width=500,height=195]
+image:/assets/PARTAGE-actu1.png[image,width=512,height=345]
 
 Le fil d’actualités permet toujours de définir des droits de :
 
@@ -176,8 +163,7 @@ Le fil d’actualités permet toujours de définir des droits de :
 * Publication
 * Contribution
 
-image:../../wp-content/uploads/2015/04/NDV-9.png[NDV
-9,width=500,height=195]
+image:/assets/PARTAGE-actu2.png[image,width=512,height=272,5]
 
 '''''
 
