@@ -88,22 +88,16 @@ image:../../wp-content/uploads/2015/07/a6.png[a6,width=597,height=279]
 Vous pouvez effectuer les opérations suivantes :
 
 * Afficher/cacher les filtres
+ image:../../wp-content/uploads/2015/07/a7.png[a7,width=20,height=20]
 
-image:../../wp-content/uploads/2015/07/a7.png[a7,width=20,height=20]
+* Ordonner par nom/rôle image:../../wp-content/uploads/2015/07/a8.png[a8,width=20,height=20]
 
-* Ordonner par nom/rôle
+* Créer un utilisateur image:../../wp-content/uploads/2015/07/a9.png[a9,width=20,height=20]
 
-image:../../wp-content/uploads/2015/07/a8.png[a8,width=20,height=20]
+* Afficher la légende image:../../wp-content/uploads/2015/07/a10.png[a10,width=20,height=20]
 
-* Créer un utilisateur
+La légende est la suivante : 
 
-image:../../wp-content/uploads/2015/07/a9.png[a9,width=20,height=20]
-
-* Afficher la légende
-
-image:../../wp-content/uploads/2015/07/a10.png[a10,width=20,height=20]
-
-La légende est la suivante : +
 image:../../wp-content/uploads/2015/07/a11.png[a11,width=100,height=138,5]
 
 1.  *Effectuer une recherche filtrée*
@@ -119,18 +113,16 @@ filtres » (1). Plusieurs filtres sont disponibles :
 Pour faciliter votre recherche, vous pouvez cliquer sur les boutons
 suivants :
 
-image:../../wp-content/uploads/2015/07/a12.png[a12,width=26,height=20]
+* pour sélectionner tous les champs image:../../wp-content/uploads/2015/07/a12.png[a12,width=26,height=20]
 
-* pour sélectionner tous les champs
+* pour désélectionner tous les champs image:../../wp-content/uploads/2015/07/a13.png[a13,width=26,height=20]
 
-image:../../wp-content/uploads/2015/07/a13.png[a13,width=26,height=20]
+image:../../wp-content/uploads/2015/07/a13.png[a13,width=26,height=2près avoir choisi les filtres souhaités (2), la liste des résultats
+apparaî sur la partie gauche de l’écran (3).
 
-* pour désélectionner tous les champs
+image:../../wp-content/uploads
 
-Après avoir choisi les filtres souhaités (2), la liste des résultats
-apparait sur la partie gauche de l’écran (3).
-
-image:../../wp-content/uploads/2015/07/a14.png[a14,width=552,height=578] +
+/2015/07/a14.png[a14,width=552,height=578] +
 *2. Effectuer une recherche par nom ou par prénom*
 
 Pour chercher un utilisateur en particulier, saisir les premières
