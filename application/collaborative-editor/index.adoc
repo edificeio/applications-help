@@ -28,7 +28,7 @@ instantanée. Il promeut des usages pédagogiques, notamment pour l’apprentiss
 la page d'accueil de l'appli.
 
 image:../../wp-content/uploads/2016/01/nouveaupad1.png[Créer un
-pad,width=142,height=42]
+pad,width=110]
 
 Ensuite, saisissez un nom (1) et enregistrez si vous le souhaitez une
 image d’illustration du Pad (sinon c’est l’icône par défaut qui est
