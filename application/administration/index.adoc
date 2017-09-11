@@ -181,8 +181,7 @@ message d’erreur apparaît.
 
 image:../../wp-content/uploads/2015/07/a24.png[a2,width=200] +
 
-*3. link:../../wp-content/uploads/2015/07/a181.png[Attribuer la fonction
-d’administrateur local à un utilisateur]*
+*3. Attribuer la fonction d’administrateur local à un utilisateur*
 
 Un administrateur local peut donner la fonction d’administrateur local à
 un autre utilisateur.
@@ -196,7 +195,7 @@ saisir le début de son prénom dans la barre de recherche
 4.  Au bas de la fiche utilisateur, cliquez sur « Attribuer »
 
 image:../../wp-content/uploads/2015/07/a32.png[a3,width=200] +
-image:../../wp-content/uploads/2015/07/a41.png[a4,width=200]
+image:../../wp-content/uploads/2015/07/a41.png[a4,width=550]
 
 *4. link:../../wp-content/uploads/2015/07/a181.png[ ]Créer manuellement
 un nouvel utilisateur*
@@ -417,7 +416,7 @@ l’onglet **règles personnalisées**.
 Pour visualiser les règles par défaut, cliquez sur « Règles de
 communication » (1), puis sur « Règles par défaut » (2).
 
-image:../../wp-content/uploads/2015/07/a110.png[a1,width=562,height=279]
+image:../../wp-content/uploads/2015/07/a110.png[a1,width=450]
 
 Dans la capture d’écran ci-dessus, les règles de communication par
 défaut sont les suivantes :
@@ -481,7 +480,7 @@ Les règles sont bien établies.
 
 Pour créer un nouveau groupe, allez dans « Opérations sur les groupes »
 (1), cliquez sur le nom du lycée (2) puis sur l'icône suivant (3) +
-image:../../wp-content/uploads/2015/07/a36.png[a3,width=44,height=45] +
+image:../../wp-content/uploads/2015/07/a36.png[a3,width=30] +
 Saisissez ensuite le nom du groupe puis cliquez sur « Créer ». +
 Il est possible de typer le groupe comme un groupe d’enseignement en le
 rattachant à une classe. En faisant cela, le groupe suivra le cycle de
@@ -497,7 +496,8 @@ la partie de droite (7).
 Pour filtrer les utilisateurs, utilisez les listes déroulantes ou la
 zone de texte (8), la liste se met à jour automatiquement.
 
-image:../../wp-content/uploads/2015/07/a55.png[a5,width=580,height=377] +
+image:../../wp-content/uploads/2015/07/a55.png[a5,width=500] 
+
 *2. Rendre le groupe visible*
 
 Pour rendre le groupe visible il faut modifier ses règles de
@@ -509,7 +509,7 @@ personnalisées » (2).
 Saisissez ensuite une partie du nom du groupe (3) pour le retrouver plus
 facilement (4).
 
-image:../../wp-content/uploads/2015/07/a62.png[a6,width=722,height=233] +
+image:../../wp-content/uploads/2015/07/a62.png[a6,width=550] +
 Dans un premier temps allez dans « Paramétrage du groupe » (5) pour
 ouvrir la communication.
 
@@ -517,7 +517,7 @@ Il faut d’abord choisir si les membres du groupe doivent pouvoir voir le
 groupe et se voir entre eux. Si c’est le cas, choisissez « Communication
 dans les deux sens » (6) puis cliquez sur « Modifier » (7).
 
-image:../../wp-content/uploads/2015/07/a113.png[a1,width=655,height=264]
+image:../../wp-content/uploads/2015/07/a113.png[a1,width=400]
 
 * Si les membres du groupe ne doivent pas se voir, il s’agit soit :
 ** Du cas d’une liste de diffusion (communication entrante)
@@ -525,7 +525,7 @@ image:../../wp-content/uploads/2015/07/a113.png[a1,width=655,height=264]
 (communication sortante)
 
 Dans ces deux cas, les membres ne verront pas le groupe. +
-link:../../wp-content/uploads/2015/07/a83.png[image:../../wp-content/uploads/2015/07/a83.png[a8,width=597,height=241]]
+link:../../wp-content/uploads/2015/07/a83.png[image:../../wp-content/uploads/2015/07/a83.png[a8,width=400]]
 
 *3. Ajouter des droits de communication*
 
@@ -697,7 +697,7 @@ Les parents rattachés à un élève sont maintenant affichés sur la fiche
 de l’élève dans la console d’administration.
 
 image:../../wp-content/uploads/2015/04/NDV-15.png[NDV
-15,width=210,height=107]
+15,width=150]
 
 *Rattacher un groupe manuel à une classe*
 
@@ -713,7 +713,7 @@ Les établissements scolaires peuvent être regroupés dans des structures.
 Cela permet notamment de matérialiser les académies, les collectivités
 ou encore les cités scolaires dans la plateforme.
 
-image:../../wp-content/uploads/2015/04/NDV-16.png[NDV16,width=280,height=195]
+image:../../wp-content/uploads/2015/04/NDV-16.png[NDV16,width=200]
 
 Un premier cas d’utilisation est la gestion des comptes des
 collectivités et des services académiques. Ces comptes peuvent
@@ -750,7 +750,7 @@ utilisateurs ne le voient plus dans les destinataires possibles d'un
 message ni dans les écrans de partage des autres services.
 
 image:../../wp-content/uploads/2015/04/NDV-18.png[NDV
-18,width=94,height=52]
+18,width=60]
 
 **Export des comptes**
 
@@ -759,4 +759,4 @@ La fonctionnalité d’export des comptes est plus conviviale. Le choix des
 listes déroulantes.
 
 image:../../wp-content/uploads/2015/04/NDV-19.png[NDV
-19,width=542,height=143]
+19,width=400]
