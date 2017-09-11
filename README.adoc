@@ -6,7 +6,9 @@ Bienvenue sur le manuel d'utilisation des applications de votre réseau social �
 
 Solution éditée et motorisée par :
 
-image:/assets/ode-logo.png[alt=""]
+image:/assets/ode-logo.png[a2,width=90]
+
+
 
 
 
