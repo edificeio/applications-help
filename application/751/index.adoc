@@ -60,8 +60,9 @@ de contribution et de gestion à d’autres personnes sur votre cahier.
 Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du
 groupe d’utilisateurs que vous recherchez (1), sélectionnez le résultat
 (2) et cochez les cases correspondant aux droits que vous souhaitez leur
-attribuer (3). +
-image:/assets/Cahier-de-texte-5.png[image,width=200]
+attribuer (3). 
+
+image:/assets/Cahier-de-texte-5.png[image,width=300]
 
 Votre cahier de textes est initialisé, vous pouvez désormais créer les
 premières activités ! Les différents droits que vous pouvez attribuer sont les suivants :
