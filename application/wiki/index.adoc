@@ -1,4 +1,4 @@
-﻿[[wiki]]
+[[wiki]]
 = Wiki
 
 Un *Wiki* est un ensemble de pages modifiables par les utilisateurs
