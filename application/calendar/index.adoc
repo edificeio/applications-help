@@ -54,7 +54,7 @@ Une fois créé, l'agenda apparaît dans la liste des agendas de
 l’utilisateur.
 
 image:../../wp-content/uploads/2016/01/Agenda-Sélection.png[Agenda -
-Sélection,width=240,height=144]
+Sélection,width=170]
 
 Depuis cette liste il est possible d’accéder aux opérations sur l’agenda
 en le sélectionnant à l’aide de la case à cocher (2). +
@@ -62,7 +62,7 @@ Un menu apparaît alors en bas de l’écran proposant les actions
 supplémentaires suivantes. +
 
 link:../../wp-content/uploads/2016/01/Agenda-menu-bas.png[image:../../wp-content/uploads/2016/01/Agenda-menu-bas.png[Agenda
-- menu bas,width=399,height=43]]
+- menu bas,width=300]]
 
 Description des actions :
 
@@ -91,7 +91,7 @@ link:../../wp-content/uploads/2016/01/Agenda-Créé-événement.png[image:../../
 
 La fenêtre de création d’événement apparait en popup. Elle se décompose en trois onglets.
 
-link:../../wp-content/uploads/2016/01/Agenda-Création-événement.png[image:../../wp-content/uploads/2016/01/Agenda-Création-événement.png[Agenda - Création événement,width=598,height=489]] +
+link:../../wp-content/uploads/2016/01/Agenda-Création-événement.png[image:../../wp-content/uploads/2016/01/Agenda-Création-événement.png[Agenda - Création événement,width=400]] +
 
 Le premier onglet appelé "Détails" comporte les informations générales
 de l’événement à créer :
@@ -106,7 +106,7 @@ Le second onglet appelé "Dates" permet la sélection de la plage horaire
 de l’événement.
 
 link:../../wp-content/uploads/2016/01/Agenda-Création-date.png[image:../../wp-content/uploads/2016/01/Agenda-Création-date.png[Agenda
-- Création date,width=598,height=489]]
+- Création date,width=400]]
 
 Il est possible de changer les dates et heures de début et de fin. La
 case à cocher « Toute la journée » permet de définir un événement sans
@@ -116,7 +116,7 @@ Enfin le dernier onglet appelé "Récurrence" permet de définir la
 récurrence de l’événement si nécessaire.
 
 link:../../wp-content/uploads/2016/01/Agenda-Création-récurrence.png[image:../../wp-content/uploads/2016/01/Agenda-Création-récurrence.png[Agenda
-- Création récurrence,width=598,height=489]]
+- Création récurrence,width=400]]
 
 Pour cela, il faut cocher la case « Récurrent » pour pouvoir accéder à
 la sélection du paramétrage de la récurrence. +
@@ -131,7 +131,7 @@ lesquelles se produira la récurrence (ici tous les mercredis une semaine
 sur 2).*
 
 link:../../wp-content/uploads/2016/01/Agenda-Récurrence.png[image:../../wp-content/uploads/2016/01/Agenda-Récurrence.png[Agenda
-- Récurrence,width=496,height=85]]
+- Récurrence,width=400]]
 
      3.  la fin de la série d’événements récurrents. Cette fin peut être
 paramétrée après un nombre d’occurrences ou à une date donnée.
@@ -144,7 +144,7 @@ bas lors de la sélection d’un calendrier dans la liste des calendriers
 de l’utilisateur.
 
 link:../../wp-content/uploads/2016/01/Agenda-Partage.png[image:../../wp-content/uploads/2016/01/Agenda-Partage.png[Agenda
-- Partage,width=598,height=433]] +
+- Partage,width=400]] +
 Dans la fenêtre, vous pouvez donner aux utilisateurs de l’ENT différents
 droits d'accès à votre agenda. Pour cela, suivez les étapes suivantes :
 
@@ -172,14 +172,14 @@ calendrier une petite bulle contenant le nombre d’événements antérieurs
 est affichée (+1 ici).
 
 link:../../wp-content/uploads/2016/01/Agenda-Calendrier.png[image:../../wp-content/uploads/2016/01/Agenda-Calendrier.png[Agenda
-- Calendrier,width=449,height=160]]
+- Calendrier,width=300]]
 
 Il est possible de choisir les agendas affichés sur le calendrier en
 cliquant dessus dans la partie de gauche. Les agenda non sélectionnés
 sont grisés (ici « Agenda numéro 2 » est désactivé).
 
 link:../../wp-content/uploads/2016/01/Agenda-Désactivé.png[image:../../wp-content/uploads/2016/01/Agenda-Désactivé.png[Agenda
-- Désactivé,width=245,height=190]]
+- Désactivé,width=200]]
 
 La seconde façon de visualiser les événements est la vue liste
 accessible par l’icône
