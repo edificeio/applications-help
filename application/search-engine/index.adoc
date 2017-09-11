@@ -93,8 +93,7 @@ fermeture du navigateur) sur l’ENT.
 [[cas-d-usage-3]]
 == Effectuer une recherche
 
-link:../../wp-content/uploads/2016/06/Recherche001.png[image:../../wp-content/uploads/2016/06/Recherche001.png[Recherche001,width=599,height=127]]Pour
-rechercher une ressource, saisissez les mots-clés dans la zone de saisie
+Pour rechercher une ressource, saisissez les mots-clés dans la zone de saisie
 (1) en respectant les consignes suivantes :
 
 * Vous devez au minimum saisir au moins un mot de 4 caractères ou plus
@@ -114,15 +113,13 @@ Cliquez sur le bouton "Rechercher" pour lancer la recherche.
 [[cas-d-usage-4]]
 == Champs de recherche par application
 
-link:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x1051.png[CC-BY-NC-SA-3.0-FR-300x105,width=120,height=42]]
-
 La recherche s’effectue sur des champs spécifiques en fonction du  type
 de ressource. Pour qu’une ressource soit affichée dans la liste
 résultat, un des champs de la ressource doit contenir **tous les
 mots-clés saisis d’au moins 4 caractères**.
 
 link:../../wp-content/uploads/2016/06/Tableau-filtre.png[image:../../wp-content/uploads/2016/06/Tableau-filtre.png[Tableau
-filtre,width=600,height=498]]
+filtre,width=500]]
 
 [[cas-d-usage-5]]
 == Liste des résultats

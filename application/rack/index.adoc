@@ -23,7 +23,7 @@ BY-NC-SA 3.0 FR,width=100,height=35]]
 
 Le casier est composé de 3 dossiers :
 
-image:../../wp-content/uploads/2016/04/Casier.png[Casier,width=343,height=198]
+image:../../wp-content/uploads/2016/04/Casier.png[Casier,width=200]
 
 Le dossier « *Mon casier* » contient les documents envoyés dans mon
 casier. +
@@ -58,7 +58,7 @@ faite.
 Cliquez ensuite sur « Envoyer » (3) pour envoyer le document. Un message
 de confirmation vous informe que le document a bien été envoyé.
 
-image:../../wp-content/uploads/2016/04/Casier3.png[Casier3,width=600,height=564]
+image:../../wp-content/uploads/2016/04/Casier3.png[Casier3,width=300]
 
  
 
@@ -89,13 +89,13 @@ Connectez-vous à l'appli Casier et consultez le dossier « Mon casier ».
 Sélectionnez le document et cliquez sur le bouton « Copier dans mes
 documents » en bas de page.
 
-image:../../wp-content/uploads/2016/04/Casier4.png[Casier4,width=400,height=56]
+image:../../wp-content/uploads/2016/04/Casier4.png[Casier4,width=250]
 
 La nouvelle fenêtre vous présente l'arborescence du dossier « Mes
 documents » (1), vous pouvez ainsi copier le document dans le dossier
 que vous souhaitez (2).
 
-image:../../wp-content/uploads/2016/04/Casier5.png[Casier5,width=600,height=302]
+image:../../wp-content/uploads/2016/04/Casier5.png[Casier5,width=400]
 
 [[notes-de-versions]]
 == Note de version

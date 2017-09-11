@@ -138,7 +138,7 @@ Voici un exemple de procédure pour le site Youtube :
 2.  Cliquez sur « Intégrer »
 3.  Copiez le lien qui est indiqué dans la barre
 
-image:../../wp-content/uploads/2015/06/m44.png[m4,width=608,height=204]
+image:../../wp-content/uploads/2015/06/m44.png[m4,width=400]
 
 Ouvrez le cahier multimédia dans lequel vous souhaitez ajouter cette
 vidéo et cliquez sur l’icône d’ajout de

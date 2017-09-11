@@ -25,7 +25,7 @@ qu'il choisit : droit de *lecture* (accès au sondage en consultation),
 droit de *vote* (possibilité de répondre au sondage) et droit de
 *gestion* (possibilité de modifier et supprimer le sondage).
 
-image:../../wp-content/uploads/2016/04/Sonage_Pres.png[Sonage_Pres,width=570,height=258]
+image:../../wp-content/uploads/2016/04/Sonage_Pres.png[Sonage_Pres,width=300]
 
 
 [[cas-d-usage-1]]
