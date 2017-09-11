@@ -49,10 +49,10 @@ si elle dispose du lien.
  
 
 link:../../wp-content/uploads/2017/04/Captures-Pages-2.png[image:../../wp-content/uploads/2017/04/Captures-Pages-2.png[Captures
-Pages 2,width=618,height=280]]
+Pages 2,width=550]]
 
 link:../../wp-content/uploads/2017/04/Capture-Pages-3.png[image:../../wp-content/uploads/2017/04/Capture-Pages-3.png[Capture
-Pages 3,width=620,height=276]]
+Pages 3,width=550]]
 
  
 
@@ -60,7 +60,7 @@ Dans la fenêtre, saisissez le titre de votre site (3) puis cliquez sur
 le bouton « Créer » (4)
 
 link:../../wp-content/uploads/2017/04/Captures-Pages-4.png[image:../../wp-content/uploads/2017/04/Captures-Pages-4.png[Captures
-Pages 4,width=608,height=319]]
+Pages 4,width=300]]
 
 Votre site web est maintenant créé, vous pouvez le compléter en y
 intégrant des contenus.
@@ -75,7 +75,7 @@ suivantes :
 2.  Cliquez sur le bouton "Partager" (2)
 
 link:../../wp-content/uploads/2017/04/Captures-Pages-5.png[image:../../wp-content/uploads/2017/04/Captures-Pages-5.png[Captures
-Pages 5,width=705,height=315]]
+Pages 5,width=550]]
 
 La fenêtre de partage apparaît. Pour attribuer des droits à d’autres
 utilisateurs, suivez les étapes suivantes :
