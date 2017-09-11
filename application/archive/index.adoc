@@ -23,7 +23,7 @@ automatiquement générée lors du clic sur le bouton « Télécharger mes
 données » et peut être enregistrée sur l’ordinateur de l’utilisateur par
 exemple.
 
-image:../../wp-content/uploads/2016/04/export-1024x140.png[export,width=600,height=82]
+image:../../wp-content/uploads/2016/04/export-1024x140.png[export,width=700]
 
 [[notes-de-versions]]
 == Note de version
