@@ -51,11 +51,11 @@ image:../../wp-content/uploads/2015/06/m4.png[m4,width=507,height=215]
 L’éditeur de texte vous permet de créer facilement une carte mentale.
 
 link:../../wp-content/uploads/2015/06/m22.png[ +
-]image:../../wp-content/uploads/2015/06/m5.png[m5,width=834,height=290]
+]image:../../wp-content/uploads/2015/06/m5.png[m5,width=500]
 
 Lorsque la carte mentale est terminée, cliquez sur « Enregistrer ».
 
-image:../../wp-content/uploads/2015/06/m6.png[m6,width=1004,height=431]
+image:../../wp-content/uploads/2015/06/m6.png[m6,width=500]
 
 Votre carte est maintenant créée !
 

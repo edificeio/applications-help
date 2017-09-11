@@ -88,7 +88,7 @@ une discussion,width=600,height=261]]
 
 Pour poster un message, cliquez sur la discussion concernée.
 
-image:../../wp-content/uploads/2015/07/f3.png[f3,width=756,height=284] +
+image:../../wp-content/uploads/2015/07/f3.png[f3,width=600] +
 Rédigez votre message dans la zone de texte en bas de page (1) et
 cliquez sur « Répondre » (2).
 
@@ -113,7 +113,7 @@ droit de gestionnaire dans les fonctions de partage.
 Pour gérer une catégorie, cliquez sur la case à cocher qui y est
 associée.
 
-image:../../wp-content/uploads/2016/04/forum.png[forum,width=100]
+image:../../wp-content/uploads/2016/04/forum.png[forum,width=200]
 
 [[cas-d-usage-5]]
 == Gérer une discussion
