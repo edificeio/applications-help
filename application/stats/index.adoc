@@ -42,11 +42,11 @@ image:../../wp-content/uploads/2015/04/Stats-1.jpg[Stats
 Pour accéder à l’appli Statistiques, cliquez sur l’icône correspondante
 dans la page « Mes applis ».
 
-image:../../wp-content/uploads/2015/06/p14.png[p1,width=150]
+image:../../wp-content/uploads/2015/06/p14.png[p1,width=200]
 
 Un récapitulatif des statistiques de fréquentation de l’ENT s’affiche.
 
-image:../../wp-content/uploads/2015/06/s14.png[s1,width=300]
+image:../../wp-content/uploads/2015/06/s14.png[s1,width=400]
 
 Pour plus de détails, cliquez sur la vignette de l’indicateur. Un graphe
 s’affiche.

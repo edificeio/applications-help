@@ -23,14 +23,16 @@ temporelle. Chaque événement est accompagné d'un encart permettant de
 **publier du contenu additionnel** (texte, image, son ...). Chaque frise
 peut être partagée avec un utilisateur ou un groupe d'utilisateurs.
 
-image:../../wp-content/uploads/2015/04/Frise1.png[Frise1,width=537,height=479]
+image:../../wp-content/uploads/2015/04/Frise1.png[Frise1,width=400]
 
 [[cas-d-usage-1]]
 == Créer et partager une frise chronologique
 
 Pour accéder à l’appli Frise chronologique, cliquez sur l’icône
 correspondante dans la page « Mes
-applis ».image:../../wp-content/uploads/2015/06/f1.png[f1,width=544,height=132]
+applis ».
+
+image:../../wp-content/uploads/2015/06/f1.png[f1,width=544,height=132]
 
 Cliquez sur le bouton « Créer une frise ».
 
@@ -43,7 +45,7 @@ Suivez les étapes suivantes :
 * Renseignez le descriptif de la frise
 * Cliquez sur « Sauvegarder »
 
-link:../../wp-content/uploads/2016/01/FRISE_1.png[image:../../wp-content/uploads/2016/01/FRISE_1.png[image,width=1650,height=760]]
+link:../../wp-content/uploads/2016/01/FRISE_1.png[image:../../wp-content/uploads/2016/01/FRISE_1.png[image,width=550]]
 
 La frise chronologique est maintenant créée. Pour la partager, saisissez
 les premières lettres du nom de l’utilisateur ou d’un groupe
@@ -75,11 +77,11 @@ Vous devez renseigner plusieurs informations pour créer un évènement :
 * Une description
 
 link:../../wp-content/uploads/2016/01/FRISE_21.png[ +
-image:../../wp-content/uploads/2016/01/FRISE_21.png[image,width=1650,height=681]]
+image:../../wp-content/uploads/2016/01/FRISE_21.png[image,width=450]]
 
 * Une fois l’événement créé, il apparaît dans la frise chronologique.
 
-image:../../wp-content/uploads/2015/06/f8.png[f8,width=476,height=256]
+image:../../wp-content/uploads/2015/06/f8.png[f8,width=450]
 
 [[notes-de-versions]]
 == Note de version

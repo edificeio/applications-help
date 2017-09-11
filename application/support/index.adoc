@@ -24,7 +24,7 @@ permet de consulter rapidement la demande. Il peut alors la *mettre à
 jour* ou **changer son statut**. L’utilisateur recevra à son tour une
 *notification* pour être averti des modifications et réponses.
 
-image:../../wp-content/uploads/2016/08/aide_1-1024x248.png[image,width=600,height=145]
+image:../../wp-content/uploads/2016/08/aide_1-1024x248.png[image,width=700]
 
 [[cas-d-usage-1]]
 == Créer une demande
@@ -32,7 +32,7 @@ image:../../wp-content/uploads/2016/08/aide_1-1024x248.png[image,width=600,heigh
 La demande de création se fait en cliquant sur le bouton « Nouvelle
 demande » (1) disponible sur la page principale du service.
 
-image:../../wp-content/uploads/2016/08/aide_2-1024x248.png[image,width=600,height=145]
+image:../../wp-content/uploads/2016/08/aide_2-1024x248.png[image,width=700]
 
 La page de création d’une nouvelle demande se présente comme suit :
 
@@ -95,7 +95,7 @@ d’écran. L'ajout de pièces jointes reste disponible même quand le quota
 d’espace disponible de l'utilisateur est atteint.
 
 image:../../wp-content/uploads/2015/04/NDF-13.png[NDF
-13,width=598,height=285] +
+13,width=400] +
 
 '''''
 

@@ -27,7 +27,7 @@ navigation (présents sur chaque page de l’ENT) mais aussi de changer de
 thème.
 
 link:../../wp-content/uploads/2016/12/Fil-complet.png[image:../../wp-content/uploads/2016/12/Fil-complet.png[Fil
-- complet,width=501,height=325]]
+- complet,width=700]]
 
 [[cas-d-usage-1]]
 == Le fil de nouveautés
@@ -82,7 +82,9 @@ notification reçue et/ou de signaler à l'administrateur de votre
 établissement une notification inappropriée. Une flèche d'action
 s'affiche sur la notification lors du survol de celle-ci. +
 link:../../wp-content/uploads/2016/12/Fil-survol1.png[image:../../wp-content/uploads/2016/12/Fil-survol1.png[Fil
-- survol,width=321,height=201]]Lorsque vous cliquez sur la flèche, les
+- survol,width=321,height=201]]
+
+Lorsque vous cliquez sur la flèche, les
 actions concernant la notification sélectionnée s'affichent. +
 Vous pouvez :
 
@@ -90,14 +92,18 @@ Vous pouvez :
 * Signaler la notification comme inappropriée à votre référent ENT
 
 link:../../wp-content/uploads/2016/12/Fil-action.png[image:../../wp-content/uploads/2016/12/Fil-action.png[Fil
-- action,width=414,height=89]]Vous avez également la possibilité de ne
+- action,width=414,height=89]]
+
+Vous avez également la possibilité de ne
 pas diffuser une notification aux utilisateurs avec lesquels vous avez
 des droits de communication ou vous avez partagé du contenu. +
 Depuis votre espace "Mon compte", vous retrouverez toutes les
 notifications que vous avez émises en cliquant sur l'onglet
 "Historique" +
 link:../../wp-content/uploads/2016/12/Fil-historique.png[image:../../wp-content/uploads/2016/12/Fil-historique.png[Fil
-- historique,width=602,height=220]]Comme précédemment, en survolant la
+- historique,width=602,height=220]]
+
+Comme précédemment, en survolant la
 notification avec la souris, vous verrez apparaître une flèche sur la
 droite de la notification. En cliquant sur cette flèche, une action
 apparaît vous permettant de supprimer définitivement la notification de
@@ -200,12 +206,12 @@ L’éditeur permet également d’intégrer différents types de contenus :
 4.  Une formule Latex
 5.  Un lien
 
-image:../../wp-content/uploads/2016/04/Image5-1024x387.png[Image5,width=600,height=227]
+image:../../wp-content/uploads/2016/04/Image5-1024x387.png[Image5,width=500]
 
 L'éditeur permet désormais d'ajouter plus simplement des pièces jointes
 dans un contenu.
 
-image:../../wp-content/uploads/2016/04/Image61.png[Image6,width=600,height=63]
+image:../../wp-content/uploads/2016/04/Image61.png[Image6,width=500]
 
 Lorsque l'on clique sur l'icône d'ajout de pièces jointes, on peut
 choisir un document de sa bibliothèque multimédia (1) ou charger un
