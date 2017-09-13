@@ -48,12 +48,7 @@ image:../../wp-content/uploads/2015/06/p3.png[p3,width=480,height=252]
 Pour ajouter des élèves, vous pouvez soit :
 
 * Saisir manuellement les élèves (1),
-* Importer un fichier au format Base Elèves 1^er^ Degré (BE1D) (2).
- 
-
-Si vous ne disposez pas d’export BE1D, vous pouvez créer un fichier CSV
-sur le modèle suivant
-: http://one1d.fr/wp-content/uploads/2014/04/Import_ELEVES.csv[Import_ELEVES
+* Importer un fichier CSV sur le modèle suivant (2) : http://one1d.fr/wp-content/uploads/2014/04/Import_ELEVES.csv[Import_ELEVES
 (cliquez ici pour télécharger le fichier)]. +
 Pour modifier les informations déjà saisies pour un utilisateur de votre
 classe, cliquez sur le nom de l’utilisateur (3).
@@ -67,13 +62,12 @@ l’onglet « Parents », il est possible :
 l’élève correspondant en saisissant quelques lettres de son nom ou
 prénom (2);
 
-D’importer un fichier « responsables » au format BE1D
-(3).image:../../wp-content/uploads/2015/06/p5.png[p5,width=473,height=266]
-
-Si vous ne disposez pas d’export au format BE1D, vous pouvez créer un
-fichier CSV sur le modèle suivant
-: http://one1d.fr/wp-content/uploads/2014/08/Import_RESPONSABLES_2014.csv[Import_RESPONSABLES
+* D’importer un fichier « responsables » CSV sur le modèle suivant (3): : http://one1d.fr/wp-content/uploads/2014/08/Import_RESPONSABLES_2014.csv[Import_RESPONSABLES
 (cliquez ici pour télécharger le fichier).]
+
+
+.image:../../wp-content/uploads/2015/06/p5.png[p5,width=473,height=266]
+
 
 Pour que les élèves soient bien rattachés aux parents, vérifiez que le
 nom et prénom de l’élève soient correctement saisis dans le fichier des
