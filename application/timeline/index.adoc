@@ -1,4 +1,4 @@
-[[premiers-pas-dans-lent]]
+a[[premiers-pas-dans-lent]]
 = Premiers pas dans l'ENT
 
 * link:index.html?iframe=true#presentation[La page d'accueil]
