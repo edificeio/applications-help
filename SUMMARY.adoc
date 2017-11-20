@@ -1,6 +1,7 @@
 = Summary
 
 * link:README.adoc[Introduction]
+* link:application/diary/index.adoc[Cahier de textes 2D]
 * link:application/751/index.adoc[Cahier de textes 1D]
 * link:application/actualites/index.adoc[Actualités]
 * link:application/administration/index.adoc[Administration]
