@@ -95,6 +95,7 @@ document(s) que vous souhaitez enregistrer dans l’espace documentaire. Vous po
 
 image:/assets/Fenetre import vide.png[alt=""]
 
+
 2.  Cliquez sur « Importer ».
 
 image:/assets/Fenetre import full.png[alt=""]
