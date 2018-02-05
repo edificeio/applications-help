@@ -86,27 +86,20 @@ dossier.
 Pour importer un document dans votre espace de stockage personnel,
 cliquez sur le bouton « Importer » situé en haut de l’interface.
 
-image:../../wp-content/uploads/2016/04/Document3-1024x507.png[Document3,width=300]
+image:/assets/Import bouton.png[alt=""]
 
 Dans la nouvelle fenêtre, suivez les étapes suivantes :
 
-1.  Cliquez sur « Parcourir » et sélectionnez sur votre ordinateur le
-document que vous souhaitez enregistrer dans l’espace documentaire de
-l’ENT.
+1.  Cliquez sur « Parcourir » et sélectionnez sur votre ordinateur le(s)
+document(s) que vous souhaitez enregistrer dans l’espace documentaire. Vous pouvez également effectuer un glisser-déposer multiple.
+
+image:/assets/Fenetre import vide.png[alt=""
+
 2.  Cliquez sur « Importer ».
-3.  Lorsque la case est cochée, cela signifie que le document a bien été
-importé dans votre espace documentaire. Vous pouvez fermer la fenêtre.
 
-'''''
+image:/assets/Fenetre import full.png[alt=""]
 
-*Une icône d'attente s'affiche pour indiquer que le chargement du
-document est en cours.*
 
-'''''
-
-*image:../../wp-content/uploads/2016/04/Document31-1024x507.png[Document3,width=300]*
-
-* *
 
 '''''
 

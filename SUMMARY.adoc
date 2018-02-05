@@ -13,7 +13,7 @@
 * link:application/community/index.adoc[Communautés]
 * link:application/conversation/index.adoc[Messagerie]
 * link:application/directory/index.adoc[Annuaire]
-* link:application/exercizer/index.adoc[Exercises et évaluations]
+* link:application/exercizer/index.adoc[Exercices et évaluations]
 * link:application/forum/index.adoc[Forum]
 * link:application/mindmap/index.adoc[Carte mentale]
 * link:application/pages/index.adoc[Pages]
