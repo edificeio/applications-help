@@ -93,7 +93,7 @@ Dans la nouvelle fenêtre, suivez les étapes suivantes :
 1.  Cliquez sur « Parcourir » et sélectionnez sur votre ordinateur le(s)
 document(s) que vous souhaitez enregistrer dans l’espace documentaire. Vous pouvez également effectuer un glisser-déposer multiple.
 
-image:/assets/Fenetre import vide.png[alt=""
+image:/assets/Fenetre import vide.png[alt=""]
 
 2.  Cliquez sur « Importer ».
 
