@@ -23,8 +23,9 @@ le personnel de l'établissement, etc.) ayant un accès à l'ENT.
 
 La réception d’un nouveau message est visible dès la page d'accueil.
 Elle est indiquée par une *notification* dans le bandeau de navigation
-image:../../wp-content/uploads/2016/04/messagerie.png[messagerie,width=33,height=32] et
-dans le fil de nouveautés.
+image:../../wp-content/uploads/2016/04/messagerie.png[messagerie,width=33,height=32] 
+et dans le fil de nouveautés. Le nombre de messages non lus est indiqué devant chaque dossier.
+
 image:/assets/messagerie-accueil.png[alt=""]
 
 [[cas-d-usage-1]]
@@ -39,18 +40,17 @@ Vous accédez à la fenêtre de création d’un message.
 
 image:/assets/creation.png[alt=""]
 
-Indiquez le(s) destinataire(s) de votre message dans le champ « A » en
-saisissant les trois premières lettres de son nom ou en appuyant sur entrée (1). Vous pouvez adresser un
+1. Indiquez le(s) destinataire(s) de votre message dans le champ « A » en
+saisissant les trois premières lettres de son nom ou en appuyant sur entrée. Vous pouvez adresser un
 message à un utilisateur en particulier (par exemple un élève), ou à un
 groupe d’utilisateurs (par exemple les parents d’élèves de Terminale).
 La liste des résultats s’affiche automatiquement.
 
 image:/assets/resultat-destinataire.png[alt=""]
 
-1.  Ajoutez des personnes ou des groupes dans le champ « Copie » si vous
+2. Ajoutez des personnes ou des groupes dans le champ « Copie » si vous
 souhaitez leur adresser une copie du message.
-2.  Indiquez le sujet de votre message dans le champ « Objet ».
-
+3. Indiquez le sujet de votre message dans le champ « Objet ».
 
 Dans la fenêtre de saisie de contenu, rédigez votre message
 (1). Cliquez sur "Ajouter une pièce jointe" (2) pour joindre un document
@@ -69,7 +69,9 @@ L’option pourra être à tout moment décochée et le texte modifié : en cliq
 image:/assets/signature-demo.png[alt=""]
 
 Lorsque vous commencez la rédaction de votre message, un brouillon est automatiquement créé dans la rubrique « brouillon » de votre messagerie. 
-image:/assets/brouillon.png[alt=""]
+
+image:/assets/brouillon.png[alt="", width=33,height=32]
+
 Toutes les modifications effectuées sont automatiquement enregistrées. Vous pouvez donc interrompre à tout moment la création de votre message et la reprendre plus tard en vous rendant dans l’onglet « brouillon ».
 
 Une fois que votre message est prêt, vous pouvez l'envoyer.
@@ -94,13 +96,13 @@ Sur l’écran central, les messages non lus apparaissent en bleu dans la liste 
 
 image:/assets/icones.png[alt=""]
 
-(1) Une flèche indique que le message a été traité et qu’une réponse a été envoyé. 
+(1) Une flèche indique que le message a été traité et qu’une réponse a été envoyée. 
 (2) Le trombone indique que le message comporte une pièce jointe
 
 image:/assets/message-non-lu-recherche.png[alt=""]
 (1) Le filtre « messages non lus » vous permet de ne faire apparaître que les messages qui n’ont pas encore été lus.
 
-(2) La barre de recherche vous permet de rechercher un message grâce au nom d’un utilisateur, un mot clé présent dans l’objet ou le contenu.
+(2) La barre de recherche vous permet de rechercher un message dans le dossier en cours de consultation grâce au nom d’un utilisateur, un mot clé présent dans l’objet ou le contenu.
 
 Cliquez sur le titre d’un message pour en lire le contenu.
 image:/assets/lire-message.png[alt=""]
@@ -111,11 +113,10 @@ image:/assets/fleches.png[alt=""]
 
 En revenant à la liste de vos messages dans la rubrique « Boîte de réception » de votre messagerie, vous pouvez 
 (1) sélectionner plusieurs messages
-(2) les déplacer dans un dossier
+(2) les déplacer dans un dossier (pour cela vous pouvez également utiliser le "drag & drop")
 (3) les marquer comme non lu
+
 image:/assets/nonlu-deplacement.png[alt=""]
-
-
 
 
 [[cas-d-usage-3]]
@@ -123,16 +124,18 @@ image:/assets/nonlu-deplacement.png[alt=""]
 
 Lorsque vous avez cliquez sur le titre d’un message, vous accédez à son contenu. 
 Le bouton « répondre » en haut à droite vous permet de répondre à l’émetteur du message. 
+
 image:/assets/repondre-message.png[alt=""]
 
 La fenêtre de création d’un message s’ouvre. L’émetteur du message reçu est automatiquement ajouté en tant que destinataire.
+
 Si vous avez reçu un message groupé vous pouvez cliquez sur le bouton « + » (1) présent en haut à droite pour faire apparaître les options secondaires :
 
 image:/assets/traiter-message.png[alt=""]
 
 (2) Répondre à tous : tous les destinataires du messages reçus sont automatiquement ajoutés dans les champs « à » et « en copie » selon la répartition du message d’origine. 
 
-(3) Transférer : la fenêtre de création de contenus s’ouvre, le champ destinataire est vide
+(3) Transférer : la fenêtre de création de contenus s’ouvre, le champ destinataire est vide et la pièce jointe est reprise si le message transféré en possédait une.
 
 (4) Imprimer
 
