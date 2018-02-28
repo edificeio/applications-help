@@ -1,0 +1,147 @@
+[[messagerie]]
+= Messagerie
+
+La *Messagerie* permet d’échanger des messages électroniques avec
+d’autres utilisateurs selon des règles de communication préalablement
+définies.  
+
+* link:index.html?iframe=true#presentation[Présentation]
+* link:index.html?iframe=true#cas-d-usage-1[Envoyer un message]
+* link:index.html?iframe=true#cas-d-usage-2[Visualiser mes messages
+reçus]
+* link:index.html?iframe=true#cas-d-usage-3[Supprimer un message]
+* link:index.html?iframe=true#notes-de-versions[Note de version]
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
+BY-NC-SA 3.0 FR,width=100,height=35]]
+
+[[presentation]]
+== Présentation
+
+L'appli Messagerie permet d'envoyer simplement un message à *un
+utilisateur* ou à un *groupe d’utilisateurs* (les élèves d'une classe,
+le personnel de l'établissement, etc.) ayant un accès à l'ENT.
+
+La réception d’un nouveau message est visible dès la page d'accueil.
+Elle est indiquée par une *notification* dans le bandeau de navigation
+image:../../wp-content/uploads/2016/04/messagerie.png[messagerie,width=33,height=32] et
+dans le fil de nouveautés.
+
+image:../../wp-content/uploads/2016/04/messagerie2-1024x508.png[messagerie2,width=600,height=297]
+
+ 
+
+ 
+
+[[cas-d-usage-1]]
+== Envoyer un message
+
+Dans le service Messagerie, cliquez sur le bouton « Créer » présent en
+haut de la page.
+
+image:../../wp-content/uploads/2016/04/messagerie3-1024x215.png[messagerie3,width=600,height=126]
+
+Vous accédez à la fenêtre de création d’un message.
+
+image:../../wp-content/uploads/2016/04/messagerie4-1024x824.png[messagerie4,width=600,height=483]
+
+Indiquez le(s) destinataire(s) de votre message dans le champ « A » en
+saisissant les premières lettres de son nom (1). Vous pouvez adresser un
+message à un utilisateur en particulier (par exemple un élève), ou à un
+groupe d’utilisateurs (par exemple les parents d’élèves de Terminale).
+La liste des résultats s’affiche automatiquement.
+
+image:../../wp-content/uploads/2016/04/messagerie5-1024x776.png[messagerie5,width=600,height=455]
+
+1.  Ajoutez des personnes ou des groupes dans le champ « Copie » si vous
+souhaitez leur adresser une copie du message.
+2.  Indiquez le sujet de votre message dans le champ « Objet ».
+
+link:../../wp-content/uploads/2015/03/Messagerie-3.png[ +
+]Dans la fenêtre de saisie de contenu, rédigez votre message
+(1). Cliquez sur "Ajouter une pièce jointe" (2) pour joindre un document
+à votre message.
+
+image:../../wp-content/uploads/2016/04/messagerie6-1024x818.png[messagerie6,width=600,height=479] +
+Choisissez le document depuis votre poste de travail.
+
+link:../../wp-content/uploads/2015/07/m41.png[image:../../wp-content/uploads/2015/07/m41.png[m4,width=445,height=237]]
+
+Une fois que votre message est prêt, vous pouvez l'envoyer.
+
+image:../../wp-content/uploads/2016/04/messagerie7-1024x570.png[messagerie7,width=600,height=334] +
+Vous pouvez également enregistrer le message en tant que brouillon ou
+l'annuler en cliquant sur " + " (1) puis sur le bouton correspondant
+(2).
+
+image:../../wp-content/uploads/2016/04/messagerie8-1024x488.png[messagerie8,width=600,height=286]
+
+[[cas-d-usage-2]]
+== Visualiser mes messages reçus
+
+Lorsque vous recevez un nouveau message, la notification est indiquée
+dans le bandeau de navigation supérieur.
+
+image:../../wp-content/uploads/2015/05/M12.png[M1,width=248,height=49]
+
+Une fois dans l’appli messagerie, les nouveaux messages sont visibles
+dans la notification indiquée dans le dossier « boîte de réception ». Le
+nombre de messages non lus est indiqué entre parenthèses à droite du
+lien « Boîte de réception » (1). Sur l’écran central, les nouveaux
+messages s’affichent en gras (2).
+
+Cliquez sur le titre d’un message pour en lire le contenu.
+
+link:../../wp-content/uploads/2016/01/Messagerie-VISUALISER.png[image:../../wp-content/uploads/2016/01/Messagerie-VISUALISER-1024x199.png[image,width=600,height=116]]
+
+ 
+
+[[cas-d-usage-3]]
+== Supprimer un message
+
+Vous pouvez supprimer vos messages en cliquant sur la case à cocher
+correspondant au(x) message(s) (1).
+
+Puis cliquez sur le bouton « Supprimer » qui apparait en bas à gauche de
+la page (2).
+
+link:../../wp-content/uploads/2016/01/Messagerie-SUPPRIMER.png[image:../../wp-content/uploads/2016/01/Messagerie-SUPPRIMER-1024x449.png[image,width=600,height=263]]
+
+Le message se trouve maintenant dans votre corbeille. Vous pouvez le
+supprimer définitivement ou le restaurer en le sélectionnant dans le
+dossier « Corbeille ».
+
+[[notes-de-versions]]
+== Note de version
+
+Nouveautés de la version 1.13.1
+
+*Pièces jointes*
+
+La messagerie permet maintenant d’envoyer des pièces jointes.
+
+image:../../wp-content/uploads/2015/05/NDV-2.png[NDV
+2,width=429,height=353]
+
+Cela présente par exemple l’avantage que le destinataire conserve les
+documents associés au message même si l’expéditeur l’a supprimé de sa
+boite d’envoi.
+
+*Dossiers dans la boite de réception*
+
+Il est désormais possible de classer les messages de la boite de
+réception dans des dossiers. Chaque utilisateur peut créer et gérer ses propres dossiers.
+
+image:../../wp-content/uploads/2015/05/NDV-3.png[NDV
+3,width=174,height=226]
+
+'''''
+
+Nouveauté de la version 1.12.0
+
+*Bouton Supprimer*
+
+Le bouton qui permet de supprimer les messages sélectionnés ne s’affiche
+plus en haut de l’écran mais dans un menu qui apparaît en bas de l’écran
+de manière à être cohérent avec le fonctionnement des boutons d’action
+des autres services de l’ENT.

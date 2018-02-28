@@ -11,7 +11,8 @@
 * link:application/collaborative-editor/index.adoc[Pad collaboratif]
 * link:application/collaborativewall/index.adoc[Mur collaboratif]
 * link:application/community/index.adoc[Communautés]
-* link:application/conversation/index.adoc[Messagerie]
+* link:application/conversationold/index.adoc[Messagerie]
+* link:application/conversation/index.adoc[Messagerie V2]
 * link:application/directory/index.adoc[Annuaire]
 * link:application/exercizer/index.adoc[Exercices et évaluations]
 * link:application/forum/index.adoc[Forum]
@@ -34,6 +35,4 @@
 * link:application/viescolaire/index.adoc[Compétences]
 * link:application/wiki/index.adoc[Wiki]
 * link:application/workspace/index.adoc[Documents]
-* link:messagerie-ng.adoc[Messagerie V2]
-
 
