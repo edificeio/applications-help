@@ -5,6 +5,7 @@ Un *Wiki* est un ensemble de pages modifiables par les utilisateurs
 habilités afin de permettre l'écriture et l'illustration collaboratives
 des documents numériques qu'il contient.
 
+[[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Créer un Wiki]
 * link:index.html?iframe=true#cas-d-usage-2[Partager un Wiki]

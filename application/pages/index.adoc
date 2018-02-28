@@ -4,6 +4,7 @@
 L'appli *Pages* est un outil de création et publication de contenus,
 permettant de créer des mini sites web**.**
 
+[[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Créer un projet]
 * link:index.html?iframe=true#cas-d-usage-2[Partager un projet]

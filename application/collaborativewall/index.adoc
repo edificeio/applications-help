@@ -5,6 +5,7 @@ Le *Mur Collaboratif* permet de créer un mur sur lequel les
 *contributeurs* peuvent chacun **ajouter des notes**, à la façon d’un
 tableau sur lequel on ajoute des post-it**.**
 
+[[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Créer et partager un mur
 collaboratif]

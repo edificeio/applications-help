@@ -5,6 +5,7 @@ Cet outil permet d’**évaluer les élèves** de l’établissement, que ce
 soit de façon numérique (avec des notes) ou non, et d’y associer des
 compétences.
 
+[[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Créer une évaluation avec
 des compétences]

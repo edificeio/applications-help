@@ -4,6 +4,7 @@
 L'appli *Frise chronologique* permet de *positionner des événements sur
 une ligne* représentant la flèche du temps.
 
+[[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Créer et partager une frise
 chronologique]

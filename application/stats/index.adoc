@@ -5,6 +5,7 @@ L’appli *Statistiques* permet de suivre un ensemble d’indicateurs sur la
 fréquentation de l'ENT sur une période donnée (nombre de visiteurs ou
 répartition des visites dans la journée par exemple).
 
+[[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Comprendre les données
 disponibles]

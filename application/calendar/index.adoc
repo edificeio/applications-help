@@ -4,6 +4,7 @@
 L’appli *Agenda* permet la création et la visualisation d’événements
 sous forme d’un calendrier ou d’une liste.
 
+[[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Créer un agenda]
 * link:index.html?iframe=true#cas-d-usage-2[Créer un événement]

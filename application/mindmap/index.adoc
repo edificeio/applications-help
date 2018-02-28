@@ -5,6 +5,7 @@ L’appli *Carte Mentale* permet *d’organiser des idées, des concepts, des
 prises de notes sous forme d'un schéma* permettant de représenter le
 fonctionnement de la pensée.
 
+[[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Créer une Carte Mentale]
 * link:index.html?iframe=true#cas-d-usage-2[Partager une Carte Mentale]

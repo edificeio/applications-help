@@ -4,6 +4,7 @@
 L’appli **Actualités** permet de publier des informations organisées
 selon différentes thématiques en ciblant les destinataires.
 
+[[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
 * link:#cas-d-usage-1[Créer un fil d'actualités]
 * link:#cas-d-usage-2[Partager un fil d'actualités]

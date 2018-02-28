@@ -7,6 +7,7 @@ distribution et de corrections d’exercices pour les enseignants. Les
 consulter les corrections renseignées par les enseignants _a posteriori_
 de la réalisation de l’exercice.
 
+[[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Elève / Apprenant - Réaliser
 un exercice]

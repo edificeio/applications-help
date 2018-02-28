@@ -6,6 +6,7 @@ autour d’un *intérêt commun* pour **communiquer**, *partager* ou
 *collaborer* en utilisant différentes applis *(Blog, Forum, Wiki,
 Documents...).*
 
+[[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Créer et partager une
 communauté]

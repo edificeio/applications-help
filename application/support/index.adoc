@@ -4,6 +4,7 @@
 L’appli *Aide & Support* permet de signaler une difficulté ou un
 problème d'utilisation de l'ENT aux administrateurs de l'établissement.
 
+[[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Créer une demande]
 * link:index.html?iframe=true#cas-d-usage-2[Transmettre la demande au

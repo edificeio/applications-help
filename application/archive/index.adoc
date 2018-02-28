@@ -5,6 +5,7 @@ L’appli **Export** permet aux utilisateurs de générer un fichier
 compressé (archive) contenant l’ensemble de leurs documents personnels
 et partagés dans leur espace documentaire.
 
+[[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC

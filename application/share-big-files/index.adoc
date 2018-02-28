@@ -4,6 +4,7 @@
 L’appli Poste-fichiers permet aux utilisateurs de partager des fichiers
 volumineux avec d’autres utilisateurs de l’ENT.
 
+[[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Liste des fichiers]
 * link:index.html?iframe=true#cas-d-usage-2[Envoyer un fichier dans mon

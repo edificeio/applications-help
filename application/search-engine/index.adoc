@@ -4,6 +4,7 @@
 L’application Moteur de recherche permet aux utilisateurs de rechercher
 des ressources dans leur espace ENT.
 
+[[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Description de la page de
 recherche]

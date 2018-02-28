@@ -4,6 +4,7 @@
 Un *Forum* est un espace de discussion ouvert permettant une
 communication asynchrone entre plusieurs participants.  
 
+[[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Créer et partager une
 catégorie]

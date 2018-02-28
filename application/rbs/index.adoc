@@ -5,6 +5,7 @@ Le service *Réservation de Ressources* permet aux utilisateurs de
 réserver en ligne des ressources (matériel, salles, véhicules, etc.)
 pré-configurées par l'établissement.
 
+[[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Consulter les ressources
 disponibles]
