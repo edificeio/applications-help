@@ -68,7 +68,7 @@ image:/assets/signature-demo.png[alt=""]
 
 Lorsque vous commencez la rédaction de votre message, un brouillon est automatiquement créé dans la rubrique « brouillon » de votre messagerie. 
 
-image:/assets/brouillon.png[alt="", width=100]
+image:/assets/brouillon.png[alt="", width=248]
 
 Toutes les modifications effectuées sont automatiquement enregistrées. Vous pouvez donc interrompre à tout moment la création de votre message et la reprendre plus tard en vous rendant dans l’onglet « brouillon ».
 
