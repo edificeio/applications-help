@@ -34,5 +34,6 @@
 * link:application/viescolaire/index.adoc[Compétences]
 * link:application/wiki/index.adoc[Wiki]
 * link:application/workspace/index.adoc[Documents]
+* link:messagerie-ng.adoc[Messagerie V2]
 
 
