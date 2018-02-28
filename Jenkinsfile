@@ -22,7 +22,8 @@ pipeline {
       stage('Publish') {
         steps {
           sh '''
-            mvn deploy:deploy-file -DgroupId=com.opendigitaleducation -DartifactId=application-help -Dversion=releases -Dpackaging=tar.gz -Dfile=application-help-${VERSION}.tar.gz -DrepositoryId=ode-releases -Durl=https://maven.opendigitaleducation.com/nexus/content/repositories/ode-releases
+	    export archiveName=`ls application-help-*.tar.gz`
+            mvn deploy:deploy-file -DgroupId=com.opendigitaleducation -DartifactId=application-help -Dversion=releases -Dpackaging=tar.gz -Dfile=$archiveName -DrepositoryId=ode-releases -Durl=https://maven.opendigitaleducation.com/nexus/content/repositories/ode-releases
           '''
         }
       }
