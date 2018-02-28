@@ -40,17 +40,15 @@ Vous accédez à la fenêtre de création d’un message.
 
 image:/assets/creation.png[alt=""]
 
-1. Indiquez le(s) destinataire(s) de votre message dans le champ « A » en
-saisissant les trois premières lettres de son nom ou en appuyant sur entrée. Vous pouvez adresser un
-message à un utilisateur en particulier (par exemple un élève), ou à un
-groupe d’utilisateurs (par exemple les parents d’élèves de Terminale).
-La liste des résultats s’affiche automatiquement.
+(1) Indiquez le(s) destinataire(s) de votre message dans le champ « A » en
+saisissant les trois premières lettres de son nom ou en appuyant sur entrée. Vous pouvez adresser un message à un utilisateur en particulier (par exemple un élève), ou à un groupe d’utilisateurs (par exemple les parents d’élèves de Terminale).La liste des résultats s’affiche automatiquement :
 
 image:/assets/resultat-destinataire.png[alt=""]
 
-2. Ajoutez des personnes ou des groupes dans le champ « Copie » si vous
+(2) Ajoutez des personnes ou des groupes dans le champ « Copie » si vous
 souhaitez leur adresser une copie du message.
-3. Indiquez le sujet de votre message dans le champ « Objet ».
+
+(3) Indiquez le sujet de votre message dans le champ « Objet ».
 
 Dans la fenêtre de saisie de contenu, rédigez votre message
 (1). Cliquez sur "Ajouter une pièce jointe" (2) pour joindre un document
@@ -97,6 +95,7 @@ Sur l’écran central, les messages non lus apparaissent en bleu dans la liste 
 image:/assets/icones.png[alt=""]
 
 (1) Une flèche indique que le message a été traité et qu’une réponse a été envoyée. 
+
 (2) Le trombone indique que le message comporte une pièce jointe
 
 image:/assets/message-non-lu-recherche.png[alt=""]
@@ -111,9 +110,12 @@ Les flèches présentes en haut à gauche du message permettent de passer d’un
 
 image:/assets/fleches.png[alt=""]
 
-En revenant à la liste de vos messages dans la rubrique « Boîte de réception » de votre messagerie, vous pouvez 
+En revenant à la liste de vos messages dans la rubrique « Boîte de réception » de votre messagerie, vous pouvez :
+
 (1) sélectionner plusieurs messages
+
 (2) les déplacer dans un dossier (pour cela vous pouvez également utiliser le "drag & drop")
+
 (3) les marquer comme non lu
 
 image:/assets/nonlu-deplacement.png[alt=""]
