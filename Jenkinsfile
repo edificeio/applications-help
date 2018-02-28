@@ -12,8 +12,8 @@ pipeline {
             export VERSION=`git describe --abbrev=0 --tags`
             if [ -z "$VERSION" ]
             then
-                export BRANCH=`git branch | grep \*`
-                export VERSION=`echo $BRANCH | sed 's|^\* ||'`
+                export BRANCH=`git branch | grep "*"`
+                export VERSION=`echo $BRANCH | sed 's|^* ||'`
             fi
             tar cfzh application-help-${VERSION}.tar.gz application/*
 	  '''
