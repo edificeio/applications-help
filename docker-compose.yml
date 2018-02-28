@@ -1,0 +1,6 @@
+asciidoctor:
+  image: opendigitaleducation/asciidoctor:latest
+  volumes:
+    - .:/root
+  working_dir: /root
+  command: /bin/sh -c "asciidoctorjs -s application/**/index.adoc"
