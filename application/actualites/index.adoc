@@ -27,8 +27,8 @@ qui y sont rattachés.
 Lorsque vous publiez une actualité, vous choisissez les utilisateurs ou
 les groupes de personnes avec lesquels vous souhaitez partager
 l’information. Les personnes concernées reçoivent une *notification*
-dans leur *fil de nouveautés* et voient apparaître l’actualité dans le
-**widget Actualités**.
+dans leur *fil de nouveautés* et voient appaaraître l’actualité dans le
+**widget Actualités** sur la page d'accueil.
 
 image:../../wp-content/uploads/2016/07/Actu_11-1024x475.png[image,width=512,height=237,5]
 
@@ -136,33 +136,6 @@ de l’ENT sur l'actualité sont les suivants :
 * *Lire* : l’utilisateur peut lire le contenu de l'actualité
 * **Commenter **: l’utilisateur peut laisser un commentaire sous
 l’actualité
-
-[[notes-de-versions]]
-== Note de version
-
-Nouveauté de la version 0.4.0
-
-**Diffusion d'une actualité**
-
-La diffusion d’une actualité se définit maintenant au niveau de
-l’actualité elle-même et plus au niveau du fil d’actualités.
-
-Les droits suivants sont définis au niveau des actualités :
-
-* Lire
-* Commenter
-
-image:/assets/PARTAGE-actu1.png[image,width=512,height=345]
-
-Le fil d’actualités permet toujours de définir des droits de :
-
-* Gestion
-* Publication
-* Contribution
-
-image:/assets/PARTAGE-actu2.png[image,width=512,height=272,5]
-
-'''''
 
 
  
