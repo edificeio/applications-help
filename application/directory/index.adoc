@@ -5,7 +5,6 @@ L’**Annuaire** permet de rechercher un utilisateur de la plateforme avec
 lequel l'utilisateur est en contact, à la façon des « Pages Blanches ».
 
 * link:index.html?iframe=true#presentation[Présentation]
-* link:index.html?iframe=true#notes-de-versions[Note de version]
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
@@ -25,9 +24,3 @@ En cliquant sur une vignette, il est possible d'accéder aux
 exemple).
 
 image:../../wp-content/uploads/2015/07/a114.png[a1,width=600,height=206]
-
-[[notes-de-versions]]
-== Note de version
-
-A chaque nouvelle version de l'application, les nouveautés seront
-présentées dans cette section.

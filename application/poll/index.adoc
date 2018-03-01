@@ -10,7 +10,6 @@ utilisateurs sélectionnés peuvent répondre, en *choisissant une*
 * link:index.html?iframe=true#cas-d-usage-2[Partager un sondage]
 * link:index.html?iframe=true#cas-d-usage-3[Insérer un sondage dans une
 page]
-* link:index.html?iframe=true#notes-de-versions[Note de version]
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
@@ -104,8 +103,3 @@ Le sondage apparaît bien sur la page.
 
 image:../../wp-content/uploads/2015/06/s13.png[s13,width=635,height=269]
 
-[[notes-de-versions]]
-== Note de version
-
-A chaque nouvelle version de l'application, les nouveautés seront
-présentées dans cette section.

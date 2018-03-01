@@ -12,7 +12,6 @@ multimédia]
 multimédia]
 * link:index.html?iframe=true#cas-d-usage-3[Publier une vidéo dans un
 cahier multimédia]
-* link:index.html?iframe=true#notes-de-versions[Note de version]
 
 link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
 
@@ -158,9 +157,3 @@ Positionnez ensuite la vidéo dans la page et sauvegardez votre travail.
 image:../../wp-content/uploads/2015/06/m74.png[m7,width=366,height=297]
 
 Votre cahier est complété et la vidéo prête à être regardée !
-
-[[notes-de-versions]]
-== Note de version
-
-A chaque nouvelle version de l'application, les nouveautés seront
-présentées dans cette section.

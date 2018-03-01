@@ -8,7 +8,6 @@ en temps réel sur un éditeur de texte en ligne.
 * link:index.html?iframe=true#cas-d-usage-1[Créer un Pad]
 * link:index.html?iframe=true#cas-d-usage-2[Partager un Pad]
 * link:index.html?iframe=true#cas-d-usage-3[Travailler avec un Pad]
-* link:index.html?iframe=true#notes-de-versions[Note de version]
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
@@ -100,9 +99,3 @@ cinématique des différentes versions du contenu du Pad ;
 * Forcer l’enregistrement d’une révision (une version) ;
 * Modifier le paramétrage de votre Pad ;
 * Visualiser l’identité des participants avec leur couleur de saisie.
-
-[[notes-de-versions]]
-== Note de version
-
-A chaque nouvelle version de l'application, les nouveautés seront
-présentées dans cette section.

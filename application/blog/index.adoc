@@ -12,7 +12,6 @@ succincts, et rendant compte d’une actualité autour d’un sujet donné.
 publication]
 * link:index.html?iframe=true#cas-d-usage-4[Publier un billet]
 * link:index.html?iframe=true#cas-d-usage-5[Valider un billet]
-* link:index.html?iframe=true#notes-de-versions[Note de version]
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
@@ -162,29 +161,3 @@ texte pour apporter vos modifications
 * *Supprimer* le billet
 
 image:../../wp-content/uploads/2016/07/blog_2-1024x363.png[image,width=700]
-
-[[notes-de-versions]]
-== Note de version
-
-[[notes-de-versions]]
-Nouveautés de la version 0.5** +
-Édition des billets de blog depuis l'appli Pages**Les billets d’un blog
-affichés dans une page sur le service Pages sont dorénavant modifiables
-directement depuis la page elle-même sans être redirigé vers le service
-Blog.
-
-'''''
-
-Nouveauté de la version 1.19
-
-*Évolution ergonomique*
-
-Les cases à cocher ont été remplacées par des composants de sélections
-multiples plus ergonomiques et plus adaptés pour les supports mobiles.
-
- 
-
-*Évolution de la présentation des blogs*
-
-Le menu de gauche et les filtres ont été mis en avant pour être plus
-identifiables. La navigation dans le menu de gauche a été améliorée.

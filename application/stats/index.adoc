@@ -8,7 +8,6 @@ répartition des visites dans la journée par exemple).
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Comprendre les données
 disponibles]
-* link:index.html?iframe=true#notes-de-versions[Note de version]
 
 link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
 
@@ -63,8 +62,3 @@ confondu dont 47 visites pour le profil Enseignant.
 
 image:../../wp-content/uploads/2015/06/s31.png[s3,width=300]
 
-[[notes-de-versions]]
-== Note de version
-
-A chaque nouvelle version de l'application, les nouveautés seront
-présentées dans cette section.

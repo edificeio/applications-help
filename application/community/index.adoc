@@ -9,7 +9,6 @@ Documents...).*
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Créer et partager une
 communauté]
-* link:index.html?iframe=true#notes-de-versions[Note de version]
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
@@ -106,14 +105,7 @@ peuvent être utilisées dans tous les services de l'ENT.
 
 '''''
 
- 
-
 Pour savoir comment créer du contenu dans les différents services de
 votre communauté,  reportez-vous aux cas d’usages de chacun de ces
 services.
 
-[[notes-de-versions]]
-== Note de version
-
-A chaque nouvelle version de l'application, les nouveautés seront
-présentées dans cette section.

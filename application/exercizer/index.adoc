@@ -24,7 +24,6 @@ sujet]
 sujet dans la bibliothèque]
 * link:index.html?iframe=true#cas-d-usage-8[Enseignant - Chercher et
 copier un sujet dans la bibliothèque]
-* link:index.html?iframe=true#notes-de-versions[Note de version]
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
@@ -350,7 +349,4 @@ mes sujets » (2).
 
 link:../../wp-content/uploads/2016/09/Bibliothèque-2.jpg[image:../../wp-content/uploads/2016/09/Bibliothèque-2.jpg[Bibliothèque
 2,width=500]]
-
-[[notes-de-versions]]
-== Note de version
 

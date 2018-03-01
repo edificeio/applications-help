@@ -18,7 +18,6 @@ d’un établissement]
 * link:index.html?iframe=true#cas-d-usage-7[Les règles de communication]
 * link:index.html?iframe=true#cas-d-usage-8[Cas d’usage de création d’un
 groupe manuel]
-* link:index.html?iframe=true#notes-de-versions[Note de version]
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]

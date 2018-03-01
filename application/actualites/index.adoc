@@ -9,7 +9,6 @@ selon différentes thématiques en ciblant les destinataires.
 * link:#cas-d-usage-2[Partager un fil d'actualités]
 * link:index.html?iframe=true#cas-d-usage-3[Créer une actualité]
 * link:index.html?iframe=true#cas-d-usage-4[Partager une actualité]
-* link:index.html?iframe=true#notes-de-versions[Note de version]
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
@@ -165,11 +164,5 @@ image:/assets/PARTAGE-actu2.png[image,width=512,height=272,5]
 
 '''''
 
-Nouveauté de la version 0.11
-
-*Évolution de la présentation des actualités*
-
-Modifications de la présentation des actualités. Les menus des fils et
-des filtres ont été mis en évidence pour être plus identifiables.
 
  

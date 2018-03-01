@@ -15,7 +15,6 @@ informations personnelles]
 * link:index.html?iframe=true#cas-d-usage-9[Notifications externes]
 * link:index.html?iframe=true#cas-d-usage-10[Historique des
 notifications émises]
-* link:index.html?iframe=true#notes-de-versions[Note de version]
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
@@ -270,10 +269,4 @@ permettant de supprimer définitivement la notification de l'ENT. +
 link:../../wp-content/uploads/2016/12/Fil-historique-suppression.png[image:../../wp-content/uploads/2016/12/Fil-historique-suppression.png[Fil
 - historique suppression,width=550,height=95]]
 
-[[notes-de-versions]]
-== Note de version
 
-
-
-A chaque nouvelle version de l'application, les nouveautés seront
-présentées dans cette section.

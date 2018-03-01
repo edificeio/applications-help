@@ -15,7 +15,6 @@ espace de stockage]
 été partagé avec moi]
 * link:index.html?iframe=true#cas-d-usage-7[Consulter le journal de
 téléchargement d’un fichier]
-* link:index.html?iframe=true#notes-de-versions[Note de version]
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
@@ -228,7 +227,3 @@ Le journal de téléchargement affiche la liste des utilisateurs (1) qui
 ont téléchargé le fichier et indique la date du téléchargement (2). +
 link:../../wp-content/uploads/2016/04/503-Historique1.png[image:../../wp-content/uploads/2016/04/503-Historique1.png[503-Historique,width=620,height=393]]
 
-[[notes-de-versions]]
-== Note de version
-
-Les évolutions du service seront consignées dans cette rubrique.

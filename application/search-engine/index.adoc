@@ -14,7 +14,6 @@ recherche]
 application]
 * link:index.html?iframe=true#cas-d-usage-5[Liste des résultats]
 * link:#cas-d-usage-6[Détail d'une ressource de la liste résultat]
-* link:index.html?iframe=true#notes-de-versions[Note de version]
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
 BY-NC-SA 3.0 FR,width=100,height=35]]
@@ -169,5 +168,3 @@ cliquer sur la ressource pour réduire son affichage.
 (5) Lien qui permet d’afficher la ressource dans l’application qui a
 permis sa création
 
-[[notes-de-versions]]
-== Note de version
