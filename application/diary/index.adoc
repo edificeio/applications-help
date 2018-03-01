@@ -1,6 +1,6 @@
 = Cahier de texte
 
-Cette application permet de créer et d'organiser les séances de cours, ainsi que de les valider.
+L’appli **Cahier de texte** permet de créer et d'organiser les séances de cours, ainsi que de les valider.
 
 == Profils
 Les fonctionnalités sont différentes en fonction du profil de l'utilisateur.
