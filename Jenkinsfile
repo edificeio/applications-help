@@ -7,6 +7,7 @@ pipeline {
         steps {
           checkout scm
           sh '''
+	    rm -f application-help-*.tar.gz
             docker-compose run --rm -u "$USER_UID:$GROUP_GID" asciidoctor
             rm -f application/**/*.adoc
             export VERSION=`git describe --abbrev=0 --tags`
