@@ -30,7 +30,7 @@ pipeline {
                 export VERSION=`echo $BRANCH | sed 's|^* ||'`
             fi
 	    export archiveName=`ls application-help-*.tar.gz`
-            mvn deploy:deploy-file -DgroupId=com.opendigitaleducation -DartifactId=application-help -Dversion=$VERSION -Dpackaging=tar.gz -Dfile=$archiveName -DrepositoryId=releases -Durl=http://maven.opendigitaleducation.com/nexus/content/repositories/releases/
+            mvn deploy:deploy-file -DgroupId=com.opendigitaleducation -DartifactId=application-help -Dversion=$VERSION -Dpackaging=tar.gz -Dfile=application-help.tar.gz -DrepositoryId=releases -Durl=http://maven.opendigitaleducation.com/nexus/content/repositories/releases/
           '''
         }
       }
