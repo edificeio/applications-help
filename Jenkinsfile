@@ -10,7 +10,11 @@ pipeline {
 	    rm -f application-help.tar.gz
             docker-compose run --rm -u "$USER_UID:$GROUP_GID" asciidoctor
             rm -f application/**/*.adoc
-            tar cfzh application-help.tar.gz application/*
+            mv application/collaborative-editor application/collaborativeeditor
+            mv application/scrap-book application/scrapbook
+            mv application/search-engine application/searchengine
+            mv application/share-big-files application/sharebigfiles
+            tar cfzh application-help.tar.gz application/* assets wp-content
 	  '''
         }
       }
