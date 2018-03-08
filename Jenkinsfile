@@ -6,7 +6,7 @@ pipeline {
       stage('Build') {
         steps {
           sh '''
-            rm -f application-help.tar.gz application
+            rm -rf application-help.tar.gz application
           '''
           checkout scm
           sh '''
