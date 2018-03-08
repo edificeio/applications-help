@@ -21,14 +21,12 @@ pipeline {
       stage('Publish') {
         steps {
           sh '''
-	    export VERSION=`git describe --abbrev=0 --tags`
-            if [ -z "$VERSION" ]
-            then
-                export BRANCH=`git branch | grep "*"`
-                export VERSION=`echo $BRANCH | sed 's|^* ||'`
-            fi
-	    export archiveName=`ls application-help.tar.gz`
-            mvn deploy:deploy-file -DgroupId=com.opendigitaleducation -DartifactId=application-help -Dversion=$VERSION -Dpackaging=tar.gz -Dfile=application-help.tar.gz -DrepositoryId=releases -Durl=http://maven.opendigitaleducation.com/nexus/content/repositories/releases/
+            VERSION=`grep 'version=' VERSION | sed 's/version=//'`
+            case "$VERSION" in
+              *SNAPSHOT) nexusRepository='snapshots' ;;
+              *)         nexusRepository='releases' ;;
+            esac
+            mvn deploy:deploy-file -DgroupId=com.opendigitaleducation -DartifactId=application-help -Dversion=$VERSION -Dpackaging=tar.gz -Dfile=application-help.tar.gz -DrepositoryId=wse -Durl=http://maven.opendigitaleducation.com/nexus/content/repositories/$nexusRepository/
           '''
         }
       }
