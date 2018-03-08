@@ -5,11 +5,12 @@ pipeline {
     stages {
       stage('Build') {
         steps {
+          sh '''
+            rm -f application-help.tar.gz application
+          '''
           checkout scm
           sh '''
-	    rm -f application-help.tar.gz
             docker-compose run --rm -u "$USER_UID:$GROUP_GID" asciidoctor
-            rm -f application/**/*.adoc
             mv application/collaborative-editor application/collaborativeeditor
             mv application/scrap-book application/scrapbook
             mv application/search-engine application/searchengine
