@@ -288,7 +288,7 @@ Ils seront grisés dans la gestion de vos paramètres.
 
 image:../../wp-content/uploads/2016/01/Gestion-Widgets3.png[image,width=200,height=274]
 
-[[cas-d-usage-7]]
+[[cas-d-usage-8]]
 == Notifications externes
 
 
@@ -326,7 +326,7 @@ notification.
 
 link:../../wp-content/uploads/2016/08/notiff.png[image:../../wp-content/uploads/2016/08/notiff.png[notiff,width=590,height=345]]
 
-[[cas-d-usage-8]]
+[[cas-d-usage-9]]
 == Le moteur de recherche
 
 
@@ -363,7 +363,7 @@ Sinon, vous pouvez saisir des mots-clés dans la zone de saisie (2) et
 validez votre recherche en appuyant sur la touche « Entrée » ou en
 cliquant sur le bouton « GO ».
 
-[[cas-d-usage-9]]
+[[cas-d-usage-10]]
 == Message Flash
 
 
