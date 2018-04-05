@@ -74,7 +74,7 @@ image:../../wp-content/uploads/2015/06/s5.png[s5,width=468,height=340] +
 Votre sondage est bien créé et partagé.
 
 [[cas-d-usage-3]]
-== Insérer un sondage dans une page
+== Insérer un sondage dans un page
 
 Une fois le sondage créé et partagé,  il est possible de l’insérer dans
 une page. Pour cela, cliquez sur l’appli « Pages ».
