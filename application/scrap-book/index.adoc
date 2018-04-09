@@ -137,12 +137,17 @@ vidéo.
 
 image:/assets/CMA 13.png[alt=""]
 
-Dans la fenêtre qui s’ouvre, collez le lien précédemment copié depuis le
-site hébergeant la vidéo (1) puis cliquez sur « Ajouter » (2).
+Dans la fenêtre qui s’ouvre, selectionnez un type de contenu de média (vidéos hébergées sur Youtube, Viméo, Dailymotion, Learningaps.org et educaplay) (1) 
+image:/assets/CMA 15 (1).png[alt=""]
 
- 
+puis collez l'URL de la vidéo (2) et cliquez sur « Appliquer » (3).
+image:/assets/CMA 15 (2).png[alt=""]
 
-image:../../wp-content/uploads/2015/06/m66.png[m6,width=437,height=218]
+Pour une vidéo hébergée ailleurs , appuyez sur la vignette "Collez votre propre code" (4), 
+image:/assets/CMA 17.png[alt=""]
+
+puis collez le lien Iframe (5) et cliquez sur "Appliquer" (6)
+image:/assets/CMA 16.png[alt=""]
 
 Positionnez ensuite la vidéo dans la page et sauvegardez votre travail.
 image:/assets/CMA 14.png[alt=""]
