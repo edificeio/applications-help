@@ -115,7 +115,9 @@ En revenant à la liste de vos messages dans la rubrique « Boîte de réception
 
 (2) les déplacer dans un dossier (pour cela vous pouvez également utiliser le "drag & drop")
 
-(3) les marquer comme non lu
+(3) les marquer comme lu
+
+(4) les marquer comme non lu
 
 image:/assets/messagerie 5.png[alt="image:/assets/nonlu-deplacement.png[alt=""]
 
