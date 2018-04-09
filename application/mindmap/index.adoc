@@ -24,7 +24,7 @@ construit autour d'une idée principale, sous forme d’image ou de texte,
 La carte mentale peut être faite de manière collective ou personnelle,
 selon les souhaits du créateur de la carte.
 
-image:../../wp-content/uploads/2015/04/Carte1.png[Carte1,width=654,height=215]
+image:/assets/Carte mentale 1.png[alt=""]
 
 [[cas-d-usage-1]]
 == Créer une Carte Mentale
@@ -32,7 +32,7 @@ image:../../wp-content/uploads/2015/04/Carte1.png[Carte1,width=654,height=215]
 Pour accéder à l’appli Carte mentale, cliquez sur l’icône correspondante
 dans la page « Mes applis ».
 
-image:../../wp-content/uploads/2015/06/m1.png[m1,width=590,height=144]
+image:/assets/Carte mentale 2.png[alt=""]
 
 Cliquez sur « Créer une carte mentale ».
 
@@ -45,7 +45,7 @@ image:../../wp-content/uploads/2015/07/c1.png[c1,width=222,height=45]
 image:../../wp-content/uploads/2015/06/m3.png[m3,width=640,height=130] +
 Cliquez sur le nom de votre carte pour la créer.
 
-image:../../wp-content/uploads/2016/08/carte-1024x339.png[image,width=482,height=159] +
+image:/assets/Carte mentale 3.png[alt="image:../../wp-content/uploads/2016/08/carte-1024x339.png[image,width=482,height=159] +
 image:../../wp-content/uploads/2015/06/m4.png[m4,width=507,height=215]
 
 L’éditeur de texte vous permet de créer facilement une carte mentale.
@@ -67,7 +67,7 @@ Votre carte est maintenant créée !
 Pour partager une carte mentale avec d’autres utilisateurs, cliquez sur
 le + (1) située à côté de la carte puis sur « Partager » (2).
 
-image:../../wp-content/uploads/2016/08/carte2-1024x488.png[image,width=600,height=286]
+image:/assets/Carte mentale 4.png[alt=""]
 
 Dans la fenêtre de partage, vous pouvez donner des droits de lecture, de
 contribution et de gestion à d’autres personnes sur votre carte. Pour
