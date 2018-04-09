@@ -32,7 +32,7 @@ Pour accéder à l’appli Frise chronologique, cliquez sur l’icône
 correspondante dans la page « Mes
 applis ».
 
-image:../../wp-content/uploads/2015/06/f1.png[f1,width=544,height=132]
+image:/assets/Frise chrono 1.png[alt=""]
 
 Cliquez sur le bouton « Créer une frise ».
 
