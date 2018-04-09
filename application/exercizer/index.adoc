@@ -40,8 +40,7 @@ Grâce à la Bibliothèque de l’appli, il est notamment possible de
 rechercher des sujets publiés par d’autres enseignants et de les ajouter
 à ses sujets personnels pour une réutilisation ou une adaptation.
 
-link:../../wp-content/uploads/2016/09/Accueil-Exercices-et-évaluations1.png[image:../../wp-content/uploads/2016/09/Accueil-Exercices-et-évaluations1.png[Accueil
-- Exercices et évaluations,width=614,height=197]]
+image:/assets/Exercices 1.png[alt="link:../../wp-content/uploads/2016/09/Accueil-Exercices-et-évaluations1.png"]
 
 [[cas-d-usage-1]]
 == Elève / Apprenant - Réaliser un exercice
@@ -50,9 +49,7 @@ Depuis la page d’accueil, cliquez sur « Mes applis » en haut à droite de
 l’écran puis cliquez sur « Exercices et évaluations ». Vous retrouvez les sujets à réaliser dans la semaine à gauche de
 l’écran. Cliquez sur le sujet de votre choix.
 
-link:../../wp-content/uploads/2016/09/Apprenant.png[image:../../wp-content/uploads/2016/09/Apprenant.png[Apprenant,width=612,height=296]]
-
- 
+image:/assets/Exercices 2.png[alt="link:../../wp-content/uploads/2016/09/Apprenant.png"]
 
 Une présentation du sujet s’affiche précisant la date de rendu (1), la
 durée de réalisation (2) et une description de l’exercice.
