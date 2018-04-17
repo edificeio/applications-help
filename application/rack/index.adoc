@@ -44,8 +44,7 @@ possible de faire un second envoi avec une nouvelle version du document.
 Pour déposer un document dans le casier d'un autre utilisateur, accédez
 à l'appli Casier puis cliquez sur le bouton « Déposer dans un casier ».
 
-image:/assets/1 casier.png[rack
-- déposer casier,width=628,height=171]
+image:/assets/1 casier.png[alt=""]
 Dans la nouvelle fenêtre, cliquez sur « Parcourir » (1) pour
 sélectionner sur votre ordinateur le document à envoyer puis
 sélectionnez le(s) destinataire(s) (2). Comme dans les autres applis de
