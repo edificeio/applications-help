@@ -21,7 +21,7 @@ BY-NC-SA 3.0 FR,width=100,height=35]]
 L'appli Messagerie permet d'envoyer simplement un message à *un
 utilisateur* ou à un *groupe d’utilisateurs* (les élèves d'une classe,
 le personnel de l'établissement, etc.) ayant un accès à l'ENT.
-image:/assets/Messagerie 1.png[Messagerie 1,width=33,height=32] 
+image:/assets/Messagerie 1.png[alt=""]
 
 La réception d’un nouveau message est visible dès la page d'accueil.
 Elle est indiquée par une *notification* dans le bandeau de navigation
