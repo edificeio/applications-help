@@ -20,11 +20,11 @@ Vous accédez aux services pour lesquels vous avez des droits d’accès :
 applis de l’ENT, connecteurs aux outils de vie scolaire, sites web
 internes à l’ENT ou publics …
 
-image:/assets/1.png[Mes_Applis,width=600,height=135]
+image:/assets/1.png[Mes_Applis,]
 
 Pour accéder à une appli, cliquez sur l'icône correspondante.
 
-image:/assets/2.png[Mes_Applis_2,width=600,height=135]
+image:/assets/2.png[Mes_Applis_2,]
 
 La page d'accueil de l'appli apparaît.
 
