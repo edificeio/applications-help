@@ -63,20 +63,6 @@ image:../../wp-content/uploads/2016/01/STAT-21-1024x442.png[image,width=600,heig
 [[cas-d-usage-2]]
 == Statistiques d’accès aux applications
 
-
-
-Pour accéder à l’appli Statistiques, cliquez sur l’icône correspondante
-dans la page « Mes applis ».
-
-image:../../wp-content/uploads/2015/07/s2.png[s2,width=126,height=127]
-
-Cliquez sur l’indicateur « Accès aux applications » (1) puis choisissez
-l’appli pour laquelle souhaitez consulter les statistiques (2). Vous
-pouvez choisir la période pour laquelle vous souhaitez voir apparaître
-les statistiques en cliquant sur le début de la période (3) et sur la
-fin de la période (4) puis cliquez sur « Afficher le diagramme » (5)
-pour afficher les résultats.
-
 Vous pouvez organiser les résultats par profil (6) et les exporter dans
 un fichier au format CSV (7).
 
@@ -105,17 +91,6 @@ image:../../wp-content/uploads/2016/01/STAT-4-1024x442.png[image,width=600,heigh
 [[cas-d-usage-4]]
 == Statistiques de visiteurs uniques
 
-
-
-Pour accéder à l’appli Statistiques, cliquez sur l’icône correspondante
-dans la page « Mes applis ».
-
-image:../../wp-content/uploads/2015/07/s2.png[s2,width=110,height=111] +
-Cliquez sur l’indicateur «Visiteurs uniques» puis choisissez la période
-pour laquelle vous souhaitez voir apparaître les statistiques en
-cliquant sur le début de la période (2) et la fin de la période (3).
-Cliquez sur « Afficher le diagramme » (4) pour afficher les résultats.
-
 Vous pouvez organiser les résultats par profil (5) et les exporter dans
 un fichier au format CSV (6).
 
@@ -123,20 +98,6 @@ image:../../wp-content/uploads/2016/01/STAT-5-1024x441.png[image,width=600,heigh
 
 [[cas-d-usage-5]]
 == Statistiques des comptes activés
-
-
-
-Pour accéder à l’appli Statistiques, cliquez sur l’icône correspondante
-dans la page « Mes applis ».
-
-link:../../wp-content/uploads/2015/07/s2.png[image:../../wp-content/uploads/2015/07/s2.png[s2,width=124,height=125]]
-
-Cliquez sur l’indicateur «Comptes activés» puis choisissez la période
-pour laquelle vous souhaitez voir apparaître les statistiques en
-cliquant sur le début de la période (2) et la fin de la période (3).
-Cliquez sur « Afficher le diagramme » (4) pour afficher les
-résultats.Vous pouvez exporter les résultats dans un fichier au format
-CSV (5).
 
 link:../../wp-content/uploads/2016/01/STAT-61.png[image:../../wp-content/uploads/2016/01/STAT-61.png[STAT-6,width=599,height=259]]
 
