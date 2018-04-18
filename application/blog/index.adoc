@@ -1,9 +1,7 @@
 [[blog]]
 = Blog
 
-Le *Blog* est un service de communication permettant la publication
-périodique et régulière de nouveaux articles (les billets), généralement
-succincts, et rendant compte d’une actualité autour d’un sujet donné.
+Endossez la casquette du petit reporter en créant un *Blog* ! Publiez et partagez facilement vos informations, en y intégrant différents types de contenus : texte, images, vidéos, etc. Permettez à vos collègues ou vos élèves de contribuer ou de commenter vos billets facilement.
 
 [[summary]]
 * link:index.html?iframe=true#presentation[Présentation]

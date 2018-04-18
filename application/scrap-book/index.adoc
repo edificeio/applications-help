@@ -1,9 +1,7 @@
 [[cahier-multimedia]]
 = Cahier multimédia
 
-L’appli *Cahier multimédia* est un outil de création et publication de
-contenus multimédia (son, image, texte, vidéo…) offrant une grande
-souplesse de mise en page.  
+Avec le *Cahier multimédia*, votre banal exposé sur la faune amazonienne devient tout de suite plus passionnant ! Mise en pages personnalisée, illustrations, vidéos, sons, votre cahier prend vie sous les clics de vos lecteurs.
 
 [[summary]]
 * link:index.html?iframe=true#presentation[Présentation]

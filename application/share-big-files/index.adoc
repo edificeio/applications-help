@@ -1,8 +1,7 @@
 [[poste-fichiers]]
 = Poste-fichiers
 
-L’appli Poste-fichiers permet aux utilisateurs de partager des fichiers
-volumineux avec d’autres utilisateurs de l’ENT.
+Vos documents, comme sur un nuage ! Comme son nom l’indique, l’appli *Poste-fichiers* permet de stocker en ligne ses documents volumineux et de les consulter n’importe où, pendant 30 jours.
 
 [[summary]]
 * link:index.html?iframe=true#presentation[Présentation]

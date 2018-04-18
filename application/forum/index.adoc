@@ -1,8 +1,7 @@
 [[forum]]
 = Forum
 
-Un *Forum* est un espace de discussion ouvert permettant une
-communication asynchrone entre plusieurs participants.  
+L'appli *Forum* est un espace de discussion en ligne, propre à votre réseau éducatif, qui permet à chacun de poser des questions, donner son point de vue, ou tout simplement échanger ses idées !
 
 [[summary]]
 * link:index.html?iframe=true#presentation[Présentation]

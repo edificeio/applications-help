@@ -1,9 +1,7 @@
 [[export]]
 = Export
 
-L’appli **Export** permet aux utilisateurs de générer un fichier
-compressé (archive) contenant l’ensemble de leurs documents personnels
-et partagés dans leur espace documentaire.
+Des documents importants à conserver ? Pas de panique ! Grâce à l'appli *Export*, générez un fichier compressé (archive) contenant l’ensemble de vos documents. Tout simplement.
 
 [[summary]]
 * link:index.html?iframe=true#presentation[Présentation]

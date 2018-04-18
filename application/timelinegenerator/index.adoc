@@ -1,8 +1,7 @@
 [[frise-chronologique]]
 = Frise chronologique
 
-L'appli *Frise chronologique* permet de *positionner des événements sur
-une ligne* représentant la flèche du temps.
+Devenez un maître du temps avec l'appli *Frise chronologique* ! Sur une ligne représentant la flèche du temps, positionnez les étapes marquantes liées à votre thématique. Intégrez du texte, des images ou même des vidéos pour rendre votre frise plus attractive et ajoutez des contributeurs pour vous prêter main forte!
 
 [[summary]]
 * link:index.html?iframe=true#presentation[Présentation]

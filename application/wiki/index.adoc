@@ -1,9 +1,7 @@
 [[wiki]]
 = Wiki
 
-Un *Wiki* est un ensemble de pages modifiables par les utilisateurs
-habilités afin de permettre l'écriture et l'illustration collaboratives
-des documents numériques qu'il contient.
+Montez une encyclopédie sur la notion vue en cours ! Grâce à l'appli *Wiki*, donnez une autre dimension à vos projets collaboratifs. En un clic, découvrez les contributions de vos élèves et collègues sur votre document, et gardez la main en revenant, si besoin, aux versions antérieures.
 
 [[summary]]
 * link:index.html?iframe=true#presentation[Présentation]

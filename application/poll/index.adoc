@@ -1,9 +1,7 @@
 [[sondage]]
 = Sondage
 
-L’appli *Sondage* permet de *créer une question* à laquelle les
-utilisateurs sélectionnés peuvent répondre, en *choisissant une*
-*réponse dans la liste proposée.*
+Une question vous démange ? Grâce à l'appli *Sondage*, créez des enquêtes personnalisées et collectez les réponses !
 
 [[summary]]
 * link:index.html?iframe=true#presentation[Présentation]

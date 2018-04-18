@@ -1,8 +1,7 @@
 [[actualites]]
 = Actualités
 
-L’appli **Actualités** permet de publier des informations organisées
-selon différentes thématiques en ciblant les destinataires.
+L’actu 100 % bahut ! Ne laissez passer aucune info importante sur l’établissement grâce à l’appli *Actualités*. Publiez vos informations, par thématique, en ciblant les destinataires.
 
 [[summary]]
 * link:index.html?iframe=true#presentation[Présentation]

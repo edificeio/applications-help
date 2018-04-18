@@ -1,8 +1,7 @@
 [[pages]]
 = Pages
 
-L'appli *Pages* est un outil de création et publication de contenus,
-permettant de créer des mini sites web**.**
+Créer vos propres sites web en quelques clics ! Avec l’appli *Pages*, vous pouvez créer et publier des contenus facilement sur votre propre site, composé, par exemple, des productions provenant d'autres applications comme vos Blogs ou vos Frises Chronologiques. Pratique !
 
 [[summary]]
 * link:index.html?iframe=true#presentation[Présentation]

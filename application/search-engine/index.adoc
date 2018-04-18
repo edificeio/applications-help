@@ -1,8 +1,7 @@
 [[moteur-de-recherche]]
 = Moteur de recherche
 
-L’application Moteur de recherche permet aux utilisateurs de rechercher
-des ressources dans leur espace ENT.
+Vous cherchez partout ce document qu'on vous a partagé sur l'Egypte Antique mais, impossible de remettre la main dessus ? Pas de panique ! Grâce à l'appli *Moteur de recherche*, retrouvez en un clic tous vos contenus ! 
 
 [[summary]]
 * link:index.html?iframe=true#presentation[Présentation]

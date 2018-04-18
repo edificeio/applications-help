@@ -1,9 +1,7 @@
 [[carte-mentale]]
 = Carte Mentale
 
-L’appli *Carte Mentale* permet *d’organiser des idées, des concepts, des
-prises de notes sous forme d'un schéma* permettant de représenter le
-fonctionnement de la pensée.
+1, 2, 3… Brainstormez ! Fatigué de laisser filer vos idées de génie ? L’appli *Carte mentale* permet non seulement de les noter, mais aussi d’y relier toutes les réflexions qui en découlent ! À tester absolument.
 
 [[summary]]
 * link:index.html?iframe=true#presentation[Présentation]

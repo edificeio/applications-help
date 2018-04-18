@@ -1,8 +1,7 @@
 [[annuaire]]
 = Annuaire
 
-L’**Annuaire** permet de rechercher un utilisateur de la plateforme avec
-lequel l'utilisateur est en contact, à la façon des « Pages Blanches ».
+Connectez-vous à toute la communauté éducative, grâce à l’appli *Annuaire* ! Recherchez les utilisateurs avec lesquels vous avez le droit de communiquer : enseignants, élèves, personnels, et même les parents d'élèves, de votre établissement et d'ailleurs...
 
 [[summary]]
 * link:index.html?iframe=true#presentation[Présentation]

@@ -1,10 +1,7 @@
 [[communautes]]
 = Communautés
 
-L’appli *Communautés* permet de *rassembler* un *groupe d’utilisateurs*
-autour d’un *intérêt commun* pour **communiquer**, *partager* ou
-*collaborer* en utilisant différentes applis *(Blog, Forum, Wiki,
-Documents...).*
+Besoin de communiquer, partager ou collaborer au sein d'un petit groupe d'utilisateurs ? Créez votre *Communauté*, et aménagez votre espace en associant les outils dont vous avez besoin (Blog, Forum, Wiki, Documents..)
 
 [[summary]]
 * link:index.html?iframe=true#presentation[Présentation]

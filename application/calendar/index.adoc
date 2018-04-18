@@ -1,8 +1,7 @@
 [[agenda]]
 = Agenda
 
-L’appli *Agenda* permet la création et la visualisation d’événements
-sous forme d’un calendrier ou d’une liste.
+Une organisation haute en couleur ! Retrouvez, en un clin d'oeil, tous les évènements que vous avez noté et tous ceux que l’on vous a attribué sur l'appli *Agenda*.
 
 [[summary]]
 * link:index.html?iframe=true#presentation[Présentation]

@@ -1,8 +1,7 @@
 [[aide-support]]
 = Aide & Support
 
-L’appli *Aide & Support* permet de signaler une difficulté ou un
-problème d'utilisation de l'ENT aux administrateurs de l'établissement.
+Un problème, une question ? On a pensé à tout ! L'appli *Aide & Support* vous permet d'envoyer votre demande aux administrateurs de l'établissement, pour une communication rapide et fluide.
 
 [[summary]]
 * link:index.html?iframe=true#presentation[Présentation]

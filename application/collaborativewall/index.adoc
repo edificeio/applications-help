@@ -1,9 +1,7 @@
 [[mur-collaboratif]]
 = Mur Collaboratif
 
-Le *Mur Collaboratif* permet de créer un mur sur lequel les
-*contributeurs* peuvent chacun **ajouter des notes**, à la façon d’un
-tableau sur lequel on ajoute des post-it**.**
+Brainstormez sur le *Mur collaboratif* ! Épinglez toutes vos notes sur votre tableau virtuel pour vous aider à visualiser l'ensemble de vos idées. 
 
 [[summary]]
 * link:index.html?iframe=true#presentation[Présentation]

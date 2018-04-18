@@ -1,8 +1,7 @@
 [[pad-collaboratif]]
 = Pad collaboratif
 
-L’appli *Pad collaboratif* permet de travailler à plusieurs personnes et
-en temps réel sur un éditeur de texte en ligne.
+Rédigez à plusieurs simultanément ! Le *Pad collaboratif* permet à tous les membres de votre groupe de co-écrire un document en ligne. Travaillez ensemble sur le même texte, où que vous soyez et en même temps !
 
 [[summary]]
 * link:index.html?iframe=true#presentation[Présentation]

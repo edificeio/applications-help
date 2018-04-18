@@ -1,11 +1,7 @@
 [[exercices-et-evaluations]]
 = Exercices et évaluations
 
-L’appli Exercices et évaluations est un outil de création, de
-distribution et de corrections d’exercices pour les enseignants. Les
-élèves peuvent réaliser les exercices demandés dans le temps imparti et
-consulter les corrections renseignées par les enseignants _a posteriori_
-de la réalisation de l’exercice.
+Des tests qui ont du peps ! Fini les moues boudeuses à l’annonce d’un exercice ! L’appli *Exercices et évaluations* est un outil de création et de diffusion d’épreuves simples ou interactives. QCM, textes à trous, association d’idées, mise en ordre… Créez vos exercices, ou consultez la bibliothèque, puis, distribuez-les à vos élèves et gérer d'une main de maître vos corrections.
 
 [[summary]]
 * link:index.html?iframe=true#presentation[Présentation]

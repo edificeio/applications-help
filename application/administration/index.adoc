@@ -1,9 +1,7 @@
 [[administration]]
 = Administration
 
-L’appli *Administration* donne accès, pour les utilisateurs habilités, à
-la console d’administration et à un ensemble de paramètres qui peuvent
-être ajustés en fonction des souhaits de l'établissement.
+Endossez la casquette d'administrateur ! Accédez à la *console d'administration* et ajustez les paramètres de votre établissement comme vous le souhaitez.
 
 [[summary]]
 * link:index.html?iframe=true#presentation[Présentation]

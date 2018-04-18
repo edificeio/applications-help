@@ -1,9 +1,7 @@
 [[casier]]
 = Casier
 
-L’appli *Casier* permet de déposer des documents dans le casier d’autres
-utilisateurs. Les documents ainsi échangés sont horodatés et peuvent
-être déplacés vers d'autres dossiers de l'appli Documents.
+Un devoir à rendre ? Rien de plus simple, grâce à l'appli *Casier*, déposez vos documents dans le casier d’autres utilisateurs. Les documents ainsi échangés sont horodatés pour une plus grande sécurité !
 
 [[summary]]
 * link:index.html?iframe=true#presentation[Présentation]

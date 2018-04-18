@@ -1,9 +1,7 @@
 [[messagerie]]
 = Messagerie
 
-La *Messagerie* permet d’échanger des messages électroniques avec
-d’autres utilisateurs selon des règles de communication préalablement
-définies.  
+Communiquez dans un cadre sécurisé ! Envoyez et recevez tous vos e-mails via l'application *Messagerie*. Intégrez des liens vers vos productions, des images, des vidéos ou des sons, c'est vous le patron ! 
 
 [[summary]]
 * link:index.html?iframe=true#presentation[Présentation]

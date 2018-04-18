@@ -1,9 +1,7 @@
 [[reservation-de-ressources]]
 = Réservation de ressources
 
-Le service *Réservation de Ressources* permet aux utilisateurs de
-réserver en ligne des ressources (matériel, salles, véhicules, etc.)
-pré-configurées par l'établissement.
+Organisez la gestion des salles et du matériel en ligne ! À l’aide de l’application *Réservation de ressources*, visualisez et réservez les salles et le matériel disponibles dans votre établissement. 
 
 [[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
