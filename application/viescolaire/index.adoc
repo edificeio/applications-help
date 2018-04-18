@@ -1,7 +1,7 @@
 [[competences]]
 = Compétences
 
-Suivez l'évolution de vos élèves grâce à un outil simple et ergonomique ! Par le biais de notes numériques ou de compétences, évaluez vos élèves facilement, consultez leur courbe de progression, et partagez ce suivi avec vos collègues. 
+Suivez l'évolution de vos élèves grâce à un outil simple et ergonomique ! Par le biais de *notes numériques ou de compétences*, évaluez vos élèves facilement, consultez leur courbe de progression, et partagez ce suivi avec vos collègues. 
 
 [[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
