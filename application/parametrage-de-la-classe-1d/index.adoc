@@ -1,7 +1,7 @@
 [[parametrage-de-la-classe-1d]]
 = Paramétrage de la classe 1D
 
-L’appli Paramétrage permet aux enseignants de gérer un ensemble de
+L’appli *Paramétrage* permet aux enseignants de gérer un ensemble de
 paramètres pour leur classe en toute autonomie.
 
 [[summary]]
