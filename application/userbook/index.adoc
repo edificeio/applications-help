@@ -85,13 +85,10 @@ de travail.
 
 Sélectionnez un fichier dans votre poste de travail et cliquez sur
 ouvrir. Cliquez en suite sur « Importer » pour lancer le téléchargement.
-
-image:../../wp-content/uploads/2015/07/m5.png[m5,width=850,height=396]
-
+image:/assets/mon compte.png[alt=""]
 Votre photo est maintenant visible dans votre compte et par tous les
 utilisateurs !
-
-image:../../wp-content/uploads/2016/07/Compte3-1024x379.png[image,width=600,height=222] +
+image:/assets/Mon compte 2.png[alt=""] +
 Votre photo est visible dans le fil de nouveautés des autres
 utilisateurs lorsque vous leur partagez un contenu mais également
 lorsque vous postez un message dans un forum.
