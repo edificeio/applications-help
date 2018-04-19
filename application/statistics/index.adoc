@@ -71,13 +71,6 @@ image:../../wp-content/uploads/2016/01/STAT-3-1024x443.png[image,width=600,heigh
 [[cas-d-usage-3]]
 == Statistiques d’activations de comptes
 
-
-
-Pour accéder à l’appli Statistiques, cliquez sur l’icône correspondante
-dans la page « Mes applis ».
-
-image:../../wp-content/uploads/2015/07/s2.png[s2,width=110,height=111]
-
 Cliquez sur l’indicateur «Activations de comptes » puis choisissez la
 période pour laquelle vous souhaitez voir apparaître les statistiques en
 cliquant sur le début de la période (2) et la fin de la période (3).
