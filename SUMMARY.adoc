@@ -1,8 +1,7 @@
 = Summary
 
 * link:README.adoc[Introduction]
-* link:application/diary/index.adoc[Cahier de textes 2D]
-* link:application/751/index.adoc[Cahier de textes 1D]
+* link:application/diary/index.adoc[Cahier de textes]
 * link:application/actualites/index.adoc[Actualités]
 * link:application/archive/index.adoc[Export]
 * link:application/blog/index.adoc[Blog]
@@ -16,7 +15,6 @@
 * link:application/forum/index.adoc[Forum]
 * link:application/mindmap/index.adoc[Carte mentale]
 * link:application/pages/index.adoc[Pages]
-* link:application/parametrage-de-la-classe-1d/index.adoc[Paramétrage de la classe 1D]
 * link:application/poll/index.adoc[Sondage]
 * link:application/portal/index.adoc[Mes applis]
 * link:application/rack/index.adoc[Casier]
@@ -24,8 +22,7 @@
 * link:application/scrap-book/index.adoc[Cahier multimédia]
 * link:application/search-engine/index.adoc[Moteur recherche]
 * link:application/share-big-files/index.adoc[Poste-fichiers]
-* link:application/statistics/index.adoc[Statistiques 2D]
-* link:application/stats/index.adoc[Statistiques 1D]
+* link:application/statistics/index.adoc[Statistiques]
 * link:application/support/index.adoc[Aide &amp; Support]
 * link:application/timeline/index.adoc[Premiers pas dans l&apos;ENT]
 * link:application/timelinegenerator/index.adoc[Frise chronologique]
