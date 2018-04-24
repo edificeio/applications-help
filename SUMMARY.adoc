@@ -10,7 +10,6 @@
 * link:application/collaborative-editor/index.adoc[Pad collaboratif]
 * link:application/collaborativewall/index.adoc[Mur collaboratif]
 * link:application/community/index.adoc[Communautés]
-* 
 * link:application/conversation/index.adoc[Messagerie]
 * link:application/directory/index.adoc[Annuaire]
 * link:application/exercizer/index.adoc[Exercices et évaluations]
