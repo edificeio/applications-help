@@ -2,18 +2,17 @@
 
 Devenez un maître de l'organisation avec l'appli *Cahier de Texte* ! Créez et organisez vos cours comme vous le souhaitez !
 
-== Profils
-Les fonctionnalités sont différentes en fonction du profil de l'utilisateur.
+Découvrez des fonctionnalités différentes adaptées au profil de l'utilisateur.
 
-=== Professeur
-Les professeurs peuvent créer et organiser une séance. Il leur est ensuite possible d'intervenir sur les séances afin d'y ajouter des travails à faire, ainsi que de suivre la progression.
+== Profil enseignant
+Les enseignants peuvent créer et organiser une séance. Il leur est ensuite possible d'intervenir sur les séances afin d'y ajouter des travails à faire, ainsi que de suivre la progression.
 
 ==== Calendrier
 C'est l'écran d'accueil du cahier de texte. Il s'ouvre sur la semaine courante.
 
 image:../../wp-content/uploads/2017/10/cdt-professeur.png[image,width=550]
 
-===== Créer sceance
+===== Créer une séance
 Une séance correspond à un cours, à une date donnée et à une heure donnée.
 
 Cliquer sur "Créer une séance".
@@ -23,37 +22,37 @@ image:../../wp-content/uploads/2017/10/cdt-professeur-creerSeance.png[image,widt
 Une nouvelle page s'ouvre. La séance sera à l'état de brouillon tant qu'elle n'aura pas été publiée.
 On peut sélectionner la matière (1), ainsi que le groupe concerné (2).
 
+image:../../wp-content/uploads/2017/10/cdt-professeur-creerSeance2.png[image,width=550]
+
 3 onglets sont disponibles :
 
 - Séance : c'est la description du cours.
 - Travail à faire : permet d'ajouter un travail à faire
 - Séances précédentes.
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-creerSeance2.png[image,width=550]
-
-===== Créer travail
+===== Créer un travail
 On peut créer un travail
 
 - soit à partir de la page calendrier :
 
 image:../../wp-content/uploads/2017/10/cdt-professeur-creerTravail.png[image,width=550]
 
-- soit à partir du détail d'une séance, via l'onglet Travail à faire.
+- soit à partir du détail d'une séance, via l'onglet "Travail à faire".
 
 image:../../wp-content/uploads/2017/10/cdt-professeur-creerTravail2.png[image,width=550]
 
-On indique la date pour laquelle le travail doit être rendu (1) et le type de devoir (2, Devoir maison / Exercices / Autres).
+On indique la date pour laquelle le travail doit être rendu (1) et le type de devoir (2 : Devoir maison / Exercices / Autres).
 
 image:../../wp-content/uploads/2017/10/cdt-professeur-taf.png[image,width=550]
 
 La charge de travail (3) des élèves pour la semaine courante est affichée, afin d'éviter de surcharger les élèves.
 
 Si le travail à faire a été créé pour une séance, il apparaît dans la barre en haut de l'agenda (1).
-Si l'on crée un travail à faire indépendemmment à une séance, il apparaît dans l'onglet à droite de l'agenda "Travails à faire" (2).
+Si l'on crée un travail à faire indépendamment d'une séance, il apparaît dans l'onglet à droite de l'agenda "Travails à faire" (2).
 
 image:../../wp-content/uploads/2017/10/cdt-professeur-taf2.png[image,width=550]
 
-===== Glisser déposer travail
+===== Glisser déposer un travail
 
 Cliquer sur l'onglet "Travails à faire". La liste apparaît.
 
@@ -63,7 +62,7 @@ Cliquer sur le travail que vous voulez planifier, et glissez-le dans la barre de
 
 image:../../wp-content/uploads/2017/10/cdt-professeur-taf4.png[image,width=550]
 
-===== Glisser séance
+===== Glisser une séance
 
 Cliquer sur l'onglet "Séances". La liste apparaît.
 
@@ -135,7 +134,7 @@ image:../../wp-content/uploads/2017/10/cdt-professeur-progression6.png[image,wid
 
 ==== Contenu
 
-Du contenu peut être rajouté à la progression. Par contenu, on entend Séance, y compris les travails à faire qui peuvent y être liés.
+Du contenu peut être rajouté à la progression. Par contenu, on entend "séance", y compris les travails à faire qui peuvent y être liés.
 Pour ce faire, sélectionner une progression, et "Ajouter du contenu" (1).
 
 image:../../wp-content/uploads/2017/10/cdt-professeur-contenu.png[image,width=550]
@@ -152,7 +151,7 @@ Ici, nous avons pris le cours sur les verbes irréguliers pour les placer avant 
 
 image:../../wp-content/uploads/2017/10/cdt-professeur-contenu3.png[image,width=550]
 
-Pour rajouter une séance d'un contenu dans l'agenda, on sélectionne d'abord la progression concernée, puis la séance, et on fait un glisser dépoer :
+Pour rajouter une séance d'un contenu dans l'agenda, on sélectionne d'abord la progression concernée, puis la séance, et on fait un glisser déposer :
 
 image:../../wp-content/uploads/2017/10/cdt-professeur-progression7.png[image,width=450]
 
@@ -179,7 +178,7 @@ Un filtre est disponible (2), et il reste à choisir l'année (3) et la classe /
 
 image:../../wp-content/uploads/2017/10/cdt-professeur-archives2.png[image,width=550]
 
-=== Elève (visualisation)
+== Profil élève (visualisation)
 
 L'élève n'a accès qu'à la consultation de l'agenda. Il ne peut pas intervenir sur les séances.
 Il voit les devoirs à faire (1) et les séances (2).
@@ -190,13 +189,13 @@ En cliquant sur la séance, il peut accéder au détail, avec le travail à fair
 
 image:../../wp-content/uploads/2017/10/cdt-eleve-seance.png[image,width=550]
 
-=== Parent (visualisation) choix enfant
+== Profil parent (visualisation) choix enfant
 
 L'affichage est exactement le même que pour un élève.
 
 Cependant, si le parent a plusieurs enfants, il devra sélectionner de quel enfant il souhaite consulter le cahier de texte.
 
-=== Directeur d'établissement
+== Profil Directeur d'établissement
 
 Le directeur d'établissement a accès à tous les contenus publiés des professeurs de son périmètre. Sur la vue agenda, un filtre permet de cibler la vue :
 
@@ -236,13 +235,13 @@ On peut accéder au *détail des séances* en cliquant sur (8).
 
 image:../../wp-content/uploads/2017/10/cdt-directeur-visa3.png[image,width=550]
 
-===== Appliquer un visa : en verrouillant / sans verouiller
+===== Appliquer un visa : en verrouillant / sans verrouiller
 
 Lorsque l'on applique le visa, une fenêtre s'ouvre. Il est *obligatoire* de rentrer un commentaire pour valider.
 
 image:../../wp-content/uploads/2017/10/cdt-directeur-visa4.png[image,width=450]
 
-Si l'on *vérouille*, cela signifie que l'enseignant ne pourra plus modifier la séance.
+Si l'on *verrouille*, cela signifie que l'enseignant ne pourra plus modifier la séance.
 
 ===== Générer PDF
 
@@ -262,7 +261,7 @@ image:../../wp-content/uploads/2017/10/cdt-directeur-habilitations2.png[image,wi
 
 Pour rajouter un enseignant, on saisit son nom dans (3). Et pour supprimer l'habilitation, on clique sur (4).
 
-=== Inspecteur
+== Profil inspecteur
 
 Tout comme le directeur d'établissement, l'inspecteur peut délivrer des visas, mais uniquement aux séances des enseignants pour lesquels il a obtenu une habilitation (voir la section "Directeur d'établissement" pour plus de détails).
 
