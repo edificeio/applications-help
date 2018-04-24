@@ -1,5 +1,5 @@
 [[statistiques-2d]]
-= Statistiques 2D
+= Statistiques 
 
 Devenez un analyste en herbe ! Grâce à l'appli *Statistique 2D* suivez, sur une période donnée, la fréquentation par application ou encore le nombre de visiteurs de votre plateforme.
 
