@@ -38,18 +38,52 @@ image:../../wp-content/uploads/2015/07/c1.png[c1,width=222,height=45]
 
 1.  Saisissez un nom de carte
 2.  Renseignez une description
-3.  Cliquez sur « Sauvegarder »
+3.  Cliquez sur « Enregistrer »
 
-image:../../wp-content/uploads/2015/06/m3.png[m3,width=640,height=130] +
+image:/assets/carte mentale 5.png[alt=""] +
 Cliquez sur le nom de votre carte pour la créer.
+Cliquez sur le nom de votre carte mentale dans le menu principal pour commencer à la construire. 
 
-image:/assets/Carte mentale 3.png[alt="image:../../wp-content/uploads/2016/08/carte-1024x339.png[image,width=482,height=159] +
-image:../../wp-content/uploads/2015/06/m4.png[m4,width=507,height=215]
+Le titre de la carte constitue le noeud de départ. 
+ 
+*Ajouter de nouveaux nœuds*
+
+Pour ajouter de nouvelles notions à un nœud, sélectionnez le nœud de départ et cliquez sur l’icône « Ajouter un nœud » ou taper directement sur la touche entrée. Le nouveau nœud est créé ainsi que le lien avec le nœud de départ.
+image:/assets/carte mentale 6.png[alt=""]
+ 
+*Supprimer un nœud*
+
+Pour supprimer un nœud, sélectionnez le nœud et cliquez sur l’icône « Supprimer un nœud » ou taper directement sur la touche « supprimer ».
+image:/assets/carte mentale 7.png[alt=""]
+
+*La mise en forme du texte*
+
+La barre d’outils de la carte mentale vous permet de modifier le format du texte : la typographie, la taille, la mise en forme de la police et sa couleur. Pour modifier le texte, sélectionnez le texte du nœud et cliquez sur les icônes suivantes dans la barre d’outils.
+image:/assets/carte mentale 8.png[alt=""]
 
 L’éditeur de texte vous permet de créer facilement une carte mentale.
 
 link:../../wp-content/uploads/2015/06/m22.png[ +
 ]image:../../wp-content/uploads/2015/06/m5.png[m5,width=500]
+
+
+*Ajouter un lien entre deux nœuds*
+
+Pour ajouter lien entre deux nœuds, sélectionnez le nœud de départ (1), cliquez sur l’icône « ajouter un lien » dans la barre d’outils (2). Une flèche apparaît, cliquez sur le second nœud (3) pour indiquer le point d’arrivée de la flèche.
+image:/assets/carte mentale 9.png[alt=""]
+
+*Ajouter des contenus complémentaires à un nœud*
+
+Grâce à la barre d’outils de la carte mentale vous pouvez ajouter à vos nœuds :
+des émoticônes : pour faciliter la visualisation et la mémorisation d’une notion ;
+des liens externes et des notes pour compléter le texte du nœud.
+Pour ajouter un contenu complémentaire, sélectionnez le nœud et cliquez sur les icônes suivantes dans la barre d’outils.
+image:/assets/carte mentale 10.png[alt=""]
+
+*Les émoticônes apparaissent dans le nœud avant le texte.*
+
+Les liens et les notes apparaissent sous forme d’icône dans le nœud avant le texte et une visualisation est proposée au survol de l’icône.
+image:/assets/carte mentale 11.png[alt=""]
 
 Lorsque la carte mentale est terminée, cliquez sur « Enregistrer ».
 
