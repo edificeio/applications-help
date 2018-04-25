@@ -1,7 +1,7 @@
 [[statistiques-2d]]
 = Statistiques 
 
-Devenez un analyste en herbe ! Grâce à l'appli *Statistique 2D* suivez, sur une période donnée, la fréquentation par application ou encore le nombre de visiteurs de votre plateforme.
+Devenez un analyste en herbe ! Grâce à l'appli *Statistique* suivez, sur une période donnée, la fréquentation par application ou encore le nombre de visiteurs de votre plateforme.
 
 [[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
