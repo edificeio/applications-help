@@ -29,6 +29,6 @@
 * link:application/userbook/index.adoc[Mon compte]
 * link:application/viescolaire/index.adoc[Compétences]
 * link:application/wiki/index.adoc[Wiki]
-* link:application/workspace/index.adoc[Documents]
+* link:application/workspace/index.adoc[Espace Documentaire]
 
 
