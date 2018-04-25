@@ -1,6 +1,7 @@
 = Summary
 
 * link:README.adoc[Introduction]
+* link:application/timeline/index.adoc[Premiers pas dans l&apos;ENT]
 * link:application/diary/index.adoc[Cahier de textes]
 * link:application/actualites/index.adoc[Actualités]
 * link:application/archive/index.adoc[Export]
@@ -24,7 +25,6 @@
 * link:application/share-big-files/index.adoc[Poste-fichiers]
 * link:application/statistics/index.adoc[Statistiques]
 * link:application/support/index.adoc[Aide &amp; Support]
-* link:application/timeline/index.adoc[Premiers pas dans l&apos;ENT]
 * link:application/timelinegenerator/index.adoc[Frise chronologique]
 * link:application/userbook/index.adoc[Mon compte]
 * link:application/viescolaire/index.adoc[Compétences]
