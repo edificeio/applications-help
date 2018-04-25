@@ -21,10 +21,14 @@ BY-NC-SA 3.0 FR,width=100,height=35]]
 
 [[presentation]]
 == Présentation
+Pour accéder à l’appli Espace Documentaire, cliquez sur l’icône
+correspondante dans la page « Mes
+applis ».
 
-L’application Document d’un utilisateur est composé de 4 dossiers :
+image:/assets/Espace doc 1.png[alt=""]
+L’application Espace Documentaire d’un utilisateur est composé de 4 dossiers :
 
-image:../../wp-content/uploads/2016/04/Document.png[Document,width=150]
+image:/assets/Espace doc 2.png[alt=""]
 
 L’utilisateur peut importer depuis son poste de travail *tout type de
 document* sans restriction de format, et les *organiser* en dossiers
@@ -40,7 +44,7 @@ que l’utilisateur aura ajoutés dans les autres applis (par exemple
 l'image d'un billet de blog).
 
 *En centralisant l'ensemble des documents accessibles par l'utilisateur,
-l'appli Documents permet d'intégrer facilement un contenu dans n'importe
+l'appli Espace Documentaire permet d'intégrer facilement un contenu dans n'importe
 quelle appli de l'ENT.*
 
  
@@ -49,15 +53,14 @@ quelle appli de l'ENT.*
 == Naviguer dans mes Documents
 
 Un nouveau mode de navigation plus intuitif a été mis en place sur
-l'application Document. +
+l'application Espace Documentaire. +
 Pour *accéder au menu d'option* d'un fichier ou d'un dossier, vous devez
 *cliquer une fois* dessus. Le menu s'affiche ensuite en bas de la page
 et vous pouvez choisir les actions à effectuer. +
 Vous devez cliquer une nouvelle fois sur le fichier ou le dossier pour
 le désélectionner.
 
-image:../../wp-content/uploads/2016/08/Doc-ouverture-menu-fichier.png[Doc
-- ouverture menu fichier,width=629,height=259]
+image:/assets/Espace doc 3.png[alt=""]
 
 '''''
 
@@ -70,8 +73,8 @@ Vous pouvez également sélectionner plusieurs fichiers ou dossiers si
 vous souhaitez effectuer une action sur tous ces documents
 simultanément.
 
-link:../../wp-content/uploads/2016/08/Doc-Sélection-multi-fichier.png[image:../../wp-content/uploads/2016/08/Doc-Sélection-multi-fichier-1024x491.png[Doc
-- Sélection multi fichier,width=628,height=301]] +
+
+
 *ATTENTION* +
 Si vous effectuez une action de partage sur plusieurs fichiers ou
 dossiers alors que l'un de ces fichiers ou dossiers possède déjà un
@@ -111,8 +114,7 @@ effectuant un glisser-déposer. Pour cela, sélectionnez le ou les
 documents à déplacer (1) depuis votre espace de travail et glissez-le
 vers son nouvel emplacement (2).
 
-link:../../wp-content/uploads/2016/08/Doc-glisser-déposer-pc2.png[image:../../wp-content/uploads/2016/08/Doc-glisser-déposer-pc2-1024x354.png[Doc
-- glisser-déposer pc2,width=628,height=217]]
+image:/assets/Espace doc 6.png[alt=""]
 
 [[cas-d-usage-3]]
 == Déplacer un document ou un dossier
@@ -121,8 +123,7 @@ Vous pouvez déplacer vos documents et vos dossiers facilement dans votre
 espace documentaire. Pour cela, sélectionnez le document ou le dossier à
 déplacer (1) et glissez-le vers son nouvel emplacement (2).
 
-link:../../wp-content/uploads/2016/08/Doc-glisser-déposer-avec.png[image:../../wp-content/uploads/2016/08/Doc-glisser-déposer-avec-1024x263.png[Doc
-- glisser-déposer avec,width=627,height=161]]
+image:/assets/Espace doc 7.png[alt=""]
 
 '''''
 
