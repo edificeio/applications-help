@@ -5,7 +5,7 @@
 
 [[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
-* link:index.html?iframe=true#cas-d-usage-1[Naviguer dans mes Documents]
+* link:index.html?iframe=true#cas-d-usage-1[Naviguer dans mon Espace Documentaire]
 * link:index.html?iframe=true#cas-d-usage-2[Importer un document]
 * link:index.html?iframe=true#cas-d-usage-3[Déplacer un document ou un
 dossier]
@@ -50,7 +50,7 @@ quelle appli de l'ENT.*
  
 
 [[cas-d-usage-1]]
-== Naviguer dans mes Documents
+== Naviguer dans mon Espace Documentaire
 
 Un nouveau mode de navigation plus intuitif a été mis en place sur
 l'application Espace Documentaire. +
