@@ -30,22 +30,18 @@ L’application Espace Documentaire d’un utilisateur est composée de 4 dossi
 
 image:/assets/Espace doc 2.png[alt=""]
 
-L’utilisateur peut importer depuis son poste de travail *tout type de
-document* sans restriction de format, et les *organiser* en dossiers
-créés dans « Mes documents ». Il peut *également partager ses documents*
-personnels avec d’autres utilisateurs en leur attribuant différents
-droits.
+*Mes documents*
+Dans ce dossier, vous pouvez charger tous types de fichiers depuis votre ordinateur, qu’il s’agisse de documents texte ou PDF, d’images, de vidéos ou d’extraits audio. Classez ces fichiers dans des dossier pour les retrouver plus facilement. En quelques clics, partagez vos documents personnels avec d’autres utilisateurs en leur attribuant des droits de consultation, de contribution ou de commentaire, selon vos besoins.
 
-Lorsqu’un document est partagé par un autre utilisateur, celui-ci se
-trouve dans le dossier « Documents partagés avec moi ».
+*Documents partagés avec moi*
+Vous retrouvez dans ce dossier les documents que d’autres utilisateurs ont partagés avec vous.
 
-Le dossier « Documents ajoutés dans les applis » contient les documents
-que l’utilisateur aura ajoutés dans les autres applis (par exemple
-l'image d'un billet de blog).
+*Documents ajoutés dans les applis*
+Vous retrouverez ici tous les fichiers que vous avez ajouté dans d’autres applis (par exemple image d’un billet de blog). 
 
 *En centralisant l'ensemble des documents accessibles par l'utilisateur,
 l'appli Espace Documentaire permet d'intégrer facilement un contenu dans n'importe
-quelle appli de l'ENT.*
+quelle appli.*
 
  
 
