@@ -26,7 +26,7 @@ correspondante dans la page « Mes
 applis ».
 
 image:/assets/Espace doc 1.png[alt=""]
-L’application Espace Documentaire d’un utilisateur est composé de 4 dossiers :
+L’application Espace Documentaire d’un utilisateur est composée de 4 dossiers :
 
 image:/assets/Espace doc 2.png[alt=""]
 
