@@ -7,13 +7,14 @@
 * link:index.html?iframe=true#presentation[Présentation]
 * link:index.html?iframe=true#cas-d-usage-1[Naviguer dans mon Espace Documentaire]
 * link:index.html?iframe=true#cas-d-usage-2[Importer un document]
-* link:index.html?iframe=true#cas-d-usage-3[Déplacer un document ou un
+* link:index.html?iframe=true#cas-d-usage-3[Partager un document]
+* link:index.html?iframe=true#cas-d-usage-4[Déplacer un document ou un
 dossier]
-* link:index.html?iframe=true#cas-d-usage-4[Connaître l'espace de
+* link:index.html?iframe=true#cas-d-usage-5[Connaître l'espace de
 stockage disponible]
-* link:index.html?iframe=true#cas-d-usage-5[Ajouter la nouvelle version
+* link:index.html?iframe=true#cas-d-usage-6[Ajouter la nouvelle version
 d'un document]
-* link:index.html?iframe=true#cas-d-usage-6[Accéder aux anciennes
+* link:index.html?iframe=true#cas-d-usage-7[Accéder aux anciennes
 versions de son document]
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
@@ -113,6 +114,24 @@ vers son nouvel emplacement (2).
 image:/assets/Espace doc 6.png[alt=""]
 
 [[cas-d-usage-3]]
+== Partager un document
+Pour partager votre document avec d’autres utilisateurs, suivez les étapes suivantes :
+
+* Sélectionnez le document en question en cliquant sur l'encoche (1)
+* Cliquez sur le bouton "Partager" en bas de l'écran (2)
+
+image:/assets/partage-doc.png[alt=""]
+
+La fenêtre de partage apparaît. Pour attribuer des droits à d’autres utilisateurs, suivez les étapes suivantes :
+* Saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez (1)
+* Sélectionnez le nom dans la liste qui s'affiche (2)
+* Cochez les cases correspondant aux droits que vous souhaitez leur attribuer (3).
+
+Cliquez ensuite sur le bouton "Partager"
+
+image:/assets/partagedocumentaire.png[alt=""]
+
+[[cas-d-usage-4]]
 == Déplacer un document ou un dossier
 
 Vous pouvez déplacer vos documents et vos dossiers facilement dans votre
@@ -134,7 +153,7 @@ Le dossier se trouve maintenant à l’emplacement choisi.
 link:../../wp-content/uploads/2016/08/Doc-glisser-déposer-2.png[image:../../wp-content/uploads/2016/08/Doc-glisser-déposer-2-1024x273.png[Doc
 - glisser-déposer 2,width=630,height=168]]
 
-[[cas-d-usage-4]]
+[[cas-d-usage-5]]
 == Connaître l'espace de stockage disponible
 
 La jauge affichée sous la liste des dossiers de l’espace documentaire
@@ -144,7 +163,7 @@ droite indique l’espace total de l’utilisateur.
 
 image:../../wp-content/uploads/2016/04/Document11.png[Document11,width=200]
 
-[[cas-d-usage-5]]
+[[cas-d-usage-6]]
 == Ajouter la nouvelle version d'un document
 
 Vous pouvez mettre à jour un document tout en gardant une trace de ses
@@ -181,7 +200,7 @@ peuvent mettre à jour de nouvelles versions. +
 
 '''''
 
-[[cas-d-usage-6]]
+[[cas-d-usage-7]]
 == Accéder aux anciennes versions de son document
 
 Pour visualiser les anciennes versions d'un document, suivez les étapes
