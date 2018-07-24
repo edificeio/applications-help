@@ -382,13 +382,16 @@ supprimer en cliquant sur la croix à droite de celui-ci (2).
 [[cas-d-usage-11]]
 == Partage et favoris de partage
 
-Vous retrouvez la fenêtre de partage dans la majeure partie des applications. Cette fenêtre vous permet de partager un contenu que vous avez crée ou sur lesquels vous avez des droits. Le bouton "Partager" est accessible en règle général dans le toaster qui apparaît en bas de votre écran. Sélectionnez le contenu en question (1) puis cliquez sur "Partager" (2).
+Vous retrouvez la fenêtre de partage dans la majeure partie des applications. Cette fenêtre vous permet de partager un contenu que vous avez crée ou sur lequel vous avez des droits. Le bouton "Partager" est accessible en règle générale dans le toaster qui apparaît en bas de votre écran. Sélectionnez le contenu en question (1) puis cliquez sur "Partager" (2).
 
 image:/assets/partager.png[alt=""]
 
 Vous accédez à la fenêtre de partage dans laquelle vous allez pouvoir rechercher des utilisateurs. 
+
 1. Renseignez les premières lettres de la personne, ou du groupe que vous recherchez
+
 2. Dans la liste qui vous est proposée, sélectionnez le ou les utilisateurs recherchés
+
 3. Si l'utilisateur ou le groupe n'apparaît pas, cliquez sur "Voir la suite" pour dérouler la liste de propositions.
 
 image:/assets/recherche.png[alt=""]
