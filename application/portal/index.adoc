@@ -37,11 +37,11 @@ La gestion des favoris vous permet d’accéder rapidement à vos
 applications préférées. Le menu des favoris est accessible directement
 depuis l’icône du bandeau de navigation (1).
 
-image:/assets/3.png[3,width=100]
+image:/assets/Mes applis 1.png[alt=""]
 
 Pour ajouter une application dans les favoris, il faut effectuer un
 glisser-déposer. Pour cela, sélectionnez l’application à déplacer (1) et
 glissez-la vers l’emplacement dédié à cet effet(2).
 
-image:/assets/4.png[GESTION_FAVORIS-2,width=600,height=220]
+image:/assets/Mes applis 2.png[alt=""]
 
