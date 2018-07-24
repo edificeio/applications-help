@@ -116,5 +116,5 @@ carte
 * Gestion : l’utilisateur peut modifier, supprimer et attribuer des
 droits de partage sur la carte
 
-image:../../wp-content/uploads/2015/06/m7.png[m7,width=486,height=356]
+image:/assets/Partage Carte mentale.png[alt=""]
 

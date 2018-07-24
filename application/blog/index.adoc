@@ -75,7 +75,10 @@ d’utilisateurs que vous recherchez.
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur
 attribuer.
 
-image:../../wp-content/uploads/2016/04/Image11-1024x740.png[Image1,width=600,height=434]
+Cliquez ensuite sur le bouton "Partager"
+
+
+image:/assets/Partage blog.png[image,width=600,height=434]
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs
 sont les suivants :
@@ -98,7 +101,8 @@ créent un billet, celui-ci est directement publié dans le blog.
 un billet, le billet passe au statut « Soumis » et c’est le gestionnaire
 du blog qui effectue l’action de publication du billet.
 
-image:../../wp-content/uploads/2016/04/Image22-1024x685.png[Image2,width=550,height=368]
+image:/assets/Partage blog Circuit de publication.png[image,width=550,height=368]
+
 
 [[cas-d-usage-4]]
 == Publier un billet

@@ -34,46 +34,27 @@ image:../../wp-content/uploads/2016/04/Mes_Applis_3-1024x231.png[Mes_Applis_3,wi
 
 Cliquez sur « Créer une communauté ».
 
-image:../../wp-content/uploads/2016/08/communauté-11-1024x227.png[image,width=600,height=133]
+image:/assets/Communauté accueil.png[alt=""]
 
-Un assistant de création apparait pour vous guider dans les étapes à
-suivre.
-
-Cliquez sur « Suivant ».
-
-image:../../wp-content/uploads/2015/06/c3.png[c3,width=600,height=186]
-
-L’onglet Configuration de l’assistant s’affiche.
+La fenêtre de création s'ouvre
 
 1.  Saisissez un titre de communauté
 2.  Chargez une image d’illustration si vous le souhaitez
 3.  Renseignez une description
-4.  Cliquez sur « Suivant »
+4.  Cliquez sur « Créer »
 
-image:../../wp-content/uploads/2015/06/c4.png[c4,width=549,height=169]
+image:/assets/Communauté Création.png[alt=""]
 
-L’onglet Services de l’assistant s’affiche.
+La fenêtre de configuration s’affiche.
 
 1.  Choisissez les services que vous souhaitez utiliser dans votre
 Communauté.
-2.  Cliquez sur « Suivant »
+2.  Ensuite, dans l'encart "Membres", recherchez les personnes auxquelles vous souhaitez donner des droits dans votre communauté
+3. Sélectionnez directement le droit de lecteur, contributeur ou gestionnaire au moment de la selection
+4. Vous pouvez modifier les droits de lecteurs, de contributeurs ou de gestionnaires en cochant ou décochant les cases
+5. Cliquez sur « Enregistrer »
 
-image:../../wp-content/uploads/2016/08/communauté-2-1024x295.png[image,width=600,height=173]
-
-L’onglet Membres de l’assistant s’affiche.
-
-Dans cet onglet, vous décidez avec qui vous souhaitez partager votre
-communauté.
-
-1.  Saisissez les premières lettres du nom d’un utilisateur ou d’un
-groupe.
-2.  Cliquez sur les utilisateurs ou groupes d’utilisateurs avec lesquels
-vous souhaitez partager la communauté.
-3.  Définissez les droits accordés pour chaque membre de la communauté.
-
-Lorsque vous ajoutez un groupe d’utilisateurs, chaque membre du groupe
-est affiché pour que vous puissiez définir les droits de partage au cas
-par cas.
+image:/assets/Communauté partage the one.png[alt=""]
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs
 sont les suivants :
@@ -84,10 +65,6 @@ communauté
 de la communauté
 * Gestion : l’utilisateur peut partager, modifier et supprimer la
 communauté
-
- 4. Cliquez sur « Suivant ».
-
-image:../../wp-content/uploads/2015/06/c6.png[c6,width=492,height=217]
 
 La communauté est maintenant créée et partagée. Chaque appli de la
 communauté est accessible de manière différenciée. Par exemple, le wiki

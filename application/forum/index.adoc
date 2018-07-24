@@ -51,7 +51,7 @@ d’utilisateurs que vous recherchez
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur
 attribuer
 
-image:../../wp-content/uploads/2016/01/FORUM_creer.png[image,width=600,height=262]
+image:/assets/Partage Forum.png[alt=""]
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs
 de l’ENT sur la catégorie de forum sont les suivants :
