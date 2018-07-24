@@ -142,8 +142,8 @@ L’accès au partage de la ressource calendrier se fait grace au menu du
 bas lors de la sélection d’un calendrier dans la liste des calendriers
 de l’utilisateur.
 
-link:../../wp-content/uploads/2016/01/Agenda-Partage.png[image:../../wp-content/uploads/2016/01/Agenda-Partage.png[Agenda
-- Partage,width=400]] +
+image:/assets/Partage Agenda.png[alt=""]
+
 Dans la fenêtre, vous pouvez donner aux utilisateurs de l’ENT différents
 droits d'accès à votre agenda. Pour cela, suivez les étapes suivantes :
 
