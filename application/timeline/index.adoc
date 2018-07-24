@@ -386,25 +386,17 @@ Vous retrouvez la fenêtre de partage dans la majeure partie des applications. C
 
 image:/assets/partager.png[alt=""]
 
-Vous accédez à la fenêtre de partage dans laquelle vous allez pouvoir rechercher des utilisateurs. 
-
-1. Renseignez les premières lettres de la personne, ou du groupe que vous recherchez
-
-2. Dans la liste qui vous est proposée, sélectionnez le ou les utilisateurs recherchés
-
-3. Si l'utilisateur ou le groupe n'apparaît pas, cliquez sur "Voir la suite" pour dérouler la liste de propositions.
+Vous accédez à la fenêtre de partage dans laquelle vous allez pouvoir rechercher des utilisateurs. Renseignez les premières lettres de la personne, ou du groupe que vous recherchez (1). Dans la liste qui vous est proposée, sélectionnez le ou les utilisateurs recherchés (2). Si l'utilisateur ou le groupe n'apparaît pas, cliquez sur "Voir la suite" pour dérouler la liste de propositions (3).
 
 image:/assets/recherche.png[alt=""]
 
 Vous avez la possibilité d'enregistrer une liste d'utilisateurs ou de groupes comme favori de partage. Une fois vos destinataires sélectionnés, cliquez sur "Enregistrer comme favori de partage" (1). 
 image:/assets/favori1.png[alt=""]
 
-Il vous suffit ensuite d'inscrire le nom que vous souhaitez donner au favori et cliquer sur OK
+Il vous suffit ensuite d'inscrire le nom que vous souhaitez donner au favori (1) et cliquer sur OK (2).
 image:/assets/favori2.png[alt=""]
 
-Vous retrouverez ensuite ce favori de partage dans votre barre de recherche, au nom que vous avez enregistré. Vous pourrez ainsi partager plus facilement à un groupe de destinataires avec lequel vous avez l'habitude d'échanger régulièrement des contenus. Après avoir sélectionné votre favori de partage, il vous sera toujours possible de consulter la liste des membres du favori directement dans la fenêtre de partage :
-1. Cliquez sur la petite encoche à côté du nom de votre favori
-2. Consultez les personnes ou les groupes rattachés à votre liste.
+Vous retrouverez ensuite ce favori de partage dans votre barre de recherche, au nom que vous avez enregistré. Vous pourrez ainsi partager plus facilement à un groupe de destinataires avec lequel vous avez l'habitude d'échanger régulièrement des contenus. Après avoir sélectionné votre favori de partage, il vous sera toujours possible de consulter la liste des membres du favori directement dans la fenêtre de partage. Cliquez sur la petite encoche à côté du nom de votre favori (1). Consultez les personnes ou les groupes rattachés à votre liste (2).
 
 image:/assets/consultation-favori.png[alt=""]
 
