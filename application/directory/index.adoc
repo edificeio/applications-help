@@ -8,7 +8,8 @@ Grâce à l’annuaire, vous allez pouvoir rechercher les utilisateurs et les gr
 * link:index.html?iframe=true#cas-d-usage-1[Rechercher un utilisateur]
 * link:index.html?iframe=true#cas-d-usage-2[Rechercher un groupe]
 * link:index.html?iframe=true#cas-d-usage-3[Gérer vos favoris de partage]
-
+* link:index.html?iframe=true#cas-d-usage-4[Consulter et modifier un favori]
+* link:index.html?iframe=true#cas-d-usage-5[Créer un favori]
 
 [[presentation]]
 == Présentation
