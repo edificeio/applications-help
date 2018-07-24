@@ -210,28 +210,33 @@ link:../../wp-content/uploads/2016/01/RBS-VALIDATION-PERIODIQUE-2.png[image:../.
 [[cas-d-usage-4]]
 == Définir les types de ressources
 
-
-
 Pour accéder à l’interface de gestion des ressources, les utilisateurs
 habilités (gestionnaires) doivent cliquer sur l’icône de la molette. (1)
 
 image:../../wp-content/uploads/2015/06/r71.png[r7,width=594,height=53]
 
-Pour ajouter des nouveaux types de ressources, cliquer sur « Créer un
-nouveau type de ressources » et renseigner les champs suivants :
+Pour ajouter des nouveaux types de ressources, cliquez sur « Créer un type de ressources » (1) et renseignez les champs suivants :
 
-* Nom de la ressource
-* Ajout d’un circuit de validation (le cas échéant)
-* Cliquer sur Enregistrer
+* Indiquez le nom de la ressource et ajoutez d’un circuit de validation le cas échéant (2)
+* Cliquez sur Enregistrer (3)
 
-image:../../wp-content/uploads/2015/06/r81.png[r8,width=602,height=187] +
+image:/assets/RDR création type de ressource .png[alt=""]
+
 L’étape suivante consiste à  définir les droits d’accès et de gestion
 
-* Sélectionner le type de ressources nouvellement créé (1)
-* Cliquer sur Modifier (2)
-* Rechercher successivement les utilisateurs et/ou groupes (3) auxquels
+* Sélectionnez le type de ressources nouvellement créé (1)
+* Cliquez sur Modifier (2)
+
+image:/assets/RDR Edition type de ressources_1.png[alt=""]
+
+* Recherchez successivement les utilisateurs et/ou groupes (1) auxquels
 vous souhaitez donner accès à cette ressource
-* Attribuer les droits en cochant les cases correspondantes(4).
+* Sélectionnez les utilisateurs en question (2)
+* Attribuez les droits en cochant les cases correspondantes (3).
+
+Pour valider, cliquez sur "Enregistrer".
+
+image:/assets/RDR Edition type de ressources 2.png[alt=""]
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs
 sont les suivants :
@@ -242,8 +247,6 @@ sont les suivants :
 réservation
 * Gérer : l’utilisateur peut créer et supprimer des types de ressources
 
-image:../../wp-content/uploads/2015/06/r9.png[r9,width=600,height=265]
-
 [[cas-d-usage-5]]
 == Définir les ressources
 
@@ -251,24 +254,22 @@ image:../../wp-content/uploads/2015/06/r9.png[r9,width=600,height=265]
 
 Une fois les types de ressources définis, il faut créer les ressources.
 
-Pour cela, dans l’écran suivant, cliquer sur le type de ressources (1),
-puis sur le bouton d’action « Créer une ressource » (2)
+Pour cela, cliquez sur le bouton d’action « Créer une ressource » 
 
-image:../../wp-content/uploads/2015/06/r10.png[r10,width=600,height=157]
+image:/assets/RDR Création ressource 1.png[alt=""]
 
 La ressource doit ensuite être caractérisée par:
 
-1.  Le nom de la ressource
-2.  Sa disponibilité, la possibilité de réserver cette ressource de
+1. Le type de ressource à laquelle elle est rattachée 
+2. Le nom de la ressource
+3. Sa disponibilité, la possibilité de réserver cette ressource de
 manière périodique, un intervalle de réservation minimum et un
 intervalle maximum de réservation.
-3.  Une description éditée par un éditeur de texte HTML permettant
+4.  Une description éditée par un éditeur de texte HTML permettant
 d'intégrer différents contenus: texte, images, liens, son...
 
-link:../../wp-content/uploads/2015/06/r15.png[image:../../wp-content/uploads/2015/06/r15.png[r1,width=502,height=411] +
-]Après enregistrement, la nouvelle ressource s'affiche dans la liste des
-ressources. En cochant la case à cocher y correspondant, des boutons
-d'action apparaissent en bas de page pour supprimer ou éditer la
-ressource.
+image:/assets/RDR Création ressource 2.png[alt=""]
 
-image:../../wp-content/uploads/2015/06/r23.png[r2,width=600,height=179]
+Après enregistrement, la nouvelle ressource s'affiche dans la liste. En cochant la case correspondante (1), des boutons d'action apparaissent en bas de page pour supprimer ou éditer la ressource. Vous pouvez cliquer sur "Editer la ressource" pour la modifier (2)
+
+image:/assets/RDR Edition ressource.png[alt=""]
