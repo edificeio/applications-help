@@ -51,13 +51,16 @@ image:/assets/Frise chrono 2.png[alt=""]
 
 Dans la fenêtre de partage, vous pouvez donner des droits de consultation, de contribution ou de gestion sur votre frise chronologique. Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez (1), sélectionnez le résultat (2) et cochez les cases correspondant aux droits que vous souhaitez leur attribuer (3).
 
+Pour valider, cliquez sur le bouton "Partager".
+
+
+image:/assets/Frise chronologique.png[alt=""]
+
 Les différents droits que vous pouvez attribuer sont les suivants :
 
 * Lecture : l’utilisateur peut visualiser la frise
 * Contribution : l’utilisateur peut créer des événements sur la frise
 * Gestion : l’utilisateur peut partager, modifier et supprimer la frise
-
-image:../../wp-content/uploads/2015/06/f5.png[f5,width=494,height=205]
 
 [[cas-d-usage-2]]
 == Créer un événement dans la frise chronologique

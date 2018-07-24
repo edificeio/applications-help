@@ -143,13 +143,15 @@ d’utilisateurs que vous recherchez.
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur
 attribuer.
 
-L’icône suivant signale que le fichier a été partagé avec d’autres
-utilisateurs :
-link:../../wp-content/uploads/2016/04/Double-flèche.png[image:../../wp-content/uploads/2016/04/Double-flèche.png[Double
+L’icône suivante signale que le fichier a été partagé avec d’autres
+utilisateurs : link:../../wp-content/uploads/2016/04/Double-flèche.png[image:../../wp-content/uploads/2016/04/Double-flèche.png[Double
 flèche,width=18,height=18]] 
 
-link:../../wp-content/uploads/2016/04/103-Partager.png[image:../../wp-content/uploads/2016/04/103-Partager.png[103-Partager,width=400 +
-]Les droits de partage que vous pouvez attribuer aux utilisateurs sont
+Pour valider, cliquez sur le bouton "Partager".
+
+image:/assets/Poste fichiers.png[alt=""]
+
+Les droits de partage que vous pouvez attribuer aux utilisateurs sont
 les suivants :
 
 * *Lecteur* : l’utilisateur peut télécharger le fichier dans la limite

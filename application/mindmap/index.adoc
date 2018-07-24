@@ -108,6 +108,10 @@ groupe d’utilisateurs que vous recherchez (1), sélectionnez le résultat
 (2) et cochez les cases correspondant aux droits que vous souhaitez leur
 attribuer (3).
 
+Pour valider, cliquez sur le bouton "Partager".
+
+image:/assets/Carte mentale.png[alt=""]
+
 Les différents droits que vous pouvez attribuer sont les suivants :
 
 * Lecture : l’utilisateur peut visualiser la carte
@@ -116,5 +120,5 @@ carte
 * Gestion : l’utilisateur peut modifier, supprimer et attribuer des
 droits de partage sur la carte
 
-image:/assets/Partage Carte mentale.png[alt=""]
+
 

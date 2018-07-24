@@ -51,6 +51,8 @@ d’utilisateurs que vous recherchez
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur
 attribuer
 
+Pour valider, cliquez sur le bouton "Partager", puis "Terminer".
+
 image:/assets/Partage Forum.png[alt=""]
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs

@@ -62,9 +62,13 @@ Dans la fenêtre, vous pouvez donner des droits de consultation, de
 contribution et de gestion sur votre cahier. Pour cela, saisissez les
 premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs
 que vous recherchez (1), sélectionnez le résultat (2) et cochez les
-cases correspondant aux droits que vous souhaitez leur attribuer (3).
+cases correspondant aux droits que vous souhaitez leur attribuer (3). 
 
-image:/assets/CMA 6.png[alt=""]
+Pour valider, cliquez sur le bouton "Partager".
+
+
+
+image:/assets/Cahier multimédia.png[alt=""]
 
 [[cas-d-usage-2]]
 == Editer les pages du cahier multimédia

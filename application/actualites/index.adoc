@@ -74,7 +74,9 @@ d’utilisateurs que vous recherchez
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur
 attribuer.
 
-image:../../wp-content/uploads/2015/06/a11.png[a1,width=300]
+Pour valider, cliquez sur le bouton "Partager".
+
+image:/assets/Fil actu.png[image,width=300]
 
 
 
@@ -130,9 +132,9 @@ d’utilisateurs que vous recherchez
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur
 attribuer (lire ou commenter)
 
-Cliquez ensuite sur le bouton "Partager"
+Pour valider, cliquez sur le bouton "Partager".
 
-image:/assets/Partage actualité.png[alt=""]
+image:/assets/Actus.png[alt=""]
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs
 de l’ENT sur l'actualité sont les suivants :

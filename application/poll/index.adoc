@@ -68,7 +68,9 @@ Les différents droits que vous pouvez attribuer sont les suivants :
 * Vote : l’utilisateur peut répondre au sondage
 * Gestion : l’utilisateur peut partager, modifie et supprimer le sondage
 
-image:../../wp-content/uploads/2015/06/s5.png[s5,width=468,height=340] +
+Pour valider, cliquez sur le bouton "Partager".
+
+image:/assets/Sondages.png[alt=""]
 Votre sondage est bien créé et partagé.
 
 [[cas-d-usage-3]]

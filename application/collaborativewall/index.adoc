@@ -66,7 +66,10 @@ Les différents droits que vous pouvez attribuer sont les suivants :
 * Contribution : l’utilisateur peut ajouter des notes sur le mur
 * Gestion : l’utilisateur peut modifier, supprimer et partager le mur
 
-image:/assets/Partage Mur.png[image,width=386,height=279]
+Pour valider, cliquez sur le bouton "Partager".
+
+
+image:/assets/Mur collaboratif.png[alt=""]
 
 [[cas-d-usage-2]]
 == Ajouter une note au mur collaboratif

@@ -75,10 +75,9 @@ d’utilisateurs que vous recherchez.
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur
 attribuer.
 
-Cliquez ensuite sur le bouton "Partager"
+Pour valider, cliquez sur le bouton "Partager".
 
-
-image:/assets/Partage blog.png[image,width=600,height=434]
+image:/assets/Blog.png[alt=""]
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs
 sont les suivants :

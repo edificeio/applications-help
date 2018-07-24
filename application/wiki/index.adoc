@@ -59,7 +59,10 @@ d’utilisateurs que vous recherchez.
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur
 attribuer.
 
-link:../../wp-content/uploads/2016/01/WIKI-PARTAGE.png[image:../../wp-content/uploads/2016/01/WIKI-PARTAGE-1024x870.png[image,width=600]]
+Pour valider, cliquez sur le bouton "Partager".
+
+
+image:/assets/Wiki.png[alt=""]
 
 Les droits de partage que vous pouvez attribuer aux autres utilisateurs
 sont les suivants :

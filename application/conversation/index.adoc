@@ -39,14 +39,20 @@ Vous accédez à la fenêtre de création d’un message.
 image:/assets/creation.png[alt=""]
 
 (1) Indiquez le(s) destinataire(s) de votre message dans le champ « A » en
-saisissant les trois premières lettres de son nom ou en appuyant sur entrée. Vous pouvez adresser un message à un utilisateur en particulier (par exemple un élève), ou à un groupe d’utilisateurs (par exemple les parents d’élèves de Terminale).La liste des résultats s’affiche automatiquement :
-
-image:/assets/resultat-destinataire.png[alt=""]
+saisissant les trois premières lettres de son nom ou en appuyant sur entrée. Vous pouvez adresser un message à un utilisateur en particulier (par exemple un élève), ou à un groupe d’utilisateurs (par exemple les parents d’élèves de Terminale).
 
 (2) Ajoutez des personnes ou des groupes dans le champ « Copie » si vous
 souhaitez leur adresser une copie du message.
 
 (3) Indiquez le sujet de votre message dans le champ « Objet ».
+
+Pour sélectionner les destinataires de votre message : 
+
+image:/assets/Messagerie.png[alt=""]
+
+1. Effectuez votre recherche
+2. Les résultats s'affichent dans la liste déroulante
+
 
 Dans la fenêtre de saisie de contenu, rédigez votre message
 (1). Cliquez sur "Ajouter une pièce jointe" (2) pour joindre un document
