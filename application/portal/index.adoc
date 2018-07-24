@@ -38,6 +38,7 @@ applications préférées. Le menu des favoris est accessible directement
 depuis l’icône du bandeau de navigation (1).
 
 image:/assets/3.png[3,width=100]
+
 Pour ajouter une application dans les favoris, il faut effectuer un
 glisser-déposer. Pour cela, sélectionnez l’application à déplacer (1) et
 glissez-la vers l’emplacement dédié à cet effet(2).
