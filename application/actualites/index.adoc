@@ -76,6 +76,8 @@ attribuer.
 
 image:../../wp-content/uploads/2015/06/a11.png[a1,width=300]
 
+
+
 Les différents droits que vous pouvez attribuer aux autres utilisateurs
 de l’ENT sur le fil d'actualités sont les suivants :
 
