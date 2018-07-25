@@ -260,8 +260,7 @@ Dans le bloc des informations sur le sujet en haut à gauche, cliquer sur “Mod
 image:/assets/modifier_distribution2.png[alt=""]
 
 Renseignez les nouvelles dates et heures de distribution et validez (1). Si le sujet est déjà distribué, vous ne pourrez plus modifier la date de début de l’évaluation. Une notification sera envoyée à tous les apprenants pour les informer de la nouvelle date de fin de distribution. 
-
-image:/assets/modifier_distribution3.png[alt=""]
+image:/assets/Capture exercizer modification distribution.png[alt=""]
 
 [[cas-d-usage-6]]
 == Enseignant - Déprogrammer un sujet distribué 
@@ -390,15 +389,14 @@ image:/assets/Stat2.png[alt=""]
 
 Vous accédez ainsi : 
 
-Aux résultats par question par élève
+* Aux résultats par question par élève
 
-A la moyenne par question
+* A la moyenne par question
 
-A la moyenne générale du sujet (score automatique et score final) 
+* A la moyenne générale du sujet (score automatique et score final) 
 
 Pour exporter ces statistiques au format CSV, cliquez sur le bouton “Exporter” en haut à droite depuis la page de Statistiques.
 image:/assets/Stat3.png[alt=""]
-
 
 [[cas-d-usage-13]]
 == Enseignant - Importer un sujet
@@ -418,18 +416,3 @@ image:/assets/importer3.png[alt=""]
 Il vous est possible d'exporter des sujets. Dans “Mes Sujets”, sélectionnez un sujet interactif (1), puis cliquer sur “Exporter” (2).
 
 image:/assets/Exporter.png[alt=""]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
