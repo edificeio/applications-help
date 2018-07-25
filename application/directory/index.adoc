@@ -15,6 +15,7 @@ Grâce à l’annuaire, vous allez pouvoir rechercher les utilisateurs et les gr
 == Présentation
 
 Grâce au service "Annuaire", vous allez pouvoir :
+
 * Rechercher un utilisateur
 * Rechercher un groupe
 * Créer et gérer des favoris de partage
