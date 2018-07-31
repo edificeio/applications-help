@@ -385,7 +385,7 @@ Vous pouvez consulter les statistiques de vos sujets. Pour cela, rendez-vous sur
 image:/assets/Stat1.png[alt=""]
 
 Un encart en haut à droite vous donne les statistiques générales du sujet (1). En cliquant sur “Plus de Stats”, vous accédez aux statistiques détaillées du sujet (2).
-image:/assets/Stat2.png[alt=""]
+image:/assets/Exercizer-stat.png[alt=""]
 
 Vous accédez ainsi : 
 
@@ -396,7 +396,7 @@ Vous accédez ainsi :
 * A la moyenne générale du sujet (score automatique et score final) 
 
 Pour exporter ces statistiques au format CSV, cliquez sur le bouton “Exporter” en haut à droite depuis la page de Statistiques.
-image:/assets/Stat3.png[alt=""]
+image:/assets/Exercizer-stat2.png[alt=""]
 
 [[cas-d-usage-13]]
 == Enseignant - Importer un sujet
