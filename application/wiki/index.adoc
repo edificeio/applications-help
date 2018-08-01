@@ -112,7 +112,7 @@ Vous pouvez modifier une page. Pour cela, suivez les étapes suivantes :
 « Enregistrer ».
 
 image:../../wp-content/uploads/2016/01/WIKI-MODIFIER-1-1024x410.png[image,width=550] +
-link:../../wp-content/uploads/2016/01/WIKI-MODIFIER-2.png[  ]
+link:../../wp-content/uploads/2016/01/WIKI-MODIFIER-2.png[]
 image:../../wp-content/uploads/2016/01/WIKI-MODIFIER-2-1024x538.png[image,width=550] +
 La page s’affiche avec les modifications effectuées.
 
