@@ -95,11 +95,9 @@ Dans la fenêtre, vous pouvez donner aux utilisateurs de l’ENT différents dro
 
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur attribuer.
 
-L’icône suivante signale que le fichier a été partagé avec d’autres utilisateurs : [image:../../wp-content/uploads/2016/04/Double-flèche.png\[width=18,height=18](../../wp-content/uploads/2016/04/Double-flèche.png)\]
+L’icône suivante signale que le fichier a été partagé avec d’autres utilisateurs : ![](../../wp-content/uploads/2016/04/Double-flèche.png)
 
 Pour valider, cliquez sur le bouton "Partager".
-
-image:/assets/Poste fichiers.png\[\]
 
 Les droits de partage que vous pouvez attribuer aux utilisateurs sont les suivants :
 
@@ -135,8 +133,7 @@ Télécharger un fichier qui a été partagé avec moi
 Pour télécharger un fichier partagé avec moi, il suffit de cliquer sur le nom du fichier (1). Vous pouvez également sélectionner le fichier à télécharger en cochant la case (2) située devant le titre, puis en cliquant sur le bouton "Télécharger" (3).
 
 Vous pouvez trier la liste des fichiers en cliquant sur le nom d’une colonne (4).  
-![](../../wp-content/uploads/2016/04/401-Telecharger1.png)[  
-](../../wp-content/uploads/2016/04/401-Telecharger.png)Les fichiers dont la date de péremption est atteinte peuvent toujours être téléchargés le jour-même, mais ne seront plus disponibles dès le lendemain. Dans ce cas, le titre du fichier est affiché en **violet** et une info-bulle signale « Le téléchargement est arrivé à échéance, le fichier sera supprimé dans les prochaines 24h».
+![](../../wp-content/uploads/2016/04/401-Telecharger1.png) Les fichiers dont la date de péremption est atteinte peuvent toujours être téléchargés le jour-même, mais ne seront plus disponibles dès le lendemain. Dans ce cas, le titre du fichier est affiché en **violet** et une info-bulle signale « Le téléchargement est arrivé à échéance, le fichier sera supprimé dans les prochaines 24h».
 
 Si la date de péremption a été dépassée le titre du fichier est affiché en **rouge**. Le fichier reste affiché dans la liste mais ne peut plus être téléchargé. Une infobulle indique « Téléchargement terminé, le fichier volumineux n’est plus disponible ».
 

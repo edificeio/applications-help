@@ -62,7 +62,7 @@ Il bénéficie par ailleurs des mêmes filtres que sur la vue Calendrier.
 
 Le tri peut être fait sur toutes les colonnes du tableau : demandeur, ressource, date de début, date de fin et état.
 
-**![](../../wp-content/uploads/2016/01/RBS-VUE-LISTE.png)**
+![](../../wp-content/uploads/2016/01/RBS-VUE-LISTE.png)
 
 Pour visualiser le détail d’une réservation, il suffit de cliquer sur la réservation en question dans la liste, pour afficher une fenêtre (pop-up) qui donne toutes les informations.
 
@@ -89,7 +89,8 @@ La première section permet de choisir le type de ressource (1) et la ressource 
 
 La description de la ressource est indiquée (3). L’utilisateur peut également voir les noms des valideurs (4) si les réservations pour cette ressource sont soumises à validation.
 
-![](../../wp-content/uploads/2015/06/r8.png)  
+![](../../wp-content/uploads/2015/06/r8.png)
+
 **Réservation ponctuelle**
 
 Dans le cas d’une réservation ponctuelle, l’utilisateur choisit le créneau de sa demande. L’utilisateur choisit le créneau de réservation (1), indique le motif de la réservation (2) et d’enregistrer sa demande. (3)
@@ -115,7 +116,8 @@ Tant qu’une demande n’a pas été validée, le créneau horaire y correspond
 
 Pour valider une réservation, le valideur peut se rendre sur la vue Liste, effectuer un filtre sur le type de ressource (1), et afficher uniquement les réservations en attente de validation (2). L’icône signifie que la réservation est en attente de validation. (3).
 
-![](../../wp-content/uploads/2016/01/RBS-VALIDATION.png)  
+![](../../wp-content/uploads/2016/01/RBS-VALIDATION.png)
+
 **Valider une réservation ponctuelle**
 
 Pour accepter ou refuser une réservation ponctuelle, le valideur doit sélectionner la réservation (1) et cliquer sur le bouton Valider ou Refuser (2).  
@@ -123,7 +125,8 @@ Pour accepter ou refuser une réservation ponctuelle, le valideur doit sélectio
 
 Le valideur qui refuse une réservation peut indiquer le motif de son refus (1) (champ non obligatoire), puis confirmer son refus. (2)
 
-![](../../wp-content/uploads/2015/06/r31.png)  
+![](../../wp-content/uploads/2015/06/r31.png)
+
 **Valider une réservation périodique**
 
 Pour valider une réservation périodique (qui comporte plusieurs créneaux), il est possible :
@@ -153,15 +156,11 @@ Pour ajouter des nouveaux types de ressources, cliquez sur « Créer un type de
 
 -   Cliquez sur Enregistrer (3)
 
-image:/assets/RDR création type de ressource .png\[\]
-
 L’étape suivante consiste à  définir les droits d’accès et de gestion
 
 -   Sélectionnez le type de ressources nouvellement créé (1)
 
 -   Cliquez sur Modifier (2)
-
-image:/assets/RDR Edition type de ressources\_1.png\[\]
 
 -   Recherchez successivement les utilisateurs et/ou groupes (1) auxquels vous souhaitez donner accès à cette ressource
 
@@ -170,8 +169,6 @@ image:/assets/RDR Edition type de ressources\_1.png\[\]
 -   Attribuez les droits en cochant les cases correspondantes (3).
 
 Pour valider, cliquez sur "Enregistrer".
-
-image:/assets/RDR Edition type de ressources 2.png\[\]
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs sont les suivants :
 
@@ -190,8 +187,6 @@ Une fois les types de ressources définis, il faut créer les ressources.
 
 Pour cela, cliquez sur le bouton d’action « Créer une ressource »
 
-image:/assets/RDR Création ressource 1.png\[\]
-
 La ressource doit ensuite être caractérisée par:
 
 1.  Le type de ressource à laquelle elle est rattachée
@@ -202,8 +197,4 @@ La ressource doit ensuite être caractérisée par:
 
 4.  Une description éditée par un éditeur de texte HTML permettant d’intégrer différents contenus: texte, images, liens, son…
 
-image:/assets/RDR Création ressource 2.png\[\]
-
 Après enregistrement, la nouvelle ressource s’affiche dans la liste. En cochant la case correspondante (1), des boutons d’action apparaissent en bas de page pour supprimer ou éditer la ressource. Vous pouvez cliquer sur "Editer la ressource" pour la modifier (2)
-
-image:/assets/RDR Edition ressource.png\[\]

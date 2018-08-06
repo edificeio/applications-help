@@ -46,8 +46,7 @@ Vous pouvez aussi choisir d’importer une photo à partir de votre poste de tra
 
 -   Cliquez sur « Parcourir ».
 
-Sélectionnez un fichier dans votre poste de travail et cliquez sur ouvrir. Cliquez en suite sur « Importer » pour lancer le téléchargement. image:/assets/mon compte.png\[\] Votre photo est maintenant visible dans votre compte et par tous les utilisateurs ! image:/assets/Mon compte 2.png\[\]  
-Votre photo est visible dans le fil de nouveautés des autres utilisateurs lorsque vous leur partagez un contenu mais également lorsque vous postez un message dans un forum.
+Sélectionnez un fichier dans votre poste de travail et cliquez sur ouvrir. Cliquez en suite sur « Importer » pour lancer le téléchargement.
 
 Changer de mot de passe
 =======================
@@ -145,7 +144,7 @@ L’ENT est désormais doté d’un système de notification par mail qui permet
 Chaque utilisateur peut modifier les notifications qu’il souhaite recevoir et la fréquence de chacune d’elles (immédiate, quotidienne, hebdomadaire).  
 Pour accéder à ce paramétrage, aller dans mon compte (1) et cliquer sur le bouton "Gérer mes notifications externes" (2)
 
-[image:../../wp-content/uploads/2016/12/notif-ext2.png\[width=599,height=241](../../wp-content/uploads/2016/12/notif-ext2.png)\]
+![](../../wp-content/uploads/2016/12/notif-ext2.png)
 
 La page de paramétrage des notifications externes permet de modifier l’adresse de réception des mails (3) et de choisir la fréquence d’envoi de chaque notification (immédiat, quotidien, hebdomadaire, jamais) (4).  
 Le détail des notifications disponibles par service est accessible en cliquant sur le nom du service dans la ligne correspondante (5).
@@ -158,12 +157,12 @@ Lorsque les modifications sont terminées, cliquer sur "Enregistrer" en bas du t
 
 Une fois la notification reçue dans sa boîte mail personnelle, l’utilisateur peut cliquer sur le lien correspondant afin d’accéder au contenu. S’il n’est pas connecté à l’ENT, il devra saisir son identifiant et son mot de passe pour accéder à l’objet de la notification.
 
-[image:../../wp-content/uploads/2016/12/notif-externe-réception.png\[width=200](../../wp-content/uploads/2016/12/notif-externe-réception.png)\]
+![](../../wp-content/uploads/2016/12/notif-externe-réception.png)
 
 Historique des notifications émises
 ===================================
 
 Vous avez la possibilité de ne pas diffuser une notification aux utilisateurs avec lesquels vous avez des droits de communication ou vous avez partagé du contenu.  
 Depuis votre espace "Mon compte", vous retrouverez toutes les notifications que vous avez émis en cliquant sur l’onglet "Historique".  
-[image:../../wp-content/uploads/2016/12/Fil-historique.png\[width=599,height=219](../../wp-content/uploads/2016/12/Fil-historique.png)\]En survolant la notification avec la souris, vous verrez apparaître une flèche sur la droite de la notification. En cliquant sur cette flèche, une action apparaît vous permettant de supprimer définitivement la notification de l’ENT.  
-[image:../../wp-content/uploads/2016/12/Fil-historique-suppression.png\[width=550,height=95](../../wp-content/uploads/2016/12/Fil-historique-suppression.png)\]
+![](../../wp-content/uploads/2016/12/Fil-historique.png) En survolant la notification avec la souris, vous verrez apparaître une flèche sur la droite de la notification. En cliquant sur cette flèche, une action apparaît vous permettant de supprimer définitivement la notification de l’ENT.  
+![](../../wp-content/uploads/2016/12/Fil-historique-suppression.png)

@@ -5,9 +5,7 @@ Un devoir à rendre ? Rien de plus simple, grâce à l’appli **Casier**, dépo
 Présentation
 ============
 
-Pour accéder à l’appli Casier, cliquez sur l’icône correspondante dans la page « Mes applis ». image:/assets/Casier NEO.png\[\] Le casier est composé de 3 dossiers :
-
-![](../../wp-content/uploads/2016/04/Casier.png)
+Pour accéder à l’appli Casier, cliquez sur l’icône correspondante dans la page « Mes applis ». ![](../../wp-content/uploads/2016/04/Casier.png)
 
 Le dossier « **Mon casier** » contient les documents envoyés dans mon casier.  
 Le dossier « **Historique** » contient les documents déposés par l’utilisateur dans le casier d’autres utilisateurs. Pour chaque document reçu, le titre du document, l’identifiant du destinataire ainsi que la date et l’heure d’envoi sont précisés.  
@@ -19,8 +17,6 @@ Déposer un document dans un casier
 ==================================
 
 Pour déposer un document dans le casier d’un autre utilisateur, accédez à l’appli Casier puis cliquez sur le bouton « Déposer dans un casier ».
-
-image:/assets/1 casier.png\[\] Dans la nouvelle fenêtre, cliquez sur « Parcourir » (1) pour sélectionner sur votre ordinateur le document à envoyer puis sélectionnez le(s) destinataire(s) (2). Comme dans les autres applis de l’ENT, vous pouvez choisir un utilisateur ou un groupe d’utilisateurs. En cas d’erreur dans la sélection des destinataires, le bouton « Réinitialiser les destinataires » vous permet de supprimer la sélection faite.
 
 Cliquez ensuite sur « Envoyer » (3) pour envoyer le document. Un message de confirmation vous informe que le document a bien été envoyé.
 
@@ -37,7 +33,7 @@ Vous pouvez également sélectionner plusieurs documents en même temps pour eff
 ![](../../wp-content/uploads/2016/08/rack-tous-sélectionnés2-1024x512.png)
 
 Vous disposez également d’un bouton "télécharger" (1) sur chaque fichier si vous souhaitez télécharger directement le fichier sur votre ordinateur.  
-[image:../../wp-content/uploads/2016/08/rack-bouton-télécharger2.png\[width=110,height=102](../../wp-content/uploads/2016/08/rack-bouton-télécharger2.png)\]
+![](../../wp-content/uploads/2016/08/rack-bouton-télécharger2.png)
 
 Copier un document du casier vers l’appli Espace documentaire
 =============================================================
