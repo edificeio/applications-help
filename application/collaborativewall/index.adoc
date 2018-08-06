@@ -3,13 +3,6 @@
 
 Brainstormez sur le *Mur collaboratif* ! Épinglez toutes vos notes sur votre tableau virtuel pour vous aider à visualiser l'ensemble de vos idées. 
 
-[[summary]]
-* link:index.html?iframe=true#presentation[Présentation]
-* link:index.html?iframe=true#cas-d-usage-1[Créer et partager un mur
-collaboratif]
-* link:index.html?iframe=true#cas-d-usage-2[Ajouter une note au mur
-collaboratif]
-
 image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
 [[presentation]]
@@ -68,7 +61,7 @@ Les différents droits que vous pouvez attribuer sont les suivants :
 Pour valider, cliquez sur le bouton "Partager".
 
 
-image:/assets/Mur collaboratif.png[alt=""]
+image:/assets/Mur collaboratif.png[]
 
 [[cas-d-usage-2]]
 == Ajouter une note au mur collaboratif

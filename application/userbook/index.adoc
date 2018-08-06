@@ -1,22 +1,6 @@
 [[mon-compte]]
 = Mon compte
 
-[[summary]]
-* link:index.html?iframe=true#presentation[Accéder à mon compte]
-* link:index.html?iframe=true#cas-d-usage-2[Changer ma photo de profil]
-* link:index.html?iframe=true#cas-d-usage-3[Changer de mot de passe]
-* link:index.html?iframe=true#cas-d-usage-4[Ajouter ou modifier mon
-adresse mail]
-* link:index.html?iframe=true#cas-d-usage-5[Ajouter une devise à mon
-compte]
-* link:index.html?iframe=true#cas-d-usage-6[Changer mon humeur]
-* link:#cas-d-usage-7[Modifier mes centres d'intérêt]
-* link:index.html?iframe=true#cas-d-usage-8[Définir la visibilité de mes
-informations personnelles]
-* link:index.html?iframe=true#cas-d-usage-9[Notifications externes]
-* link:index.html?iframe=true#cas-d-usage-10[Historique des
-notifications émises]
-
 image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
 
@@ -84,10 +68,10 @@ de travail.
 
 Sélectionnez un fichier dans votre poste de travail et cliquez sur
 ouvrir. Cliquez en suite sur « Importer » pour lancer le téléchargement.
-image:/assets/mon compte.png[alt=""]
+image:/assets/mon compte.png[]
 Votre photo est maintenant visible dans votre compte et par tous les
 utilisateurs !
-image:/assets/Mon compte 2.png[alt=""] +
+image:/assets/Mon compte 2.png[] +
 Votre photo est visible dans le fil de nouveautés des autres
 utilisateurs lorsque vous leur partagez un contenu mais également
 lorsque vous postez un message dans un forum.

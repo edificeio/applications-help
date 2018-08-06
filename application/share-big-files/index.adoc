@@ -1,20 +1,4 @@
-[[poste-fichiers]]
-= Poste-fichiers
-
 Vos documents, comme sur un nuage ! Comme son nom l’indique, l’appli *Poste-fichiers* permet de stocker en ligne ses documents volumineux et de les consulter n’importe où, pendant 30 jours.
-
-[[summary]]
-* link:index.html?iframe=true#presentation[Présentation]
-* link:index.html?iframe=true#cas-d-usage-1[Liste des fichiers]
-* link:index.html?iframe=true#cas-d-usage-2[Envoyer un fichier dans mon
-espace de stockage]
-* link:index.html?iframe=true#cas-d-usage-3[Partager un fichier]
-* link:index.html?iframe=true#cas-d-usage-4[Mettre à jour un fichier]
-* link:index.html?iframe=true#cas-d-usage-5[Supprimer un fichier]
-* link:index.html?iframe=true#cas-d-usage-6[Télécharger un fichier qui a
-été partagé avec moi]
-* link:index.html?iframe=true#cas-d-usage-7[Consulter le journal de
-téléchargement d’un fichier]
 
 image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
@@ -147,7 +131,7 @@ utilisateurs : image:../../wp-content/uploads/2016/04/Double-flèche.png[width=1
 
 Pour valider, cliquez sur le bouton "Partager".
 
-image:/assets/Poste fichiers.png[alt=""]
+image:/assets/Poste fichiers.png[]
 
 Les droits de partage que vous pouvez attribuer aux utilisateurs sont
 les suivants :

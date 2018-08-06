@@ -4,13 +4,6 @@
 Communiquez dans un cadre sécurisé ! Envoyez et recevez tous vos e-mails via l'application *Messagerie*. Intégrez des liens vers vos productions, des images, des vidéos ou des sons, c'est vous le patron ! 
   
 
-[[summary]]
-* link:index.html?iframe=true#presentation[Présentation]
-* link:index.html?iframe=true#cas-d-usage-1[Envoyer un message]
-* link:index.html?iframe=true#cas-d-usage-2[Visualiser mes messages
-reçus]
-* link:index.html?iframe=true#cas-d-usage-3[Répondre, transférer, classer et supprimer un message]
-
 image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
 [[presentation]]
@@ -19,7 +12,7 @@ image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,
 L'appli Messagerie permet d'envoyer simplement un message à *un
 utilisateur* ou à un *groupe d’utilisateurs* (les élèves d'une classe,
 le personnel de l'établissement, etc.) ayant un accès à l'ENT.
-image:/assets/Messagerie 1.png[alt=""]
+image:/assets/Messagerie 1.png[]
 
 La réception d’un nouveau message est visible dès la page d'accueil.
 Elle est indiquée par une *notification* dans le bandeau de navigation
@@ -31,11 +24,9 @@ et dans le fil de nouveautés. Le nombre de messages non lus est indiqué devant
 Dans le service Messagerie, cliquez sur le bouton « Nouveau message » présent en
 haut de la page.
 
-image:/assets/envoyer-message.png[]
-
 Vous accédez à la fenêtre de création d’un message.
 
-image:/assets/creation.png[alt=""]
+image:/assets/creation.png[]
 
 (1) Indiquez le(s) destinataire(s) de votre message dans le champ « A » en
 saisissant les trois premières lettres de son nom ou en appuyant sur entrée. Vous pouvez adresser un message à un utilisateur en particulier (par exemple un élève), ou à un groupe d’utilisateurs (par exemple les parents d’élèves de Terminale).
@@ -47,7 +38,7 @@ souhaitez leur adresser une copie du message.
 
 Pour sélectionner les destinataires de votre message : 
 
-image:/assets/Messagerie.png[alt=""]
+image:/assets/Messagerie.png[]
 
 1. Effectuez votre recherche
 2. Les résultats s'affichent dans la liste déroulante
@@ -57,27 +48,27 @@ Dans la fenêtre de saisie de contenu, rédigez votre message
 (1). Cliquez sur "Ajouter une pièce jointe" (2) pour joindre un document
 à votre message.
 
-image:/assets/rediger.png[alt=""]
+image:/assets/rediger.png[]
 
 Choisissez le document depuis votre poste de travail.
 
 image:../../wp-content/uploads/2015/07/m41.png[width=445,height=237]
 
 En cochant « Ajouter une signature », vous pouvez maintenant paramétrer l’ajout d’une signature pour ce message et pour les suivants. 
-image:/assets/signature.png[alt=""]
+image:/assets/signature.png[]
 
 L’option pourra être à tout moment décochée et le texte modifié : en cliquant sur la flèche vous faites apparaître le bloc de texte dédié à la signature.
-image:/assets/signature-demo.png[alt=""]
+image:/assets/signature-demo.png[]
 
 Lorsque vous commencez la rédaction de votre message, un brouillon est automatiquement créé dans la rubrique « brouillon » de votre messagerie. 
 
-image:/assets/brouillon.png[alt="", width=180]
+image:/assets/brouillon.png[, width=180]
 
 Toutes les modifications effectuées sont automatiquement enregistrées. Vous pouvez donc interrompre à tout moment la création de votre message et la reprendre plus tard en vous rendant dans l’onglet « brouillon ».
 
 Une fois que votre message est prêt, vous pouvez l'envoyer.
 
-image:/assets/envoyer.png[alt=""]
+image:/assets/envoyer.png[]
 
 [[cas-d-usage-2]]
 == Visualiser mes messages reçus
@@ -91,27 +82,27 @@ Une fois dans l’appli messagerie, les nouveaux messages sont visibles
 dans la notification indiquée dans le dossier « boîte de réception ». Le
 nombre de messages non lus est indiqué dans la bulle à droite de la mention « Boîte de réception ».
 image:/assets/Messagerie 1.png[alt="
-image:/assets/enveloppe-fermee.png[alt=""]
+image:/assets/enveloppe-fermee.png[]
 
 Sur l’écran central, les messages non lus apparaissent en bleu dans la liste et sont indiqués par une enveloppe fermée. 
 
-image:/assets/icones.png[alt=""]
+image:/assets/icones.png[]
 
 (1) Une flèche indique que le message a été traité et qu’une réponse a été envoyée. 
 
 (2) Le trombone indique que le message comporte une pièce jointe
 
-image:/assets/Messagerie 2.png[alt="image:/assets/message-non-lu-recherche.png[alt=""]
+image:/assets/Messagerie 2.png[alt="image:/assets/message-non-lu-recherche.png[]
 (1) Le filtre « messages non lus » vous permet de ne faire apparaître que les messages qui n’ont pas encore été lus.
 
 (2) La barre de recherche vous permet de rechercher un message dans le dossier en cours de consultation grâce au nom d’un utilisateur, un mot clé présent dans l’objet ou le contenu.
 
 Cliquez sur le titre d’un message pour en lire le contenu.
-image:/assets/messagerie 3.png[alt="image:/assets/lire-message.png[alt=""]
+image:/assets/messagerie 3.png[alt="image:/assets/lire-message.png[]
 
 Les flèches présentes en haut à gauche du message permettent de passer d’un message à un autre au sein de la catégorie ou la sélection.
 
-image:/assets/messagerie 4.png[alt="image:/assets/fleches.png[alt=""]
+image:/assets/messagerie 4.png[alt="image:/assets/fleches.png[]
 
 En revenant à la liste de vos messages dans la rubrique « Boîte de réception » de votre messagerie, vous pouvez :
 
@@ -123,7 +114,7 @@ En revenant à la liste de vos messages dans la rubrique « Boîte de réception
 
 (4) les marquer comme non lu
 
-image:/assets/messagerie 5.png[alt="image:/assets/nonlu-deplacement.png[alt=""]
+image:/assets/messagerie 5.png[alt="image:/assets/nonlu-deplacement.png[]
 
 
 [[cas-d-usage-3]]
@@ -132,13 +123,13 @@ image:/assets/messagerie 5.png[alt="image:/assets/nonlu-deplacement.png[alt=""]
 Lorsque vous avez cliquez sur le titre d’un message, vous accédez à son contenu. 
 Le bouton « répondre » en haut à droite vous permet de répondre à l’émetteur du message. 
 image:/assets/Messagerie 6.png[alt="
-image:/assets/repondre-message.png[alt=""]
+image:/assets/repondre-message.png[]
 
 La fenêtre de création d’un message s’ouvre. L’émetteur du message reçu est automatiquement ajouté en tant que destinataire.
 
 Si vous avez reçu un message groupé vous pouvez cliquez sur le bouton « + » (1) présent en haut à droite pour faire apparaître les options secondaires :
 
-image:/assets/Messagerie 7.png[alt="image:/assets/traiter-message.png[alt=""]
+image:/assets/Messagerie 7.png[alt="image:/assets/traiter-message.png[]
 
 (2) Répondre à tous : tous les destinataires du messages reçus sont automatiquement ajoutés dans les champs « à » et « en copie » selon la répartition du message d’origine. 
 

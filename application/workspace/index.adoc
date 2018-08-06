@@ -1,21 +1,4 @@
-[[documents]]
-= Espace Documentaire
-
 À chacun son classeur numérique ! Grâce à l’application *Espace documentaire*, retrouvez, au même endroit, tous les documents utilisés à travers vos applis. Stockez d’autres fichiers et organisez-les dans votre espace en fonction de leurs thématiques, du cours ou de la classe concernée !
-
-[[summary]]
-* link:index.html?iframe=true#presentation[Présentation]
-* link:index.html?iframe=true#cas-d-usage-1[Naviguer dans mon Espace Documentaire]
-* link:index.html?iframe=true#cas-d-usage-2[Importer un document]
-* link:index.html?iframe=true#cas-d-usage-3[Partager un document]
-* link:index.html?iframe=true#cas-d-usage-4[Déplacer un document ou un
-dossier]
-* link:index.html?iframe=true#cas-d-usage-5[Connaître l'espace de
-stockage disponible]
-* link:index.html?iframe=true#cas-d-usage-6[Ajouter la nouvelle version
-d'un document]
-* link:index.html?iframe=true#cas-d-usage-7[Accéder aux anciennes
-versions de son document]
 
 image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
@@ -25,10 +8,10 @@ Pour accéder à l’appli Espace Documentaire, cliquez sur l’icône
 correspondante dans la page « Mes
 applis ».
 
-image:/assets/Espace doc 1.png[alt=""]
+image:/assets/Espace doc 1.png[]
 L’application Espace Documentaire d’un utilisateur est composée de 4 dossiers :
 
-image:/assets/Espace doc 2.png[alt=""]
+image:/assets/Espace doc 2.png[]
 
 *Mes documents*
 Dans ce dossier, vous pouvez charger tous types de fichiers depuis votre ordinateur, qu’il s’agisse de documents texte ou PDF, d’images, de vidéos ou d’extraits audio. Classez ces fichiers dans des dossier pour les retrouver plus facilement. En quelques clics, partagez vos documents personnels avec d’autres utilisateurs en leur attribuant des droits de consultation, de contribution ou de commentaire, selon vos besoins.
@@ -56,7 +39,7 @@ et vous pouvez choisir les actions à effectuer. +
 Vous devez cliquer une nouvelle fois sur le fichier ou le dossier pour
 le désélectionner.
 
-image:/assets/Espace doc 3.png[alt=""]
+image:/assets/Espace doc 3.png[]
 
 '''''
 
@@ -83,7 +66,7 @@ dossier.
 Pour importer un document dans votre espace de stockage personnel,
 cliquez sur le bouton « Importer » situé en haut de l’interface.
 
-image:/assets/Import bouton.png[alt=""]
+image:/assets/Import bouton.png[]
 
 Dans la nouvelle fenêtre, suivez les étapes suivantes :
 
@@ -92,9 +75,9 @@ document(s) que vous souhaitez enregistrer dans l’espace documentaire. Vous po
 
 2.  Cliquez sur « Importer ».
 
-image:/assets/Fenetre import vide.png[alt=""]
+image:/assets/Fenetre import vide.png[]
 
-image:/assets/Fenetre import full.png[alt=""]
+image:/assets/Fenetre import full.png[]
 
 
 
@@ -110,7 +93,7 @@ effectuant un glisser-déposer. Pour cela, sélectionnez le ou les
 documents à déplacer (1) depuis votre espace de travail et glissez-le
 vers son nouvel emplacement (2).
 
-image:/assets/Espace doc 6.png[alt=""]
+image:/assets/Espace doc 6.png[]
 
 [[cas-d-usage-3]]
 == Partager un document
@@ -119,7 +102,7 @@ Pour partager votre document avec d’autres utilisateurs, suivez les étapes su
 * Sélectionnez le document en question en cliquant sur l'encoche (1)
 * Cliquez sur le bouton "Partager" en bas de l'écran (2)
 
-image:/assets/partage-doc.png[alt=""]
+image:/assets/partage-doc.png[]
 
 La fenêtre de partage apparaît. Pour attribuer des droits à d’autres utilisateurs, suivez les étapes suivantes :
 * Saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez (1)
@@ -128,7 +111,7 @@ La fenêtre de partage apparaît. Pour attribuer des droits à d’autres utilis
 
 Cliquez ensuite sur le bouton "Partager"
 
-image:/assets/partagedocumentaire.png[alt=""]
+image:/assets/partagedocumentaire.png[]
 
 [[cas-d-usage-4]]
 == Déplacer un document ou un dossier
@@ -137,7 +120,7 @@ Vous pouvez déplacer vos documents et vos dossiers facilement dans votre
 espace documentaire. Pour cela, sélectionnez le document ou le dossier à
 déplacer (1) et glissez-le vers son nouvel emplacement (2).
 
-image:/assets/Espace doc 7.png[alt=""]
+image:/assets/Espace doc 7.png[]
 
 '''''
 

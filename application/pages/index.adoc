@@ -1,14 +1,4 @@
-[[pages]]
-= Pages
-
 Créer vos propres sites web en quelques clics ! Avec l’appli *Pages*, vous pouvez créer et publier des contenus facilement sur votre propre site, composé, par exemple, des productions provenant d'autres applications comme vos Blogs ou vos Frises Chronologiques. Pratique !
-
-[[summary]]
-* link:index.html?iframe=true#presentation[Présentation]
-* link:index.html?iframe=true#cas-d-usage-1[Créer un projet]
-* link:index.html?iframe=true#cas-d-usage-2[Partager un projet]
-* link:index.html?iframe=true#cas-d-usage-3[Créer et éditer une nouvelle
-page]
 
 image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
@@ -80,8 +70,6 @@ d’utilisateurs que vous recherchez (1).
 attribuer (3).
 
 Cliquez ensuite sur le bouton "Partager"
-
-image:/assets/Partage Pages.png[]
 
 Vous pouvez attribuer différents droits aux autres utilisateurs de
 l’ENT :

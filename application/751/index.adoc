@@ -4,13 +4,6 @@
 Devenez un maître de l'organisation avec l'appli *Cahier de Texte* ! Créez et organisez vos cours comme vous le souhaitez !
 
 
-[[summary]]
-* link:index.html?iframe=true#presentation[Présentation]
-* link:index.html?iframe=true#cas-d-usage-1[Créer un cahier de textes]
-* link:index.html?iframe=true#cas-d-usage-2[Partager un cahier de
-textes]
-* link:index.html?iframe=true#cas-d-usage-3[Créer une activité]
-
 image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
 

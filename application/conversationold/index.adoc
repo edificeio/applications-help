@@ -3,13 +3,6 @@
 
 Communiquez dans un cadre sécurisé ! Envoyez et recevez tous vos e-mails via l'application *Messagerie*. Intégrez des liens vers vos productions, des images, des vidéos ou des sons, c'est vous le patron ! 
 
-[[summary]]
-* link:index.html?iframe=true#presentation[Présentation]
-* link:index.html?iframe=true#cas-d-usage-1[Envoyer un message]
-* link:index.html?iframe=true#cas-d-usage-2[Visualiser mes messages
-reçus]
-* link:index.html?iframe=true#cas-d-usage-3[Supprimer un message]
-
 image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
 [[presentation]]

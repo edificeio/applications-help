@@ -1,14 +1,4 @@
-[[actualites]]
-= Actualités
-
 L’actu 100 % bahut ! Ne laissez passer aucune info importante sur l’établissement grâce à l’appli *Actualités*. Publiez vos informations, par thématique, en ciblant les destinataires.
-
-[[summary]]
-* link:index.html?iframe=true#presentation[Présentation]
-* link:#cas-d-usage-1[Créer un fil d'actualités]
-* link:#cas-d-usage-2[Partager un fil d'actualités]
-* link:index.html?iframe=true#cas-d-usage-3[Créer une actualité]
-* link:index.html?iframe=true#cas-d-usage-4[Partager une actualité]
 
 image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
@@ -133,7 +123,7 @@ attribuer (lire ou commenter)
 
 Pour valider, cliquez sur le bouton "Partager".
 
-image:/assets/Actus.png[alt=""]
+image:/assets/Actus.png[]
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs
 de l’ENT sur l'actualité sont les suivants :

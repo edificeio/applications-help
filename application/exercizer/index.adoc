@@ -1,32 +1,4 @@
-[[exercices-et-evaluations]]
-= Exercices et évaluations
-
 Des tests qui ont du peps ! Fini les moues boudeuses à l’annonce d’un exercice ! L’appli *Exercices et évaluations* est un outil de création et de diffusion d’épreuves simples ou interactives. QCM, textes à trous, association d’idées, mise en ordre… Créez vos exercices, ou consultez la bibliothèque, puis, distribuez-les à vos élèves et gérer d'une main de maître vos corrections.
-
-[[summary]]
-* link:index.html?iframe=true#presentation[Présentation]
-* link:index.html?iframe=true#cas-d-usage-1[Elève / Apprenant - Réaliser
-un exercice]
-* link:index.html?iframe=true#cas-d-usage-2[Elève / Apprenant – Voir la
-correction d’un exercice]
-* link:index.html?iframe=true#cas-d-usage-3[Enseignant - Créer un
-nouveau sujet]
-* link:index.html?iframe=true#cas-d-usage-4[Enseignant - Distribuer un
-sujet]
-* link:index.html?iframe=true#cas-d-usage-5[Enseignant - Modifier la période de distribution d’un sujet]
-* link:index.html?iframe=true#cas-d-usage-6[Enseignant - Déprogrammer un sujet distribué]
-* link:index.html?iframe=true#cas-d-usage-7[Enseignant - Exclure un élève d’une évaluation distribuée à un groupe]
-* link:index.html?iframe=true#cas-d-usage-8[Enseignant - Partager un
-sujet]
-* link:index.html?iframe=true#cas-d-usage-9[Enseignant - Corriger un
-sujet]
-* link:index.html?iframe=true#cas-d-usage-10[Enseignant - Publier un
-sujet dans la bibliothèque]
-* link:index.html?iframe=true#cas-d-usage-11[Enseignant - Chercher et
-copier un sujet dans la bibliothèque]
-* link:index.html?iframe=true#cas-d-usage-12[Enseignant - Consulter les statistiques d’un sujet]
-* link:index.html?iframe=true#cas-d-usage-13[Enseignant - Importer un sujet]
-* link:index.html?iframe=true#cas-d-usage-14[Enseignant - Exporter un sujet]
 
 
 image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
@@ -218,7 +190,7 @@ Saisissez les premières lettres du nom de l’utilisateur ou du groupe
 d’utilisateurs que vous recherchez puis sélectionnez le nom de
 l’utilisateur ou du groupe. Lorsque vous ajoutez un groupe, la liste des utilisateurs individuels se met à jour dans la colonne de droite. Si vous souhaitez exclure un ou plusieurs élèves d’une distribution à un groupe, supprimez les utilisateurs individuellement. Cliquer ensuite sur le bouton « suivant ».
 
-image:/assets/Exercizer-distribution.png[alt=""]
+image:/assets/Exercizer-distribution.png[]
 
 
 Les options de distribution s’affichent dans la fenêtre ci-dessous.
@@ -238,30 +210,30 @@ Cliquer sur « suivant » puis valider la distribution du sujet.
 == Enseignant - Modifier la période de distribution d’un sujet 
 Afin de modifier la période de distribution d'un sujet déjà lancé, rendez-vous sur l'onglet "Mes corrections" (1), puis sélectionnez le sujet souhaité (2).
 
-image:/assets/modifier_distribution1.png[alt=""]
+image:/assets/modifier_distribution1.png[]
 
 Dans le bloc des informations sur le sujet en haut à gauche, cliquer sur “Modifier” (1). 
-image:/assets/modifier_distribution2.png[alt=""]
+image:/assets/modifier_distribution2.png[]
 
 Renseignez les nouvelles dates et heures de distribution et validez (1). Si le sujet est déjà distribué, vous ne pourrez plus modifier la date de début de l’évaluation. Une notification sera envoyée à tous les apprenants pour les informer de la nouvelle date de fin de distribution. 
-image:/assets/Capture exercizer modification distribution.png[alt=""]
+image:/assets/Capture exercizer modification distribution.png[]
 
 [[cas-d-usage-6]]
 == Enseignant - Déprogrammer un sujet distribué 
 Cliquez sur l’onglet “Mes Corrections” (1), puis cliquez sur le sujet souhaité (2).
-image:/assets/deprogrammer1.png[alt=""]
+image:/assets/deprogrammer1.png[]
 
 Dans le bloc des informations sur sujet en haut à gauche, cliquer sur “Déprogrammer” (1)
 Les apprenants n’auront plus accès au sujet. 
-image:/assets/deprogrammer2.png[alt=""]
+image:/assets/deprogrammer2.png[]
 
 [[cas-d-usage-7]]
 == Enseignant - Exclure un élève d’une évaluation distribuée à un groupe  
 Vous pouvez exclure un ou plusieurs élèves à la distribution. Pour cela, il vous suffit de sélectionner le groupe souhaité, et supprimer le ou les élève(s) à exclure dans la liste “utilisateurs ajoutés” (1)
-image:/assets/exclure1.png[alt=""]
+image:/assets/exclure1.png[]
 
 Si vous avez déjà distribué le sujet, rendez-vous dans “Mes Corrections”. Sélectionnez le sujet souhaité puis cliquez sur le ou les élèves à exclure (1). Cliquez ensuite sur “Exclure de l’évaluation” dans le menu en bas de l’écran (2).
-image:/assets/exclure2.png[alt=""]
+image:/assets/exclure2.png[]
 
 [[cas-d-usage-8]]
 == Enseignant - Partager un sujet
@@ -359,11 +331,7 @@ image:../../wp-content/uploads/2016/09/Bibliothèque-2.jpg[width=500]
 == Enseignant - Consulter les statistiques d’un sujet 
 
 Vous pouvez consulter les statistiques de vos sujets. Pour cela, rendez-vous sur l’onglet “Mes Corrections” (1) puis cliquez sur le sujet souhaité (2).
-image:/assets/Stat1.png[]
-
 Un encart en haut à droite vous donne les statistiques générales du sujet (1). En cliquant sur “Plus de Stats”, vous accédez aux statistiques détaillées du sujet (2).
-image:/assets/Exercizer-stat.png[]
-
 Vous accédez ainsi : 
 
 * Aux résultats par question par élève
@@ -373,23 +341,14 @@ Vous accédez ainsi :
 * A la moyenne générale du sujet (score automatique et score final) 
 
 Pour exporter ces statistiques au format CSV, cliquez sur le bouton “Exporter” en haut à droite depuis la page de Statistiques.
-image:/assets/Exercizer-stat2.png[]
-
 [[cas-d-usage-13]]
 == Enseignant - Importer un sujet
 Il vous est possible d'importer des sujets. Depuis la page mes sujets, cliquez sur l’icône des options, représentée par une petite roue, à droite de l'onglet "Nouveau sujet". Puis sélectionnez "Importer un sujet"
 
-image:/assets/importer1.png[]
-
 Vous accéderez à une note d'information concernant les fichier autorisé depuis Moodle et depuis TD Base :
-image:/assets/importer2.png[]
-
 Charger le sujet au format Moodle XML. Renseignez le titre de votre sujet, une image et une description si nécessaire. Afin de valider, cliquez sur "Importer".
-image:/assets/importer3.png[]
-
 
 [[cas-d-usage-14]]
 == Enseignant - Exporter un sujet
 Il vous est possible d'exporter des sujets. Dans “Mes Sujets”, sélectionnez un sujet interactif (1), puis cliquer sur “Exporter” (2).
 
-image:/assets/Exporter.png[]

@@ -3,12 +3,6 @@
 
 Un problème, une question ? On a pensé à tout ! L'appli *Aide & Support* vous permet d'envoyer votre demande aux administrateurs de l'établissement, pour une communication rapide et fluide.
 
-[[summary]]
-* link:index.html?iframe=true#presentation[Présentation]
-* link:index.html?iframe=true#cas-d-usage-1[Créer une demande]
-* link:index.html?iframe=true#cas-d-usage-2[Transmettre la demande au
-support]
-
 image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
 [[presentation]]

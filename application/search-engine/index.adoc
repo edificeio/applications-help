@@ -3,18 +3,6 @@
 
 Vous cherchez partout ce document qu'on vous a partagé sur l'Egypte Antique mais, impossible de remettre la main dessus ? Pas de panique ! Grâce à l'appli *Moteur de recherche*, retrouvez en un clic tous vos contenus ! 
 
-[[summary]]
-* link:index.html?iframe=true#presentation[Présentation]
-* link:index.html?iframe=true#cas-d-usage-1[Description de la page de
-recherche]
-* link:index.html?iframe=true#cas-d-usage-2[Accès à la page de
-recherche]
-* link:index.html?iframe=true#cas-d-usage-3[Effectuer une recherche]
-* link:index.html?iframe=true#cas-d-usage-4[Champs de recherche par
-application]
-* link:index.html?iframe=true#cas-d-usage-5[Liste des résultats]
-* link:#cas-d-usage-6[Détail d'une ressource de la liste résultat]
-
 image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
 

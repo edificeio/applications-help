@@ -1,15 +1,4 @@
-[[agenda]]
-= Agenda
-
 Une organisation haute en couleur ! Retrouvez, en un clin d'oeil, tous les évènements que vous avez noté et tous ceux que l’on vous a attribué sur l'appli *Agenda*.
-
-[[summary]]
-* link:index.html?iframe=true#presentation[Présentation]
-* link:index.html?iframe=true#cas-d-usage-1[Créer un agenda]
-* link:index.html?iframe=true#cas-d-usage-2[Créer un événement]
-* link:index.html?iframe=true#cas-d-usage-3[Partager un agenda]
-* link:index.html?iframe=true#cas-d-usage-4[Visualiser les événements
-d'un agenda]
 
 image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
@@ -131,7 +120,7 @@ L’accès au partage de la ressource calendrier se fait grace au menu du
 bas lors de la sélection d’un calendrier dans la liste des calendriers
 de l’utilisateur.
 
-image:/assets/Partage Agenda.png[alt=""]
+image:/assets/Partage Agenda.png[]
 
 Dans la fenêtre, vous pouvez donner aux utilisateurs de l’ENT différents
 droits d'accès à votre agenda. Pour cela, suivez les étapes suivantes :

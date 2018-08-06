@@ -3,12 +3,6 @@
 
 Rédigez à plusieurs simultanément ! Le *Pad collaboratif* permet à tous les membres de votre groupe de co-écrire un document en ligne. Travaillez ensemble sur le même texte, où que vous soyez et en même temps !
 
-[[summary]]
-* link:index.html?iframe=true#presentation[Présentation]
-* link:index.html?iframe=true#cas-d-usage-1[Créer un Pad]
-* link:index.html?iframe=true#cas-d-usage-2[Partager un Pad]
-* link:index.html?iframe=true#cas-d-usage-3[Travailler avec un Pad]
-
 image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
 [[presentation]]

@@ -3,13 +3,6 @@
 
 Une question vous démange ? Grâce à l'appli *Sondage*, créez des enquêtes personnalisées et collectez les réponses !
 
-[[summary]]
-* link:index.html?iframe=true#presentation[Présentation]
-* link:index.html?iframe=true#cas-d-usage-1[Créer un sondage]
-* link:index.html?iframe=true#cas-d-usage-2[Partager un sondage]
-* link:index.html?iframe=true#cas-d-usage-3[Insérer un sondage dans une
-page]
-
 image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
 [[presentation]]
@@ -69,7 +62,7 @@ Les différents droits que vous pouvez attribuer sont les suivants :
 
 Pour valider, cliquez sur le bouton "Partager".
 
-image:/assets/Sondages.png[alt=""]
+image:/assets/Sondages.png[]
 Votre sondage est bien créé et partagé.
 
 [[cas-d-usage-3]]

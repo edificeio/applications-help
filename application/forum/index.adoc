@@ -1,16 +1,4 @@
-[[forum]]
-= Forum
-
 L'appli *Forum* est un espace de discussion en ligne, propre à votre réseau éducatif, qui permet à chacun de poser des questions, donner son point de vue, ou tout simplement échanger ses idées !
-
-[[summary]]
-* link:index.html?iframe=true#presentation[Présentation]
-* link:index.html?iframe=true#cas-d-usage-1[Créer et partager une
-catégorie]
-* link:index.html?iframe=true#cas-d-usage-2[Créer une discussion]
-* link:index.html?iframe=true#cas-d-usage-3[Publier un message]
-* link:index.html?iframe=true#cas-d-usage-4[Gérer une catégorie]
-* link:index.html?iframe=true#cas-d-usage-5[Gérer une discussion]
 
 image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
@@ -52,7 +40,7 @@ attribuer
 
 Pour valider, cliquez sur le bouton "Partager", puis "Terminer".
 
-image:/assets/Partage Forum.png[alt=""]
+image:/assets/Partage Forum.png[]
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs
 de l’ENT sur la catégorie de forum sont les suivants :
