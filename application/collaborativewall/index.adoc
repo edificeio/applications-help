@@ -10,8 +10,7 @@ collaboratif]
 * link:index.html?iframe=true#cas-d-usage-2[Ajouter une note au mur
 collaboratif]
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
+image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
 [[presentation]]
 == Présentation
@@ -22,7 +21,7 @@ accompagnée du *nom de son auteur* et de **sa date et heure de
 publication**. Une *couleur de note* est automatiquement attribuée pour
 chaque participant au mur.
 
-image:../../wp-content/uploads/2015/06/m112.png[m1,width=715,height=356]
+image:../../wp-content/uploads/2015/06/m112.png[width=715,height=356]
 
 [[cas-d-usage-1]]
 == Créer et partager un mur collaboratif
@@ -30,13 +29,13 @@ image:../../wp-content/uploads/2015/06/m112.png[m1,width=715,height=356]
 Pour accéder à l’appli Mur collaboratif, cliquez sur l’icône
 correspondante dans la page « Mes applis ».
 
-image:../../wp-content/uploads/2016/08/mur-1.png[image,width=300]
+image:../../wp-content/uploads/2016/08/mur-1.png[width=300]
 
-image:../../wp-content/uploads/2015/06/m11.png[m1,width=100]
+image:../../wp-content/uploads/2015/06/m11.png[width=100]
 
 Dans le service Mur Collaboratif, cliquez sur « Créer un mur ».
 
-image:../../wp-content/uploads/2015/07/c11.png[c1,width=100]
+image:../../wp-content/uploads/2015/07/c11.png[width=100]
 
 Une nouvelle page apparaît.
 
@@ -46,12 +45,12 @@ Une nouvelle page apparaît.
 4.  Choisissez une image de fond
 5.  Cliquez sur « Sauvegarder »
 
-image:../../wp-content/uploads/2016/08/mur-2-1024x474.png[image,width=600,height=278]
+image:../../wp-content/uploads/2016/08/mur-2-1024x474.png[width=600,height=278]
 
 Pour partager le mur, cliquez sur le + (1) correspondant au mur puis sur
 « Partager » (2).
 
-image:../../wp-content/uploads/2016/08/mur-3-1024x501.png[image,width=600,height=294]
+image:../../wp-content/uploads/2016/08/mur-3-1024x501.png[width=600,height=294]
 
 Dans la fenêtre de partage, vous pouvez donner des droits de  lecture,
 de contribution et de gestion à d’autres personnes sur votre mur. Pour
@@ -76,33 +75,33 @@ image:/assets/Mur collaboratif.png[alt=""]
 
 Pour créer une note sur un mur, cliquez sur le mur souhaité.
 
-image:../../wp-content/uploads/2016/08/mur-4-1024x229.png[image,width=600,height=134] +
+image:../../wp-content/uploads/2016/08/mur-4-1024x229.png[width=600,height=134] +
 Puis cliquez sur « Nouvelle note ».
 
-image:../../wp-content/uploads/2015/07/c4.png[c4,width=531,height=359]
+image:../../wp-content/uploads/2015/07/c4.png[width=531,height=359]
 
 Un post-it apparaît, présentant différentes fonctionnalités disponibles
 sur la partie supérieure droite. +
-image:../../wp-content/uploads/2015/06/m9.png[m9,width=167,height=169]
+image:../../wp-content/uploads/2015/06/m9.png[width=167,height=169]
 
 Pour modifier  la couleur de la note, cliquez
-sur: image:../../wp-content/uploads/2015/06/m10.png[m10,width=26,height=25]
+sur: image:../../wp-content/uploads/2015/06/m10.png[width=26,height=25]
 
 Une palette de couleurs apparait sur la partie supérieure de la page.
 Cliquez sur la couleur désirée.
 
-image:../../wp-content/uploads/2015/06/m111.png[m11,width=666,height=33]
+image:../../wp-content/uploads/2015/06/m111.png[width=666,height=33]
 
 Pour afficher l'auteur de la note, cliquez
-sur: image:../../wp-content/uploads/2015/06/m12.png[m12,width=27,height=23]
+sur: image:../../wp-content/uploads/2015/06/m12.png[width=27,height=23]
 
-image:../../wp-content/uploads/2015/06/m13.png[m13,width=530,height=79]
+image:../../wp-content/uploads/2015/06/m13.png[width=530,height=79]
 
 Pour ajouter du contenu à la note, cliquez
-sur: image:../../wp-content/uploads/2015/06/m14.png[m14,width=27,height=24]
+sur: image:../../wp-content/uploads/2015/06/m14.png[width=27,height=24]
 
-image:../../wp-content/uploads/2016/01/éditeur-texte_mur_collabora-1024x288.png[image,width=737,height=207]
+image:../../wp-content/uploads/2016/01/éditeur-texte_mur_collabora-1024x288.png[width=737,height=207]
 
 Pour supprimer la note, cliquez
-sur: image:../../wp-content/uploads/2015/06/m16.png[m16,width=25,height=22]
+sur: image:../../wp-content/uploads/2015/06/m16.png[width=25,height=22]
 

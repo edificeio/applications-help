@@ -9,8 +9,7 @@ Un problème, une question ? On a pensé à tout ! L'appli *Aide & Support* vous
 * link:index.html?iframe=true#cas-d-usage-2[Transmettre la demande au
 support]
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
+image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
 [[presentation]]
 == Présentation
@@ -23,7 +22,7 @@ permet de consulter rapidement la demande. Il peut alors la *mettre à
 jour* ou **changer son statut**. L’utilisateur recevra à son tour une
 *notification* pour être averti des modifications et réponses.
 
-image:../../wp-content/uploads/2016/08/aide_1-1024x248.png[image,width=700]
+image:../../wp-content/uploads/2016/08/aide_1-1024x248.png[width=700]
 
 [[cas-d-usage-1]]
 == Créer une demande
@@ -31,7 +30,7 @@ image:../../wp-content/uploads/2016/08/aide_1-1024x248.png[image,width=700]
 La demande de création se fait en cliquant sur le bouton « Nouvelle
 demande » (1) disponible sur la page principale du service.
 
-image:../../wp-content/uploads/2016/08/aide_2-1024x248.png[image,width=700]
+image:../../wp-content/uploads/2016/08/aide_2-1024x248.png[width=700]
 
 La page de création d’une nouvelle demande se présente comme suit :
 
@@ -51,8 +50,7 @@ d’écran ou un document pour illustrer votre propos.
 La saisie est enregistrée lorsque vous cliquez sur le bouton
 « Enregistrer »(6).
 
-link:../../wp-content/uploads/2016/04/4-Assistance-ENT.png[image:../../wp-content/uploads/2016/04/4-Assistance-ENT-1024x370.png[4-
-Assistance ENT,width=601,height=217]]
+image:../../wp-content/uploads/2016/04/4-Assistance-ENT-1024x370.png[width=601,height=217]
 
 La création d’une nouvelle demande donne lieu à l'envoi d'une
 notification dans le fil de nouveautés de l’administrateur de
@@ -69,8 +67,7 @@ Les référents ENT reçoivent toutes les demandes des utilisateurs et
 peuvent choisir d'y répondre ou de la transmettre au service de support.
 Pour ce faire, les référents ENT doivent cliquer sur le texte en forme
 de lien "Transmettre la demande au support" (1). +
-link:../../wp-content/uploads/2016/04/6-Assistance-ENT.png[image:../../wp-content/uploads/2016/04/6-Assistance-ENT-1024x286.png[6-
-Assistance ENT,width=612,height=171]] +
+image:../../wp-content/uploads/2016/04/6-Assistance-ENT-1024x286.png[width=612,height=171]
 Les référents ENT et les demandeurs de l'établissement seront notifiés
 sur leur fil de nouveauté lorsque le support aura fourni une réponse à
 la demande.
@@ -78,7 +75,7 @@ la demande.
 Le référent ENT et le demandeur peuvent visualiser l'ensemble des
 échanges.
 
-image:../../wp-content/uploads/2016/08/aide_3-1024x455.png[aide_3,width=600,height=267]
-image:../../wp-content/uploads/2016/08/aide_4-1024x432.png[aide_4,width=600,height=253]
+image:../../wp-content/uploads/2016/08/aide_3-1024x455.png[width=600,height=267]
+image:../../wp-content/uploads/2016/08/aide_4-1024x432.png[width=600,height=253]
 
 

@@ -9,8 +9,7 @@ Rédigez à plusieurs simultanément ! Le *Pad collaboratif* permet à tous les 
 * link:index.html?iframe=true#cas-d-usage-2[Partager un Pad]
 * link:index.html?iframe=true#cas-d-usage-3[Travailler avec un Pad]
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
+image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
 [[presentation]]
 == Présentation
@@ -36,7 +35,7 @@ description (3).
 
 Cliquez enfin sur « Enregistrer » (4).
 
-image:../../wp-content/uploads/2016/01/nouveaupad2.png[nouveaupad2,width=598,height=145]
+image:../../wp-content/uploads/2016/01/nouveaupad2.png[width=598,height=145]
 
  
 
@@ -47,7 +46,7 @@ Pour partager un Pad avec d’autres utilisateurs, cliquez sur la case à
 cocher correspondant à votre Pad (1) puis sur le bouton « Partager »
 (2).
 
-image:../../wp-content/uploads/2016/01/partagePad.png[partagePad,width=599,height=236]
+image:../../wp-content/uploads/2016/01/partagePad.png[width=599,height=236]
 
 Dans la fenêtre, vous pouvez donner aux utilisateurs différents droits
 d'accès à votre Pad. Pour cela, suivez les étapes suivantes :
@@ -58,7 +57,7 @@ d’utilisateurs que vous recherchez.
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur
 attribuer.
 
-image:/assets/Partage Pad.png[image,width=450,height=326]
+image:/assets/Partage Pad.png[width=450,height=326]
 Les droits de partage que vous pouvez attribuer aux autres utilisateurs
 sont les suivants :
 
@@ -78,7 +77,7 @@ Pour travailler avec un Pad partagé, il vous suffit de saisir le texte
 qui sera transmis automatiquement à tous les collaborateurs en ligne sur
 ce même Pad.
 
-image:../../wp-content/uploads/2016/01/TravaillerPad.png[TravaillerPad,width=599,height=316]
+image:../../wp-content/uploads/2016/01/TravaillerPad.png[width=599,height=316]
 
 1.  Saisissez du texte dans votre Pad.
 2.  Dès lors qu’un collaborateur contribue, sa contribution s’affiche en
@@ -91,7 +90,7 @@ travaux.
 (gras, italique, souligné, etc.)
 * La partie droite offre certaines fonctionnalités complémentaires :
 
-link:../../wp-content/uploads/2016/01/barre-outil.png[image:../../wp-content/uploads/2016/01/barre-outil.png[barre-outil,width=189,height=42]]
+image:../../wp-content/uploads/2016/01/barre-outil.png[width=189,height=42]
 
 * Importer/exporter un Pad dans divers formats ;
 * Accéder à l’historique dynamique. Cette fonctionnalité présente une

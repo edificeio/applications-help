@@ -8,8 +8,7 @@ Besoin de communiquer, partager ou collaborer au sein d'un petit groupe d'utilis
 * link:index.html?iframe=true#cas-d-usage-1[Créer et partager une
 communauté]
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
+image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]]
 
 [[presentation]]
 == Présentation
@@ -22,7 +21,7 @@ sportive, ...), il est possible de définir précisément les droits de
 chaque utilisateur et les applis mises à disposition (blog, wiki,
 documents, forum, pages...).
 
-image:../../wp-content/uploads/2016/04/Communaut_Pres-ConvertImage.png[Communaut_Pres-ConvertImage,width=600,height=266]
+image:../../wp-content/uploads/2016/04/Communaut_Pres-ConvertImage.png[width=600,height=266]
 
 [[cas-d-usage-1]]
 == Créer et partager une communauté
@@ -30,7 +29,7 @@ image:../../wp-content/uploads/2016/04/Communaut_Pres-ConvertImage.png[Communaut
 Pour accéder à l’appli Communautés, cliquez sur l’icône correspondante
 dans la page « Mes applis ».
 
-image:../../wp-content/uploads/2016/04/Mes_Applis_3-1024x231.png[Mes_Applis_3,width=600,height=135]
+image:../../wp-content/uploads/2016/04/Mes_Applis_3-1024x231.png[width=600,height=135]
 
 Cliquez sur « Créer une communauté ».
 

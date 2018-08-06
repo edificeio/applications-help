@@ -18,8 +18,7 @@ d’un établissement]
 * link:index.html?iframe=true#cas-d-usage-8[Cas d’usage de création d’un
 groupe manuel]
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
+image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
 
 [[presentation]]
@@ -45,22 +44,22 @@ accéder à la console d’administration. Pour accéder à la console
 d’administration, connectez-vous à l’ENT, puis cliquez sur l’appli «
 Administration » dans la page « Mes applis ».
 
-image:../../wp-content/uploads/2016/04/Image32-1024x348.png[Image3,width=512,height=174]
+image:../../wp-content/uploads/2016/04/Image32-1024x348.png[width=512,height=174]
 
 Deux menus sont accessibles dans la console d’administration :
 
-image:../../wp-content/uploads/2015/07/a22.png[a2,width=150]
+image:../../wp-content/uploads/2015/07/a22.png[width=150]
 
 * L’annuaire permettant de gérer les comptes des utilisateurs, les
 classes, les groupes et la gestion des doublons.
 
-image:../../wp-content/uploads/2015/07/a31.png[a3,width=576,height=88]
+image:../../wp-content/uploads/2015/07/a31.png[width=576,height=88]
 
 * Les règles de communication permettant de définir à qui un utilisateur
 peut envoyer un message, partager des contenus et à quels utilisateurs
 il aura accès dans l’annuaire.
 
-image:../../wp-content/uploads/2015/07/a4.png[a4,width=576] 
+image:../../wp-content/uploads/2015/07/a4.png[width=576] 
 
 Pour passer d’un menu à l’autre, glissez la souris sur le bandeau gris
 de navigation.
@@ -73,7 +72,7 @@ de navigation.
 Pour accéder aux comptes des utilisateurs, cliquez sur le menu annuaire
 (1) puis sur l’onglet « Opérations sur les utilisateurs » (2)
 
-image:../../wp-content/uploads/2015/07/a51.png[a5,width=654,height=100]
+image:../../wp-content/uploads/2015/07/a51.png[width=654,height=100]
 
 Les structures auxquelles vous êtes rattaché apparaissent sur la partie
 de gauche. Cliquez sur une structure pour faire apparaitre les éléments
@@ -82,22 +81,22 @@ suivants :
 * La liste des utilisateurs rattachés à l’établissement (3)
 * Les boutons d’action pour faciliter une recherche (4)
 
-image:../../wp-content/uploads/2015/07/a6.png[a6,width=597,height=279]
+image:../../wp-content/uploads/2015/07/a6.png[width=597,height=279]
 
 Vous pouvez effectuer les opérations suivantes :
 
 * Afficher/cacher les filtres
- image:../../wp-content/uploads/2015/07/a7.png[a7,width=20,height=20]
+ image:../../wp-content/uploads/2015/07/a7.png[width=20,height=20]
 
-* Ordonner par nom/rôle image:../../wp-content/uploads/2015/07/a8.png[a8,width=20,height=20]
+* Ordonner par nom/rôle image:../../wp-content/uploads/2015/07/a8.png[width=20,height=20]
 
-* Créer un utilisateur image:../../wp-content/uploads/2015/07/a9.png[a9,width=20,height=20]
+* Créer un utilisateur image:../../wp-content/uploads/2015/07/a9.png[width=20,height=20]
 
-* Afficher la légende image:../../wp-content/uploads/2015/07/a10.png[a10,width=20,height=20]
+* Afficher la légende image:../../wp-content/uploads/2015/07/a10.png[width=20,height=20]
 
 La légende est la suivante : 
 
-image:../../wp-content/uploads/2015/07/a11.png[a11,width=100,height=138,5]
+image:../../wp-content/uploads/2015/07/a11.png[width=100,height=138,5]
 
 1.  *Effectuer une recherche filtrée*
 
@@ -112,14 +111,14 @@ filtres » (1). Plusieurs filtres sont disponibles :
 Pour faciliter votre recherche, vous pouvez cliquer sur les boutons
 suivants :
 
-* pour sélectionner tous les champs image:../../wp-content/uploads/2015/07/a12.png[a12,width=26,height=20]
+* pour sélectionner tous les champs image:../../wp-content/uploads/2015/07/a12.png[width=26,height=20]
 
-* pour désélectionner tous les champs image:../../wp-content/uploads/2015/07/a13.png[a13,width=26,height=20]
+* pour désélectionner tous les champs image:../../wp-content/uploads/2015/07/a13.png[width=26,height=20]
 
 Après avoir choisi les filtres souhaités (2), la liste des résultats
 apparaît sur la partie gauche de l’écran (3).
 
-image:../../wp-content/uploads/2015/07/a14.png[a14,width=552,height=578] 
+image:../../wp-content/uploads/2015/07/a14.png[width=552,height=578] 
 
 *2. Effectuer une recherche par nom ou par prénom*
 
@@ -129,7 +128,7 @@ résultats s’affichent automatiquement (2).
 
 Le critère de recherche se combine avec le filtre éventuellement activé.
 
-image:../../wp-content/uploads/2015/07/a15.png[a15,width=598,height=299]
+image:../../wp-content/uploads/2015/07/a15.png[width=598,height=299]
 
  
 
@@ -152,7 +151,7 @@ l’AAF)
 * L’attribution de structures et de classes de rattachement
 * L’attribution de droits d’administrateur central et local
 
-image:../../wp-content/uploads/2015/07/a17.png[a17,width=312,height=365,25]image:../../wp-content/uploads/2015/07/a18.png[a18,width=325,5,height=284,25]
+image:../../wp-content/uploads/2015/07/a17.png[width=312,height=365,25]image:../../wp-content/uploads/2015/07/a18.png[width=325,5,height=284,25]
 
 *1.  Changer le mot de passe d'un utilisateur*
 
@@ -177,7 +176,7 @@ saisissez le nombre souhaité (2) puis cliquez sur « Enregistrer » (3).
 Si le quota attribué est trop élevé par rapport à la limite fixée, un
 message d’erreur apparaît.
 
-image:../../wp-content/uploads/2015/07/a24.png[a2,width=200] +
+image:../../wp-content/uploads/2015/07/a24.png[width=200] +
 
 *3. Attribuer la fonction d’administrateur local à un utilisateur*
 
@@ -192,11 +191,10 @@ Pour cela, suivez les étapes ci-dessous :
 saisir le début de son prénom dans la barre de recherche
 4.  Au bas de la fiche utilisateur, cliquez sur « Attribuer »
 
-image:../../wp-content/uploads/2015/07/a32.png[a3,width=200] +
-image:../../wp-content/uploads/2015/07/a41.png[a4,width=550]
+image:../../wp-content/uploads/2015/07/a32.png[width=200] +
+image:../../wp-content/uploads/2015/07/a41.png[width=550]
 
-*4. link:../../wp-content/uploads/2015/07/a181.png[ ]Créer manuellement
-un nouvel utilisateur*
+*4. Créer manuellement un nouvel utilisateur*
 
 Pour créer un nouvel utilisateur, dans l’annuaire, cliquez sur l’icône
 « Créer un utilisateur » (1) puis saisissez les informations suivantes 
@@ -210,7 +208,7 @@ invité
 utilisateurs élèves)
 * La classe de rattachement à sélectionner dans la liste déroulante.
 
-image:../../wp-content/uploads/2015/07/a53.png[a5,width=532,height=275]
+image:../../wp-content/uploads/2015/07/a53.png[width=532,height=275]
 
 Pour finaliser la création du compte, cliquez sur « Créer » (3). Vous
 pouvez vous rendre sur la fiche de ce nouvel utilisateur pour obtenir
@@ -229,8 +227,8 @@ Pour cela, suivez les étapes ci-dessous :
 le début de son prénom pour le trouver plus rapidement
 * Cliquez sur « Bloquer »
 
-image:../../wp-content/uploads/2015/07/a34.png[a3,width=200] +
-image:../../wp-content/uploads/2015/07/a42.png[a4,width=635,height=296]
+image:../../wp-content/uploads/2015/07/a34.png[width=200] +
+image:../../wp-content/uploads/2015/07/a42.png[width=635,height=296]
 
 Pour débloquer le compte d’un utilisateur, cliquez sur « débloquer ».
 L’utilisateur accédera à nouveau à son compte. (Le bouton « Débloquer »
@@ -255,7 +253,7 @@ Pour consulter tous les utilisateurs d’une classe, cliquez sur le lien
 sur la page « Opérations sur les utilisateurs » où les membres de la
 classe apparaissent. 
 
-image:../../wp-content/uploads/2015/07/a61.png[a6,width=597,height=453] +
+image:../../wp-content/uploads/2015/07/a61.png[width=597,height=453] +
 *1. Exporter les comptes des utilisateurs d’une classe*
 
 Pour générer un fichier contenant la liste des utilisateurs rattachés à
@@ -263,7 +261,7 @@ une classe, cliquez sur « Exporter » (1). Le fichier généré est au
 format CSV (Comma Separated Value) et peut être importé dans un logiciel
 de type tableur (Microsoft Excel, Open Office Calc, etc…)
 
-image:../../wp-content/uploads/2015/07/a71.png[a7,width=548,height=412]
+image:../../wp-content/uploads/2015/07/a71.png[width=548,height=412]
 
 Les informations présentes dans le fichier sont les suivantes :
 
@@ -289,7 +287,7 @@ Pour cela, dans l’annuaire, cliquez sur « Opérations sur les classes »
 (1), sélectionnez un type de profil (2), attribuez l’unité et le nombre
 de l’espace de stockage (3) puis cliquez sur « Enregistrer » (4).
 
-image:../../wp-content/uploads/2015/07/a54.png[a5,width=523,height=350]
+image:../../wp-content/uploads/2015/07/a54.png[width=523,height=350]
 
 [[cas-d-usage-5]]
 == Opérations sur les groupes
@@ -305,7 +303,7 @@ Pour créer un groupe manuel, cliquez sur « Annuaire » (1), sur
 Saisissez le nom du groupe (4) et cliquez sur le bouton « Enregistrer »
 (5). Le groupe est créé mais aucun utilisateur n’y est encore rattaché.
 
-image:../../wp-content/uploads/2015/07/a81.png[a8,width=615,height=229] +
+image:../../wp-content/uploads/2015/07/a81.png[width=615,height=229] +
 *2. Rattacher des utilisateurs à un groupe manuel*
 
 Pour rattacher des utilisateurs à un groupe manuel, suivez les étapes
@@ -322,7 +320,7 @@ classe si nécessaire
 Les membres du groupe apparaissent dans la section « utilisateurs dans
 le groupe ».
 
-image:../../wp-content/uploads/2015/07/a91.png[a9,width=610,height=382]
+image:../../wp-content/uploads/2015/07/a91.png[width=610,height=382]
 
 Pour retirer un utilisateur du groupe, cliquez sur son identifiant dans
 la section « utilisateurs dans le groupe ».
@@ -360,7 +358,7 @@ activation de compte
 Un fichier contenant la liste de tous les utilisateurs rattachés à
 l’établissement est généré.
 
-image:../../wp-content/uploads/2015/07/a19.png[a1,width=633,height=245]
+image:../../wp-content/uploads/2015/07/a19.png[width=633,height=245]
 
 Le fichier est au format CSV (Comma Separated Value) et peut être
 *importé* dans un logiciel de type tableur (Microsoft Excel, Open Office
@@ -414,7 +412,7 @@ l’onglet **règles personnalisées**.
 Pour visualiser les règles par défaut, cliquez sur « Règles de
 communication » (1), puis sur « Règles par défaut » (2).
 
-image:../../wp-content/uploads/2015/07/a110.png[a1,width=450]
+image:../../wp-content/uploads/2015/07/a110.png[width=450]
 
 Dans la capture d’écran ci-dessus, les règles de communication par
 défaut sont les suivantes :
@@ -463,9 +461,9 @@ communication
 sortante, entrante ou dans les deux sens.
 6.  Cliquez sur « Modifier »
 
-image:../../wp-content/uploads/2015/07/a25.png[a2,width=628,height=336]
+image:../../wp-content/uploads/2015/07/a25.png[width=628,height=336]
 
-image:../../wp-content/uploads/2015/07/a43.png[a4,width=645,height=286]
+image:../../wp-content/uploads/2015/07/a43.png[width=645,height=286]
 
 Les règles sont bien établies.
 
@@ -478,13 +476,13 @@ Les règles sont bien établies.
 
 Pour créer un nouveau groupe, allez dans « Opérations sur les groupes »
 (1), cliquez sur le nom du lycée (2) puis sur l'icône suivant (3) +
-image:../../wp-content/uploads/2015/07/a36.png[a3,width=30] +
+image:../../wp-content/uploads/2015/07/a36.png[width=30] +
 Saisissez ensuite le nom du groupe puis cliquez sur « Créer ». +
 Il est possible de typer le groupe comme un groupe d’enseignement en le
 rattachant à une classe. En faisant cela, le groupe suivra le cycle de
 transition d’année scolaire et sera supprimé à la fin de l’année.
 
-image:../../wp-content/uploads/2015/07/a44.png[a4,width=642,height=187] +
+image:../../wp-content/uploads/2015/07/a44.png[width=642,height=187] +
 Sélectionner ensuite votre groupe (5) puis ajoutez-y des utilisateurs en
 cliquant sur leur nom (6).
 
@@ -494,7 +492,7 @@ la partie de droite (7).
 Pour filtrer les utilisateurs, utilisez les listes déroulantes ou la
 zone de texte (8), la liste se met à jour automatiquement.
 
-image:../../wp-content/uploads/2015/07/a55.png[a5,width=500] 
+image:../../wp-content/uploads/2015/07/a55.png[width=500] 
 
 *2. Rendre le groupe visible*
 
@@ -507,7 +505,7 @@ personnalisées » (2).
 Saisissez ensuite une partie du nom du groupe (3) pour le retrouver plus
 facilement (4).
 
-image:../../wp-content/uploads/2015/07/a62.png[a6,width=550] +
+image:../../wp-content/uploads/2015/07/a62.png[width=550] +
 Dans un premier temps allez dans « Paramétrage du groupe » (5) pour
 ouvrir la communication.
 
@@ -515,7 +513,7 @@ Il faut d’abord choisir si les membres du groupe doivent pouvoir voir le
 groupe et se voir entre eux. Si c’est le cas, choisissez « Communication
 dans les deux sens » (6) puis cliquez sur « Modifier » (7).
 
-image:../../wp-content/uploads/2015/07/a113.png[a1,width=400]
+image:../../wp-content/uploads/2015/07/a113.png[width=400]
 
 * Si les membres du groupe ne doivent pas se voir, il s’agit soit :
 ** Du cas d’une liste de diffusion (communication entrante)
@@ -523,7 +521,7 @@ image:../../wp-content/uploads/2015/07/a113.png[a1,width=400]
 (communication sortante)
 
 Dans ces deux cas, les membres ne verront pas le groupe. +
-link:../../wp-content/uploads/2015/07/a83.png[image:../../wp-content/uploads/2015/07/a83.png[a8,width=400]]
+image:../../wp-content/uploads/2015/07/a83.png[width=400]
 
 *3. Ajouter des droits de communication*
 
@@ -533,16 +531,14 @@ personnalisées » (1), saisissez une partie du nom du groupe pour le
 retrouver plus facilement (2) puis cochez le groupe à rendre visible
 pour les membres de votre groupe (3).
 
-image:../../wp-content/uploads/2015/07/a92.png[a9,width=428,height=355] +
+image:../../wp-content/uploads/2015/07/a92.png[width=428,height=355] +
 *4. Rendre le groupe visible par d’autres personnes*
 
 Pour rendre votre groupe visible par d’autres personnes, sélectionnez le
 groupe qui doit le voir dans la partie de gauche (1) puis sélectionnez
 le groupe à rendre visible dans la partie droite (2).
 
-link:../../wp-content/uploads/2015/07/a83.png[ +
-image:../../wp-content/uploads/2015/07/a101.png[a10,width=567,height=365] +
-]
+image:../../wp-content/uploads/2015/07/a101.png[width=567,height=365]
 
 [[notes-de-versions]]
 == Note de version
@@ -711,7 +707,7 @@ Les établissements scolaires peuvent être regroupés dans des structures.
 Cela permet notamment de matérialiser les académies, les collectivités
 ou encore les cités scolaires dans la plateforme.
 
-image:../../wp-content/uploads/2015/04/NDV-16.png[NDV16,width=200]
+image:../../wp-content/uploads/2015/04/NDV-16.png[width=200]
 
 Un premier cas d’utilisation est la gestion des comptes des
 collectivités et des services académiques. Ces comptes peuvent

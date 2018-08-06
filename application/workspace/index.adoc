@@ -17,8 +17,7 @@ d'un document]
 * link:index.html?iframe=true#cas-d-usage-7[Accéder aux anciennes
 versions de son document]
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
+image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
 [[presentation]]
 == Présentation
@@ -150,8 +149,7 @@ les applis ».
 
 Le dossier se trouve maintenant à l’emplacement choisi.
 
-link:../../wp-content/uploads/2016/08/Doc-glisser-déposer-2.png[image:../../wp-content/uploads/2016/08/Doc-glisser-déposer-2-1024x273.png[Doc
-- glisser-déposer 2,width=630,height=168]]
+image:../../wp-content/uploads/2016/08/Doc-glisser-déposer-2-1024x273.png[width=630,height=168]
 
 [[cas-d-usage-5]]
 == Connaître l'espace de stockage disponible
@@ -161,7 +159,7 @@ vous permet de connaître l’espace de stockage dont vous disposez.
 L’espace utilisé est indiqué sur la gauche. Le chiffre situé sur la
 droite indique l’espace total de l’utilisateur.
 
-image:../../wp-content/uploads/2016/04/Document11.png[Document11,width=200]
+image:../../wp-content/uploads/2016/04/Document11.png[width=200]
 
 [[cas-d-usage-6]]
 == Ajouter la nouvelle version d'un document
@@ -174,29 +172,27 @@ Pour mettre à jour un document, cliquer une fois sur le document pour
 qu'il soit surligner en bleu. La barre d'action s'affiche en bas de
 page, cliquez sur le bouton « Versions ».
 
-link:../../wp-content/uploads/2016/08/Doc-Sélection-fichier.png[image:../../wp-content/uploads/2016/08/Doc-Sélection-fichier.png[Doc
-- Sélection fichier,width=100]]
+image:../../wp-content/uploads/2016/08/Doc-Sélection-fichier.png[width=100]
 
 Une nouvelle page s’affiche, cliquez sur le bouton « Nouvelle version ».
 
-image:../../wp-content/uploads/2016/04/Document5-1024x328.png[Document5,width=300]
+image:../../wp-content/uploads/2016/04/Document5-1024x328.png[width=300]
 
 Choisissez le document depuis votre poste de travail et cliquez sur «
 Ouvrir ».
 
-image:../../wp-content/uploads/2016/04/Document6-1024x720.png[Document6,width=550,height=387]
+image:../../wp-content/uploads/2016/04/Document6-1024x720.png[width=550,height=387]
 
 Le document a été mis à jour.
 
-image:../../wp-content/uploads/2016/04/Document7-1024x408.png[Document7,width=600,height=239]
+image:../../wp-content/uploads/2016/04/Document7-1024x408.png[width=600,height=239]
 
 Le document sera renommé avec le libellé du dernier document importé.
 
 '''''
 
 *Les utilisateurs qui ont un droit de contribution sur un document
-peuvent mettre à jour de nouvelles versions. +
-*
+peuvent mettre à jour de nouvelles versions.*
 
 '''''
 
@@ -209,8 +205,7 @@ suivantes:
 1.  Cliquez une fois sur le document pour qu'il soit surligné en bleu
 2.  Cliquez sur le bouton "Versions" en bas de page
 
-link:../../wp-content/uploads/2016/08/Doc-Sélection-fichier.png[image:../../wp-content/uploads/2016/08/Doc-Sélection-fichier.png[Doc
-- Sélection fichier,width=100]]
+image:../../wp-content/uploads/2016/08/Doc-Sélection-fichier.png[width=100]
 
 Toutes les versions du document s’affichent. Chaque version permet
 d’accéder aux informations suivantes :
@@ -222,4 +217,4 @@ d’accéder aux informations suivantes :
 Il est possible de supprimer toutes les versions du document sauf la
 dernière mise à jour.
 
-image:../../wp-content/uploads/2016/04/Document8-1024x399.png[Document8,width=550,height=214]
+image:../../wp-content/uploads/2016/04/Document8-1024x399.png[width=550,height=214]

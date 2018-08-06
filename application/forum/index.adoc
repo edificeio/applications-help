@@ -12,8 +12,7 @@ catégorie]
 * link:index.html?iframe=true#cas-d-usage-4[Gérer une catégorie]
 * link:index.html?iframe=true#cas-d-usage-5[Gérer une discussion]
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
+image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
 [[presentation]]
 == Présentation
@@ -27,20 +26,20 @@ est ensuite possible d'animer des discussions. Chaque message publié
 dans la discussion s’affiche à la suite du précédent avec la date de
 publication et l’identifiant de la personne qui a posté le message.
 
-image:../../wp-content/uploads/2016/01/FORUM_Presentation.png[image,width=600,height=268]
+image:../../wp-content/uploads/2016/01/FORUM_Presentation.png[width=600,height=268]
 
 [[cas-d-usage-1]]
 == Créer et partager une catégorie
 
 Pour créer un forum, cliquez sur « Créer une catégorie ».
 
-image:../../wp-content/uploads/2015/07/f12.png[f1,width=170,height=40]
+image:../../wp-content/uploads/2015/07/f12.png[width=170,height=40]
 
 1.  Saisissez un titre
 2.  Cliquez sur l’image pour modifier la vignette
 3.  Cliquez sur « Sauvegarder »
 
-image:../../wp-content/uploads/2015/07/a210.png[a2,width=600,height=170]
+image:../../wp-content/uploads/2015/07/a210.png[width=600,height=170]
 
 La catégorie de forum a été créée mais n’est pas encore visible par les
 autres utilisateurs. Pour la partager, suivez les étapes suivantes :
@@ -76,24 +75,23 @@ Pour créer une discussion :
 vous souhaitez créer une discussion
 2.  Cliquez sur « Nouvelle discussion »
 
-image:../../wp-content/uploads/2015/07/f21.png[f2,width=600,height=249]
+image:../../wp-content/uploads/2015/07/f21.png[width=600,height=249]
 
 Dans la fenêtre qui s'ouvre, renseignez le titre de la discussion (3),
 saisissez le premier message (2) et cliquez sur « Envoyer » (3).
 
-link:../../wp-content/uploads/2016/01/Créer-une-discussion.png[image:../../wp-content/uploads/2016/01/Créer-une-discussion1-1024x445.png[Créer
-une discussion,width=600,height=261]]
+image:../../wp-content/uploads/2016/01/Créer-une-discussion1-1024x445.png[width=600,height=261]
 
 [[cas-d-usage-3]]
 == Publier un message
 
 Pour poster un message, cliquez sur la discussion concernée.
 
-image:../../wp-content/uploads/2015/07/f3.png[f3,width=600] +
+image:../../wp-content/uploads/2015/07/f3.png[width=600] +
 Rédigez votre message dans la zone de texte en bas de page (1) et
 cliquez sur « Répondre » (2).
 
-image:../../wp-content/uploads/2015/07/f4.png[f4,width=442,height=344]
+image:../../wp-content/uploads/2015/07/f4.png[width=442,height=344]
 
 [[cas-d-usage-4]]
 == Gérer une catégorie
@@ -114,7 +112,7 @@ droit de gestionnaire dans les fonctions de partage.
 Pour gérer une catégorie, cliquez sur la case à cocher qui y est
 associée.
 
-image:../../wp-content/uploads/2016/04/forum.png[forum,width=200]
+image:../../wp-content/uploads/2016/04/forum.png[width=200]
 
 [[cas-d-usage-5]]
 == Gérer une discussion
@@ -134,5 +132,5 @@ gestionnaire dans les fonctions de partage.
 Pour gérer une discussion, cliquez sur la case à cocher qui y est
 associée.
 
-image:../../wp-content/uploads/2015/07/f22.png[f2,width=600,height=254]
+image:../../wp-content/uploads/2015/07/f22.png[width=600,height=254]
 

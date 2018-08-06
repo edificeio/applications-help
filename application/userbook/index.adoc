@@ -17,8 +17,7 @@ informations personnelles]
 * link:index.html?iframe=true#cas-d-usage-10[Historique des
 notifications émises]
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
+image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
 
 [[presentation]]
@@ -34,17 +33,17 @@ identifiant et votre mot de passe dans la fenêtre de connexion.
 
 Cliquez sur « Connexion ».
 
-image:../../wp-content/uploads/2015/07/m1.png[m1,width=454,height=256]
+image:../../wp-content/uploads/2015/07/m1.png[width=454,height=256]
 
 Cliquez sur l’avatar en haut à gauche de l'écran.
 
-image:../../wp-content/uploads/2016/07/Compte1.png[image,width=300,height=44]
+image:../../wp-content/uploads/2016/07/Compte1.png[width=300,height=44]
 
 Vous accédez à votre espace personnel où vous pouvez modifier vos
 informations : photo, coordonnées, devise, humeur, centres d’intérêt, en
 cliquant simplement sur le champ à modifier.
 
-image:../../wp-content/uploads/2016/07/Compte2-1024x487.png[image,width=600,height=285]
+image:../../wp-content/uploads/2016/07/Compte2-1024x487.png[width=600,height=285]
 
 '''''
 
@@ -64,7 +63,7 @@ ce nom d'affichage est le prénom et le nom de l'utilisateur.
 Pour changer votre photo, cliquez directement sur la photo ou sur
 l'avatar par défaut.
 
-image:../../wp-content/uploads/2015/07/m3.jpg[m3,width=169,height=171]
+image:../../wp-content/uploads/2015/07/m3.jpg[width=169,height=171]
 
 Vous pouvez choisir une photo à partir de votre espace personnel de
 l’ENT en la sélectionnant dans :
@@ -75,7 +74,7 @@ utilisateurs,
 * « Documents ajoutés dans les applis » : documents insérés dans une
 appli.
 
-image:../../wp-content/uploads/2015/07/m4.png[m4,width=478,height=314]
+image:../../wp-content/uploads/2015/07/m4.png[width=478,height=314]
 
 Vous pouvez aussi choisir d’importer une photo à partir de votre poste
 de travail.
@@ -101,7 +100,7 @@ lorsque vous postez un message dans un forum.
 Pour changer votre mot de passe, cliquez sur « Modifier mon mot de
 passe ».
 
-image:../../wp-content/uploads/2015/07/m7.png[m7,width=619,height=248]
+image:../../wp-content/uploads/2015/07/m7.png[width=619,height=248]
 
 Puis suivez les étapes suivantes :
 
@@ -110,7 +109,7 @@ Puis suivez les étapes suivantes :
 * Saisissez la « Confirmation du mot de passe »
 * Cliquez sur « Réinitialiser »
 
-image:../../wp-content/uploads/2016/01/MON-COMPTE-1024x463.png[image,width=500]
+image:../../wp-content/uploads/2016/01/MON-COMPTE-1024x463.png[width=500]
 
 Votre mot de passe est maintenant modifié !
 
@@ -125,7 +124,7 @@ compte ».
 Pour ajouter ou modifier votre adresse mail, saisissez votre nouvelle
 adresse dans le champ prévu, en face de « Adresse courrielle ».
 
-image:../../wp-content/uploads/2016/07/Compte4-1024x379.png[image,width=600,height=222]
+image:../../wp-content/uploads/2016/07/Compte4-1024x379.png[width=600,height=222]
 
 En cas d’oubli de votre mot de passe, un lien de récupération vous sera
 envoyé sur l’adresse mail renseignée dans votre compte.
@@ -138,7 +137,7 @@ envoyé sur l’adresse mail renseignée dans votre compte.
 Vous pouvez ajouter une devise à votre compte. Pour cela, remplissez le
 champ « Devise » sous vos coordonnées.
 
-image:../../wp-content/uploads/2015/07/m10.png[m10,width=544,height=241]
+image:../../wp-content/uploads/2015/07/m10.png[width=544,height=241]
 
 Votre devise sera visible sur votre profil et apparaitra dans le fil de
 nouveautés des autres utilisateurs de l’ENT lorsque vous la modifierez.
@@ -151,11 +150,11 @@ nouveautés des autres utilisateurs de l’ENT lorsque vous la modifierez.
 Pour changer votre humeur, cliquez sur l’icône en dessous de votre
 photo.
 
-image:../../wp-content/uploads/2015/07/m11.png[m11,width=200]
+image:../../wp-content/uploads/2015/07/m11.png[width=200]
 
 Une liste d’humeurs apparaît. Choisissez celle que vous souhaitez.
 
-image:../../wp-content/uploads/2015/07/m12.png[m12,width=250]
+image:../../wp-content/uploads/2015/07/m12.png[width=250]
 
  
 
@@ -171,15 +170,15 @@ lesquels vous avez le droit de communiquer.
 Vous pouvez modifier vos centres d’intérêt : animaux, cinéma, musique,
 endroits et sports.
 
-image:../../wp-content/uploads/2015/07/m13.png[m13,width=596,height=143]
+image:../../wp-content/uploads/2015/07/m13.png[width=596,height=143]
 
 Saisissez les informations souhaitées dans les champs correspondants.
 
-image:../../wp-content/uploads/2015/07/m14.png[m14,width=607,height=144]
+image:../../wp-content/uploads/2015/07/m14.png[width=607,height=144]
 
 Mais aussi d'autres commentaires dans « Divers ».
 
-image:../../wp-content/uploads/2015/07/m15.png[m15,width=620,height=118]
+image:../../wp-content/uploads/2015/07/m15.png[width=620,height=118]
 
 [[cas-d-usage-8]]
 == Définir la visibilité de mes informations personnelles
@@ -195,18 +194,18 @@ visibilité que vous souhaitez :
 * L’icône “Cadenas” signifie que l’information est privée, vous êtes le
 (la) seul(e) à la voir.
 
-image:../../wp-content/uploads/2015/07/m16.png[m16,width=36,height=36]
+image:../../wp-content/uploads/2015/07/m16.png[width=36,height=36]
 
 * L’icône “Globe” signifie que l’information est visible des autres
 utilisateurs de l’ENT, en fonction des droits de communication dont ils
 disposent.
 
-image:../../wp-content/uploads/2015/07/m18.png[m18,width=32,height=27] +
+image:../../wp-content/uploads/2015/07/m18.png[width=32,height=27] +
 Lorsque vous ajoutez ou modifiez le texte ou les paramètres de
 visibilité dans votre espace personnel, l’enregistrement est
 automatique.
 
-image:../../wp-content/uploads/2015/07/m19.png[m19,width=779,height=170]
+image:../../wp-content/uploads/2015/07/m19.png[width=779,height=170]
 
 [[cas-d-usage-9]]
 == Notifications externes
@@ -222,8 +221,7 @@ hebdomadaire). +
 Pour accéder à ce paramétrage, aller dans mon compte (1) et cliquer sur
 le bouton "Gérer mes notifications externes" (2)
 
-link:../../wp-content/uploads/2016/12/notif-ext2.png[image:../../wp-content/uploads/2016/12/notif-ext2.png[notif
-ext2,width=599,height=241]]
+image:../../wp-content/uploads/2016/12/notif-ext2.png[width=599,height=241]
 
 La page de paramétrage des notifications externes permet de modifier
 l'adresse de réception des mails (3) et de choisir la fréquence d'envoi
@@ -232,12 +230,12 @@ de chaque notification (immédiat, quotidien, hebdomadaire, jamais)
 Le détail des notifications disponibles par service est accessible en
 cliquant sur le nom du service dans la ligne correspondante (5).
 
-image:../../wp-content/uploads/2016/07/notif2.png[notif2,width=600,height=339]
+image:../../wp-content/uploads/2016/07/notif2.png[width=600,height=339]
 
 Lorsque les modifications sont terminées, cliquer sur "Enregistrer" en
 bas du tableau (6).
 
-image:../../wp-content/uploads/2016/07/notif3.png[notif3,width=600,height=81]
+image:../../wp-content/uploads/2016/07/notif3.png[width=600,height=81]
 
 Une fois la notification reçue dans sa boîte mail personnelle,
 l'utilisateur peut cliquer sur le lien correspondant afin d'accéder au
@@ -245,8 +243,7 @@ contenu. S'il n'est pas connecté à l'ENT, il devra saisir son
 identifiant et son mot de passe pour accéder à l'objet de la
 notification.
 
-link:../../wp-content/uploads/2016/12/notif-externe-réception.png[image:../../wp-content/uploads/2016/12/notif-externe-réception.png[notif
-externe - réception,width=200]]
+image:../../wp-content/uploads/2016/12/notif-externe-réception.png[width=200]
 
 [[cas-d-usage-10]]
 == Historique des notifications émises
@@ -259,12 +256,11 @@ avez partagé du contenu. +
 Depuis votre espace "Mon compte", vous retrouverez toutes les
 notifications que vous avez émis en cliquant sur l'onglet
 "Historique". +
-link:../../wp-content/uploads/2016/12/Fil-historique.png[image:../../wp-content/uploads/2016/12/Fil-historique.png[Fil
-- historique,width=599,height=219]]En survolant la notification avec la
+image:../../wp-content/uploads/2016/12/Fil-historique.png[width=599,height=219]
+En survolant la notification avec la
 souris, vous verrez apparaître une flèche sur la droite de la
 notification. En cliquant sur cette flèche, une action apparaît vous
 permettant de supprimer définitivement la notification de l'ENT. +
-link:../../wp-content/uploads/2016/12/Fil-historique-suppression.png[image:../../wp-content/uploads/2016/12/Fil-historique-suppression.png[Fil
-- historique suppression,width=550,height=95]]
+image:../../wp-content/uploads/2016/12/Fil-historique-suppression.png[width=550,height=95]
 
 

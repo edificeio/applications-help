@@ -6,8 +6,7 @@ Des documents importants à conserver ? Pas de panique ! Grâce à l'appli *Expo
 [[summary]]
 * link:index.html?iframe=true#presentation[Présentation]
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
+image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
 
 [[presentation]]
@@ -21,15 +20,15 @@ automatiquement générée lors du clic sur le bouton « Télécharger mes
 données » et peut être enregistrée sur l’ordinateur de l’utilisateur par
 exemple.
 
-image:../../wp-content/uploads/2016/04/export-1024x140.png[export,width=700]
+image:../../wp-content/uploads/2016/04/export-1024x140.png[width=700]
 
 Lorsqu'un utilisateur lance l'export de ses données, il est
 prévenu que s'il n'a pas le temps d'attendre la fin de la génération de
 l'archive, il trouvera un lien vers cette archive dans son fil de
 nouveautés.
 
-link:../../wp-content/uploads/2016/01/Export_avertissement.png[image:../../wp-content/uploads/2016/01/Export_avertissement.png[Export_avertissement,width=431,height=228]] +
+image:../../wp-content/uploads/2016/01/Export_avertissement.png[width=431,height=228] +
 Si l'utilisateur sort de la page sans récupérer son archive, il peut
 alors la retrouver dans le fil de notifications.
 
-link:../../wp-content/uploads/2016/01/Export_notif.png[image:../../wp-content/uploads/2016/01/Export_notif.png[Export_notif,width=600,height=88]]
+image:../../wp-content/uploads/2016/01/Export_notif.png[width=600,height=88]

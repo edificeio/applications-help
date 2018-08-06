@@ -10,8 +10,7 @@ Créer vos propres sites web en quelques clics ! Avec l’appli *Pages*, vous po
 * link:index.html?iframe=true#cas-d-usage-3[Créer et éditer une nouvelle
 page]
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
+image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
 [[presentation]]
 == Présentation
@@ -27,8 +26,7 @@ frise chronologique, un wiki, ou un forum existant, la page sera
 automatiquement mise à jour avec les nouvelles publications effectuées
 dans le blog, la frise, le wiki ou le forum.
 
-link:../../wp-content/uploads/2017/04/Captures-Pages-1.png[image:../../wp-content/uploads/2017/04/Captures-Pages-1.png[Captures
-Pages 1,width=643,height=413]]
+image:../../wp-content/uploads/2017/04/Captures-Pages-1.png[width=643,height=413]
 
 [[cas-d-usage-1]]
 == Créer un projet
@@ -36,7 +34,7 @@ Pages 1,width=643,height=413]]
 Depuis la page d’accueil, cliquez sur « Mes applis » en haut à droite de
 l’écran puis cliquez sur « Pages ».
 
-image:../../wp-content/uploads/2016/01/pages1.png[pages,width=97,height=124]
+image:../../wp-content/uploads/2016/01/pages1.png[width=97,height=124]
 
 * Pour créer un projet : Cliquez sur «  Créer un un projet» (1)
 * Choisissez ensuite si vous voulez créer un projet privé ou public (2)
@@ -47,19 +45,16 @@ si elle dispose du lien.
 
  
 
-link:../../wp-content/uploads/2017/04/Captures-Pages-2.png[image:../../wp-content/uploads/2017/04/Captures-Pages-2.png[Captures
-Pages 2,width=550]]
+image:../../wp-content/uploads/2017/04/Captures-Pages-2.png[width=550]
 
-link:../../wp-content/uploads/2017/04/Capture-Pages-3.png[image:../../wp-content/uploads/2017/04/Capture-Pages-3.png[Capture
-Pages 3,width=550]]
+image:../../wp-content/uploads/2017/04/Capture-Pages-3.png[width=550]
 
  
 
 Dans la fenêtre, saisissez le titre de votre site (3) puis cliquez sur
 le bouton « Créer » (4)
 
-link:../../wp-content/uploads/2017/04/Captures-Pages-4.png[image:../../wp-content/uploads/2017/04/Captures-Pages-4.png[Captures
-Pages 4,width=300]]
+image:../../wp-content/uploads/2017/04/Captures-Pages-4.png[width=300]
 
 Votre site web est maintenant créé, vous pouvez le compléter en y
 intégrant des contenus.
@@ -73,8 +68,7 @@ suivantes :
 1.  Sélectionnez la case à cochez de la page (1)
 2.  Cliquez sur le bouton "Partager" (2)
 
-link:../../wp-content/uploads/2017/04/Captures-Pages-5.png[image:../../wp-content/uploads/2017/04/Captures-Pages-5.png[Captures
-Pages 5,width=550]]
+image:../../wp-content/uploads/2017/04/Captures-Pages-5.png[width=550]
 
 La fenêtre de partage apparaît. Pour attribuer des droits à d’autres
 utilisateurs, suivez les étapes suivantes :
@@ -87,7 +81,7 @@ attribuer (3).
 
 Cliquez ensuite sur le bouton "Partager"
 
-image:/assets/Partage Pages.png[alt=""]
+image:/assets/Partage Pages.png[]
 
 Vous pouvez attribuer différents droits aux autres utilisateurs de
 l’ENT :
@@ -105,12 +99,10 @@ Pour créer une nouvelle page, vous pouvez   :
 * Cliquer sur l'icône d'ajout d'une page sur lorsque vous éditez votre
 projet (1)
 
-link:../../wp-content/uploads/2017/04/Captures-Pages-6.png[image:../../wp-content/uploads/2017/04/Captures-Pages-6.png[Captures
-Pages 6,width=681,height=269]]
+image:../../wp-content/uploads/2017/04/Captures-Pages-6.png[width=681,height=269]
 
 * Ou cliquer sur gérer les pages (2), puis sur "nouvelle page" (3)
 
- link:../../wp-content/uploads/2017/04/Capture-Pages-7.png[image:../../wp-content/uploads/2017/04/Capture-Pages-7.png[Capture
-Pages 7,width=683,height=280]]
+ image:../../wp-content/uploads/2017/04/Capture-Pages-7.png[width=683,height=280]
 
 

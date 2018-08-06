@@ -10,8 +10,7 @@ Une question vous démange ? Grâce à l'appli *Sondage*, créez des enquêtes p
 * link:index.html?iframe=true#cas-d-usage-3[Insérer un sondage dans une
 page]
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
+image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
 [[presentation]]
 == Présentation
@@ -23,7 +22,7 @@ qu'il choisit : droit de *lecture* (accès au sondage en consultation),
 droit de *vote* (possibilité de répondre au sondage) et droit de
 *gestion* (possibilité de modifier et supprimer le sondage).
 
-image:../../wp-content/uploads/2016/04/Sonage_Pres.png[Sonage_Pres,width=300]
+image:../../wp-content/uploads/2016/04/Sonage_Pres.png[width=300]
 
 
 [[cas-d-usage-1]]
@@ -32,11 +31,11 @@ image:../../wp-content/uploads/2016/04/Sonage_Pres.png[Sonage_Pres,width=300]
 Pour accéder à l’appli Sondage, cliquez sur l’icône correspondante dans
 la page « Mes applis ».
 
-image:../../wp-content/uploads/2015/07/s1.png[s1,width=116,height=123]
+image:../../wp-content/uploads/2015/07/s1.png[width=116,height=123]
 
 Cliquez sur "Créer un sondage".
 
-image:../../wp-content/uploads/2015/07/s13.png[s1,width=178,height=49]
+image:../../wp-content/uploads/2015/07/s13.png[width=178,height=49]
 
 1.  Saisissez une question
 2.  Choisissez une date de fin de validité
@@ -45,7 +44,7 @@ image:../../wp-content/uploads/2015/07/s13.png[s1,width=178,height=49]
 d'autres réponses, cliquez sur "Ajouter"
 5.   Cliquez sur « Sauvegarder »
 
-image:../../wp-content/uploads/2015/06/s3.png[s3,width=438,height=318] +
+image:../../wp-content/uploads/2015/06/s3.png[width=438,height=318] +
 Le sondage est maintenant créé.
 
 [[cas-d-usage-2]]
@@ -54,7 +53,7 @@ Le sondage est maintenant créé.
 Pour partager le sondage, cliquez sur le + (1), puis sur « Partager »
 (2).
 
-image:../../wp-content/uploads/2016/08/sondage1-1024x399.png[image,width=600,height=234] +
+image:../../wp-content/uploads/2016/08/sondage1-1024x399.png[width=600,height=234] +
 Dans la fenêtre de partage, vous pouvez donner des droits de  lecture,
 de vote et de gestion à d’autres personnes sur votre sondage. Pour cela,
 saisissez les premières lettres du nom de l’utilisateur ou du groupe
@@ -79,28 +78,28 @@ Votre sondage est bien créé et partagé.
 Une fois le sondage créé et partagé,  il est possible de l’insérer dans
 une page. Pour cela, cliquez sur l’appli « Pages ».
 
-image:../../wp-content/uploads/2016/04/Logo-Pages.png[Logo-Pages,width=107,height=120]
+image:../../wp-content/uploads/2016/04/Logo-Pages.png[width=107,height=120]
 
 Cliquez sur le site dans lequel vous souhaitez insérer le sondage.
 
-image:../../wp-content/uploads/2015/06/s7.png[s7,width=690,height=287] +
+image:../../wp-content/uploads/2015/06/s7.png[width=690,height=287] +
 Pour insérer le sondage, cliquez sur l'icône suivante: +
-image:../../wp-content/uploads/2015/06/s8.png[s8,width=39,height=38] +
-image:../../wp-content/uploads/2015/06/s9.png[s9,width=614,height=259]
+image:../../wp-content/uploads/2015/06/s8.png[width=39,height=38] +
+image:../../wp-content/uploads/2015/06/s9.png[width=614,height=259]
 
 Cliquez sur « Ajouter un sniplet ».
 
-image:../../wp-content/uploads/2015/06/s10.png[s10,width=597,height=169]
+image:../../wp-content/uploads/2015/06/s10.png[width=597,height=169]
 
 Puis choisissez l’appli Sondage.
 
-image:../../wp-content/uploads/2015/06/s11.png[s11,width=415,height=417]
+image:../../wp-content/uploads/2015/06/s11.png[width=415,height=417]
 
 La liste des sondages dont vous êtes gestionnaire apparaît. Choisissez
 celui que vous souhaitez faire
-apparaître.image:../../wp-content/uploads/2015/06/s12.png[s12,width=371,height=202]
+apparaître.image:../../wp-content/uploads/2015/06/s12.png[width=371,height=202]
 
 Le sondage apparaît bien sur la page.
 
-image:../../wp-content/uploads/2015/06/s13.png[s13,width=635,height=269]
+image:../../wp-content/uploads/2015/06/s13.png[width=635,height=269]
 

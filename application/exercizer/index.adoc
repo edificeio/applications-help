@@ -29,8 +29,7 @@ copier un sujet dans la bibliothèque]
 * link:index.html?iframe=true#cas-d-usage-14[Enseignant - Exporter un sujet]
 
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
+image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
 
 
@@ -60,8 +59,7 @@ durée de réalisation (2) et une description de l’exercice.
 Pour réaliser l’exercice, cliquez sur le bouton orange « suivant » en
 bas à droite de la fenêtre.
 
-link:../../wp-content/uploads/2016/10/Réaliser-un-exercice.jpg[image:../../wp-content/uploads/2016/10/Réaliser-un-exercice.jpg[Réaliser
-un exercice,width=550]]
+image:../../wp-content/uploads/2016/10/Réaliser-un-exercice.jpg[width=550]
 
  
 
@@ -73,30 +71,26 @@ En cas de difficulté à trouver la réponse, une aide peut parfois vous
 être proposée. Il suffit de cliquer sur le bouton « Aide à la réponse »
 en haut à droite de l’écran (3).
 
-link:../../wp-content/uploads/2016/10/Aide-à-la-réponse.jpg[image:../../wp-content/uploads/2016/10/Aide-à-la-réponse.jpg[Aide
-à la réponse,width=550]]
+image:../../wp-content/uploads/2016/10/Aide-à-la-réponse.jpg[width=550]
 
  
 
 Si vous souhaitez vous interrompre et continuer plus tard l’exercice,
 vous pouvez cliquer sur le bouton "continuer plus tard".
 
-link:../../wp-content/uploads/2016/10/Continuer-plus-tard.jpg[image:../../wp-content/uploads/2016/10/Continuer-plus-tard.jpg[Continuer
-plus tard,width=150]]
+image:../../wp-content/uploads/2016/10/Continuer-plus-tard.jpg[width=150]
 
 Dans le cas où la date de rendue de la copie est **dépassée**, le sujet
 affiché dans la page d’accueil comporte un bouton « rendre la copie »
 pour que l’élève puisse tout de même rendre sa copie, en revanche il ne
 pourra plus y accéder.
 
-link:../../wp-content/uploads/2016/10/Rendre-copie.jpg[image:../../wp-content/uploads/2016/10/Rendre-copie.jpg[Rendre
-copie,width=150]]
+image:../../wp-content/uploads/2016/10/Rendre-copie.jpg[width=150]
 
 Une fois l’exercice terminé, cliquez sur rendre la copie. Un message de
 confirmation s’affiche :
 
-link:../../wp-content/uploads/2016/10/Rendre-la-copie.jpg[image:../../wp-content/uploads/2016/10/Rendre-la-copie.jpg[Rendre
-la copie,width=400]]
+image:../../wp-content/uploads/2016/10/Rendre-la-copie.jpg[width=400]
 
 [[cas-d-usage-2]]
 == Elève / Apprenant – Voir la correction d’un exercice
@@ -104,30 +98,27 @@ la copie,width=400]]
 Lorsqu’un exercice est corrigé, vous êtes informés via une publication
 sur le fil de nouveauté.
 
-link:../../wp-content/uploads/2016/10/Notif.jpg[image:../../wp-content/uploads/2016/10/Notif.jpg[Notif,width=400] +
-]
+image:../../wp-content/uploads/2016/10/Notif.jpg[width=400]
 
 Vous pouvez vous rendre sur l’application « Exercices et évaluations »,
 cliquez sur l’onglet « terminés » en haut et à gauche de la page (1).
 
 Les sujets corrigés s’affichent.
 
-link:../../wp-content/uploads/2016/10/Terminés.jpg[image:../../wp-content/uploads/2016/10/Terminés.jpg[Terminés,width=500] +
-]
+image:../../wp-content/uploads/2016/10/Terminés.jpg[width=500]
 
 Cliquez ensuite sur le sujet dont vous souhaitez voir la correction (2).
 
 Un résumé s’affiche avec le score final et éventuellement des
 commentaires formulés par le professeur.
 
-link:../../wp-content/uploads/2016/10/Copie.jpg[image:../../wp-content/uploads/2016/10/Copie.jpg[Copie,width=500] +
-]
+image:../../wp-content/uploads/2016/10/Copie.jpg[width=500]
 
 Vous pouvez ensuite accéder au-dessous à la correction par question.
 
 Les bonnes réponses s’affichent en vert et les mauvaises en rouge.
 
-link:../../wp-content/uploads/2016/10/Question.jpg[image:../../wp-content/uploads/2016/10/Question.jpg[Question,width=500]]
+image:../../wp-content/uploads/2016/10/Question.jpgwidth=500]
 
 [[cas-d-usage-3]]
 == Enseignant - Créer un nouveau sujet
@@ -138,8 +129,7 @@ l’écran puis cliquez sur « Exercices et évaluations ».
 Pour créer un nouveau sujet, cliquez sur le bouton « nouveau sujet »
 dans la page d’accueil de l’appli.
 
-link:../../wp-content/uploads/2016/09/Accueil-nouveau-sujet.png[image:../../wp-content/uploads/2016/09/Accueil-nouveau-sujet.png[Accueil
-- nouveau sujet,width=400]]
+image:../../wp-content/uploads/2016/09/Accueil-nouveau-sujet.png[width=400]
 
 Saisissez un titre (1) et ajoutez  si vous le souhaitez une image
 d’illustration du sujet (sinon c’est l’icône par défaut qui est
@@ -147,19 +137,16 @@ affichée) (2). Vous pouvez ajouter une description (3).
 
 Cliquez enfin sur « Enregistrer » (4)
 
-link:../../wp-content/uploads/2016/09/Propriétés-Sujet.jpg[image:../../wp-content/uploads/2016/09/Propriétés-Sujet.jpg[Propriétés
-Sujet,width=400]]
+image:../../wp-content/uploads/2016/09/Propriétés-Sujet.jpg[width=400]
 
 Pour ajouter du contenu à votre sujet, cliquez sur « ajouter un
 élément » :
 
-link:../../wp-content/uploads/2016/09/Ajouter-un-élément.png[image:../../wp-content/uploads/2016/09/Ajouter-un-élément.png[Ajouter
-un élément,width=400]] +
+image:../../wp-content/uploads/2016/09/Ajouter-un-élément.png[width=400]
 Pour sélectionner le type de contenu à ajouter, cliquez sur « Enoncé »
 ou « Question ».
 
-link:../../wp-content/uploads/2016/09/Types-de-questions.jpg[image:../../wp-content/uploads/2016/09/Types-de-questions.jpg[Types
-de questions,width=556,height=108]]
+image:../../wp-content/uploads/2016/09/Types-de-questions.jpg[width=556,height=108]
 
 Si vous avez sélectionné l’outil question, vous pouvez choisir le type
 de question en cliquant sur l’une de ces  icônes.
@@ -194,8 +181,7 @@ renseignant :
 5.  L’explication de la réponse
 6.  L’aide à la réponse
 
-link:../../wp-content/uploads/2016/09/Renseigner-un-exercice.jpg[image:../../wp-content/uploads/2016/09/Renseigner-un-exercice.jpg[Renseigner
-un exercice,width=545,height=310]]
+image:../../wp-content/uploads/2016/09/Renseigner-un-exercice.jpg[width=545,height=310]
 
 Cliquez ensuite sur « ajouter un élément » et choisissez le type de la
 prochaine question.
@@ -204,21 +190,19 @@ En cochant la case à gauche du titre de la question, un bandeau orange
 en bas de votre écran s’affiche. Vous pouvez « dupliquer » ou
 « supprimer » la question.
 
-link:../../wp-content/uploads/2016/09/Case-à-cocher.jpg[image:../../wp-content/uploads/2016/09/Case-à-cocher.jpg[Case
-à cocher,width=533,height=81]]
+image:../../wp-content/uploads/2016/09/Case-à-cocher.jpg[width=533,height=81]
 
  
 
 Le volet à gauche de l’écran vous permet de glisser et de déposer des
 questions avec votre  curseur pour les ordonner.
 
-link:../../wp-content/uploads/2016/09/Menu-navigation.png[image:../../wp-content/uploads/2016/09/Menu-navigation.png[Menu
-navigation,width=241,height=300]]
+image:../../wp-content/uploads/2016/09/Menu-navigation.png[width=241,height=300]
 
 Il est possible de visualiser votre sujet en cliquant sur l’icône
 « aperçu » en haut à droite de votre écran.
 
-link:../../wp-content/uploads/2016/09/Aperçu.jpg[image:../../wp-content/uploads/2016/09/Aperçu.jpg[Aperçu,width=250]]
+image:../../wp-content/uploads/2016/09/Aperçu.jpg[width=250]
 
  
 
@@ -228,7 +212,7 @@ link:../../wp-content/uploads/2016/09/Aperçu.jpg[image:../../wp-content/uploads
 Une fois la création de votre sujet terminée, vous pouvez le distribuer
 en cliquant sur l’icône en haut à gauche de votre écran.
 
-link:../../wp-content/uploads/2016/09/Distribuer.jpg[image:../../wp-content/uploads/2016/09/Distribuer.jpg[Distribuer,width=250]]
+image:../../wp-content/uploads/2016/09/Distribuer.jpg[width=250]
 
 Saisissez les premières lettres du nom de l’utilisateur ou du groupe
 d’utilisateurs que vous recherchez puis sélectionnez le nom de
@@ -242,7 +226,7 @@ Les options de distribution s’affichent dans la fenêtre ci-dessous.
 Renseignez les dates de début et de fin de distribution (1) ainsi que le
 temps de réalisation  (2).
 
-link:../../wp-content/uploads/2016/10/Options-Distribution.jpg[image:../../wp-content/uploads/2016/10/Options-Distribution.jpg[Options-Distribution,width=400]]
+image:../../wp-content/uploads/2016/10/Options-Distribution.jpg[width=400]
 
 En cochant la case « Autoriser l’élève à améliorer sa copie », l’élève
 aura la possibilité de revenir sur sa copie après la remise dans la
@@ -285,8 +269,7 @@ image:/assets/exclure2.png[alt=""]
 Pour partager un sujet avec d’autres utilisateurs, cliquez sur la case à
 cocher correspondant au sujet (1) puis sur le bouton « Partager » (2).
 
-link:../../wp-content/uploads/2016/09/Partager-un-sujet.jpg[image:../../wp-content/uploads/2016/09/Partager-un-sujet.jpg[Partager
-un sujet,width=500]]
+image:../../wp-content/uploads/2016/09/Partager-un-sujet.jpg[width=500]
 
 
 La fenêtre de partage apparaît. Pour attribuer des droits d’accès à
@@ -298,8 +281,7 @@ d’utilisateurs que vous recherchez.
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur
 attribuer.
 
-link:../../wp-content/uploads/2016/09/Fenêtre-de-partage.png[image:../../wp-content/uploads/2016/09/Fenêtre-de-partage.png[Fenêtre
-de partage,width=400]]
+link:../../wp-content/uploads/2016/09/Fenêtre-de-partage.png[width=400]
 
 Vous pouvez attribuer différents droits aux autres utilisateurs de
 l’ENT :
@@ -314,13 +296,12 @@ rubrique « Sujets partagés avec moi ». En fonction des droits accordés,
 elle a la possibilité de le modifier et de le distribuer en cliquant sur
 l’intitulé du sujet.
 
-link:../../wp-content/uploads/2016/09/Sujets-partagés-avec-moi.jpg[image:../../wp-content/uploads/2016/09/Sujets-partagés-avec-moi.jpg[Sujets
-partagés avec moi,width=400] +]
+image:../../wp-content/uploads/2016/09/Sujets-partagés-avec-moi.jpg[width=400]
 
 Elle peut aussi copier le sujet en cochant la case en bas à droite du
 sujet et faire des modifications dans sa propre version.
 
-link:../../wp-content/uploads/2016/09/Copier.jpg[image:../../wp-content/uploads/2016/09/Copier.jpg[Copier,width=544,height=38]]
+image:../../wp-content/uploads/2016/09/Copier.jpg[width=544,height=38]
 
 _Nota Bene : Contrairement à la publication de sujet dans la
 bibliothèque (cf. onglet dédié) cette fonction de partage est restreinte
@@ -334,8 +315,7 @@ et/ou gestion ont été ouverts._
 Pour corriger un sujet, cliquez sur l’onglet « Mes corrections » en haut
 à gauche de l’écran.
 
-link:../../wp-content/uploads/2016/09/Mes-corrections.jpg[image:../../wp-content/uploads/2016/09/Mes-corrections.jpg[Mes
-corrections,width=500]]
+mage:../../wp-content/uploads/2016/09/Mes-corrections.jpg[width=500]
 
 Cliquez sur le sujet que vous souhaitez corriger.
 
@@ -344,7 +324,7 @@ distribué le sujet.
 
 Cliquez sur le nom de l’élève pour corriger la copie (1).
 
-link:../../wp-content/uploads/2016/09/Corrections.jpg[image:../../wp-content/uploads/2016/09/Corrections.jpg[Corrections,width=600,height=131]]
+image:../../wp-content/uploads/2016/09/Corrections.jpg[width=600,height=131]
 
 Vous pouvez cochez la case à gauche du nom de l’élève pour changer à la
 volée le statut de ou de plusieurs copies en "corrigé" (2).
@@ -357,8 +337,7 @@ vous suffit de cliquer sur l’onglet « Mes sujets » et de cocher la case
 en bas à droite du sujet que vous voulez publier (1). Le bandeau orange
 en bas de l’écran s’affiche. Cliquez sur le bouton « publiez dans la
 bibliothèque »
-(2).link:../../wp-content/uploads/2016/09/Biliothèque-3.jpg[image:../../wp-content/uploads/2016/09/Biliothèque-3.jpg[Biliothèque
-3,width=500]]
+(2). image:../../wp-content/uploads/2016/09/Biliothèque-3.jpg[,width=500]
 
 [[cas-d-usage-11]]
 == Enseignant - Chercher et copier un sujet dans la bibliothèque
@@ -368,24 +347,22 @@ Pour retrouver un sujet dans la bibliothèque, cliquez sur l’onglet
 rechercher un sujet par étiquettes (2), titre (3) ou à l’aide du filtre
 par matière ou niveau (4).
 
-link:../../wp-content/uploads/2016/09/Bibliothèque-1.jpg[image:../../wp-content/uploads/2016/09/Bibliothèque-1.jpg[Bibliothèque
-1,width=500]]
+image:../../wp-content/uploads/2016/09/Bibliothèque-1.jpg[width=500]
 
 Il est possible de copier le sujet dans « Mes sujets » en cochant la
 case à droite du sujet (1) puis en cliquant sur le bouton « copier dans
 mes sujets » (2).
 
-link:../../wp-content/uploads/2016/09/Bibliothèque-2.jpg[image:../../wp-content/uploads/2016/09/Bibliothèque-2.jpg[Bibliothèque
-2,width=500]]
+image:../../wp-content/uploads/2016/09/Bibliothèque-2.jpg[width=500]
 
 [[cas-d-usage-12]]
 == Enseignant - Consulter les statistiques d’un sujet 
 
 Vous pouvez consulter les statistiques de vos sujets. Pour cela, rendez-vous sur l’onglet “Mes Corrections” (1) puis cliquez sur le sujet souhaité (2).
-image:/assets/Stat1.png[alt=""]
+image:/assets/Stat1.png[]
 
 Un encart en haut à droite vous donne les statistiques générales du sujet (1). En cliquant sur “Plus de Stats”, vous accédez aux statistiques détaillées du sujet (2).
-image:/assets/Exercizer-stat.png[alt=""]
+image:/assets/Exercizer-stat.png[]
 
 Vous accédez ainsi : 
 
@@ -396,23 +373,23 @@ Vous accédez ainsi :
 * A la moyenne générale du sujet (score automatique et score final) 
 
 Pour exporter ces statistiques au format CSV, cliquez sur le bouton “Exporter” en haut à droite depuis la page de Statistiques.
-image:/assets/Exercizer-stat2.png[alt=""]
+image:/assets/Exercizer-stat2.png[]
 
 [[cas-d-usage-13]]
 == Enseignant - Importer un sujet
 Il vous est possible d'importer des sujets. Depuis la page mes sujets, cliquez sur l’icône des options, représentée par une petite roue, à droite de l'onglet "Nouveau sujet". Puis sélectionnez "Importer un sujet"
 
-image:/assets/importer1.png[alt=""]
+image:/assets/importer1.png[]
 
 Vous accéderez à une note d'information concernant les fichier autorisé depuis Moodle et depuis TD Base :
-image:/assets/importer2.png[alt=""]
+image:/assets/importer2.png[]
 
 Charger le sujet au format Moodle XML. Renseignez le titre de votre sujet, une image et une description si nécessaire. Afin de valider, cliquez sur "Importer".
-image:/assets/importer3.png[alt=""]
+image:/assets/importer3.png[]
 
 
 [[cas-d-usage-14]]
 == Enseignant - Exporter un sujet
 Il vous est possible d'exporter des sujets. Dans “Mes Sujets”, sélectionnez un sujet interactif (1), puis cliquer sur “Exporter” (2).
 
-image:/assets/Exporter.png[alt=""]
+image:/assets/Exporter.png[]

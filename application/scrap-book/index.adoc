@@ -12,7 +12,7 @@ multimédia]
 * link:index.html?iframe=true#cas-d-usage-3[Publier une vidéo dans un
 cahier multimédia]
 
-link:../../wp-content/uploads/2015/03/copyright.jpg[image:../../wp-content/uploads/2015/03/copyright.jpg[copyright,width=86,height=37]]
+image:../../wp-content/uploads/2015/03/copyright.jpg[width=86,height=37]
 
 
 [[presentation]]
@@ -105,7 +105,7 @@ enfoncé et déplacez le contenu.
 
 Pour modifier la taille du contenu, survolez le contour de la zone et
 cliquez dessus quand le curseur prend la forme d’une double
-flèche.image:../../wp-content/uploads/2015/06/m81.png[m8,width=513,height=415]
+flèche.image:../../wp-content/uploads/2015/06/m81.png[width=513,height=415]
 
  
 

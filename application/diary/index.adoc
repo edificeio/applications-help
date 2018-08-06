@@ -10,19 +10,19 @@ Les enseignants peuvent créer et organiser une séance. Il leur est ensuite pos
 ==== Calendrier
 C'est l'écran d'accueil du cahier de texte. Il s'ouvre sur la semaine courante.
 
-image:../../wp-content/uploads/2017/10/cdt-professeur.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-professeur.png[width=550]
 
 ===== Créer une séance
 Une séance correspond à un cours, à une date donnée et à une heure donnée.
 
 Cliquer sur "Créer une séance".
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-creerSeance.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-professeur-creerSeance.png[width=550]
 
 Une nouvelle page s'ouvre. La séance sera à l'état de brouillon tant qu'elle n'aura pas été publiée.
 On peut sélectionner la matière (1), ainsi que le groupe concerné (2).
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-creerSeance2.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-professeur-creerSeance2.png[width=550]
 
 3 onglets sont disponibles :
 
@@ -35,32 +35,32 @@ On peut créer un travail
 
 - soit à partir de la page calendrier :
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-creerTravail.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-professeur-creerTravail.png[width=550]
 
 - soit à partir du détail d'une séance, via l'onglet "Travail à faire".
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-creerTravail2.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-professeur-creerTravail2.png[width=550]
 
 On indique la date pour laquelle le travail doit être rendu (1) et le type de devoir (2 : Devoir maison / Exercices / Autres).
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-taf.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-professeur-taf.png[width=550]
 
 La charge de travail (3) des élèves pour la semaine courante est affichée, afin d'éviter de surcharger les élèves.
 
 Si le travail à faire a été créé pour une séance, il apparaît dans la barre en haut de l'agenda (1).
 Si l'on crée un travail à faire indépendamment d'une séance, il apparaît dans l'onglet à droite de l'agenda "Travails à faire" (2).
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-taf2.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-professeur-taf2.png[width=550]
 
 ===== Glisser déposer un travail
 
 Cliquer sur l'onglet "Travails à faire". La liste apparaît.
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-taf3.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-professeur-taf3.png[width=550]
 
 Cliquer sur le travail que vous voulez planifier, et glissez-le dans la barre des devoirs (1).
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-taf4.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-professeur-taf4.png[width=550]
 
 ===== Glisser une séance
 
@@ -68,17 +68,17 @@ Cliquer sur l'onglet "Séances". La liste apparaît.
 
 Cliquer sur la séance à planifier, et glissez-la dans l'agenda à la date souhaitée.
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-seance.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-professeur-seance.png[width=550]
 
 ===== Publication
 Après la création d'une séance, celle-ci est d'abord à l'état de brouillon. Pour la "valider" et la rendre visible par les autres utilisateurs, on doit la "publier".
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-publication.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-professeur-publication.png[width=550]
 
 - Cocher la séance que l'on souhaite publier (1)
 - Cliquer sur "Publier" dans le menu qui apparaît au bas de la page (2), et confirmer.
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-publication2.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-professeur-publication2.png[width=550]
 
 Il est possible de dépublier une séance via le détail.
 
@@ -86,7 +86,7 @@ Il est possible de dépublier une séance via le détail.
 
 Pour déterminer avec qui l'on souhaite partager une séance, sélectionner la séance (1), puis cliquer sur "Partager" dans le menu (2).
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-partager.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-professeur-partager.png[width=550]
 
 Il est à noter que l'on peut définir la liste de partage avant de publier la séance.
 
@@ -94,70 +94,70 @@ Il est à noter que l'on peut définir la liste de partage avant de publier la s
 
 Outre la vue Agenda, une vue *liste* des séances est disponible :
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-liste.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-professeur-liste.png[width=550]
 
 La liste peut être filtrée par date (1) ou par matière (2)
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-liste2.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-professeur-liste2.png[width=550]
 
 En cliquant sur une date (1), on peut accéder au détail de la journée. Une icône indique s'il s'agit d'un cours (2) ou d'un travail à faire (3).
 Pour modifier un cours ou un devoir, on peut le sélectionner en le cochant, et accéder au menu.
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-liste3.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-professeur-liste3.png[width=550]
 
 ==== Progression
  
 La progression est une suite de séances, qui doivent être effectuées dans un ordre précis.
 Elle est accessible via la vue Agenda.
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-progression.png[image,width=50]
+image:../../wp-content/uploads/2017/10/cdt-professeur-progression.png[width=50]
 
 On accède à la liste des progressions disponibles. Un filtre est disponible (1). On peut avoir une vue détaillée en cliquant sur (2).
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-progression2.png[image,width=200]
+image:../../wp-content/uploads/2017/10/cdt-professeur-progression2.png[width=200]
 
 En choisissant la progression, on peut accéder à la liste des séances et devoirs impliqués dans la progression (3).
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-progression3.png[image,width=200]
+image:../../wp-content/uploads/2017/10/cdt-professeur-progression3.png[width=200]
 
 La vue détaillée :
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-progression4.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-professeur-progression4.png[width=550]
 
 Sélectionner une progression pour en voir le détail. Il est possible à partir de cet écran de modifier les séances et les devoirs.
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-progression5.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-professeur-progression5.png[width=550]
 
 Pour créer une nouvelle progression, cliquer sur "Créer une progression" (1) et remplir les champs (2).
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-progression6.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-professeur-progression6.png[width=550]
 
 ==== Contenu
 
 Du contenu peut être rajouté à la progression. Par contenu, on entend "séance", y compris les travails à faire qui peuvent y être liés.
 Pour ce faire, sélectionner une progression, et "Ajouter du contenu" (1).
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-contenu.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-professeur-contenu.png[width=550]
 
 On se retrouve avec l'interface de création de séance.
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-contenu2.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-professeur-contenu2.png[width=550]
 
 De retour vers l'écran détail de la progression, on peut ordonner les séances. Cliquer sur l'élément à déplacer, et faire un glisser - déposer :
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-contenu4.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-professeur-contenu4.png[width=550]
 
 Ici, nous avons pris le cours sur les verbes irréguliers pour les placer avant le cours sur le vocabulaire :
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-contenu3.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-professeur-contenu3.png[width=550]
 
 Pour rajouter une séance d'un contenu dans l'agenda, on sélectionne d'abord la progression concernée, puis la séance, et on fait un glisser déposer :
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-progression7.png[image,width=450]
+image:../../wp-content/uploads/2017/10/cdt-professeur-progression7.png[width=450]
 
 ==== Semaine modèle A et B
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-modele.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-professeur-modele.png[width=550]
 
 Les professeurs peuvent définir des semaines modèles, limitées à 2 (A et B). Cela permet de gérer facilement l'alternance de semaines.
 
@@ -171,23 +171,23 @@ Un raccourci d'inversion des modèles A et B est proposé, afin de faciliter la 
 
 Pour consulter les archives, cliquer sur "Voir les archives".
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-archives.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-professeur-archives.png[width=550]
 
 On peut à partir de là consulter les archives sur une année scolaire, soit en triant par enseignant soit par classe (1).
 Un filtre est disponible (2), et il reste à choisir l'année (3) et la classe / l'enseignant (4).
 
-image:../../wp-content/uploads/2017/10/cdt-professeur-archives2.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-professeur-archives2.png[width=550]
 
 == Profil élève (visualisation)
 
 L'élève n'a accès qu'à la consultation de l'agenda. Il ne peut pas intervenir sur les séances.
 Il voit les devoirs à faire (1) et les séances (2).
 
-image:../../wp-content/uploads/2017/10/cdt-eleve-agenda.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-eleve-agenda.png[width=550]
 
 En cliquant sur la séance, il peut accéder au détail, avec le travail à faire éventuellement rattaché (toujours en lecture seule).
 
-image:../../wp-content/uploads/2017/10/cdt-eleve-seance.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-eleve-seance.png[width=550]
 
 == Profil parent (visualisation) choix enfant
 
@@ -203,7 +203,7 @@ Le directeur d'établissement a accès à tous les contenus publiés des profess
 - Par enseignant (2)
 - Par classe (3)
 
-image:../../wp-content/uploads/2017/10/cdt-directeur-agenda.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-directeur-agenda.png[width=550]
 
 Les séances et les devoirs à faire sont en lecture seule. Cependant, la gestion des visas permet de les valider.
 
@@ -212,7 +212,7 @@ Les séances et les devoirs à faire sont en lecture seule. Cependant, la gestio
 Les visas sont délivrés par le directeur d'établissement aux séances et aux devoirs à faire, afin de signaler l'inspection de leur contenu et leur planification.
 On y accède via le bouton dans l'agenda :
 
-image:../../wp-content/uploads/2017/10/cdt-directeur-visa1.png[image,width=250]
+image:../../wp-content/uploads/2017/10/cdt-directeur-visa1.png[width=250]
 
 Un filtre permet de sélectionner les élements :
 
@@ -221,7 +221,7 @@ Un filtre permet de sélectionner les élements :
 - Par classe (3)
 - Par statut (soit "A viser" soit "Visé et à viser") (4)
 
-image:../../wp-content/uploads/2017/10/cdt-directeur-visa2.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-directeur-visa2.png[width=550]
 
 Les séances sont regroupées par enseignant /  classe / matière, avec la possibilité d'aposer un visa global en sélectionnant plusieurs triplets.
 
@@ -233,13 +233,13 @@ Si elle est *orange* (7), les séances ont été validées, mais ont été modif
 
 On peut accéder au *détail des séances* en cliquant sur (8).
 
-image:../../wp-content/uploads/2017/10/cdt-directeur-visa3.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-directeur-visa3.png[width=550]
 
 ===== Appliquer un visa : en verrouillant / sans verrouiller
 
 Lorsque l'on applique le visa, une fenêtre s'ouvre. Il est *obligatoire* de rentrer un commentaire pour valider.
 
-image:../../wp-content/uploads/2017/10/cdt-directeur-visa4.png[image,width=450]
+image:../../wp-content/uploads/2017/10/cdt-directeur-visa4.png[width=450]
 
 Si l'on *verrouille*, cela signifie que l'enseignant ne pourra plus modifier la séance.
 
@@ -247,17 +247,17 @@ Si l'on *verrouille*, cela signifie que l'enseignant ne pourra plus modifier la 
 
 Tous les visas peuvent être édités sous forme de PDF via le menu.
 
-image:../../wp-content/uploads/2017/10/cdt-directeur-visa5.png[image,width=250]
+image:../../wp-content/uploads/2017/10/cdt-directeur-visa5.png[width=250]
 
 ===== Gestion des habilitations Inspecteur
 
 Le directeur d'établissement peut gérer les habilitations des inspecteurs.
 
-image:../../wp-content/uploads/2017/10/cdt-directeur-habilitations1.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-directeur-habilitations1.png[width=550]
 
 Cela permet d'attribuer ou de retirer à l'inspecteur (2) le droit de délivrer un visa pour l'enseignant de cet établissement (1).
 
-image:../../wp-content/uploads/2017/10/cdt-directeur-habilitations2.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-directeur-habilitations2.png[width=550]
 
 Pour rajouter un enseignant, on saisit son nom dans (3). Et pour supprimer l'habilitation, on clique sur (4).
 
@@ -265,7 +265,7 @@ Pour rajouter un enseignant, on saisit son nom dans (3). Et pour supprimer l'hab
 
 Tout comme le directeur d'établissement, l'inspecteur peut délivrer des visas, mais uniquement aux séances des enseignants pour lesquels il a obtenu une habilitation (voir la section "Directeur d'établissement" pour plus de détails).
 
-image:../../wp-content/uploads/2017/10/cdt-inspecteur-agenda.png[image,width=550]
+image:../../wp-content/uploads/2017/10/cdt-inspecteur-agenda.png[width=550]
 
 Un filtre permet de sélectionner l'établissement et l'enseignant.
 

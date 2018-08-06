@@ -8,8 +8,7 @@
 * link:index.html?iframe=true#cas-d-usage-1[Créer une Carte Mentale]
 * link:index.html?iframe=true#cas-d-usage-2[Partager une Carte Mentale]
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
+image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
 [[presentation]]
 == Présentation
@@ -34,7 +33,7 @@ image:/assets/Carte mentale 2.png[alt=""]
 
 Cliquez sur « Créer une carte mentale ».
 
-image:../../wp-content/uploads/2015/07/c1.png[c1,width=222,height=45]
+image:../../wp-content/uploads/2015/07/c1.png[width=222,height=45]
 
 1.  Saisissez un nom de carte
 2.  Renseignez une description
@@ -63,8 +62,7 @@ image:/assets/carte mentale 8.png[alt=""]
 
 L’éditeur de texte vous permet de créer facilement une carte mentale.
 
-link:../../wp-content/uploads/2015/06/m22.png[ +
-]image:../../wp-content/uploads/2015/06/m5.png[m5,width=500]
+image:../../wp-content/uploads/2015/06/m5.png[width=500]
 
 
 *Ajouter un lien entre deux nœuds*
@@ -87,7 +85,7 @@ image:/assets/carte mentale 11.png[alt=""]
 
 Lorsque la carte mentale est terminée, cliquez sur « Enregistrer ».
 
-image:../../wp-content/uploads/2015/06/m6.png[m6,width=500]
+image:../../wp-content/uploads/2015/06/m6.png[width=500]
 
 Votre carte est maintenant créée !
 

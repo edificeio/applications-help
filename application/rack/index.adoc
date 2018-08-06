@@ -12,8 +12,7 @@ documents]
 * link:index.html?iframe=true#cas-d-usage-3[Copier un document du casier
 vers l'appli Espace Documentaire]
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
+image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
 
 [[presentation]]
@@ -23,7 +22,7 @@ Pour accéder à l’appli Casier, cliquez sur l’icône correspondante dans la
 image:/assets/Casier NEO.png[alt=""]
 Le casier est composé de 3 dossiers :
 
-image:../../wp-content/uploads/2016/04/Casier.png[Casier,width=200]
+image:../../wp-content/uploads/2016/04/Casier.png[width=200]
 
 Le dossier « *Mon casier* » contient les documents envoyés dans mon
 casier. +
@@ -56,7 +55,7 @@ faite.
 Cliquez ensuite sur « Envoyer » (3) pour envoyer le document. Un message
 de confirmation vous informe que le document a bien été envoyé.
 
-image:../../wp-content/uploads/2016/04/Casier3.png[Casier3,width=300]
+image:../../wp-content/uploads/2016/04/Casier3.png[width=300]
 
  
 
@@ -75,8 +74,7 @@ image:../../wp-content/uploads/2016/08/rack-tous-sélectionnés2-1024x512.png[ra
 Vous disposez également d'un bouton "télécharger" (1) sur chaque fichier
 si vous souhaitez télécharger directement le fichier sur votre
 ordinateur. +
-link:../../wp-content/uploads/2016/08/rack-bouton-télécharger2.png[image:../../wp-content/uploads/2016/08/rack-bouton-télécharger2.png[rack
-- bouton télécharger2,width=110,height=102]]
+image:../../wp-content/uploads/2016/08/rack-bouton-télécharger2.png[width=110,height=102]
 
 [[cas-d-usage-3]]
 == Copier un document du casier vers l'appli Espace documentaire
@@ -87,11 +85,11 @@ Connectez-vous à l'appli Casier et consultez le dossier « Mon casier ».
 Sélectionnez le document et cliquez sur le bouton « Copier dans mes
 documents » en bas de page.
 
-image:../../wp-content/uploads/2016/04/Casier4.png[Casier4,width=250]
+image:../../wp-content/uploads/2016/04/Casier4.png[width=250]
 
 La nouvelle fenêtre vous présente l'arborescence du dossier « Mes
 documents » (1), vous pouvez ainsi copier le document dans le dossier
 que vous souhaitez (2).
 
-image:../../wp-content/uploads/2016/04/Casier5.png[Casier5,width=400]
+image:../../wp-content/uploads/2016/04/Casier5.png[width=400]
 

@@ -14,8 +14,7 @@ réservation]
 ressources]
 * link:index.html?iframe=true#cas-d-usage-5[Définir les ressources]
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
+image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
 [[presentation]]
 == Présentation
@@ -31,7 +30,7 @@ place un *principe de validation des réservations* pour certaines
 ressources et définir plusieurs paramètres (comme par exemple la date à
 partir de laquelle une réservation peut être effectuée).
 
-link:../../wp-content/uploads/2016/01/RBS_PRESENTATION.png[image:../../wp-content/uploads/2016/01/RBS_PRESENTATION.png[image,width=602,height=237]]
+image:../../wp-content/uploads/2016/01/RBS_PRESENTATION.png[width=602,height=237]
 
 [[cas-d-usage-1]]
 == Consulter les ressources disponibles
@@ -58,7 +57,7 @@ L’utilisateur dispose d’un certain nombre de *filtres* :
 * Filtre pour afficher uniquement les réservations **en attente de
 validation**(5)
 
-link:../../wp-content/uploads/2016/01/RBS-Vue-Calendrier.png[image:../../wp-content/uploads/2016/01/RBS-Vue-Calendrier.png[image,width=602,height=240]]
+image:../../wp-content/uploads/2016/01/RBS-Vue-Calendrier.png[width=602,height=240]
 
 Chaque réservation est matérialisée sur le calendrier par un pavé de la
 même couleur que le type de ressource concerné.
@@ -68,12 +67,12 @@ même couleur que le type de ressource concerné.
 * La réservation a été refusée. (3)
 * Il s’agit d’une réservation périodique. (4)
 
-link:../../wp-content/uploads/2016/01/RBS-Vue-Calendrier-2.png[image:../../wp-content/uploads/2016/01/RBS-Vue-Calendrier-2.png[image,width=602,height=275]] +
+image:../../wp-content/uploads/2016/01/RBS-Vue-Calendrier-2.png[width=602,height=275] +
 Pour visualiser le détail d’une réservation, il suffit de cliquer sur la
 réservation en question, pour afficher une fenêtre (pop-up) qui présente
 plusieurs sections. Chaque section se déplie en cliquant sur le titre.
 
-image:../../wp-content/uploads/2015/06/r3.png[r3,width=345,height=278]
+image:../../wp-content/uploads/2015/06/r3.png[width=345,height=278]
 
 Pour intervenir sur une réservation (modification, validation,
 suppression) il suffit de cocher la case correspondant à cette
@@ -94,13 +93,13 @@ Il bénéficie par ailleurs des mêmes filtres que sur la vue Calendrier.
 Le tri peut être fait sur toutes les colonnes du tableau : demandeur,
 ressource, date de début, date de fin et état.
 
-*link:../../wp-content/uploads/2016/01/RBS-VUE-LISTE.png[image:../../wp-content/uploads/2016/01/RBS-VUE-LISTE.png[image,width=603,height=235]]*
+*image:../../wp-content/uploads/2016/01/RBS-VUE-LISTE.png[width=603,height=235]*
 
 Pour visualiser le détail d’une réservation, il suffit de cliquer sur
 la réservation en question dans la liste, pour afficher une fenêtre
 (pop-up) qui donne toutes les informations.
 
-image:../../wp-content/uploads/2015/06/r3.png[r3,width=322,height=259] +
+image:../../wp-content/uploads/2015/06/r3.png[width=322,height=259] +
 
 [[cas-d-usage-2]]
 == Créer une demande de réservation
@@ -111,7 +110,7 @@ Il est possible de réserver une ressource :
 
 * Soit en cliquant sur « Nouvelle réservation » en haut de l’écran
 
-link:../../wp-content/uploads/2016/01/RBS_CREATION.png[image:../../wp-content/uploads/2016/01/RBS_CREATION.png[image,width=602,height=240]]
+image:../../wp-content/uploads/2016/01/RBS_CREATION.png[width=602,height=240]
 
 * Soit en cliquant sur un créneau dans le calendrier.
 
@@ -121,7 +120,7 @@ Il est possible de créer une demande de réservation ponctuelle ou
 périodique. L'utilisateur choisit de créer une demande ponctuelle ou
 périodique en cliquant sur "Nouvelle réservation".
 
-image:../../wp-content/uploads/2015/06/r7.png[r7,width=185,height=97]
+image:../../wp-content/uploads/2015/06/r7.png[width=185,height=97]
 
 La première section permet de choisir le type de ressource (1) et la
 ressource à réserver (2).
@@ -130,7 +129,7 @@ La description de la ressource est indiquée (3). L’utilisateur peut
 également voir les noms des valideurs (4) si les réservations pour cette
 ressource sont soumises à validation.
 
-image:../../wp-content/uploads/2015/06/r8.png[r8,width=442,height=325] +
+image:../../wp-content/uploads/2015/06/r8.png[width=442,height=325] +
 *Réservation ponctuelle*
 
 Dans le cas d'une réservation ponctuelle, l'utilisateur choisit le
@@ -138,7 +137,7 @@ créneau de sa demande. L'utilisateur choisit le créneau de réservation
 (1), indique le motif de la réservation (2) et d’enregistrer sa demande.
 (3)
 
-image:../../wp-content/uploads/2015/06/r12.png[r1,width=521,height=372]
+image:../../wp-content/uploads/2015/06/r12.png[width=521,height=372]
 
 Si l'utilisateur souhaite modifier sa demande ponctuelle en demande
 périodique, il lui suffit de cliquer sur la case à cocher "réservation
@@ -153,7 +152,7 @@ Pour cela, il faut choisir la récurrence (1), les jours de la semaine
 concernés (2), le nombre d'occurrences ou une date de fin de période
 (3). Pour enregistrer la demande, cliquez sur "Enregistrer".
 
-image:../../wp-content/uploads/2015/06/r21.png[r2,width=467,height=367] +
+image:../../wp-content/uploads/2015/06/r21.png[width=467,height=367] +
 Dans tous les cas, tous les créneaux réservés doivent satisfaire les
 contraintes éventuellement mises en place par le gestionnaire de la
 ressource concernant les intervalles minimum et maximum de réservation.
@@ -174,18 +173,18 @@ Liste, effectuer un filtre sur le type de ressource (1), et afficher
 uniquement les réservations en attente de validation (2). L’icône
 signifie que la réservation est en attente de validation. (3).
 
-link:../../wp-content/uploads/2016/01/RBS-VALIDATION.png[image:../../wp-content/uploads/2016/01/RBS-VALIDATION.png[image,width=603,height=151]] +
+image:../../wp-content/uploads/2016/01/RBS-VALIDATION.png[width=603,height=151] +
 *Valider une réservation ponctuelle*
 
 Pour accepter ou refuser une réservation ponctuelle, le valideur doit
 sélectionner la réservation (1) et cliquer sur le bouton Valider ou
 Refuser (2). +
-link:../../wp-content/uploads/2016/01/RBS-VALIDATION-PONCTUELLE.png[image:../../wp-content/uploads/2016/01/RBS-VALIDATION-PONCTUELLE.png[image,width=602,height=212]]
+image:../../wp-content/uploads/2016/01/RBS-VALIDATION-PONCTUELLE.png[width=602,height=212]
 
 Le valideur qui refuse une réservation peut indiquer le motif de son
 refus (1) (champ non obligatoire), puis confirmer son refus. (2)
 
-image:../../wp-content/uploads/2015/06/r31.png[r3,width=490,height=280] +
+image:../../wp-content/uploads/2015/06/r31.png[width=490,height=280] +
 *Valider une réservation périodique*
 
 Pour valider une réservation périodique (qui comporte plusieurs
@@ -195,17 +194,17 @@ créneaux), il est possible :
 la case correspondant à la réservation (1) puis en cliquant sur le
 bouton d’action en bas de l’écran : supprimer, valider et refuser (2) :
 
-link:../../wp-content/uploads/2016/01/RBS-VALIDATION-PERIODIQUE.png[image:../../wp-content/uploads/2016/01/RBS-VALIDATION-PERIODIQUE.png[image,width=603,height=210]]
+image:../../wp-content/uploads/2016/01/RBS-VALIDATION-PERIODIQUE.png[width=603,height=210]
 
 * De déplier la réservation (1) pour visualiser les différents créneaux
 qui la composent en cliquant sur l'icône suivant:
 
-image:../../wp-content/uploads/2015/06/r51.png[r5,width=34,height=32]
+image:../../wp-content/uploads/2015/06/r51.png[width=34,height=32]
 
 Puis en sélectionnant les seuls créneaux que l’on veut
 valider/refuser(2) :
 
-link:../../wp-content/uploads/2016/01/RBS-VALIDATION-PERIODIQUE-2.png[image:../../wp-content/uploads/2016/01/RBS-VALIDATION-PERIODIQUE-2.png[image,width=602,height=214]]
+image:../../wp-content/uploads/2016/01/RBS-VALIDATION-PERIODIQUE-2.png[width=602,height=214]
 
 [[cas-d-usage-4]]
 == Définir les types de ressources
@@ -213,7 +212,7 @@ link:../../wp-content/uploads/2016/01/RBS-VALIDATION-PERIODIQUE-2.png[image:../.
 Pour accéder à l’interface de gestion des ressources, les utilisateurs
 habilités (gestionnaires) doivent cliquer sur l’icône de la molette. (1)
 
-image:../../wp-content/uploads/2015/06/r71.png[r7,width=594,height=53]
+image:../../wp-content/uploads/2015/06/r71.png[width=594,height=53]
 
 Pour ajouter des nouveaux types de ressources, cliquez sur « Créer un type de ressources » (1) et renseignez les champs suivants :
 

@@ -13,8 +13,7 @@ la classe]
 codes d'activation]
 * link:index.html?iframe=true#cas-d-usage-4[Supprimer un utilisateur]
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
+image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
 [[presentation]]
 == Présentation
@@ -32,8 +31,8 @@ Pour accéder à l’appli Paramétrage de la classe, cliquez sur l’icône
 correspondante dans la page « Mes
 applis ».
 
-image:../../wp-content/uploads/2015/06/p1.png[p1,width=274,height=50] +
-image:../../wp-content/uploads/2015/06/p2.png[p2,width=474,height=213]
+image:../../wp-content/uploads/2015/06/p1.png[width=274,height=50] +
+image:../../wp-content/uploads/2015/06/p2.png[width=474,height=213]
 
 Vous accédez à la page de gestion de votre classe, qui vous permet de
 modifier le nom de votre classe et d’administrer les utilisateurs
@@ -43,7 +42,7 @@ Il est alors possible d’ajouter des élèves (1), des parents (2), des
 enseignants (3) et des personnels
 (4).
 
-image:../../wp-content/uploads/2015/06/p3.png[p3,width=480,height=252]
+image:../../wp-content/uploads/2015/06/p3.png[width=480,height=252]
 
 Pour ajouter des élèves, vous pouvez soit :
 
@@ -53,7 +52,7 @@ Pour ajouter des élèves, vous pouvez soit :
 Pour modifier les informations déjà saisies pour un utilisateur de votre
 classe, cliquez sur le nom de l’utilisateur (3).
 
-image:../../wp-content/uploads/2015/06/p4.png[p4,width=478,height=250]
+image:../../wp-content/uploads/2015/06/p4.png[width=478,height=250]
 
 La création de compte parent s’effectue de la même manière. Dans
 l’onglet « Parents », il est possible :
@@ -66,7 +65,7 @@ prénom (2);
 (cliquez ici pour télécharger le fichier).]
 
 
-.image:../../wp-content/uploads/2015/06/p5.png[p5,width=473,height=266]
+.image:../../wp-content/uploads/2015/06/p5.png[width=473,height=266]
 
 
 Pour que les élèves soient bien rattachés aux parents, vérifiez que le
@@ -87,8 +86,8 @@ Pour accéder à l’appli Paramétrage de la classe, cliquez sur l’icône
 correspondante dans la page « Mes
 applis ».
 
-image:../../wp-content/uploads/2015/06/p11.png[p1,width=268,height=49] +
-image:../../wp-content/uploads/2015/06/p6.png[p6,width=411,height=245]
+image:../../wp-content/uploads/2015/06/p11.png[width=268,height=49] +
+image:../../wp-content/uploads/2015/06/p6.png[width=411,height=245]
 
 Vous accédez à la page de gestion de votre classe, qui vous permet de
 modifier le nom de votre classe et d’administrer les utilisateurs
@@ -98,7 +97,7 @@ Dans l’onglet correspondant, sélectionnez l’utilisateur dont vous
 souhaitez renouveler le mot de passe et cliquez sur « Réinitialiser le
 mot de passe ».
 
-image:../../wp-content/uploads/2015/06/p7.png[p7,width=497,height=324]
+image:../../wp-content/uploads/2015/06/p7.png[width=497,height=324]
 
 Un email est alors envoyé sur l’adresse email que vous avez renseignée
 dans la rubrique « Mon compte ».
@@ -125,7 +124,7 @@ s’il s’agit d’un parent).
 Vous pouvez également effectuer vous-même la manipulation. Pour cela,
 cliquez sur le lien contenu dans le corps du message. Vous accédez à
 l’interface de réinitialisation du mot de passe. +
-image:../../wp-content/uploads/2015/06/p8.png[p8,width=463,height=171]
+image:../../wp-content/uploads/2015/06/p8.png[width=463,height=171]
 
 Renseignez l’identifiant de l’utilisateur dans le premier champ (1).
 Saisissez ensuite le nouveau mot de passe (2), puis confirmez-le dans le
@@ -140,8 +139,8 @@ alors se connecter avec son nouveau mot de passe.
 Pour accéder à l’appli Paramétrage de la classe, cliquez sur l’icône
 correspondante dans la page « Mes applis ».
 
-image:../../wp-content/uploads/2015/06/p12.png[p1,width=290,height=53]
-image:../../wp-content/uploads/2015/06/p9.png[p9,width=426,height=253]
+image:../../wp-content/uploads/2015/06/p12.png[width=290,height=53]
+image:../../wp-content/uploads/2015/06/p9.png[width=426,height=253]
 
 Vous accédez à la page de gestion de votre classe, qui vous permet de
 modifier le nom de votre classe et d’administrer les utilisateurs
@@ -154,7 +153,7 @@ de connexion.
 En bas de la liste d’utilisateurs, cliquez sur « Exporter les codes
 d’activation ».
 
-image:../../wp-content/uploads/2015/06/p10.png[p10,width=501,height=536]
+image:../../wp-content/uploads/2015/06/p10.png[width=501,height=536]
 
 Un fichier CSV est généré, contenant les identifiants et codes
 d’activation des utilisateurs sélectionnés, que vous pouvez ouvrir ou
@@ -167,8 +166,8 @@ classe.
 
 Pour accéder à l’appli Paramétrage de la classe, cliquez sur l’icône
 correspondante dans la page « Mes applis ». +
-image:../../wp-content/uploads/2015/06/p13.png[p1,width=312,height=57]
-image:../../wp-content/uploads/2015/06/p9.png[p9,width=595,height=353] +
+image:../../wp-content/uploads/2015/06/p13.png[width=312,height=57]
+image:../../wp-content/uploads/2015/06/p9.png[width=595,height=353] +
 Vous accédez à la page de gestion de votre classe, qui vous permet de
 modifier le nom de votre classe et d’administrer les utilisateurs
 (élèves et parents).
@@ -176,7 +175,7 @@ modifier le nom de votre classe et d’administrer les utilisateurs
 Dans l’onglet correspondant, sélectionnez l’utilisateur que vous
 souhaitez supprimer et cliquez sur « Supprimer ».
 
-image:../../wp-content/uploads/2015/06/p111.png[p11,width=664,height=413]
+image:../../wp-content/uploads/2015/06/p111.png[width=664,height=413]
 
 Une personne dont le compte est supprimé pourra encore se connecter et
 récupérer un export de ses documents (appli Export). En revanche, elle

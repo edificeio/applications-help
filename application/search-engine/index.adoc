@@ -15,8 +15,7 @@ application]
 * link:index.html?iframe=true#cas-d-usage-5[Liste des résultats]
 * link:#cas-d-usage-6[Détail d'une ressource de la liste résultat]
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
+image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
 
 [[presentation]]
@@ -48,7 +47,7 @@ sont affichées dans le moteur de recherche.
 [[cas-d-usage-1]]
 == Description de la page de recherche
 
-link:../../wp-content/uploads/2016/06/Presentation001.png[image:../../wp-content/uploads/2016/06/Presentation001.png[Presentation001,width=600,height=316]]
+image:../../wp-content/uploads/2016/06/Presentation001.png[width=600,height=316]
 
 (1) Les icônes correspondants aux applications sont des filtres qui vous
 permettent d’activer ou de désactiver la recherche dans cette catégorie.
@@ -70,7 +69,7 @@ des filtres activés
 Pour accéder à la page de recherche, vous devez cliquer sur l’icône de
 recherche de la barre de menu principale de l’ENT.
 
-link:../../wp-content/uploads/2016/06/Acces0011.png[image:../../wp-content/uploads/2016/06/Acces0011.png[Acces001,width=292,height=89]]link:../../wp-content/uploads/2016/06/Acces001.png[ +
+image:../../wp-content/uploads/2016/06/Acces0011.png[width=292,height=89]link:../../wp-content/uploads/2016/06/Acces001.png[ +
 ]
 
 Si vous cliquez sur l’icône « Loupe », vous accédez directement à
@@ -117,8 +116,7 @@ de ressource. Pour qu’une ressource soit affichée dans la liste
 résultat, un des champs de la ressource doit contenir **tous les
 mots-clés saisis d’au moins 4 caractères**.
 
-link:../../wp-content/uploads/2016/06/Tableau-filtre.png[image:../../wp-content/uploads/2016/06/Tableau-filtre.png[Tableau
-filtre,width=500]]
+image:../../wp-content/uploads/2016/06/Tableau-filtre.png[width=500]
 
 [[cas-d-usage-5]]
 == Liste des résultats
@@ -128,13 +126,13 @@ sous la zone de saisie des mots-clés. +
 Si aucune ressource ne correspond aux filtres de recherche, un message
 indique qu’aucun résultat ne correspond à vos critères de recherche
 (1). +
-link:../../wp-content/uploads/2016/06/Resultat001.png[image:../../wp-content/uploads/2016/06/Resultat001.png[Resultat001,width=601,height=197]]
+image:../../wp-content/uploads/2016/06/Resultat001.png[width=601,height=197]
 
 Si toutes les ressources correspondant aux filtres sont affichées, un
 message est affiché indiquant que « Tous les résultats en correspondance
 avec vos critères de recherche sont affichés » (1).
 
-link:../../wp-content/uploads/2016/06/Resultat002.png[image:../../wp-content/uploads/2016/06/Resultat002.png[Resultat002,width=601,height=405]]
+image:../../wp-content/uploads/2016/06/Resultat002.png[width=601,height=405]
 
 Si un nombre important de ressources correspondent aux filtres un
 message indique que Tous les résultats ne sont pas affichés. Veuillez
@@ -146,12 +144,12 @@ de page, toutes les ressources qui correspondent aux filtres sont
 affichées et un message indique que « Tous les résultats en
 correspondance avec vos critères de recherche sont affichés » (1).
 
-link:../../wp-content/uploads/2016/06/Resultat003.png[image:../../wp-content/uploads/2016/06/Resultat003.png[Resultat003,width=600,height=354]]
+image:../../wp-content/uploads/2016/06/Resultat003.png[width=600,height=354]
 
 [[cas-d-usage-6]]
 == Détail d'une ressource de la liste résultat
 
-link:../../wp-content/uploads/2016/06/Detail001.png[image:../../wp-content/uploads/2016/06/Detail001.png[Detail001,width=600,height=346]]
+image:../../wp-content/uploads/2016/06/Detail001.png[width=600,height=346]
 
 (1) Titre de la ressource
 

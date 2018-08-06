@@ -16,8 +16,7 @@ espace de stockage]
 * link:index.html?iframe=true#cas-d-usage-7[Consulter le journal de
 téléchargement d’un fichier]
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
+image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
 [[presentation]]
 == Présentation
@@ -51,7 +50,7 @@ La page d’accueil de Poste-fichiers affiche les fichiers que vous avez
 déposés et ceux qui ont été partagés avec vous par d’autres
 utilisateurs.
 
-link:../../wp-content/uploads/2016/04/600-Accueil.png[image:../../wp-content/uploads/2016/04/600-Accueil.png[600-Accueil,width=600,height=342]]
+image:../../wp-content/uploads/2016/04/600-Accueil.png[width=600,height=342]
 
 Le bouton "Envoyer un fichier" vous permet de déposer un nouveau
 fichier.
@@ -109,12 +108,12 @@ stockage dédié à cette application.
 Saisissez le nombre de jours (2) durant lesquels le fichier pourra être
 téléchargé, le nom du fichier (3), une description (4).
 
-link:../../wp-content/uploads/2016/04/203-Modifier.png[image:../../wp-content/uploads/2016/04/203-Modifier.png[203-Modifier,width=699,height=289]]
+image:../../wp-content/uploads/2016/04/203-Modifier.png[width=699,height=289]
 
  
 
 Cliquez sur le bouton
-link:../../wp-content/uploads/2016/04/003-Deposer.png[image:../../wp-content/uploads/2016/04/003-Deposer.png[003-Deposer,width=88,height=32]] pour
+image:../../wp-content/uploads/2016/04/003-Deposer.png[width=88,height=32] pour
 sélectionner sur votre poste de travail le fichier à déposer.
 
 Cliquez sur le bouton "Enregistrer" pour valider le dépôt du fichier
@@ -124,7 +123,7 @@ Durant le dépôt du fichier, une barre (1) affiche le pourcentage
 d’avancement du téléchargement du fichier sélectionné dans votre espace
 de stockage.
 
-link:../../wp-content/uploads/2016/04/005-Deposer.png[image:../../wp-content/uploads/2016/04/005-Deposer.png[005-Deposer,width=620,height=371]]
+image:../../wp-content/uploads/2016/04/005-Deposer.png[width=620,height=371]
 
 [[cas-d-usage-3]]
 == Partager un fichier
@@ -132,7 +131,7 @@ link:../../wp-content/uploads/2016/04/005-Deposer.png[image:../../wp-content/upl
 Pour partager un ou plusieurs fichiers avec d’autres utilisateurs,
 cochez les cases des fichiers à partager (1) puis cliquez sur le bouton
 "Partager" (2). +
-link:../../wp-content/uploads/2016/04/101-Partager1.png[image:../../wp-content/uploads/2016/04/101-Partager1.png[101-Partager,width=619,height=316]]
+image:../../wp-content/uploads/2016/04/101-Partager1.png[width=619,height=316]
 
 Dans la fenêtre, vous pouvez donner aux utilisateurs de l’ENT différents
 droits d'accès à votre fichier. Pour cela :
@@ -144,8 +143,7 @@ d’utilisateurs que vous recherchez.
 attribuer.
 
 L’icône suivante signale que le fichier a été partagé avec d’autres
-utilisateurs : link:../../wp-content/uploads/2016/04/Double-flèche.png[image:../../wp-content/uploads/2016/04/Double-flèche.png[Double
-flèche,width=18,height=18]] 
+utilisateurs : image:../../wp-content/uploads/2016/04/Double-flèche.png[width=18,height=18]
 
 Pour valider, cliquez sur le bouton "Partager".
 
@@ -172,7 +170,7 @@ Vous pouvez également sélectionner le fichier à modifier en cochant la
 case (2) située devant le titre, puis en cliquant sur le bouton
 "Editer" (3).
 
-link:../../wp-content/uploads/2016/04/201-Modifier1.png[image:../../wp-content/uploads/2016/04/201-Modifier1.png[201-Modifier,width=620,height=354]]Vous
+image:../../wp-content/uploads/2016/04/201-Modifier1.png[width=620,height=354]Vous
 pouvez modifier la durée de validité (1) du fichier dans la limite de 30
 jours à partir de la date de dépôt du fichier dans votre espace de
 stockage.
@@ -180,7 +178,7 @@ stockage.
 Modifiez le titre (2) ou la description (3) puis cliquez sur le bouton
 "Enregistrer" (4) pour valider vos modifications.
 
-link:../../wp-content/uploads/2016/04/203-Modifier1.png[image:../../wp-content/uploads/2016/04/203-Modifier1.png[203-Modifier,width=620,height=331]]
+image:../../wp-content/uploads/2016/04/203-Modifier1.png[width=620,height=331]
 
 [[cas-d-usage-5]]
 == Supprimer un fichier
@@ -189,7 +187,7 @@ Pour supprimer un fichier, vous devez sélectionner le fichier en cochant
 la case (1) située devant le titre, puis cliquez sur le bouton
 "Supprimer" (2).
 
-link:../../wp-content/uploads/2016/04/301-Supprimer1.png[image:../../wp-content/uploads/2016/04/301-Supprimer1.png[301-Supprimer,width=618,height=352]]
+image:../../wp-content/uploads/2016/04/301-Supprimer1.png[width=618,height=352]
 
 [[cas-d-usage-6]]
 == Télécharger un fichier qui a été partagé avec moi
@@ -201,7 +199,7 @@ cliquant sur le bouton "Télécharger" (3).
 
 Vous pouvez trier la liste des fichiers en cliquant sur le nom d’une
 colonne (4). +
-link:../../wp-content/uploads/2016/04/401-Telecharger1.png[image:../../wp-content/uploads/2016/04/401-Telecharger1.png[401-Telecharger,width=619,height=353]]link:../../wp-content/uploads/2016/04/401-Telecharger.png[ +
+image:../../wp-content/uploads/2016/04/401-Telecharger1.png[width=619,height=353]link:../../wp-content/uploads/2016/04/401-Telecharger.png[ +
 ]Les fichiers dont la date de péremption est atteinte peuvent toujours
 être téléchargés le jour-même, mais ne seront plus disponibles dès le
 lendemain. Dans ce cas, le titre du fichier est affiché en *violet* et
@@ -223,9 +221,9 @@ nombre de téléchargements (1), le journal de téléchargement est affiché.
 Vous pouvez également sélectionner le fichier en cochant la case située
 devant le nom du fichier (2) puis en cliquant sur le bouton "Journal de
 téléchargement" (3). +
-link:../../wp-content/uploads/2016/04/501-Historique1.png[image:../../wp-content/uploads/2016/04/501-Historique1.png[501-Historique,width=620,height=354]]
+image:../../wp-content/uploads/2016/04/501-Historique1.png[width=620,height=354]
 
 Le journal de téléchargement affiche la liste des utilisateurs (1) qui
 ont téléchargé le fichier et indique la date du téléchargement (2). +
-link:../../wp-content/uploads/2016/04/503-Historique1.png[image:../../wp-content/uploads/2016/04/503-Historique1.png[503-Historique,width=620,height=393]]
+image:../../wp-content/uploads/2016/04/503-Historique1.png[width=620,height=393]
 

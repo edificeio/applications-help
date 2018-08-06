@@ -15,8 +15,7 @@ uniques]
 * link:index.html?iframe=true#cas-d-usage-5[Statistiques des comptes
 activés]
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC
-BY-NC-SA 3.0 FR,width=100,height=35]]
+image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[width=100,height=35]
 
 
 [[presentation]]
@@ -37,7 +36,7 @@ mensuellement sur la période sélectionnée ;
 * *Comptes activés* : indique la proportion d’activations de comptes par
 rapport à l’effectif total par profil.
 
-image:../../wp-content/uploads/2016/01/STAT-PRESENTATION-1024x372.png[image,width=600,height=218]
+image:../../wp-content/uploads/2016/01/STAT-PRESENTATION-1024x372.png[width=600,height=218]
 
 [[cas-d-usage-1]]
 == Statistiques de connexion
@@ -47,7 +46,7 @@ image:../../wp-content/uploads/2016/01/STAT-PRESENTATION-1024x372.png[image,widt
 Pour accéder à l’appli Statistiques, cliquez sur l’icône correspondante
 dans la page « Mes applis ».
 
-image:../../wp-content/uploads/2015/07/s2.png[s2,width=122,height=123]
+image:../../wp-content/uploads/2015/07/s2.png[width=122,height=123]
 
 A l’arrivée sur l’application, les statistiques de connexion s’affichent
 par défaut (1). Vous pouvez choisir la période pour laquelle vous
@@ -58,7 +57,7 @@ le diagramme » (4) pour afficher les résultats.
 Vous pouvez organiser les résultats par profil (5) et les exporter dans
 un fichier au format CSV (6).
 
-image:../../wp-content/uploads/2016/01/STAT-21-1024x442.png[image,width=600,height=259]
+image:../../wp-content/uploads/2016/01/STAT-21-1024x442.png[width=600,height=259]
 
 [[cas-d-usage-2]]
 == Statistiques d’accès aux applications
@@ -66,7 +65,7 @@ image:../../wp-content/uploads/2016/01/STAT-21-1024x442.png[image,width=600,heig
 Vous pouvez organiser les résultats par profil (6) et les exporter dans
 un fichier au format CSV (7).
 
-image:../../wp-content/uploads/2016/01/STAT-3-1024x443.png[image,width=600,height=260]
+image:../../wp-content/uploads/2016/01/STAT-3-1024x443.png[width=600,height=260]
 
 [[cas-d-usage-3]]
 == Statistiques d’activations de comptes
@@ -79,7 +78,7 @@ Cliquez sur « Afficher le diagramme » (4) pour afficher les résultats.
 Vous pouvez organiser les résultats par profil (5) et les exporter dans
 un fichier au format CSV (6).
 
-image:../../wp-content/uploads/2016/01/STAT-4-1024x442.png[image,width=600,height=259]
+image:../../wp-content/uploads/2016/01/STAT-4-1024x442.png[width=600,height=259]
 
 [[cas-d-usage-4]]
 == Statistiques de visiteurs uniques
@@ -87,11 +86,11 @@ image:../../wp-content/uploads/2016/01/STAT-4-1024x442.png[image,width=600,heigh
 Vous pouvez organiser les résultats par profil (5) et les exporter dans
 un fichier au format CSV (6).
 
-image:../../wp-content/uploads/2016/01/STAT-5-1024x441.png[image,width=600,height=259]
+image:../../wp-content/uploads/2016/01/STAT-5-1024x441.png[width=600,height=259]
 
 [[cas-d-usage-5]]
 == Statistiques des comptes activés
 
-link:../../wp-content/uploads/2016/01/STAT-61.png[image:../../wp-content/uploads/2016/01/STAT-61.png[STAT-6,width=599,height=259]]
+image:../../wp-content/uploads/2016/01/STAT-61.png[width=599,height=259]
 
  
