@@ -81,8 +81,7 @@ image:../../wp-content/uploads/2015/05/M12.png[width=248,height=49]
 Une fois dans l’appli messagerie, les nouveaux messages sont visibles
 dans la notification indiquée dans le dossier « boîte de réception ». Le
 nombre de messages non lus est indiqué dans la bulle à droite de la mention « Boîte de réception ».
-image:/assets/Messagerie 1.png[alt="
-image:/assets/enveloppe-fermee.png[]
+image:/assets/Messagerie 1.png[]
 
 Sur l’écran central, les messages non lus apparaissent en bleu dans la liste et sont indiqués par une enveloppe fermée. 
 
@@ -92,17 +91,17 @@ image:/assets/icones.png[]
 
 (2) Le trombone indique que le message comporte une pièce jointe
 
-image:/assets/Messagerie 2.png[alt="image:/assets/message-non-lu-recherche.png[]
+image:/assets/Messagerie 2.png[]
 (1) Le filtre « messages non lus » vous permet de ne faire apparaître que les messages qui n’ont pas encore été lus.
 
 (2) La barre de recherche vous permet de rechercher un message dans le dossier en cours de consultation grâce au nom d’un utilisateur, un mot clé présent dans l’objet ou le contenu.
 
 Cliquez sur le titre d’un message pour en lire le contenu.
-image:/assets/messagerie 3.png[alt="image:/assets/lire-message.png[]
+image:/assets/messagerie 3.png[]
 
 Les flèches présentes en haut à gauche du message permettent de passer d’un message à un autre au sein de la catégorie ou la sélection.
 
-image:/assets/messagerie 4.png[alt="image:/assets/fleches.png[]
+image:/assets/messagerie 4.png[]
 
 En revenant à la liste de vos messages dans la rubrique « Boîte de réception » de votre messagerie, vous pouvez :
 
@@ -114,7 +113,7 @@ En revenant à la liste de vos messages dans la rubrique « Boîte de réception
 
 (4) les marquer comme non lu
 
-image:/assets/messagerie 5.png[alt="image:/assets/nonlu-deplacement.png[]
+image:/assets/messagerie 5.png[]
 
 
 [[cas-d-usage-3]]
@@ -122,14 +121,13 @@ image:/assets/messagerie 5.png[alt="image:/assets/nonlu-deplacement.png[]
 
 Lorsque vous avez cliquez sur le titre d’un message, vous accédez à son contenu. 
 Le bouton « répondre » en haut à droite vous permet de répondre à l’émetteur du message. 
-image:/assets/Messagerie 6.png[alt="
-image:/assets/repondre-message.png[]
+image:/assets/Messagerie 6.png[]
 
 La fenêtre de création d’un message s’ouvre. L’émetteur du message reçu est automatiquement ajouté en tant que destinataire.
 
 Si vous avez reçu un message groupé vous pouvez cliquez sur le bouton « + » (1) présent en haut à droite pour faire apparaître les options secondaires :
 
-image:/assets/Messagerie 7.png[alt="image:/assets/traiter-message.png[]
+image:/assets/Messagerie 7.png[]
 
 (2) Répondre à tous : tous les destinataires du messages reçus sont automatiquement ajoutés dans les champs « à » et « en copie » selon la répartition du message d’origine. 
 

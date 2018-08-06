@@ -26,8 +26,7 @@ recueillant le plus de visites depuis le 1er septembre +
 • *Comptes activés* : calcule le nombre de comptes activés depuis le 1er
 septembre.
 
-image:../../wp-content/uploads/2015/04/Stats-1.jpg[Stats
-1,width=329,height=365]
+image:../../wp-content/uploads/2015/04/Stats-1.jpg[width=329,height=365]
 
 [[cas-d-usage-1]]
 == Comprendre les données disponibles

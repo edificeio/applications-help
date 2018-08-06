@@ -57,8 +57,8 @@ des filtres activés
 Pour accéder à la page de recherche, vous devez cliquer sur l’icône de
 recherche de la barre de menu principale de l’ENT.
 
-image:../../wp-content/uploads/2016/06/Acces0011.png[width=292,height=89]link:../../wp-content/uploads/2016/06/Acces001.png[ +
-]
+image:../../wp-content/uploads/2016/06/Acces0011.png[width=292,height=89]
+image:../../wp-content/uploads/2016/06/Acces001.png[]
 
 Si vous cliquez sur l’icône « Loupe », vous accédez directement à
 l’application.

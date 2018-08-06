@@ -29,6 +29,7 @@ suivantes :
 1. Cliquez sur le bouton « Créer évaluation »
 
 image:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences.jpg[width=158,height=30]
+
 2. Sélectionner ou saisir les informations obligatoires suivantes :
 
 * Établissement
@@ -48,6 +49,7 @@ image:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences.jpg[widt
 ?" pour évaluer les élèves avec des notes ou pas. +
 5. Modifier si besoin le coefficient et la note maximum +
 6. Cliquer sur l'onglet "Compétences" +
+
 image:../../wp-content/uploads/2017/03/Evaluation-avec-des-compétences-2.jpg[width=455,height=504]
 
 7. Sélectionner des connaissances ou compétences +
@@ -231,7 +233,7 @@ image:../../wp-content/uploads/2017/03/Suivi-classe-2.jpg[width=550]
 niveau de maitrise de la compétence. +
 5. En cliquant sur un élève, s’affiche le suivi de compétence de l’élève
 
-mage:../../wp-content/uploads/2017/03/Suivi-classe-3.jpg[width=550]
+image:../../wp-content/uploads/2017/03/Suivi-classe-3.jpg[width=550]
 
 [[cas-d-usage-9]]
 == Effectuer un remplacement

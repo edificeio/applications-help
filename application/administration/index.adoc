@@ -18,8 +18,7 @@ La console d'administration offre également la possibilité d'ajuster les
 règles de communication entre les groupes d'utilisateurs de
 l'établissement.
 
-image:../../wp-content/uploads/2015/03/Console-dadmin.png[Console
-d'admin,width=594,height=293]
+image:../../wp-content/uploads/2015/03/Console-dadmin.png[width=594,height=293]
 
 [[cas-d-usage-1]]
 == Accéder à la Console d’administration
@@ -136,7 +135,8 @@ l’AAF)
 * L’attribution de structures et de classes de rattachement
 * L’attribution de droits d’administrateur central et local
 
-image:../../wp-content/uploads/2015/07/a17.png[width=312,height=365,25]image:../../wp-content/uploads/2015/07/a18.png[width=325,5,height=284,25]
+image:../../wp-content/uploads/2015/07/a17.png[width=312,height=365,25]
+image:../../wp-content/uploads/2015/07/a18.png[width=325,5,height=284,25]
 
 *1.  Changer le mot de passe d'un utilisateur*
 
@@ -161,7 +161,7 @@ saisissez le nombre souhaité (2) puis cliquez sur « Enregistrer » (3).
 Si le quota attribué est trop élevé par rapport à la limite fixée, un
 message d’erreur apparaît.
 
-image:../../wp-content/uploads/2015/07/a24.png[width=200] +
+image:../../wp-content/uploads/2015/07/a24.png[width=200]
 
 *3. Attribuer la fonction d’administrateur local à un utilisateur*
 
@@ -212,7 +212,7 @@ Pour cela, suivez les étapes ci-dessous :
 le début de son prénom pour le trouver plus rapidement
 * Cliquez sur « Bloquer »
 
-image:../../wp-content/uploads/2015/07/a34.png[width=200] +
+image:../../wp-content/uploads/2015/07/a34.png[width=200]
 image:../../wp-content/uploads/2015/07/a42.png[width=635,height=296]
 
 Pour débloquer le compte d’un utilisateur, cliquez sur « débloquer ».
@@ -238,7 +238,7 @@ Pour consulter tous les utilisateurs d’une classe, cliquez sur le lien
 sur la page « Opérations sur les utilisateurs » où les membres de la
 classe apparaissent. 
 
-image:../../wp-content/uploads/2015/07/a61.png[width=597,height=453] +
+image:../../wp-content/uploads/2015/07/a61.png[width=597,height=453]
 *1. Exporter les comptes des utilisateurs d’une classe*
 
 Pour générer un fichier contenant la liste des utilisateurs rattachés à
@@ -288,7 +288,7 @@ Pour créer un groupe manuel, cliquez sur « Annuaire » (1), sur
 Saisissez le nom du groupe (4) et cliquez sur le bouton « Enregistrer »
 (5). Le groupe est créé mais aucun utilisateur n’y est encore rattaché.
 
-image:../../wp-content/uploads/2015/07/a81.png[width=615,height=229] +
+image:../../wp-content/uploads/2015/07/a81.png[width=615,height=229]
 *2. Rattacher des utilisateurs à un groupe manuel*
 
 Pour rattacher des utilisateurs à un groupe manuel, suivez les étapes
@@ -365,8 +365,6 @@ colonne est vide.
 
 [[cas-d-usage-7]]
 == Les règles de communication
-
-
 
 *1. Accéder aux règles par défaut*
 
@@ -581,8 +579,7 @@ _N.B. : l’ENT permet un certain degré de tolérance sur la reconnaissance
 du nom, il peut donc reconnaitre des doublons même si les noms et
 prénoms ne sont pas strictement identiques.
 
-image:../../wp-content/uploads/2015/05/NDV-18.png[NDV
-18,width=534,height=82]
+image:../../wp-content/uploads/2015/05/NDV-18.png[width=534,height=82]
 
 Quand un nouveau compte est identifié, il n’est pas possible de
 l’activer. Un administrateur (local ou central) devra alors indiquer si
@@ -672,8 +669,7 @@ après sa création.
 Les parents rattachés à un élève sont maintenant affichés sur la fiche
 de l’élève dans la console d’administration.
 
-image:../../wp-content/uploads/2015/04/NDV-15.png[NDV
-15,width=150]
+image:../../wp-content/uploads/2015/04/NDV-15.png[width=150]
 
 *Rattacher un groupe manuel à une classe*
 
@@ -714,8 +710,7 @@ utilisateur.
 * Un administrateur central (ADMC) peut désormais attribuer la fonction
 (ADMC) à un autre utilisateur.
 
-image:../../wp-content/uploads/2015/04/NDV-17.png[NDV
-17,width=427,height=98]
+image:../../wp-content/uploads/2015/04/NDV-17.png[width=427,height=98]
 
 **Blocage d’un compte**
 
@@ -725,8 +720,7 @@ Un compte bloqué ne peut plus se connecter à l’ENT et les autres
 utilisateurs ne le voient plus dans les destinataires possibles d'un
 message ni dans les écrans de partage des autres services.
 
-image:../../wp-content/uploads/2015/04/NDV-18.png[NDV
-18,width=60]
+image:../../wp-content/uploads/2015/04/NDV-18.png[width=60]
 
 **Export des comptes**
 
@@ -734,5 +728,4 @@ La fonctionnalité d’export des comptes est plus conviviale. Le choix des
 établissements ou des classes à exporter se fait maintenant à l’aide de
 listes déroulantes.
 
-image:../../wp-content/uploads/2015/04/NDV-19.png[NDV
-19,width=400]
+image:../../wp-content/uploads/2015/04/NDV-19.png[width=400]

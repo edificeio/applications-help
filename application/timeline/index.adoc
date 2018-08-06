@@ -213,6 +213,7 @@ image:../../wp-content/uploads/2016/04/Image9.png[width=314,height=171]
 
 [[cas-d-usage-6]]
 == L'éditeur d'images
+
 L’éditeur d'images permet de modifier une image en cours d'import ou déjà importée. Vous pouvez y accéder directement en cliquant sur une image depuis l'éditeur :
 
 image:/assets/Editeur depuis éditeur.png[]
@@ -233,15 +234,10 @@ L’éditeur d'images permet de :
 4.  Rogner une image
 5.  Changer le titre d'une image, d'ajouter un texte alternatif pour les non-voyants ou y ajouter une légende
 
-
 image:/assets/Editeur actions.png[]
-
-
 
 [[cas-d-usage-7]]
 == La gestion des paramètres
-
-
 
 La gestion des paramètres vous permet de modifier votre thème
 d’apparence mais également de choisir l’affichage de ses widgets.

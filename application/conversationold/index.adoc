@@ -47,8 +47,8 @@ image:../../wp-content/uploads/2016/04/messagerie5-1024x776.png[width=600,height
 souhaitez leur adresser une copie du message.
 2.  Indiquez le sujet de votre message dans le champ « Objet ».
 
-link:../../wp-content/uploads/2015/03/Messagerie-3.png[ +
-]Dans la fenêtre de saisie de contenu, rédigez votre message
+image:../../wp-content/uploads/2015/03/Messagerie-3.png[]
+Dans la fenêtre de saisie de contenu, rédigez votre message
 (1). Cliquez sur "Ajouter une pièce jointe" (2) pour joindre un document
 à votre message.
 

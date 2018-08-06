@@ -36,8 +36,7 @@ image:../../wp-content/uploads/2016/01/Agenda-Création-1024x241.png[width=450,h
 Une fois créé, l'agenda apparaît dans la liste des agendas de
 l’utilisateur.
 
-image:../../wp-content/uploads/2016/01/Agenda-Sélection.png[Agenda -
-Sélection,width=170]
+image:../../wp-content/uploads/2016/01/Agenda-Sélection.png[width=170]
 
 Depuis cette liste il est possible d’accéder aux opérations sur l’agenda
 en le sélectionnant à l’aide de la case à cocher (2). +

@@ -14,7 +14,7 @@ Grâce à la Bibliothèque de l’appli, il est notamment possible de
 rechercher des sujets publiés par d’autres enseignants et de les ajouter
 à ses sujets personnels pour une réutilisation ou une adaptation.
 
-image:/assets/Exercices 1.png[alt="link:../../wp-content/uploads/2016/09/Accueil-Exercices-et-évaluations1.png"]
+image:/assets/Exercices 1.png[]
 
 [[cas-d-usage-1]]
 == Elève / Apprenant - Réaliser un exercice
@@ -23,7 +23,7 @@ Depuis la page d’accueil, cliquez sur « Mes applis » en haut à droite de
 l’écran puis cliquez sur « Exercices et évaluations ». Vous retrouvez les sujets à réaliser dans la semaine à gauche de
 l’écran. Cliquez sur le sujet de votre choix.
 
-image:/assets/Exercices 2.png[alt="link:../../wp-content/uploads/2016/09/Apprenant.png"]
+image:/assets/Exercices 2.png[]
 
 Une présentation du sujet s’affiche précisant la date de rendu (1), la
 durée de réalisation (2) et une description de l’exercice.
@@ -90,7 +90,7 @@ Vous pouvez ensuite accéder au-dessous à la correction par question.
 
 Les bonnes réponses s’affichent en vert et les mauvaises en rouge.
 
-image:../../wp-content/uploads/2016/10/Question.jpgwidth=500]
+image:../../wp-content/uploads/2016/10/Question.jpg[width=500]
 
 [[cas-d-usage-3]]
 == Enseignant - Créer un nouveau sujet
@@ -253,7 +253,7 @@ d’utilisateurs que vous recherchez.
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur
 attribuer.
 
-link:../../wp-content/uploads/2016/09/Fenêtre-de-partage.png[width=400]
+image:../../wp-content/uploads/2016/09/Fenêtre-de-partage.png[width=400]
 
 Vous pouvez attribuer différents droits aux autres utilisateurs de
 l’ENT :
@@ -287,7 +287,7 @@ et/ou gestion ont été ouverts._
 Pour corriger un sujet, cliquez sur l’onglet « Mes corrections » en haut
 à gauche de l’écran.
 
-mage:../../wp-content/uploads/2016/09/Mes-corrections.jpg[width=500]
+image:../../wp-content/uploads/2016/09/Mes-corrections.jpg[width=500]
 
 Cliquez sur le sujet que vous souhaitez corriger.
 
@@ -341,6 +341,7 @@ Vous accédez ainsi :
 * A la moyenne générale du sujet (score automatique et score final) 
 
 Pour exporter ces statistiques au format CSV, cliquez sur le bouton “Exporter” en haut à droite depuis la page de Statistiques.
+
 [[cas-d-usage-13]]
 == Enseignant - Importer un sujet
 Il vous est possible d'importer des sujets. Depuis la page mes sujets, cliquez sur l’icône des options, représentée par une petite roue, à droite de l'onglet "Nouveau sujet". Puis sélectionnez "Importer un sujet"

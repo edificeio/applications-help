@@ -56,8 +56,7 @@ bas de page (2). +
 Vous pouvez également sélectionner plusieurs documents en même temps
 pour effectuer une action sur tous ces documents.
 
-image:../../wp-content/uploads/2016/08/rack-tous-sélectionnés2-1024x512.png[rack
-- tous sélectionnés2,width=628,height=314]
+image:../../wp-content/uploads/2016/08/rack-tous-sélectionnés2-1024x512.png[width=628,height=314]
 
 Vous disposez également d'un bouton "télécharger" (1) sur chaque fichier
 si vous souhaitez télécharger directement le fichier sur votre

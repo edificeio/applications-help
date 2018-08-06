@@ -37,7 +37,8 @@ image:../../wp-content/uploads/2015/07/s13.png[width=178,height=49]
 d'autres réponses, cliquez sur "Ajouter"
 5.   Cliquez sur « Sauvegarder »
 
-image:../../wp-content/uploads/2015/06/s3.png[width=438,height=318] +
+image:../../wp-content/uploads/2015/06/s3.png[width=438,height=318]
+
 Le sondage est maintenant créé.
 
 [[cas-d-usage-2]]
@@ -46,7 +47,7 @@ Le sondage est maintenant créé.
 Pour partager le sondage, cliquez sur le + (1), puis sur « Partager »
 (2).
 
-image:../../wp-content/uploads/2016/08/sondage1-1024x399.png[width=600,height=234] +
+image:../../wp-content/uploads/2016/08/sondage1-1024x399.png[width=600,height=234]
 Dans la fenêtre de partage, vous pouvez donner des droits de  lecture,
 de vote et de gestion à d’autres personnes sur votre sondage. Pour cela,
 saisissez les premières lettres du nom de l’utilisateur ou du groupe

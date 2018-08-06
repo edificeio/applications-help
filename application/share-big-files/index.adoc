@@ -183,8 +183,8 @@ cliquant sur le bouton "Télécharger" (3).
 
 Vous pouvez trier la liste des fichiers en cliquant sur le nom d’une
 colonne (4). +
-image:../../wp-content/uploads/2016/04/401-Telecharger1.png[width=619,height=353]link:../../wp-content/uploads/2016/04/401-Telecharger.png[ +
-]Les fichiers dont la date de péremption est atteinte peuvent toujours
+image:../../wp-content/uploads/2016/04/401-Telecharger1.png[width=619,height=353]
+Les fichiers dont la date de péremption est atteinte peuvent toujours
 être téléchargés le jour-même, mais ne seront plus disponibles dès le
 lendemain. Dans ce cas, le titre du fichier est affiché en *violet* et
 une info-bulle signale « Le téléchargement est arrivé à échéance, le

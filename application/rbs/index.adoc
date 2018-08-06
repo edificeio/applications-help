@@ -79,7 +79,7 @@ Il bénéficie par ailleurs des mêmes filtres que sur la vue Calendrier.
 Le tri peut être fait sur toutes les colonnes du tableau : demandeur,
 ressource, date de début, date de fin et état.
 
-*image:../../wp-content/uploads/2016/01/RBS-VUE-LISTE.png[width=603,height=235]*
+image:../../wp-content/uploads/2016/01/RBS-VUE-LISTE.png[width=603,height=235]
 
 Pour visualiser le détail d’une réservation, il suffit de cliquer sur
 la réservation en question dans la liste, pour afficher une fenêtre
@@ -115,7 +115,8 @@ La description de la ressource est indiquée (3). L’utilisateur peut
 également voir les noms des valideurs (4) si les réservations pour cette
 ressource sont soumises à validation.
 
-image:../../wp-content/uploads/2015/06/r8.png[width=442,height=325] +
+image:../../wp-content/uploads/2015/06/r8.png[width=442,height=325]
+
 *Réservation ponctuelle*
 
 Dans le cas d'une réservation ponctuelle, l'utilisateur choisit le
@@ -159,7 +160,8 @@ Liste, effectuer un filtre sur le type de ressource (1), et afficher
 uniquement les réservations en attente de validation (2). L’icône
 signifie que la réservation est en attente de validation. (3).
 
-image:../../wp-content/uploads/2016/01/RBS-VALIDATION.png[width=603,height=151] +
+image:../../wp-content/uploads/2016/01/RBS-VALIDATION.png[width=603,height=151]
+
 *Valider une réservation ponctuelle*
 
 Pour accepter ou refuser une réservation ponctuelle, le valideur doit
@@ -170,7 +172,8 @@ image:../../wp-content/uploads/2016/01/RBS-VALIDATION-PONCTUELLE.png[width=602,h
 Le valideur qui refuse une réservation peut indiquer le motif de son
 refus (1) (champ non obligatoire), puis confirmer son refus. (2)
 
-image:../../wp-content/uploads/2015/06/r31.png[width=490,height=280] +
+image:../../wp-content/uploads/2015/06/r31.png[width=490,height=280]
+
 *Valider une réservation périodique*
 
 Pour valider une réservation périodique (qui comporte plusieurs
