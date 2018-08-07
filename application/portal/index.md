@@ -9,7 +9,11 @@ Pour accéder à vos applis, cliquez sur l’icône correspondante dans le bande
 
 Vous accédez aux services pour lesquels vous avez des droits d’accès : applis de l’ENT, connecteurs aux outils de vie scolaire, sites web internes à l’ENT ou publics …
 
+![](/assets/1.png)
+
 Pour accéder à une appli, cliquez sur l’icône correspondante.
+
+![](/assets/2.png)
 
 La page d’accueil de l’appli apparaît.
 
@@ -18,4 +22,8 @@ Gestion des favoris
 
 La gestion des favoris vous permet d’accéder rapidement à vos applications préférées. Le menu des favoris est accessible directement depuis l’icône du bandeau de navigation (1).
 
+![](/assets/Mes applis 1.png)
+
 Pour ajouter une application dans les favoris, il faut effectuer un glisser-déposer. Pour cela, sélectionnez l’application à déplacer (1) et glissez-la vers l’emplacement dédié à cet effet(2).
+
+![](/assets/Mes applis 2.png)

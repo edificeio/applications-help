@@ -18,6 +18,8 @@ Pour accéder à l’appli Communautés, cliquez sur l’icône correspondante d
 
 Cliquez sur « Créer une communauté ».
 
+:[](/assets/Communauté accueil.png)
+
 La fenêtre de création s’ouvre
 
 1.  Saisissez un titre de communauté
@@ -27,6 +29,8 @@ La fenêtre de création s’ouvre
 3.  Renseignez une description
 
 4.  Cliquez sur « Créer »
+
+![](/assets/Communauté Création.png)
 
 La fenêtre de configuration s’affiche.
 
@@ -39,6 +43,8 @@ La fenêtre de configuration s’affiche.
 4.  Vous pouvez modifier les droits de lecteurs, de contributeurs ou de gestionnaires en cochant ou décochant les cases
 
 5.  Cliquez sur « Enregistrer »
+
+![](/assets/Communauté partage the one.png)
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs sont les suivants :
 

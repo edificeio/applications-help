@@ -47,6 +47,7 @@ Vous pouvez maintenant partager votre fil d’actualités :
 
 ![](../../wp-content/uploads/2016/07/Actu_2_1-1024x318.png)  
 ![width=512](../../wp-content/uploads/2016/07/Actu_3_1-1024x633.png)  
+
 Pour partager le fil d’actualités avec d’autres utilisateurs, suivez les étapes suivantes :
 
 1.  Saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez
@@ -57,7 +58,7 @@ Pour partager le fil d’actualités avec d’autres utilisateurs, suivez les é
 
 Pour valider, cliquez sur le bouton "Partager".
 
-image:/assets/Fil actu.png\[width=300\]
+![width=300](/assets/Fil actu.png)
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs de l’ENT sur le fil d’actualités sont les suivants :
 
@@ -105,6 +106,8 @@ Pour attribuer ces droits, suivez les étapes suivantes :
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur attribuer (lire ou commenter)
 
 Pour valider, cliquez sur le bouton "Partager".
+
+![](/assets/Actus.png)
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs de l’ENT sur l’actualité sont les suivants :
 

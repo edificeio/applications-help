@@ -52,6 +52,8 @@ Les différents droits que vous pouvez attribuer sont les suivants :
 
 Pour valider, cliquez sur le bouton "Partager".
 
+![](/assets/Mur collaboratif.png)
+
 Ajouter une note au mur collaboratif
 ====================================
 

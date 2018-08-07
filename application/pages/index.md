@@ -24,8 +24,6 @@ Depuis la page d’accueil, cliquez sur « Mes applis » en haut à droite de 
 
 Lorsque vous créez un site public celui-ci est visible de tous dans l’ENT. De plus, toute personne extérieure à l’ENT peut accéder à ce site si elle dispose du lien.
 
- 
-
 ![](../../wp-content/uploads/2017/04/Captures-Pages-2.png)
 
 ![](../../wp-content/uploads/2017/04/Capture-Pages-3.png)
@@ -58,6 +56,8 @@ La fenêtre de partage apparaît. Pour attribuer des droits à d’autres utilis
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur attribuer (3).
 
 Cliquez ensuite sur le bouton "Partager"
+
+![](/assets/Partage Pages.png)
 
 Vous pouvez attribuer différents droits aux autres utilisateurs de l’ENT :
 

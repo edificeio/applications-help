@@ -48,6 +48,14 @@ Vous pouvez aussi choisir d’importer une photo à partir de votre poste de tra
 
 Sélectionnez un fichier dans votre poste de travail et cliquez sur ouvrir. Cliquez en suite sur « Importer » pour lancer le téléchargement.
 
+![](/assets/mon compte.png)
+
+Votre photo est maintenant visible dans votre compte et par tous les utilisateurs !
+
+![](/assets/Mon compte 2.png)
+
+Votre photo est visible dans le fil de nouveautés des autres utilisateurs lorsque vous leur partagez un contenu mais également lorsque vous postez un message dans un forum.
+
 Changer de mot de passe
 =======================
 

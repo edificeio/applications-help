@@ -161,9 +161,15 @@ L'éditeur d’images
 
 L’éditeur d’images permet de modifier une image en cours d’import ou déjà importée. Vous pouvez y accéder directement en cliquant sur une image depuis l'éditeur :
 
+![](/assets/Editeur depuis éditeur.png)
+
 Depuis la fenêtre d’import d’images :
 
+![](/assets/Editeur depuis import.png)
+
 Ou encore depuis l’espace documentaire :
+
+![](/assets/Editeur depuis espace doc.png)
 
 L’éditeur d’images permet de :
 
@@ -176,6 +182,8 @@ L’éditeur d’images permet de :
 4.  Rogner une image
 
 5.  Changer le titre d’une image, d’ajouter un texte alternatif pour les non-voyants ou y ajouter une légende
+
+![](/assets/Editeur actions.png)
 
 La gestion des paramètres
 =========================
@@ -278,8 +286,22 @@ Partage et favoris de partage
 
 Vous retrouvez la fenêtre de partage dans la majeure partie des applications. Cette fenêtre vous permet de partager un contenu que vous avez crée ou sur lequel vous avez des droits. Le bouton "Partager" est accessible en règle générale dans le toaster qui apparaît en bas de votre écran. Sélectionnez le contenu en question (1) puis cliquez sur "Partager" (2).
 
+![](/assets/partager.png)
+
 Vous accédez à la fenêtre de partage dans laquelle vous allez pouvoir rechercher des utilisateurs. Renseignez les premières lettres de la personne, ou du groupe que vous recherchez (1). Dans la liste qui vous est proposée, sélectionnez le ou les utilisateurs recherchés (2). Si l’utilisateur ou le groupe n’apparaît pas, cliquez sur "Voir la suite" pour dérouler la liste de propositions (3).
 
-Vous avez la possibilité d’enregistrer une liste d’utilisateurs ou de groupes comme favori de partage. Une fois vos destinataires sélectionnés, cliquez sur "Enregistrer comme favori de partage" (1). Il vous suffit ensuite d’inscrire le nom que vous souhaitez donner au favori (1) et cliquer sur OK (2). Vous retrouverez ensuite ce favori de partage dans votre barre de recherche, au nom que vous avez enregistré. Vous pourrez ainsi partager plus facilement à un groupe de destinataires avec lequel vous avez l’habitude d'échanger régulièrement des contenus. Après avoir sélectionné votre favori de partage, il vous sera toujours possible de consulter la liste des membres du favori directement dans la fenêtre de partage. Cliquez sur la petite encoche à côté du nom de votre favori (1). Consultez les personnes ou les groupes rattachés à votre liste (2).
+![](/assets/recherche.png)
+
+Vous avez la possibilité d’enregistrer une liste d’utilisateurs ou de groupes comme favori de partage. Une fois vos destinataires sélectionnés, cliquez sur "Enregistrer comme favori de partage" (1). 
+
+![](/assets/favori1.png)
+
+Il vous suffit ensuite d’inscrire le nom que vous souhaitez donner au favori (1) et cliquer sur OK (2). 
+
+![](/assets/favori2.png)
+
+Vous retrouverez ensuite ce favori de partage dans votre barre de recherche, au nom que vous avez enregistré. Vous pourrez ainsi partager plus facilement à un groupe de destinataires avec lequel vous avez l’habitude d'échanger régulièrement des contenus. Après avoir sélectionné votre favori de partage, il vous sera toujours possible de consulter la liste des membres du favori directement dans la fenêtre de partage. Cliquez sur la petite encoche à côté du nom de votre favori (1). Consultez les personnes ou les groupes rattachés à votre liste (2).
+
+![](/assets/consultation-favori.png)
 
 Afin que vous partage soit pris en compte, n’oubliez pas de cliquer sur le bouton "Partager".

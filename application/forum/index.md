@@ -36,6 +36,8 @@ La catégorie de forum a été créée mais n’est pas encore visible par les a
 
 Pour valider, cliquez sur le bouton "Partager", puis "Terminer".
 
+![](/assets/Partage Forum.png)
+
 Les différents droits que vous pouvez attribuer aux autres utilisateurs de l’ENT sur la catégorie de forum sont les suivants :
 
 -   **Lecteur** : l’utilisateur peut lire le contenu des discussions
@@ -69,6 +71,7 @@ Publier un message
 Pour poster un message, cliquez sur la discussion concernée.
 
 ![](../../wp-content/uploads/2015/07/f3.png)  
+
 Rédigez votre message dans la zone de texte en bas de page (1) et cliquez sur « Répondre » (2).
 
 ![](../../wp-content/uploads/2015/07/f4.png)

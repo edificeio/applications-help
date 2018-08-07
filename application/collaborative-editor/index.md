@@ -37,7 +37,9 @@ Dans la fenêtre, vous pouvez donner aux utilisateurs différents droits d’acc
 
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur attribuer.
 
-image:/assets/Partage Pad.png\[width=450,height=326\] Les droits de partage que vous pouvez attribuer aux autres utilisateurs sont les suivants :
+![](/assets/Partage Pad.png)
+
+Les droits de partage que vous pouvez attribuer aux autres utilisateurs sont les suivants :
 
 -   **Lecteur** : l’utilisateur peut lire le contenu
 

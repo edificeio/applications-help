@@ -25,8 +25,7 @@ Cliquez enfin sur « Enregistrer » (3)
 Partager un Wiki
 ================
 
-Pour partager un Wiki avec d’autres utilisateurs, cliquez sur le  
-correspondant au Wiki (1) puis sur le bouton « Partager » (2).
+Pour partager un Wiki avec d’autres utilisateurs, cliquez sur le correspondant au Wiki (1) puis sur le bouton « Partager » (2).
 
 ![](../../wp-content/uploads/2016/08/Wiki_1-1024x490.png)
 
@@ -39,6 +38,8 @@ Dans la fenêtre, vous pouvez donner aux utilisateurs de l’ENT différents dro
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur attribuer.
 
 Pour valider, cliquez sur le bouton "Partager".
+
+![](/assets/Wiki.png)
 
 Les droits de partage que vous pouvez attribuer aux autres utilisateurs sont les suivants :
 

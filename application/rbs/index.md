@@ -156,11 +156,15 @@ Pour ajouter des nouveaux types de ressources, cliquez sur « Créer un type de
 
 -   Cliquez sur Enregistrer (3)
 
+![](/assets/RDR création type de ressource .png)
+
 L’étape suivante consiste à  définir les droits d’accès et de gestion
 
 -   Sélectionnez le type de ressources nouvellement créé (1)
 
 -   Cliquez sur Modifier (2)
+
+![](/assets/RDR Edition type de ressources_1.png)
 
 -   Recherchez successivement les utilisateurs et/ou groupes (1) auxquels vous souhaitez donner accès à cette ressource
 
@@ -169,6 +173,8 @@ L’étape suivante consiste à  définir les droits d’accès et de gestion
 -   Attribuez les droits en cochant les cases correspondantes (3).
 
 Pour valider, cliquez sur "Enregistrer".
+
+![](/assets/RDR Edition type de ressources 2.png)
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs sont les suivants :
 
@@ -187,6 +193,8 @@ Une fois les types de ressources définis, il faut créer les ressources.
 
 Pour cela, cliquez sur le bouton d’action « Créer une ressource »
 
+![](/assets/RDR Création ressource 1.png)
+
 La ressource doit ensuite être caractérisée par:
 
 1.  Le type de ressource à laquelle elle est rattachée
@@ -197,4 +205,8 @@ La ressource doit ensuite être caractérisée par:
 
 4.  Une description éditée par un éditeur de texte HTML permettant d’intégrer différents contenus: texte, images, liens, son…
 
+![](/assets/RDR Création ressource 2.png)
+
 Après enregistrement, la nouvelle ressource s’affiche dans la liste. En cochant la case correspondante (1), des boutons d’action apparaissent en bas de page pour supprimer ou éditer la ressource. Vous pouvez cliquer sur "Editer la ressource" pour la modifier (2)
+
+![](/assets/RDR Edition ressource.png)

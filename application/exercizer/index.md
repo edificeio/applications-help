@@ -7,10 +7,14 @@ Présentation
 
 L’appli Exercices et évaluations permet de créer des sujets, de les distribuer et d’en faire automatiquement ou manuellement la correction. Grâce à la Bibliothèque de l’appli, il est notamment possible de rechercher des sujets publiés par d’autres enseignants et de les ajouter à ses sujets personnels pour une réutilisation ou une adaptation.
 
+![](/assets/Exercices 1.png)
+
 Elève / Apprenant - Réaliser un exercice
 ========================================
 
 Depuis la page d’accueil, cliquez sur « Mes applis » en haut à droite de l’écran puis cliquez sur « Exercices et évaluations ». Vous retrouvez les sujets à réaliser dans la semaine à gauche de l’écran. Cliquez sur le sujet de votre choix.
+
+![](/assets/Exercices 2.png)
 
 Une présentation du sujet s’affiche précisant la date de rendu (1), la durée de réalisation (2) et une description de l’exercice.
 
@@ -18,15 +22,11 @@ Pour réaliser l’exercice, cliquez sur le bouton orange « suivant » en bas
 
 ![](../../wp-content/uploads/2016/10/Réaliser-un-exercice.jpg)
 
- 
-
 Les questions du sujet s’affichent l’une après l’autre. Il vous suffit d’indiquer la réponse dans le champ réservé (1) et de cliquer sur « suivant » (2) pour poursuivre l’exercice.
 
 En cas de difficulté à trouver la réponse, une aide peut parfois vous être proposée. Il suffit de cliquer sur le bouton « Aide à la réponse » en haut à droite de l’écran (3).
 
-image:../../wp-content/uploads/2016/10/Aide-à-la-réponse.jpg\[width=550\]
-
- 
+![](../../wp-content/uploads/2016/10/Aide-à-la-réponse.jpg)
 
 Si vous souhaitez vous interrompre et continuer plus tard l’exercice, vous pouvez cliquer sur le bouton "continuer plus tard".
 
@@ -82,7 +82,9 @@ Cliquez enfin sur « Enregistrer » (4)
 
 Pour ajouter du contenu à votre sujet, cliquez sur « ajouter un élément » :
 
-![](../../wp-content/uploads/2016/09/Ajouter-un-élément.png) Pour sélectionner le type de contenu à ajouter, cliquez sur « Enoncé » ou « Question ».
+![](../../wp-content/uploads/2016/09/Ajouter-un-élément.png) 
+
+Pour sélectionner le type de contenu à ajouter, cliquez sur « Enoncé » ou « Question ».
 
 ![](../../wp-content/uploads/2016/09/Types-de-questions.jpg)
 
@@ -126,9 +128,7 @@ Cliquez ensuite sur « ajouter un élément » et choisissez le type de la pro
 
 En cochant la case à gauche du titre de la question, un bandeau orange en bas de votre écran s’affiche. Vous pouvez « dupliquer » ou « supprimer » la question.
 
-image:../../wp-content/uploads/2016/09/Case-à-cocher.jpg\[width=533,height=81\]
-
- 
+![](../../wp-content/uploads/2016/09/Case-à-cocher.jpg)
 
 Le volet à gauche de l’écran vous permet de glisser et de déposer des questions avec votre  curseur pour les ordonner.
 
@@ -149,6 +149,8 @@ Une fois la création de votre sujet terminée, vous pouvez le distribuer en cli
 
 Saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez puis sélectionnez le nom de l’utilisateur ou du groupe. Lorsque vous ajoutez un groupe, la liste des utilisateurs individuels se met à jour dans la colonne de droite. Si vous souhaitez exclure un ou plusieurs élèves d’une distribution à un groupe, supprimez les utilisateurs individuellement. Cliquer ensuite sur le bouton « suivant ».
 
+![](/assets/Exercizer-distribution.png)
+
 Les options de distribution s’affichent dans la fenêtre ci-dessous.
 
 Renseignez les dates de début et de fin de distribution (1) ainsi que le temps de réalisation  (2).
@@ -164,17 +166,33 @@ Enseignant - Modifier la période de distribution d’un sujet
 
 Afin de modifier la période de distribution d’un sujet déjà lancé, rendez-vous sur l’onglet "Mes corrections" (1), puis sélectionnez le sujet souhaité (2).
 
+![](/assets/modifier_distribution1.png)
+
 Dans le bloc des informations sur le sujet en haut à gauche, cliquer sur “Modifier” (1). Renseignez les nouvelles dates et heures de distribution et validez (1). Si le sujet est déjà distribué, vous ne pourrez plus modifier la date de début de l’évaluation. Une notification sera envoyée à tous les apprenants pour les informer de la nouvelle date de fin de distribution.
+
+![](/assets/Capture exercizer modification distribution.png)
 
 Enseignant - Déprogrammer un sujet distribué
 ============================================
 
-Cliquez sur l’onglet “Mes Corrections” (1), puis cliquez sur le sujet souhaité (2). Dans le bloc des informations sur sujet en haut à gauche, cliquer sur “Déprogrammer” (1) Les apprenants n’auront plus accès au sujet.
+Cliquez sur l’onglet “Mes Corrections” (1), puis cliquez sur le sujet souhaité (2). 
+
+![](/assets/deprogrammer1.png)
+
+Dans le bloc des informations sur sujet en haut à gauche, cliquer sur “Déprogrammer” (1) Les apprenants n’auront plus accès au sujet.
+
+![](/assets/deprogrammer2.png)
 
 Enseignant - Exclure un élève d’une évaluation distribuée à un groupe
 =====================================================================
 
-Vous pouvez exclure un ou plusieurs élèves à la distribution. Pour cela, il vous suffit de sélectionner le groupe souhaité, et supprimer le ou les élève(s) à exclure dans la liste “utilisateurs ajoutés” (1) Si vous avez déjà distribué le sujet, rendez-vous dans “Mes Corrections”. Sélectionnez le sujet souhaité puis cliquez sur le ou les élèves à exclure (1). Cliquez ensuite sur “Exclure de l’évaluation” dans le menu en bas de l’écran (2).
+Vous pouvez exclure un ou plusieurs élèves à la distribution. Pour cela, il vous suffit de sélectionner le groupe souhaité, et supprimer le ou les élève(s) à exclure dans la liste “utilisateurs ajoutés” (1) 
+
+![](/assets/exclure1.png)
+
+Si vous avez déjà distribué le sujet, rendez-vous dans “Mes Corrections”. Sélectionnez le sujet souhaité puis cliquez sur le ou les élèves à exclure (1). Cliquez ensuite sur “Exclure de l’évaluation” dans le menu en bas de l’écran (2).
+
+![](/assets/exclure2.png)
 
 Enseignant - Partager un sujet
 ==============================
@@ -233,7 +251,9 @@ Vous pouvez cochez la case à gauche du nom de l’élève pour changer à la vo
 Enseignant - Publier un sujet dans la bibliothèque
 ==================================================
 
-Si vous souhaitez publier votre propre sujet dans la bibliothèque. Il vous suffit de cliquer sur l’onglet « Mes sujets » et de cocher la case en bas à droite du sujet que vous voulez publier (1). Le bandeau orange en bas de l’écran s’affiche. Cliquez sur le bouton « publiez dans la bibliothèque » (2). ![](../../wp-content/uploads/2016/09/Biliothèque-3.jpg)
+Si vous souhaitez publier votre propre sujet dans la bibliothèque. Il vous suffit de cliquer sur l’onglet « Mes sujets » et de cocher la case en bas à droite du sujet que vous voulez publier (1). Le bandeau orange en bas de l’écran s’affiche. Cliquez sur le bouton « publiez dans la bibliothèque » (2). 
+
+![](../../wp-content/uploads/2016/09/Biliothèque-3.jpg)
 
 Enseignant - Chercher et copier un sujet dans la bibliothèque
 =============================================================
@@ -249,7 +269,15 @@ Il est possible de copier le sujet dans « Mes sujets » en cochant la case à
 Enseignant - Consulter les statistiques d’un sujet
 ==================================================
 
-Vous pouvez consulter les statistiques de vos sujets. Pour cela, rendez-vous sur l’onglet “Mes Corrections” (1) puis cliquez sur le sujet souhaité (2). Un encart en haut à droite vous donne les statistiques générales du sujet (1). En cliquant sur “Plus de Stats”, vous accédez aux statistiques détaillées du sujet (2). Vous accédez ainsi :
+Vous pouvez consulter les statistiques de vos sujets. Pour cela, rendez-vous sur l’onglet “Mes Corrections” (1) puis cliquez sur le sujet souhaité (2). 
+
+![](/assets/Stat1.png)
+
+Un encart en haut à droite vous donne les statistiques générales du sujet (1). En cliquant sur “Plus de Stats”, vous accédez aux statistiques détaillées du sujet (2). 
+
+![](/assets/Exercizer-stat.png)
+
+Vous accédez ainsi :
 
 -   Aux résultats par question par élève
 
@@ -259,14 +287,26 @@ Vous pouvez consulter les statistiques de vos sujets. Pour cela, rendez-vous sur
 
 Pour exporter ces statistiques au format CSV, cliquez sur le bouton “Exporter” en haut à droite depuis la page de Statistiques.
 
+![](/assets/Exercizer-stat2.png)
+
 Enseignant - Importer un sujet
 ==============================
 
 Il vous est possible d’importer des sujets. Depuis la page mes sujets, cliquez sur l’icône des options, représentée par une petite roue, à droite de l’onglet "Nouveau sujet". Puis sélectionnez "Importer un sujet"
 
-Vous accéderez à une note d’information concernant les fichier autorisé depuis Moodle et depuis TD Base : Charger le sujet au format Moodle XML. Renseignez le titre de votre sujet, une image et une description si nécessaire. Afin de valider, cliquez sur "Importer".
+![](/assets/importer1.png)
+
+Vous accéderez à une note d’information concernant les fichier autorisé depuis Moodle et depuis TD Base : 
+
+![](/assets/importer1.png)
+
+Charger le sujet au format Moodle XML. Renseignez le titre de votre sujet, une image et une description si nécessaire. Afin de valider, cliquez sur "Importer".
+
+![](/assets/importer3.png)
 
 Enseignant - Exporter un sujet
 ==============================
 
 Il vous est possible d’exporter des sujets. Dans “Mes Sujets”, sélectionnez un sujet interactif (1), puis cliquer sur “Exporter” (2).
+
+![](/assets/Exporter.png)

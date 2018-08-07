@@ -48,7 +48,7 @@ Description des actions :
 
 -   Supprimer, permet la suppression de l’agenda sélectionné après confirmation ;  
 
-mage:../../wp-content/uploads/2016/01/Agenda-supression.png\[width=373,height=70\]
+![](../../wp-content/uploads/2016/01/Agenda-supression.png)
 
 -   Partager, permet le partage de l’agenda sélectionné avec d’autres utilisateurs.
 
@@ -98,6 +98,8 @@ Partager un agenda
 ==================
 
 L’accès au partage de la ressource calendrier se fait grace au menu du bas lors de la sélection d’un calendrier dans la liste des calendriers de l’utilisateur.
+
+![](/assets/Partage Agenda.png)
 
 Dans la fenêtre, vous pouvez donner aux utilisateurs de l’ENT différents droits d’accès à votre agenda. Pour cela, suivez les étapes suivantes :
 

@@ -55,6 +55,8 @@ Le blog a été créé mais n’est pas encore visible par les autres utilisateu
 
 Pour valider, cliquez sur le bouton "Partager".
 
+![](/assets/Blog.png[)
+
 Les différents droits que vous pouvez attribuer aux autres utilisateurs sont les suivants :
 
 -   **Consulter** : l’utilisateur peut lire le contenu du blog
@@ -74,7 +76,7 @@ Pour gérer le circuit de publication de votre blog, ouvrez la fenêtre de parta
 
 -   **Billet à soumettre** : lorsque des utilisateurs contributeurs créent un billet, le billet passe au statut « Soumis » et c’est le gestionnaire du blog qui effectue l’action de publication du billet.
 
-image:/assets/Partage blog Circuit de publication.png\[width=550,height=368\]
+![](/assets/Partage blog Circuit de publication.png)
 
 Publier un billet
 =================

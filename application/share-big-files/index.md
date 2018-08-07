@@ -85,6 +85,7 @@ Partager un fichier
 ===================
 
 Pour partager un ou plusieurs fichiers avec d’autres utilisateurs, cochez les cases des fichiers à partager (1) puis cliquez sur le bouton "Partager" (2).  
+
 ![](../../wp-content/uploads/2016/04/101-Partager1.png)
 
 Dans la fenêtre, vous pouvez donner aux utilisateurs de l’ENT différents droits d’accès à votre fichier. Pour cela :
@@ -98,6 +99,8 @@ Dans la fenêtre, vous pouvez donner aux utilisateurs de l’ENT différents dro
 L’icône suivante signale que le fichier a été partagé avec d’autres utilisateurs : ![](../../wp-content/uploads/2016/04/Double-flèche.png)
 
 Pour valider, cliquez sur le bouton "Partager".
+
+![](/assets/Poste fichiers.png)
 
 Les droits de partage que vous pouvez attribuer aux utilisateurs sont les suivants :
 

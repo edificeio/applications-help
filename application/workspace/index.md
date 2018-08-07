@@ -7,11 +7,16 @@ Présentation
 
 Pour accéder à l’appli Espace Documentaire, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-**Mes documents** Dans ce dossier, vous pouvez charger tous types de fichiers depuis votre ordinateur, qu’il s’agisse de documents texte ou PDF, d’images, de vidéos ou d’extraits audio. Classez ces fichiers dans des dossier pour les retrouver plus facilement. En quelques clics, partagez vos documents personnels avec d’autres utilisateurs en leur attribuant des droits de consultation, de contribution ou de commentaire, selon vos besoins.
+![](/assets/Espace doc 1.png)
 
-**Documents partagés avec moi** Vous retrouvez dans ce dossier les documents que d’autres utilisateurs ont partagés avec vous.
+**Mes documents** 
+Dans ce dossier, vous pouvez charger tous types de fichiers depuis votre ordinateur, qu’il s’agisse de documents texte ou PDF, d’images, de vidéos ou d’extraits audio. Classez ces fichiers dans des dossier pour les retrouver plus facilement. En quelques clics, partagez vos documents personnels avec d’autres utilisateurs en leur attribuant des droits de consultation, de contribution ou de commentaire, selon vos besoins.
 
-**Documents ajoutés dans les applis** Vous retrouverez ici tous les fichiers que vous avez ajouté dans d’autres applis (par exemple image d’un billet de blog).
+**Documents partagés avec moi** 
+Vous retrouvez dans ce dossier les documents que d’autres utilisateurs ont partagés avec vous.
+
+**Documents ajoutés dans les applis** 
+Vous retrouverez ici tous les fichiers que vous avez ajouté dans d’autres applis (par exemple image d’un billet de blog).
 
 **En centralisant l’ensemble des documents accessibles par l’utilisateur, l’appli Espace Documentaire permet d’intégrer facilement un contenu dans n’importe quelle appli.**
 
@@ -23,6 +28,8 @@ Naviguer dans mon Espace Documentaire
 Un nouveau mode de navigation plus intuitif a été mis en place sur l’application Espace Documentaire.  
 Pour **accéder au menu d’option** d’un fichier ou d’un dossier, vous devez **cliquer une fois** dessus. Le menu s’affiche ensuite en bas de la page et vous pouvez choisir les actions à effectuer.  
 Vous devez cliquer une nouvelle fois sur le fichier ou le dossier pour le désélectionner.
+
+![](/assets/Espace doc 3.png)
 
 Pour **visualiser un fichier** sur la visionneuse de l’ENT ou pour **ouvrir un dossier**, vous devez **double-cliquer dessus**.
 
@@ -36,15 +43,23 @@ Importer un document
 
 Pour importer un document dans votre espace de stockage personnel, cliquez sur le bouton « Importer » situé en haut de l’interface.
 
+![](/assets/Import bouton.png)
+
 Dans la nouvelle fenêtre, suivez les étapes suivantes :
 
 1.  Cliquez sur « Parcourir » et sélectionnez sur votre ordinateur le(s) document(s) que vous souhaitez enregistrer dans l’espace documentaire. Vous pouvez également effectuer un glisser-déposer multiple.
 
 2.  Cliquez sur « Importer ».
 
+![](/assets/Fenetre import vide.png)
+
+![](/assets/Fenetre import full.png)
+
 **Vous pouvez importer plusieurs fichiers en une seule fois, si vous en sélectionnez plusieurs sur votre ordinateur.**
 
 Vous pouvez aussi importer un document ou plusieurs documents en effectuant un glisser-déposer. Pour cela, sélectionnez le ou les documents à déplacer (1) depuis votre espace de travail et glissez-le vers son nouvel emplacement (2).
+
+![](/assets/Espace doc 6.png)
 
 Partager un document
 ====================
@@ -55,14 +70,20 @@ Pour partager votre document avec d’autres utilisateurs, suivez les étapes su
 
 -   Cliquez sur le bouton "Partager" en bas de l'écran (2)
 
+![](/assets/partage-doc.png)
+
 La fenêtre de partage apparaît. Pour attribuer des droits à d’autres utilisateurs, suivez les étapes suivantes : \* Saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez (1) \* Sélectionnez le nom dans la liste qui s’affiche (2) \* Cochez les cases correspondant aux droits que vous souhaitez leur attribuer (3).
 
 Cliquez ensuite sur le bouton "Partager"
+
+![](/assets/partagedocumentaire.png)
 
 Déplacer un document ou un dossier
 ==================================
 
 Vous pouvez déplacer vos documents et vos dossiers facilement dans votre espace documentaire. Pour cela, sélectionnez le document ou le dossier à déplacer (1) et glissez-le vers son nouvel emplacement (2).
+
+![](/assets/Espace doc 7.png)
 
 Vous ne pouvez pas déplacer un fichier du dossier « Mes documents » vers les dossiers « Documents partagés avec moi » et « Documents ajoutés dans les applis ».
 
