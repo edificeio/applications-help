@@ -45,7 +45,7 @@ Pour le partager, suivez les étapes suivantes :
 
 Pour valider, cliquez sur le bouton "Partager".
 
-![](https://github.com/web-education/applications-help/tree/cb31ea006c41c3e569a959594c6b3ef1271ea11d/assets/Blog.png[)
+![](/assets/Blog.png)
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs sont les suivants :
 

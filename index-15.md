@@ -44,6 +44,10 @@ Les différents droits que vous pouvez attribuer sont les suivants :
 
 Pour valider, cliquez sur le bouton "Partager".
 
+![](/assets/Sondages.png)
+
+Votre sondage est bien créé et partagé.
+
 ## Insérer un sondage dans un page
 
 Une fois le sondage créé et partagé, il est possible de l’insérer dans une page. Pour cela, cliquez sur l’appli « Pages ».
