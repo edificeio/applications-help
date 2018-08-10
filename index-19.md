@@ -71,19 +71,19 @@ Ouvrez le cahier multimédia dans lequel vous souhaitez ajouter cette vidéo et 
 
 Dans la fenêtre qui s’ouvre, selectionnez un type de contenu de média (vidéos hébergées sur Youtube, Viméo, Dailymotion, Learningaps.org et educaplay) (1) 
 
-![](/assets/CMA 15 (1).png)
+![](/assets/CMA\ 15.png)
 
 puis collez l’URL de la vidéo (2) et cliquez sur « Appliquer » (3). 
 
-![](/assets/CMA 15 (2).png)
+![](/assets/CMA 16.png)
 
 Pour une vidéo hébergée ailleurs , appuyez sur la vignette "Collez votre propre code" (4), 
 
-![](/assets/CMA 17.png)
+![](/assets/CMA 18.png)
 
 puis collez le lien Iframe (5) et cliquez sur "Appliquer" (6). 
 
-![](/assets/CMA 16.png)
+![](/assets/CMA 17.png)
 
 Positionnez ensuite la vidéo dans la page et sauvegardez votre travail. 
 
