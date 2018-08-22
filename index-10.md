@@ -1,6 +1,6 @@
 # Annuaire
 
-Grâce à l’annuaire, vous allez pouvoir rechercher les utilisateurs et les groupes avec lesquels vous pouvez communiquer. Vous pourrez également créer et gérer vos favoris de partage. Tout votre réseau accessible au même endroit !
+Grâce à l’**Annuaire**, vous allez pouvoir rechercher les utilisateurs et les groupes avec lesquels vous pouvez communiquer. Vous pourrez également créer et gérer vos favoris de partage. Tout votre réseau accessible au même endroit !
 
 ## Présentation
 
