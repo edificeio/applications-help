@@ -69,7 +69,7 @@ Lorsque vous recevez un nouveau message, la notification est indiquée dans le b
 
 Une fois dans l’appli messagerie, les nouveaux messages sont visibles dans la notification indiquée dans le dossier « boîte de réception ». Le nombre de messages non lus est indiqué dans la bulle à droite de la mention « Boîte de réception ».
 
-![](.gitbook/assets/messagerie-1%20%281%29.png)
+![](.gitbook/assets/messagerie-1-1.png)
 
 Sur l’écran central, les messages non lus apparaissent en bleu dans la liste et sont indiqués par une enveloppe fermée.
 

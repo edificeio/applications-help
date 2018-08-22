@@ -45,7 +45,7 @@ Pour le partager, suivez les étapes suivantes :
 
 Pour valider, cliquez sur le bouton "Partager".
 
-![](/assets/Blog.png)
+![](.gitbook/assets/blog.png)
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs sont les suivants :
 
@@ -103,6 +103,4 @@ Vous pouvez réaliser les actions suivantes en cliquant sur « Publier » ou sur
 * **Supprimer** le billet
 
 ![](.gitbook/assets/blog_2-1024x363.png)
-
-
 

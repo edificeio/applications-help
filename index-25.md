@@ -76,7 +76,7 @@ En cas d’oubli de votre mot de passe, un lien de récupération vous sera envo
 
 Vous pouvez ajouter une devise à votre compte. Pour cela, remplissez le champ « Devise » sous vos coordonnées.
 
-![](.gitbook/assets/m10%20%281%29.png)
+![](.gitbook/assets/m10-1.png)
 
 Votre devise sera visible sur votre profil et apparaitra dans le fil de nouveautés des autres utilisateurs de l’ENT lorsque vous la modifierez.
 
@@ -84,11 +84,11 @@ Votre devise sera visible sur votre profil et apparaitra dans le fil de nouveaut
 
 Pour changer votre humeur, cliquez sur l’icône en dessous de votre photo.
 
-![](.gitbook/assets/m11%20%281%29.png)
+![](.gitbook/assets/m11-1.png)
 
 Une liste d’humeurs apparaît. Choisissez celle que vous souhaitez.
 
-![](.gitbook/assets/m12%20%282%29.png)
+![](.gitbook/assets/m12-2.png)
 
 Votre nouvelle humeur apparaît sur votre compte et est maintenant visible dans le fil de nouveautés des autres utilisateurs de l’ENT avec lesquels vous avez le droit de communiquer.
 
@@ -114,7 +114,7 @@ En un seul clic, vous choisissez l’icône correspondant au niveau de visibilit
 
 * L’icône “Cadenas” signifie que l’information est privée, vous êtes le \(la\) seul\(e\) à la voir.
 
-![](.gitbook/assets/m16%20%281%29.png)
+![](.gitbook/assets/m16-1.png)
 
 * L’icône “Globe” signifie que l’information est visible des autres utilisateurs de l’ENT, en fonction des droits de communication dont ils disposent.
 

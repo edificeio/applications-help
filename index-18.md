@@ -52,7 +52,7 @@ Il bénéficie par ailleurs des mêmes filtres que sur la vue Calendrier. Le tri
 
 Pour visualiser le détail d’une réservation, il suffit de cliquer sur la réservation en question dans la liste, pour afficher une fenêtre \(pop-up\) qui donne toutes les informations.
 
-![](.gitbook/assets/r3%20%281%29.png)
+![](.gitbook/assets/r3-1.png)
 
 ## Créer une demande de réservation
 
@@ -82,7 +82,7 @@ Dans le cas d’une réservation ponctuelle, l’utilisateur choisit le créneau
 
 Si l’utilisateur souhaite modifier sa demande ponctuelle en demande périodique, il lui suffit de cliquer sur la case à cocher "réservation périodique" \(4\).
 
-**Réservation périodique**    
+**Réservation périodique**  
 Pour une réservation périodique, l’utilisateur renseigne les mêmes informations que pour une réservation ponctuelle mais configure également une périodicité.
 
 Pour cela, il faut choisir la récurrence \(1\), les jours de la semaine concernés \(2\), le nombre d’occurrences ou une date de fin de période \(3\). Pour enregistrer la demande, cliquez sur "Enregistrer".

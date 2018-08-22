@@ -20,7 +20,7 @@ Pour créer un fil d’actualités, suivez les étapes suivantes :
 4. Choisissez une image d’illustration
 5. Cliquez sur « Sauvegarder »
 
-![](.gitbook/assets/actu_2_1-1024x318%20%281%29.png)
+![](.gitbook/assets/actu_2_1-1024x318-1.png)
 
 ![](.gitbook/assets/a28.png)
 

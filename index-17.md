@@ -6,7 +6,7 @@ Un devoir à rendre ? Rien de plus simple, grâce à l’appli **Casier**, dépo
 
 Pour accéder à l’appli Casier, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/casier%20%281%29.png)
+![](.gitbook/assets/casier-1.png)
 
 Le casier est composé de 3 dossiers :
 

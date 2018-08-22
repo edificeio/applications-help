@@ -49,7 +49,7 @@ Description des actions :
 
 Pour créer un événement, plusieurs options s’offrent à l’utilisateur, il est possible de cliquer dans le calendrier au créneau horaire souhaité ou d’utiliser le bouton
 
- ![](.gitbook/assets/agenda-cree-evenement.png).
+![](.gitbook/assets/agenda-cree-evenement.png).
 
 La fenêtre de création d’événement apparait en popup. Elle se décompose en trois onglets.
 
@@ -110,7 +110,7 @@ Il est possible de choisir les agendas affichés sur le calendrier en cliquant d
 
 ![](.gitbook/assets/agenda-desactive.png)
 
-La seconde façon de visualiser les événements est la vue liste accessible par l’icône ![](.gitbook/assets/agenda-icone-liste%20%281%29.png) en haut à droite de la vue principale.
+La seconde façon de visualiser les événements est la vue liste accessible par l’icône ![](.gitbook/assets/agenda-icone-liste-1.png) en haut à droite de la vue principale.
 
 ![](.gitbook/assets/agenda-liste.png)
 

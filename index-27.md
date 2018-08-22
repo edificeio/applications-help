@@ -12,7 +12,7 @@ Un wiki permet de **créer et publier des contenus \(texte, images…\) dans dif
 
 Pour créer un wiki, cliquez sur le bouton « Créer un wiki » dans la page d’accueil de l’appli.
 
-![](.gitbook/assets/w1%20%281%29.png)
+![](.gitbook/assets/w1-1.png)
 
 Saisissez un titre \(1\) et enregistrez si vous le souhaitez une image d’illustration du wiki \(sinon c’est l’icône par défaut qui est affichée\) \(2\).
 

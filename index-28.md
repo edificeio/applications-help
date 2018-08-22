@@ -116,7 +116,7 @@ Pour visualiser les anciennes versions d’un document, suivez les étapes suiva
 1. Cliquez une fois sur le document pour qu’il soit surligné en bleu
 2. Cliquez sur le bouton "Versions" en bas de page
 
-![](.gitbook/assets/doc-selection-fichier%20%281%29.png)
+![](.gitbook/assets/doc-selection-fichier-1.png)
 
 Toutes les versions du document s’affichent. Chaque version permet d’accéder aux informations suivantes :
 

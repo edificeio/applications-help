@@ -44,7 +44,7 @@ Les différents droits que vous pouvez attribuer sont les suivants :
 
 Pour valider, cliquez sur le bouton "Partager".
 
-![](/assets/Sondages.png)
+![](.gitbook/assets/sondages.png)
 
 Votre sondage est bien créé et partagé.
 
@@ -58,10 +58,8 @@ Cliquez sur le site dans lequel vous souhaitez insérer le sondage.
 
 ![](.gitbook/assets/s7.png)
 
-  
 Pour insérer le sondage, cliquez sur l’icône suivante:  
-![](.gitbook/assets/s8.png)  
-
+![](.gitbook/assets/s8.png)
 
 ![](.gitbook/assets/s9.png)
 
@@ -79,5 +77,5 @@ La liste des sondages dont vous êtes gestionnaire apparaît. Choisissez celui q
 
 Le sondage apparaît bien sur la page.
 
-![](.gitbook/assets/s13%20%281%29.png)
+![](.gitbook/assets/s13-1.png)
 

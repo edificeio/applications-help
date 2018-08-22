@@ -20,7 +20,7 @@ Il est composé des éléments suivants :
 ![](.gitbook/assets/fil-notif-et-filtre-2.png)
 
 Pour filtrer les notifications reçues, déplier le menu "Filtrer les nouveautés" et cliquez sur les applications dont vous souhaitez visualiser les notifications ou non.  
-![](.gitbook/assets/fil-filtre.png) 
+![](.gitbook/assets/fil-filtre.png)
 
 Pour accéder à une information ou un contenu qui vous a été partagé, cliquez sur le lien présent dans la nouveauté.
 
@@ -70,7 +70,7 @@ Les widgets se situent à gauche du fil de nouveautés. Ils sont composés des n
 
 * Le widget **Calendrier** affiche le mois en cours et la date du jour
 
-![](.gitbook/assets/w2%20%281%29.png)
+![](.gitbook/assets/w2-1.png)
 
 * Le widget **Actualités** affiche les 5 dernières actualités publiées dans votre réseau
 
@@ -78,7 +78,7 @@ Les widgets se situent à gauche du fil de nouveautés. Ils sont composés des n
 
 * Le widget **Flux RSS** permet d’afficher un flux d’informations issues d’un site externe. L’utilisateur peut récupérer l’adresse du flux de 3 sites externes maximum.
 
-![](.gitbook/assets/w4%20%281%29.png)
+![](.gitbook/assets/w4-1.png)
 
 * Le widget **Signets** permet de créer des liens redirigeant vers une adresse internet choisie dans un nouvel onglet. L’utilisateur saisit le nom du lien qui sera affiché, renseigne son adresse web et clique sur « Enregistrer ».
 
@@ -157,10 +157,10 @@ Ou encore depuis l’espace documentaire :
 L’éditeur d’images permet de :
 
 1. Pivoter une image
-2. Redimensionner une image
-3. Flouter une image
-4. Rogner une image
-5. Changer le titre d’une image, d’ajouter un texte alternatif pour les mal-voyants ou y ajouter une légende
+2. Rogner
+3. Flouter des visages ou une partie de l'image
+4. Redimensionner
+5. Changer le titre, ajouter un texte alternatif pour les mal-voyants ou une légende
 
 ![](.gitbook/assets/editeur-actions.png)
 
@@ -170,10 +170,9 @@ La gestion des paramètres vous permet de modifier votre thème d’apparence ma
 
 Pour y accéder, cliquez sur le bouton à droite de votre fil de nouveautés. L’onglet de gestion de vos paramètres apparaît.
 
-![](.gitbook/assets/f11%20%281%29.png)
+![](.gitbook/assets/f11-1.png)
 
-![](.gitbook/assets/gestion-widgets.png)  
-
+![](.gitbook/assets/gestion-widgets.png)
 
 Pour changer l’apparence de votre thème, cliquez sur celui de votre choix.
 
@@ -228,7 +227,7 @@ Les ressources sont recherchées dans les catégories suivantes :
 
 Seules les ressources pour lesquelles l’utilisateur a un droit d’accès sont affichées dans le moteur de recherche.
 
-![](.gitbook/assets/acces0011%20%281%29.png)
+![](.gitbook/assets/acces0011-1.png)
 
 Vous pouvez accéder à la page de recherche en cliquant sur l’icône de recherche \(1\) de la barre du menu principale.
 

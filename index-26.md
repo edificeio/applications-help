@@ -20,7 +20,7 @@ Pour créer une évaluation **avec des compétences**, suivez les étapes suivan
 
 1. Cliquez sur le bouton « Créer évaluation »
 
-![](.gitbook/assets/evaluation-avec-des-competences%20%281%29.jpg)
+![](.gitbook/assets/evaluation-avec-des-competences-1.jpg)
 
 1. Sélectionner ou saisir les informations obligatoires suivantes :
    * Établissement
@@ -37,7 +37,7 @@ Pour créer une évaluation **avec des compétences**, suivez les étapes suivan
 4. Modifier si besoin le coefficient et la note maximum
 5. Cliquer sur l’onglet "Compétences"
 
-![](.gitbook/assets/evaluation-avec-des-competences-2%20%281%29.jpg)
+![](.gitbook/assets/evaluation-avec-des-competences-2-1.jpg)
 
 1. Sélectionner des connaissances ou compétences
 2. Cliquez sur "Enregistrer"
@@ -102,11 +102,11 @@ Pour accéder au relevé de notes, suivez les étapes suivantes :
 
 1. Cliquez sur le menu «Relevés de notes »
 
-![](.gitbook/assets/releve-de-notes.jpg) 
+![](.gitbook/assets/releve-de-notes.jpg)
 
-2. Renseigner les critères  
-3. Il est possible d’accéder aux détails des devoirs en cliquant sur l’entête de l’évaluation \(une évaluation avec des compétences est soulignée en orange\)  
-4. Il est possible de modifier les notes des élèves directement sur le relevé
+1. Renseigner les critères  
+2. Il est possible d’accéder aux détails des devoirs en cliquant sur l’entête de l’évaluation \(une évaluation avec des compétences est soulignée en orange\)  
+3. Il est possible de modifier les notes des élèves directement sur le relevé
 
 ![](.gitbook/assets/releve-de-notes-2.jpg)
 
@@ -116,7 +116,7 @@ Pour suivre le niveau des élèves individuellement, suivez les étapes suivante
 
 1. Cliquez sur le menu « Suivi élève »
 
-![](.gitbook/assets/suivre-le-niveau-des-eleves-1%20%281%29.jpg)
+![](.gitbook/assets/suivre-le-niveau-des-eleves-1-1.jpg)
 
 1. Renseigner les critères pour choisir un élève
 2. Il est possible d’afficher le détail des évaluations ayant entrainé le suivi d’une compétence en cliquant sur la compétence souhaitée.
@@ -134,10 +134,10 @@ Pour voir le bilan du niveau des élèves individuellement, suivez les étapes s
 
 1. Cliquez sur le menu « Suivi élève »
 
-![](.gitbook/assets/suivre-le-niveau-des-eleves-1%20%282%29.jpg) 
+![](.gitbook/assets/suivre-le-niveau-des-eleves-1-2.jpg)
 
-2. Renseigner les critères pour choisir un élève  
-3. Il est possible d’afficher le bilan de compétences d’un élève en cliquant sur : ![](.gitbook/assets/visualisation-bilan.jpg) 
+1. Renseigner les critères pour choisir un élève  
+2. Il est possible d’afficher le bilan de compétences d’un élève en cliquant sur : ![](.gitbook/assets/visualisation-bilan.jpg) 
 
 ![](.gitbook/assets/visualisation-bilan-2.jpg)
 
@@ -170,9 +170,8 @@ Pour suivre le niveau des compétences de classe, suivez les étapes suivantes :
 
 ![](.gitbook/assets/suivi-classe.jpg)
 
-2. Renseigner les critères pour choisir une classe
-
-3. Pour chaque compétence, le niveau de la classe est affiché sous forme de barre avec différents niveaux de maîtrise.
+1. Renseigner les critères pour choisir une classe
+2. Pour chaque compétence, le niveau de la classe est affiché sous forme de barre avec différents niveaux de maîtrise.
 
 Il est possible de cliquer sur une compétence pour afficher la liste des élèves avec leur niveau
 
@@ -192,9 +191,9 @@ Pour effectuer le remplacement d’un enseignant par un autre enseignant pour un
 1. Cliquez sur le menu « Gérer les remplacements » ![](.gitbook/assets/remplacement-1.jpg)
 2. Renseigner les critères pour choisir l’enseignant à remplacer, l’enseignant remplaçant, ainsi que les dates durant lesquelles le remplacement a cours.
 
-![](.gitbook/assets/remplacement-2.jpg) 
+![](.gitbook/assets/remplacement-2.jpg)
 
-3. La liste des remplacements effectués s’affiche dans l’encart en bas de la page. Il est possible de trier sur les différents champs.
+1. La liste des remplacements effectués s’affiche dans l’encart en bas de la page. Il est possible de trier sur les différents champs.
 
 La sélection d’un ou plusieurs remplacements permet ensuite l’édition ou la suppression de ceux-ci
 

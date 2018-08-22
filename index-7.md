@@ -50,8 +50,7 @@ Pour valider, cliquez sur le bouton "Partager".
 
 Pour créer une note sur un mur, cliquez sur le mur souhaité.
 
-![](.gitbook/assets/mur-4-1024x229.png)  
-
+![](.gitbook/assets/mur-4-1024x229.png)
 
 Puis cliquez sur « Nouvelle note ».
 
@@ -66,11 +65,11 @@ Une palette de couleurs apparait sur la partie supérieure de la page. Cliquez s
 
 ![](.gitbook/assets/m111.png)
 
-Pour afficher l’auteur de la note, cliquez sur: ![](.gitbook/assets/m12%20%281%29.png)
+Pour afficher l’auteur de la note, cliquez sur: ![](.gitbook/assets/m12-1.png)
 
-![](.gitbook/assets/m13%20%281%29.png)
+![](.gitbook/assets/m13-1.png)
 
-Pour ajouter du contenu à la note, cliquez sur: ![](.gitbook/assets/m14%20%281%29.png)
+Pour ajouter du contenu à la note, cliquez sur: ![](.gitbook/assets/m14-1.png)
 
 ![](.gitbook/assets/editeur-texte_mur_collabora-1024x288.png)
 

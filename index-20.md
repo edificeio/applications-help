@@ -44,7 +44,7 @@ Seules les ressources pour lesquelles l’utilisateur a un droit d’accès sont
 
 Pour accéder à la page de recherche, vous devez cliquer sur l’icône de recherche de la barre de menu principale de l’ENT.
 
-![](.gitbook/assets/acces0011.png) 
+![](.gitbook/assets/acces0011.png)
 
 Si vous cliquez sur l’icône « Loupe », vous accédez directement à l’application.
 
@@ -75,8 +75,7 @@ La recherche s’effectue sur des champs spécifiques en fonction du type de res
 ## Liste des résultats
 
 Les ressources correspondant aux filtres de recherche sont affichées sous la zone de saisie des mots-clés.  
-Si aucune ressource ne correspond aux filtres de recherche, un message indique qu’aucun résultat ne correspond à vos critères de recherche \(1\).  
-
+Si aucune ressource ne correspond aux filtres de recherche, un message indique qu’aucun résultat ne correspond à vos critères de recherche \(1\).
 
 ![](.gitbook/assets/resultat001.png)
 

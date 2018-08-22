@@ -6,7 +6,7 @@ Créer vos propres sites web en quelques clics ! Avec l’appli **Pages**, vous 
 
 L’appli Pages permet de créer des pages web qui sont organisées entre elles grâce à un menu de navigation, et offrant une grande liberté de mise en page du contenu.
 
-Il est possible d’insérer dans ces pages **différents** types de contenus ****\(texte, image, son, vidéo…\) et **des liens vers d’autres contenus**. En particulier, si un lien est enregistré vers un blog, une frise chronologique, un wiki, ou un forum existant, la page sera automatiquement mise à jour avec les nouvelles publications effectuées dans le blog, la frise, le wiki ou le forum.
+Il est possible d’insérer dans ces pages **différents** types de contenus **\*\*\(texte, image, son, vidéo…\) et** des liens vers d’autres contenus\*\*. En particulier, si un lien est enregistré vers un blog, une frise chronologique, un wiki, ou un forum existant, la page sera automatiquement mise à jour avec les nouvelles publications effectuées dans le blog, la frise, le wiki ou le forum.
 
 ![](.gitbook/assets/captures-pages-1.png)
 

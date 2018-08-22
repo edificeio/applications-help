@@ -2,7 +2,7 @@
 
 Avec le **Cahier multimédia**, votre banal exposé sur la faune amazonienne devient tout de suite plus passionnant ! Mise en pages personnalisée, illustrations, vidéos, sons, votre cahier prend vie sous les clics de vos lecteurs.
 
-![](../../wp-content/uploads/2015/03/copyright.jpg)
+![](.gitbook/assets/copyright.jpg)
 
 ## Présentation
 
@@ -10,17 +10,17 @@ Les cahiers créés peuvent être utilisés comme des **supports de restitution*
 
 Les utilisateurs ayant des droits de contribution dans le cahier choisissent le nombre de pages du cahier et la mise en forme qu’ils souhaitent appliquer à chaque page.
 
-![](/assets/CMA 1.png)
+![](.gitbook/assets/cma-1.png)
 
 ## Créer et partager un cahier multimédia
 
 Pour accéder à l’appli Cahier multimédia, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](/assets/CMA 2.png)
+![](.gitbook/assets/cma-2.png)
 
 Dans le service Cahier multimédia, cliquez sur le bouton « Créer » en haut de la page.
 
-![](/assets/CMA 3.png)
+![](.gitbook/assets/cma-3.png)
 
 Vous accédez à l’interface de création du cahier.
 
@@ -28,26 +28,23 @@ Vous accédez à l’interface de création du cahier.
 2. Vous pouvez ajouter une vignette d’illustration du cahier \(qui apparaît en miniature sur la page d’accueil et comme couverture du cahier\) en cliquant sur « Changer l’image ». Si vous ne modifiez pas l’image, c’est la vignette par défaut qui s’affichera.
 3. Une fois le titre ajouté et l’image importée, cliquez sur « Enregistrez »
 
-:[](/assets/CMA 4.png)
+:
 
-Votre cahier est désormais créé mais n’est pas encore visible. Pour le partager avec d’autres utilisateurs, cliquez sur la case à cocher (1)
-située à côté du cahier puis sur « Partager » (2).
+Votre cahier est désormais créé mais n’est pas encore visible. Pour le partager avec d’autres utilisateurs, cliquez sur la case à cocher \(1\) située à côté du cahier puis sur « Partager » \(2\).
 
-![](/assets/CMA 5.png)
+![](.gitbook/assets/cma-5.png)
 
-Dans la fenêtre, vous pouvez donner des droits de consultation, de contribution et de gestion sur votre cahier. Pour cela, saisissez les
-premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez (1), sélectionnez le résultat (2) et cochez les
-cases correspondant aux droits que vous souhaitez leur attribuer (3). 
+Dans la fenêtre, vous pouvez donner des droits de consultation, de contribution et de gestion sur votre cahier. Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez \(1\), sélectionnez le résultat \(2\) et cochez les cases correspondant aux droits que vous souhaitez leur attribuer \(3\).
 
 Pour valider, cliquez sur le bouton "Partager".
 
-![](/assets/Cahier multimédia.png)
+![](.gitbook/assets/cahier-multimedia.png)
 
 ## Editer les pages du cahier multimédia
 
 Une fois [votre cahier multimédia créé](http://one1d.fr/aide-support/aide-support/7-cahier-multimedia/creer-et-partager-un-cahier-multimedia/), vous pouvez publier des pages. Pour cela, cliquez sur le titre du cahier dans la page d’accueil.
 
-Lorsque le cahier est affiché à l’écran, cliquez sur « Modifier ». Pour ajouter de nouvelles pages, cliquez sur « Ajouter une page » \(1\) ou sur la flèche à droite du cahier (2).
+Lorsque le cahier est affiché à l’écran, cliquez sur « Modifier ». Pour ajouter de nouvelles pages, cliquez sur « Ajouter une page » \(1\) ou sur la flèche à droite du cahier \(2\).
 
 Vous pouvez ajouter les contenus suivants dans vos cahiers : Il est possible de modifier une zone de texte. Pour cela, cliquez sur la zone : une barre d’édition s’affiche. L’éditeur offre de nombreuses possibilités pour mettre le texte en forme.
 
@@ -67,27 +64,27 @@ Il est possible d’ajouter dans vos cahiers multimédia des vidéos stockées s
 
 Ouvrez le cahier multimédia dans lequel vous souhaitez ajouter cette vidéo et cliquez sur l’icône d’ajout de vidéo.
 
-![](/assets/CMA 13.png)
+![](.gitbook/assets/cma-13.png)
 
-Dans la fenêtre qui s’ouvre, selectionnez un type de contenu de média (vidéos hébergées sur Youtube, Viméo, Dailymotion, Learningaps.org et educaplay) (1) 
+Dans la fenêtre qui s’ouvre, selectionnez un type de contenu de média \(vidéos hébergées sur Youtube, Viméo, Dailymotion, Learningaps.org et educaplay\) \(1\)
 
-![](/assets/CMA\ 15.png)
+![](https://github.com/web-education/applications-help/tree/02775a7d27a5c3f9d3a3deb1483bb10433a03f8d/assets/CMA/%2015.png)
 
-puis collez l’URL de la vidéo (2) et cliquez sur « Appliquer » (3). 
+puis collez l’URL de la vidéo \(2\) et cliquez sur « Appliquer » \(3\).
 
-![](/assets/CMA 16.png)
+![](.gitbook/assets/cma-16.png)
 
-Pour une vidéo hébergée ailleurs , appuyez sur la vignette "Collez votre propre code" (4), 
+Pour une vidéo hébergée ailleurs , appuyez sur la vignette "Collez votre propre code" \(4\),
 
-![](/assets/CMA 18.png)
+![](.gitbook/assets/cma-18.png)
 
-puis collez le lien Iframe (5) et cliquez sur "Appliquer" (6). 
+puis collez le lien Iframe \(5\) et cliquez sur "Appliquer" \(6\).
 
-![](/assets/CMA 17.png)
+![](.gitbook/assets/cma-17.png)
 
-Positionnez ensuite la vidéo dans la page et sauvegardez votre travail. 
+Positionnez ensuite la vidéo dans la page et sauvegardez votre travail.
 
-![](/assets/CMA 14.png)
+![](.gitbook/assets/cma-14.png)
 
 Votre cahier est complété et la vidéo prête à être regardée !
 
