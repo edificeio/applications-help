@@ -6,7 +6,7 @@ L’actu 100 % bahut ! Ne laissez passer aucune info importante sur l’établis
 
 Cet outil vous permet de **diffuser facilement une information** \(comme le déroulement d’un événement ou le menu de la cantine\) en y intégrant différents types de contenus : texte, images, fichiers audio, vidéos, liens externes, etc. Les actualités créées sont associées à un **fil d’actualités** permettant aux utilisateurs de voir tous les contenus qui y sont rattachés.
 
-Lorsque vous publiez une actualité, vous choisissez les utilisateurs ou les groupes de personnes avec lesquels vous souhaitez partager l’information. Les personnes concernées reçoivent une **notification** dans leur **fil de nouveautés** et voient appaaraître l’actualité dans le **widget Actualités** sur la page d’accueil.
+Lorsque vous publiez une actualité, vous choisissez les utilisateurs ou les groupes de personnes avec lesquels vous souhaitez partager l’information. Les personnes concernées reçoivent une **notification** dans leur **fil de nouveautés** et voient apparaître l’actualité dans le **widget Actualités** sur la page d’accueil.
 
 ![](.gitbook/assets/actu_11-1024x475.png)
 
