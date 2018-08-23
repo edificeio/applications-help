@@ -6,11 +6,11 @@ Un devoir à rendre ? Rien de plus simple, grâce à l’appli **Casier**, dépo
 
 Pour accéder à l’appli Casier, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/casier-1.png)
+![](.gitbook/assets/2018-08-23_17h28_06.png)
 
 Le casier est composé de 3 dossiers :
 
-![](.gitbook/assets/casier.png)
+![](.gitbook/assets/2018-08-23_17h28_52.png)
 
 Le dossier « **Mon casier** » contient les documents envoyés dans mon casier.  
 Le dossier « **Historique** » contient les documents déposés par l’utilisateur dans le casier d’autres utilisateurs. Pour chaque document reçu, le titre du document, l’identifiant du destinataire ainsi que la date et l’heure d’envoi sont précisés.  
