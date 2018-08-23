@@ -24,7 +24,7 @@
 * [Moteur recherche](index-20.md)
 * [Poste-fichiers](index-21.md)
 * [Statistiques](index-22.md)
-* [Aide & Support](index-23.md)
+* [Assistance ENT](index-23.md)
 * [Frise chronologique](index-24.md)
 * [Mon compte](index-25.md)
 * [Compétences](index-26.md)

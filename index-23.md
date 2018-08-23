@@ -1,4 +1,4 @@
-# Aide & Support
+# Assistance ENT
 
 Un problème, une question ? On a pensé à tout ! L’appli **Aide & Support** vous permet d’envoyer votre demande aux administrateurs de l'établissement, pour une communication rapide et fluide.
 
