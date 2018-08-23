@@ -75,7 +75,7 @@ Commencez par renseigner le nom de votre favori.
 
 Ajoutez ensuite vos utilisateurs ou vos groupes à votre favori. Vous pouvez utiliser la barre de recherche \(1\), et affiner votre recherche grâce au système de filtres \(2\). Cliquez ensuite sur "Rechercher" pour faire apparaître des propositions d’utilisateurs \(3\)
 
-![](.gitbook/assets/favori-ajout.png)
+![](.gitbook/assets/2018-08-23_09h54_11.png)
 
 Les utilisateurs et les groupes suggérés apparaissent dans la liste "Groupes et membres à ajouter au favori". Vous pouvez ajouter individuellement des membres à votre favori en cliquant sur la flèche à droite de l’utilisateur \(1\), ou bien ajouter tous les utilisateurs en cliquant sur "Tout ajouter" \(2\).
 
