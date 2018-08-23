@@ -1,4 +1,4 @@
-# Premiers pas dans l'ENT
+# Premiers pas
 
 ## La page d’accueil
 

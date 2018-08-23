@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Premiers pas dans l'ENT](index.md)
+* [Premiers pas](index.md)
 * [Cahier de textes](index-1.md)
 * [Actualités](index-2.md)
 * [Export](index-3.md)
