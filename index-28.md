@@ -61,7 +61,11 @@ Pour partager votre document avec d’autres utilisateurs, suivez les étapes su
 
 ![](.gitbook/assets/partage-doc.png)
 
-La fenêtre de partage apparaît. Pour attribuer des droits à d’autres utilisateurs, suivez les étapes suivantes : \* Saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez \(1\) \* Sélectionnez le nom dans la liste qui s’affiche \(2\) \* Cochez les cases correspondant aux droits que vous souhaitez leur attribuer \(3\).
+La fenêtre de partage apparaît. Pour attribuer des droits à d’autres utilisateurs, suivez les étapes suivantes : 
+
+* Saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez \(1\) 
+* Sélectionnez le nom dans la liste qui s’affiche \(2\) 
+* Cochez les cases correspondant aux droits que vous souhaitez leur attribuer \(3\).
 
 Cliquez ensuite sur le bouton "Partager"
 
