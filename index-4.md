@@ -74,19 +74,17 @@ L’outil de création du billet s’affiche dans la page :
 1. Saisissez le titre
 2. Rédigez le contenu du billet.
 
-![](.gitbook/assets/blog9-1024x578.png)
+![](.gitbook/assets/2018-08-24_15h13_04.png)
 
-Une fois la saisie terminée, vous pouvez soit :
+Une fois la saisie terminée, vous avez différents boutons d'action \(3\) :
 
 * **Enregistrer le billet** : il passe alors au format brouillon et n’est pas visible des autres utilisateurs ayant accès au blog
 * **Publier le billet** : le billet est alors visible par les utilisateurs ayant accès au blog
 * **Annuler** la création du billet
 
-![](.gitbook/assets/image33-1024x572.png)
-
-Pour les utilisateurs pouvant contribuer à un blog dans lequel le circuit de publication a été activé, un bouton « Envoyer » s’affiche : il leur permet de soumettre leur billet au gestionnaire du blog qui se chargera de la publication ou non du billet.
-
-![](.gitbook/assets/capture-1024x643.png)
+{% hint style="info" %}
+Pour les utilisateurs pouvant contribuer à un blog dans lequel le circuit de publication a été activé, un bouton « Envoyer » s’affiche à la place de "Publier" : il leur permet de soumettre leur billet au gestionnaire du blog qui se chargera de la publication ou non du billet.
+{% endhint %}
 
 ## Valider un billet
 
