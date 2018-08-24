@@ -26,7 +26,9 @@ Pour créer un fil d’actualités, suivez les étapes suivantes :
 
 ![](.gitbook/assets/a37.png)
 
+{% hint style="info" %}
 Par défaut seuls les enseignants et les personnels sont habilités à créer des fils d’actualités.
+{% endhint %}
 
 ## Partager un fil d’actualités
 
@@ -75,9 +77,7 @@ Plusieurs actions sont ensuite proposées :
 
 ## Partager une actualité
 
-Vous pouvez décider d’attribuer des droits sur une actualité indépendamment des droits de partage définis sur le fil auquel elle appartient.
-
-Pour cela, cliquez sur la case à cocher de l’actualité concernée \(1\) puis sur « Partager » \(2\).
+Vous pouvez décider d’attribuer des droits sur une actualité indépendamment des droits de partage définis sur le fil auquel elle appartient. Pour cela, cliquez sur la case à cocher de l’actualité concernée \(1\) puis sur « Partager » \(2\).
 
 ![](.gitbook/assets/actu_4-1-1024x626.png)
 

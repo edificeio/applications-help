@@ -12,11 +12,8 @@ Il comprend les éléments suivants :
 
 1. Un menu de gauche pour créer un agenda et où sont listés les agendas qui appartiennent à l’utilisateur et ceux qui lui sont partagés.
 2. Un bandeau qui permet de faire défiler les semaines.
-3. Les 2 icônes en haut à droite permettent de permuter l’affichage du mode calendrier ![](.gitbook/assets/agenda-icone-calendrier.png)
-
-au mode liste d’événements ![](.gitbook/assets/agenda-icone-liste.png).
-
-1. Le calendrier qui permet d’afficher les événements des agendas sélectionnés.
+3. Les 2 icônes en haut à droite permettent de permuter l’affichage du mode calendrier ![](.gitbook/assets/agenda-icone-calendrier.png)au mode liste d’événements ![](.gitbook/assets/agenda-icone-liste.png).
+4. Le calendrier qui permet d’afficher les événements des agendas sélectionnés.
 
 ## Créer un agenda
 
@@ -29,8 +26,7 @@ Une fois créé, l’agenda apparaît dans la liste des agendas de l’utilisate
 
 ![](.gitbook/assets/agenda-selection.png)
 
-Depuis cette liste il est possible d’accéder aux opérations sur l’agenda en le sélectionnant à l’aide de la case à cocher \(2\).  
-Un menu apparaît alors en bas de l’écran proposant les actions supplémentaires suivantes.
+Depuis cette liste il est possible d’accéder aux opérations sur l’agenda en le sélectionnant à l’aide de la case à cocher \(2\). Un menu apparaît alors en bas de l’écran proposant les actions supplémentaires suivantes.
 
 ![](.gitbook/assets/agenda-menu-bas.png)
 
@@ -40,14 +36,11 @@ Description des actions :
 * Importer, permet l’import des événements d’un calendrier au format .ics dans l’agenda sélectionné ;
 * Modifier, permet de modifier le titre ou la couleur associée à l’agenda sélectionné ;
 * Supprimer, permet la suppression de l’agenda sélectionné après confirmation ;
-
-![](.gitbook/assets/agenda-supression.png)
-
 * Partager, permet le partage de l’agenda sélectionné avec d’autres utilisateurs.  
 
 ## Créer un événement
 
-Pour créer un événement, plusieurs options s’offrent à l’utilisateur, il est possible de cliquer dans le calendrier au créneau horaire souhaité ou d’utiliser le bouton
+Pour créer un événement, plusieurs options s’offrent à l’utilisateur, il est possible de cliquer dans le calendrier au créneau horaire souhaité ou d’utiliser le bouton suivant : 
 
 ![](.gitbook/assets/agenda-cree-evenement.png).
 
@@ -66,29 +59,33 @@ Le second onglet appelé "Dates" permet la sélection de la plage horaire de l�
 
 ![](.gitbook/assets/agenda-creation-date.png)
 
+{% hint style="info" %}
 Il est possible de changer les dates et heures de début et de fin. La case à cocher « Toute la journée » permet de définir un événement sans heure de début ou de fin.
+{% endhint %}
 
 Enfin le dernier onglet appelé "Récurrence" permet de définir la récurrence de l’événement si nécessaire.
 
 ![](.gitbook/assets/agenda-creation-recurrence.png)
 
-Pour cela, il faut cocher la case « Récurrent » pour pouvoir accéder à la sélection du paramétrage de la récurrence.  
-Ensuite, il est possible de modifier :
+Pour cela, il faut cocher la case « Récurrent » pour pouvoir accéder à la sélection du paramétrage de la récurrence. Ensuite, il est possible de modifier :
 
 1. le type de récurrence \(Tous les jours ou Toutes les semaines\)
 2. la fréquence de la récurrence \(Tous les X jours ou Y semaines\)
+3. La fin de la série d’événements récurrents. Cette fin peut être paramétrée après un nombre d’occurrences ou à une date donnée.
 
-**Si le type de récurrence est « Toutes les semaines », la liste des jours de la semaine apparaît afin de choisir le ou les jours sur lesquelles se produira la récurrence \(ici tous les mercredis une semaine sur 2\).**
-
-La fin de la série d’événements récurrents. Cette fin peut être paramétrée après un nombre d’occurrences ou à une date donnée.
+{% hint style="info" %}
+**Si le type de récurrence est « Toutes les semaines », la liste des jours de la semaine apparaît afin de choisir le ou les jours sur lesquelles se produira la récurrence.**
+{% endhint %}
 
 ## Partager un agenda
 
-L’accès au partage de la ressource calendrier se fait grace au menu du bas lors de la sélection d’un calendrier dans la liste des calendriers de l’utilisateur.
+L’accès au partage de la ressource calendrier se fait grâce au menu du bas lors de la sélection d’un calendrier dans la liste des calendriers de l’utilisateur.
 
-![](.gitbook/assets/partage-agenda.png)
+![](.gitbook/assets/2018-08-24_14h42_20.png)
 
-Dans la fenêtre, vous pouvez donner aux utilisateurs de l’ENT différents droits d’accès à votre agenda. Pour cela, suivez les étapes suivantes :
+Dans la fenêtre, vous pouvez donner aux utilisateurs différents droits d’accès à votre agenda. Pour cela, suivez les étapes suivantes :
+
+![](.gitbook/assets/2018-08-24_14h45_50.png)
 
 1. Saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez.
 2. Sélectionnez le résultat.
@@ -104,15 +101,15 @@ Les droits de partage que vous pouvez attribuer aux autres utilisateurs sont les
 
 Les événements créés sont affichés sur la vue calendrier avec comme couleur de fond celle de l’agenda auxquels ils appartiennent. Si un événement est situé en dehors de la plage horaire affichée par le calendrier une petite bulle contenant le nombre d’événements antérieurs est affichée \(+1 ici\).
 
-![](.gitbook/assets/agenda-calendrier.png)
+![](.gitbook/assets/2018-08-24_14h49_45.png)
 
-Il est possible de choisir les agendas affichés sur le calendrier en cliquant dessus dans la partie de gauche. Les agenda non sélectionnés sont grisés \(ici « Agenda numéro 2 » est désactivé\).
+Il est possible de choisir les agendas affichés sur le calendrier en cliquant dessus dans la partie de gauche. Les agenda non sélectionnés sont grisés.
 
-![](.gitbook/assets/agenda-desactive.png)
+![](.gitbook/assets/2018-08-24_14h50_13.png)
 
 La seconde façon de visualiser les événements est la vue liste accessible par l’icône ![](.gitbook/assets/agenda-icone-liste-1.png) en haut à droite de la vue principale.
 
-![](.gitbook/assets/agenda-liste.png)
+![](.gitbook/assets/2018-08-24_14h51_05.png)
 
 Elle synthétise les informations des événements des différents agendas affichés.
 
