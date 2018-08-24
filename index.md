@@ -20,6 +20,8 @@ Il est composé des éléments suivants :
 ![](.gitbook/assets/fil-notif-et-filtre-2.png)
 
 Pour filtrer les notifications reçues, déplier le menu "Filtrer les nouveautés" et cliquez sur les applications dont vous souhaitez visualiser les notifications ou non.  
+
+
 ![](.gitbook/assets/fil-filtre.png)
 
 Pour accéder à une information ou un contenu qui vous a été partagé, cliquez sur le lien présent dans la nouveauté.
@@ -41,6 +43,8 @@ Le profil de l’utilisateur s’affiche.
 ## Suppression et signalement des notifications
 
 Sur le fil de nouveauté, vous avez la possibilité de ne plus voir la notification reçue et/ou de signaler à l’administrateur de votre établissement une notification inappropriée. Une flèche d’action s’affiche sur la notification lors du survol de celle-ci.  
+
+
 ![](.gitbook/assets/fil-survol1.png)
 
 Lorsque vous cliquez sur la flèche, les actions concernant la notification sélectionnée s’affichent.  
@@ -51,8 +55,7 @@ Vous pouvez :
 
 ![](.gitbook/assets/fil-action.png)
 
-Vous avez également la possibilité de ne pas diffuser une notification aux utilisateurs avec lesquels vous avez des droits de communication ou vous avez partagé du contenu.  
-Depuis votre espace "Mon compte", vous retrouverez toutes les notifications que vous avez émises en cliquant sur l’onglet "Historique"
+Vous avez également la possibilité de ne pas diffuser une notification aux utilisateurs avec lesquels vous avez des droits de communication ou vous avez partagé du contenu. Depuis votre espace "Mon compte", vous retrouverez toutes les notifications que vous avez émises en cliquant sur l’onglet "Historique"
 
 ![](.gitbook/assets/fil-historique.png)
 
@@ -107,7 +110,7 @@ Les différents services disponibles sont les suivants :
 * Le bouton d’accès aux applis ![](.gitbook/assets/a15.png)
 * Le bouton d’accès à l’appli Communautés ![](.gitbook/assets/c14.png)
 * Le bouton de recherche sur l’ENT ![](.gitbook/assets/loupe.png)
-* Le bouton de notification de nouveaux messages reçus dans l’ENT et d’accès à la messagerie ![](.gitbook/assets/m114.png)
+* Le bouton de notification de nouveaux messages reçus et d’accès à la messagerie ![](.gitbook/assets/m114.png)
 * Le bouton de déconnexion du portail ![](.gitbook/assets/d12.png)
 
 ## L’éditeur de texte
@@ -168,21 +171,23 @@ L’éditeur d’images permet de :
 
 La gestion des paramètres vous permet de modifier votre thème d’apparence mais également de choisir l’affichage de ses widgets.
 
-Pour y accéder, cliquez sur le bouton à droite de votre fil de nouveautés. L’onglet de gestion de vos paramètres apparaît.
+Pour y accéder, cliquez sur le bouton à droite de votre fil de nouveautés. 
 
 ![](.gitbook/assets/f11-1.png)
 
-![](.gitbook/assets/gestion-widgets.png)
+L’onglet de gestion de vos paramètres apparaît.
+
+![](.gitbook/assets/2018-08-24_14h28_32.png)
 
 Pour changer l’apparence de votre thème, cliquez sur celui de votre choix.
 
-![](.gitbook/assets/gestion-widgets2.png)
+![](.gitbook/assets/2018-08-24_14h29_09.png)
 
 L’apparence de votre thème est modifiée.
 
 Pour décider d’afficher seulement certains widgets, désélectionnez ceux que vous ne souhaitez pas voir apparaître sur votre page d’accueil. Ils seront grisés dans la gestion de vos paramètres.
 
-![](.gitbook/assets/gestion-widgets3.png)
+![](.gitbook/assets/2018-08-24_14h29_49.png)
 
 ## Notifications externes
 
@@ -225,13 +230,13 @@ Les ressources sont recherchées dans les catégories suivantes :
 * Poste-Fichiers
 * Sondage
 
+{% hint style="info" %}
 Seules les ressources pour lesquelles l’utilisateur a un droit d’accès sont affichées dans le moteur de recherche.
+{% endhint %}
 
 ![](.gitbook/assets/acces0011-1.png)
 
-Vous pouvez accéder à la page de recherche en cliquant sur l’icône de recherche \(1\) de la barre du menu principale.
-
-Sinon, vous pouvez saisir des mots-clés dans la zone de saisie \(2\) et validez votre recherche en appuyant sur la touche « Entrée » ou en cliquant sur le bouton « GO ».
+Vous pouvez accéder à la page de recherche en cliquant sur l’icône de recherche \(1\) de la barre du menu principale. Saisissez les mots-clés dans la zone de saisie \(2\) et validez votre recherche en appuyant sur la touche « Entrée » ou en cliquant sur le bouton « GO ».
 
 ## Message Flash
 
@@ -263,5 +268,9 @@ Vous retrouverez ensuite ce favori de partage dans votre barre de recherche, au 
 
 ![](.gitbook/assets/consultation-favori.png)
 
-Afin que vous partage soit pris en compte, n’oubliez pas de cliquer sur le bouton "Partager".
+{% hint style="info" %}
+Afin que votre partage soit pris en compte, n’oubliez pas de cliquer sur le bouton "Partager".
+{% endhint %}
+
+
 
