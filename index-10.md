@@ -59,7 +59,11 @@ Pour ajouter un utilisateur ou un groupe à votre favori, vous pouvez utiliser l
 
 Les utilisateurs et les groupes suggérés apparaissent dans la liste "Groupes et membres à ajouter au favori". Vous pouvez ajouter individuellement des membres à votre favori en cliquant sur la flèche à droite de l’utilisateur \(1\), ou bien ajouter tous les utilisateurs en cliquant sur "Tout ajouter" \(2\).
 
-Pour supprimer de votre liste des utilisateurs ou des groupes, vous pouvez cliquez individuellement sur la croix à droite de leur nom \(3\) ou retirer tous les utilisateurs en cliquant sur "Tout retirer" \(4\). Afin de valider vos modifications, cliquez sur le bouton "Enregistrer". Important : si vous supprimez un groupe ou un utilisateur d’un favori qui a déjà été utilisé, les partages déjà effectués ne seront pas supprimés.
+Pour supprimer de votre liste des utilisateurs ou des groupes, vous pouvez cliquez individuellement sur la croix à droite de leur nom \(3\) ou retirer tous les utilisateurs en cliquant sur "Tout retirer" \(4\). Afin de valider vos modifications, cliquez sur le bouton "Enregistrer". 
+
+{% hint style="info" %}
+Important : si vous supprimez un groupe ou un utilisateur d’un favori qui a déjà été utilisé, les partages déjà effectués ne seront pas supprimés.
+{% endhint %}
 
 ![](.gitbook/assets/favori-gerer-1.png)
 
@@ -79,7 +83,11 @@ Ajoutez ensuite vos utilisateurs ou vos groupes à votre favori. Vous pouvez uti
 
 Les utilisateurs et les groupes suggérés apparaissent dans la liste "Groupes et membres à ajouter au favori". Vous pouvez ajouter individuellement des membres à votre favori en cliquant sur la flèche à droite de l’utilisateur \(1\), ou bien ajouter tous les utilisateurs en cliquant sur "Tout ajouter" \(2\).
 
-Pour supprimer de votre liste des utilisateurs ou des groupes, vous pouvez cliquez individuellement sur la croix à droite de leur nom \(3\) ou retirer tous les utilisateurs en cliquant sur "Tout retirer" \(4\). Afin de valider vos modifications, cliquez sur le bouton "Enregistrer". Important : si vous supprimez un groupe ou un utilisateur d’un favori qui a déjà été utilisé, les partages déjà effectués ne seront pas supprimés.
+Pour supprimer de votre liste des utilisateurs ou des groupes, vous pouvez cliquez individuellement sur la croix à droite de leur nom \(3\) ou retirer tous les utilisateurs en cliquant sur "Tout retirer" \(4\). Afin de valider vos modifications, cliquez sur le bouton "Enregistrer". 
+
+{% hint style="info" %}
+Important : si vous supprimez un groupe ou un utilisateur d’un favori qui a déjà été utilisé, les partages déjà effectués ne seront pas supprimés.
+{% endhint %}
 
 ![](.gitbook/assets/favori-gerer.png)
 
