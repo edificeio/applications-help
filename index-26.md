@@ -18,54 +18,54 @@ Le module permet :
 
 Pour créer une évaluation **avec des compétences**, suivez les étapes suivantes :
 
-1. Cliquez sur le bouton « Créer évaluation »
+* Cliquez sur le bouton « Créer évaluation » \(1\)
 
 ![](.gitbook/assets/evaluation-avec-des-competences-1.jpg)
 
-1. Sélectionner ou saisir les informations obligatoires suivantes :
-   * Établissement
-   * Classe ou groupe du cycle 3
-   * Matière
-   * Type
-   * Titre de l'évaluation
-   * Période
-   * Date de l'évaluation et date de publication de la note
-2. Date de l'évaluation et date de publication de la note
-   * Sous matière \(si présente\)
-   * Description
-3. Cocher si vous le souhaitez la case "Activer l'évaluation numérique ?" pour évaluer les élèves avec des notes ou pas.
-4. Modifier si besoin le coefficient et la note maximum
-5. Cliquer sur l’onglet "Compétences"
+* Sélectionner ou saisir les informations obligatoires suivantes \(2\) :
+  * Établissement
+  * Classe ou groupe du cycle 3
+  * Matière
+  * Type
+* Titre de l'évaluation et description \(3\)
+* Cocher si vous le souhaitez la case "Activer l'évaluation numérique ?" pour évaluer les élèves avec des notes ou pas. \(4\)
+* Modifier si besoin le coefficient et la note maximum \(5\)
+* Choisissez la période
+  * Date de l'évaluation et date de publication de la note
+  * Date de l'évaluation et date de publication de la note
+* Cliquer sur l’onglet "Compétences" \(6\)
 
 ![](.gitbook/assets/evaluation-avec-des-competences-2-1.jpg)
 
-1. Sélectionner des connaissances ou compétences
-2. Cliquez sur "Enregistrer"
+* Sélectionner des connaissances ou compétences \(7\)
+* Cliquez sur "Enregistrer" \(8\)
 
 ![](.gitbook/assets/evaluation-avec-des-competences-3.jpg)
 
-## Créer une évaluation sans coompétences
+## Créer une évaluation sans compétences
 
 Pour créer une évaluation **sans compétence**, suivez les étapes suivantes :
 
-1. Cliquez sur le bouton « Créer évaluation »
+* Cliquez sur le bouton « Créer évaluation » \(1\)
 
 ![](.gitbook/assets/evaluation-avec-des-competences.jpg)
 
-1. Sélectionner ou saisir les informations obligatoires suivantes :
-   * Établissement
-   * Classe ou groupe du cycle 3
-   * Matière
-   * Type
-   * Titre de l'évaluation
-   * Période
-   * Date de l'évaluation et date de publication de la note
-2. Date de l'évaluation et date de publication de la note
-   * Sous matière \(si présente\)
-   * Description
-3. Cocher si vous le souhaitez la case "Activer l'évaluation numérique ?" pour évaluer les élèves avec des notes ou pas.
-4. Modifier si besoin le coefficient et la note maximum
-5. Cliquez sur "Enregistrer" ![](.gitbook/assets/evaluation-avec-des-competences-2.jpg) 
+* Sélectionner ou saisir les informations obligatoires suivantes \(2\) :
+  * Établissement
+  * Classe ou groupe du cycle 3
+  * Matière
+  * Type
+* Titre de l'évaluation et description \(3\)
+* Cocher si vous le souhaitez la case "Activer l'évaluation numérique ?" pour évaluer les élèves avec des notes ou pas. \(4\)
+* Modifier si besoin le coefficient et la note maximum \(5\)
+* Choisissez la période
+  * Date de l'évaluation et date de publication de la note
+  * Date de l'évaluation et date de publication de la note
+* Cliquer sur l’onglet "Compétences" \(6\)
+
+  
+
+![](.gitbook/assets/evaluation-avec-des-competences-2.jpg)
 
 _**Par défaut seuls les enseignants sont habilités à créer des évaluations.**_
 
