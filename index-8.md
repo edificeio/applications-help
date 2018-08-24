@@ -43,7 +43,9 @@ Les différents droits que vous pouvez attribuer aux autres utilisateurs sont le
 
 La communauté est maintenant créée et partagée. Chaque appli de la communauté est accessible de manière différenciée. Par exemple, le wiki de la communauté est accessible depuis l’appli communauté et depuis l’appli wiki.
 
+{% hint style="info" %}
 Des listes de diffusion des utilisateurs de la communauté sont automatiquement créées: lecteurs de la communauté, contributeurs de la communauté et gestionnaires de la communauté. Ces listes de diffusion peuvent être utilisées dans tous les services de l’ENT.
+{% endhint %}
 
 Pour savoir comment créer du contenu dans les différents services de votre communauté, reportez-vous aux cas d’usages de chacun de ces services.
 

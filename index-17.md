@@ -16,7 +16,9 @@ Le dossier « **Mon casier** » contient les documents envoyés dans mon casier.
 Le dossier « **Historique** » contient les documents déposés par l’utilisateur dans le casier d’autres utilisateurs. Pour chaque document reçu, le titre du document, l’identifiant du destinataire ainsi que la date et l’heure d’envoi sont précisés.  
 Les documents supprimés sont disponibles dans le dossier « **Corbeille** » avant suppression définitive.
 
+{% hint style="info" %}
 Lorsqu’un document a été déposé dans un casier, il n’est **pas possible de le modifier, ni de le supprimer a posteriori**. Il est néanmoins possible de faire un second envoi avec une nouvelle version du document.
+{% endhint %}
 
 ## Déposer un document dans un casier
 
@@ -24,7 +26,11 @@ Pour déposer un document dans le casier d’un autre utilisateur, accédez à l
 
 ![](.gitbook/assets/1-casier.png)
 
-Dans la nouvelle fenêtre, cliquez sur « Parcourir » \(1\) pour sélectionner sur votre ordinateur le document à envoyer puis sélectionnez le\(s\) destinataire\(s\) \(2\). Comme dans les autres applis de l'ENT, vous pouvez choisir un utilisateur ou un groupe d'utilisateurs. En cas d'erreur dans la sélection des destinataires, le bouton « Réinitialiser les destinataires » vous permet de supprimer la sélection faite.
+Dans la nouvelle fenêtre, cliquez sur « Parcourir » \(1\) pour sélectionner sur votre ordinateur le document à envoyer puis sélectionnez le\(s\) destinataire\(s\) \(2\). Comme dans les autres applis de l'ENT, vous pouvez choisir un utilisateur ou un groupe d'utilisateurs. 
+
+{% hint style="info" %}
+En cas d'erreur dans la sélection des destinataires, le bouton « Réinitialiser les destinataires » vous permet de supprimer la sélection faite.
+{% endhint %}
 
 Cliquez ensuite sur « Envoyer » \(3\) pour envoyer le document. Un message de confirmation vous informe que le document a bien été envoyé.
 
@@ -32,8 +38,7 @@ Cliquez ensuite sur « Envoyer » \(3\) pour envoyer le document. Un message de 
 
 ## Sélection et action sur les documents
 
-Pour sélectionner un fichier, vous devez cliquer une fois dessus. Le fichier est alors surligné en bleu \(1\) et le menu d’option s’affiche en bas de page \(2\).  
-Vous pouvez également sélectionner plusieurs documents en même temps pour effectuer une action sur tous ces documents.
+Pour sélectionner un fichier, vous devez cliquer une fois dessus. Le fichier est alors surligné en bleu \(1\) et le menu d’option s’affiche en bas de page \(2\). Vous pouvez également sélectionner plusieurs documents en même temps pour effectuer une action sur tous ces documents.
 
 ![](.gitbook/assets/rack-tous-selectionnes2-1024x512.png)
 
@@ -42,8 +47,7 @@ Vous disposez également d’un bouton "télécharger" \(1\) sur chaque fichier 
 
 ## Copier un document du casier vers l’appli Espace documentaire
 
-Lorsque vous recevez un document dans votre casier, vous avez la possibilité de le copier vers un dossier de votre espace documentaire.  
-Connectez-vous à l’appli Casier et consultez le dossier « Mon casier ». Sélectionnez le document et cliquez sur le bouton « Copier dans mes documents » en bas de page.
+Lorsque vous recevez un document dans votre casier, vous avez la possibilité de le copier vers un dossier de votre espace documentaire. Connectez-vous à l’appli Casier et consultez le dossier « Mon casier ». Sélectionnez le document et cliquez sur le bouton « Copier dans mes documents » en bas de page.
 
 ![](.gitbook/assets/casier4.png)
 

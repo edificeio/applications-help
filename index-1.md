@@ -159,9 +159,9 @@ Les professeurs peuvent définir des semaines modèles, limitées à 2 \(A et B\
 
 **Par exemple**, un professeur donne un cours de latin le lundi de 14h à 15h. Cependant, ce cours est donné **une semaine sur deux** à une classe de 5ème, et une semaine sur deux à une classe de 4ème. Avec les semaines modèles, il pourra facilement définir la semaine de cours à la classe de 5ème comme étant le **modèle A**, et la semaine de cours à la classe de 4ème le **modèle B**.
 
-Chaque semaine sera ainsi reproduite sur toute l’année, mais restera modifiable individuellement.
-
-Un raccourci d’inversion des modèles A et B est proposé, afin de faciliter la gestion, par exemple, des vacances qui ne durent qu’une semaine.
+{% hint style="info" %}
+Chaque semaine sera ainsi reproduite sur toute l’année, mais restera modifiable individuellement. Un raccourci d’inversion des modèles A et B est proposé, afin de faciliter la gestion, par exemple, des vacances qui ne durent qu’une semaine.
+{% endhint %}
 
 ### Archive
 
@@ -218,13 +218,10 @@ Un filtre permet de sélectionner les élements :
 
 Les séances sont regroupées par enseignant / classe / matière, avec la possibilité d’aposer un visa global en sélectionnant plusieurs triplets.
 
-Si la date de visa est **verte** \(5\), alors les séances ont été validées \( = visées \).
-
-Si aucune validation n’a encore été apportée, "Non visé" est indiqué \(6\).
-
-Si elle est **orange** \(7\), les séances ont été validées, mais ont été modifiées depuis la validation.
-
-On peut accéder au **détail des séances** en cliquant sur \(8\).
+* Si la date de visa est **verte** \(5\), alors les séances ont été validées \( = visées \).
+* Si aucune validation n’a encore été apportée, "Non visé" est indiqué \(6\).
+* Si elle est **orange** \(7\), les séances ont été validées, mais ont été modifiées depuis la validation.
+* On peut accéder au **détail des séances** en cliquant sur \(8\).
 
 ![](.gitbook/assets/cdt-directeur-visa3.png)
 

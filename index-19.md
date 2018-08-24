@@ -28,8 +28,6 @@ Vous accédez à l’interface de création du cahier.
 2. Vous pouvez ajouter une vignette d’illustration du cahier \(qui apparaît en miniature sur la page d’accueil et comme couverture du cahier\) en cliquant sur « Changer l’image ». Si vous ne modifiez pas l’image, c’est la vignette par défaut qui s’affichera.
 3. Une fois le titre ajouté et l’image importée, cliquez sur « Enregistrez »
 
-:
-
 Votre cahier est désormais créé mais n’est pas encore visible. Pour le partager avec d’autres utilisateurs, cliquez sur la case à cocher \(1\) située à côté du cahier puis sur « Partager » \(2\).
 
 ![](.gitbook/assets/cma-5.png)
@@ -42,11 +40,25 @@ Pour valider, cliquez sur le bouton "Partager".
 
 ## Editer les pages du cahier multimédia
 
-Une fois [votre cahier multimédia créé](http://one1d.fr/aide-support/aide-support/7-cahier-multimedia/creer-et-partager-un-cahier-multimedia/), vous pouvez publier des pages. Pour cela, cliquez sur le titre du cahier dans la page d’accueil.
+Une fois votre cahier multimédia créé, vous pouvez publier des pages. Lorsque le cahier est affiché à l’écran, cliquez sur « Modifier ». 
 
-Lorsque le cahier est affiché à l’écran, cliquez sur « Modifier ». Pour ajouter de nouvelles pages, cliquez sur « Ajouter une page » \(1\) ou sur la flèche à droite du cahier \(2\).
+![](.gitbook/assets/2018-08-24_16h17_19.png)
 
-Vous pouvez ajouter les contenus suivants dans vos cahiers : Il est possible de modifier une zone de texte. Pour cela, cliquez sur la zone : une barre d’édition s’affiche. L’éditeur offre de nombreuses possibilités pour mettre le texte en forme.
+Pour ajouter de nouvelles pages, cliquez sur « Ajouter une page » \(1\) ou sur la flèche à droite du cahier \(2\).
+
+![](.gitbook/assets/2018-08-24_16h18_32.png)
+
+Vous pouvez ajouter les contenus suivants dans vos cahiers : 
+
+![](.gitbook/assets/2018-08-24_16h20_12.png)
+
+1. Texte
+2. Image
+3. Son / enregistrement audio
+4. Vidéo / contenu multimédia
+5. Ajouter une image de fond
+6. Supprimer une image de fond
+7. Modifier la couleur de fond
 
 Pour déplacer un contenu, survolez la zone et cliquez dessus quand le curseur prend la forme d’une flèche à quatre côtés. Maintenez le clic enfoncé et déplacez le contenu.
 
