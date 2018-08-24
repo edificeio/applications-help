@@ -8,13 +8,15 @@ Pour accéder à l’appli Espace Documentaire, cliquez sur l’icône correspon
 
 ![](.gitbook/assets/espace-doc-1.png)
 
-**Mes documents** Dans ce dossier, vous pouvez charger tous types de fichiers depuis votre ordinateur, qu’il s’agisse de documents texte ou PDF, d’images, de vidéos ou d’extraits audio. Classez ces fichiers dans des dossier pour les retrouver plus facilement. En quelques clics, partagez vos documents personnels avec d’autres utilisateurs en leur attribuant des droits de consultation, de contribution ou de commentaire, selon vos besoins.
+**Mes documents** : Dans ce dossier, vous pouvez charger tous types de fichiers depuis votre ordinateur, qu’il s’agisse de documents texte ou PDF, d’images, de vidéos ou d’extraits audio. Classez ces fichiers dans des dossier pour les retrouver plus facilement. En quelques clics, partagez vos documents personnels avec d’autres utilisateurs en leur attribuant des droits de consultation, de contribution ou de commentaire, selon vos besoins.
 
-**Documents partagés avec moi** Vous retrouvez dans ce dossier les documents que d’autres utilisateurs ont partagés avec vous.
+**Documents partagés avec moi** : Vous retrouvez dans ce dossier les documents que d’autres utilisateurs ont partagés avec vous.
 
-**Documents ajoutés dans les applis** Vous retrouverez ici tous les fichiers que vous avez ajouté dans d’autres applis \(par exemple image d’un billet de blog\).
+**Documents ajoutés dans les applis** : Vous retrouverez ici tous les fichiers que vous avez ajouté dans d’autres applis \(par exemple image d’un billet de blog\).
 
+{% hint style="info" %}
 **En centralisant l’ensemble des documents accessibles par l’utilisateur, l’appli Espace Documentaire permet d’intégrer facilement un contenu dans n’importe quelle appli.**
+{% endhint %}
 
 ## Naviguer dans mon Espace Documentaire
 
