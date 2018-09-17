@@ -1,0 +1,7 @@
+{
+    "root": "./application",
+    "structure": {
+        "readme": "../README.md",
+        "summary": "../SUMMARY.md"
+    }
+}

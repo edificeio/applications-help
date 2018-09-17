@@ -6,17 +6,26 @@ pipeline {
       stage('Build') {
         steps {
           sh '''
-            rm -rf application-help.tar.gz application
+            rm -rf application-help.tar.gz application assets
           '''
           checkout scm
           sh '''
-            docker-compose run --rm -u "$USER_UID:$GROUP_GID" asciidoctor
+            for app in `find ./application -type f -name '*.md' | cut -d. -f2 | cut -d'/' -f3 | cat`; 
+            do
+                mkdir "application/$app"
+                sed -i 's/!\\[\\](\\.gitbook\\(.*\\))/![](\\1)/g' application/${app}.md
+                sed -i '1d' application/${app}.md
+                docker-compose run --rm pandoc -s --toc --section-divs -f markdown -t html /application/${app}.md -o /application/${app}/index.html
+                echo "Processed $app"
+            done
             mv application/collaborative-editor application/collaborativeeditor
             mv application/scrap-book application/scrapbook
             mv application/search-engine application/searchengine
             mv application/share-big-files application/sharebigfiles
-            tar cfzh application-help.tar.gz application/* assets wp-content
-	  '''
+            mv application/.gitbook/assets assets
+            rm -Rf application/*.md application/.gitbook
+            tar cfzh application-help.tar.gz application/* assets
+	        '''
         }
       }
       stage('Publish') {

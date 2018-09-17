@@ -1,6 +1,4 @@
-asciidoctor:
-  image: opendigitaleducation/asciidoctor:latest
+pandoc:
+  image: vbatts/pandoc
   volumes:
-    - .:/root
-  working_dir: /root
-  command: /bin/sh -c "asciidoctorjs -s application/**/index.adoc"
+    - ./application:/application
