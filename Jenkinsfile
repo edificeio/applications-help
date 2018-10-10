@@ -15,6 +15,7 @@ pipeline {
                 mkdir "application/$app"
                 sed -i 's/!\\[\\](\\.gitbook\\(.*\\))/![](\\1)/g' application/${app}.md
                 sed -i '1d' application/${app}.md
+                sed -i -e '/{%.*%}/d' application/${app}.md
                 docker-compose run --rm pandoc -s --toc --section-divs -f markdown -t html /application/${app}.md -o /application/${app}/index.html
                 echo "Processed $app"
             done
