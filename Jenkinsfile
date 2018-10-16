@@ -25,7 +25,8 @@ pipeline {
             mv application/share-big-files application/sharebigfiles
             mv application/.gitbook/assets assets
             rm -Rf application/*.md application/.gitbook
-            tar cfzh application-help.tar.gz application/* assets
+            mkdir help-2d && mv application assets help-2d 
+            tar cfzh application-help.tar.gz help-2d
 	        '''
         }
       }
