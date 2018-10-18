@@ -25,7 +25,7 @@
 * [Mur collaboratif](application/collaborativewall.md)
 * [Pad collaboratif](application/collaborative-editor.md)
 * [Pages](application/pages.md)
-* [Poste-fichiers](application/rack-1.md)
+* [Poste-fichiers](application/poste-fichiers.md)
 * [Réservation de ressources](application/rbs.md)
 * [Sondage](application/poll.md)
 * [Statistiques](application/statistics.md)

@@ -2,8 +2,6 @@
 
 Communiquez dans un cadre sécurisé ! Envoyez et recevez tous vos e-mails via l’application **Messagerie**. Intégrez des liens vers vos productions, des images, des vidéos ou des sons, c’est vous le patron !
 
-![](.gitbook/assets/cc-by-nc-sa-3.0-fr-300x105.png)
-
 ## Présentation
 
 L’appli Messagerie permet d’envoyer simplement un message à **un utilisateur** ou à un **groupe d’utilisateurs** \(les élèves d’une classe, le personnel de l'établissement, etc.\) ayant un accès à l’ENT.
