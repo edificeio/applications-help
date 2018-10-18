@@ -6,7 +6,7 @@ pipeline {
       stage('Build') {
         steps {
           sh '''
-            rm -rf application-help.tar.gz application assets
+            rm -rf application-help.tar.gz application assets help-2d
           '''
           checkout scm
           sh '''
@@ -23,7 +23,7 @@ pipeline {
             mv application/scrap-book application/scrapbook
             mv application/search-engine application/searchengine
             mv application/share-big-files application/sharebigfiles
-            mv application/.gitbook/assets assets
+            cp -Rf application/.gitbook/assets .
             rm -Rf application/*.md application/.gitbook
             mkdir help-2d && mv application assets help-2d 
             tar cfzh application-help.tar.gz help-2d
