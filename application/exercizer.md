@@ -125,7 +125,15 @@ Une fois la création de votre sujet terminée, vous pouvez le distribuer en cli
 
 Saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez puis sélectionnez le nom de l’utilisateur ou du groupe. Lorsque vous ajoutez un groupe, la liste des utilisateurs individuels se met à jour dans la colonne de droite. Si vous souhaitez exclure un ou plusieurs élèves d’une distribution à un groupe, supprimez les utilisateurs individuellement. Cliquer ensuite sur le bouton « suivant ».
 
-![](.gitbook/assets/exercizer-distribution.png)
+![](.gitbook/assets/image.png)
+
+Vous pouvez accéder à la fiche de l'utilisateur en cliquant sur son nom :
+
+![](.gitbook/assets/distribuer-exercices-utilisateur.png)
+
+Vous pouvez également retrouver vos favoris dans la recherche d'utilisateur :
+
+![](.gitbook/assets/2018-10-19_11h07_40.png)
 
 Les options de distribution s’affichent dans la fenêtre ci-dessous. Renseignez les dates de début et de fin de distribution \(1\) ainsi que le temps de réalisation \(2\).
 

@@ -10,7 +10,7 @@ Pour accéder à votre compte, connectez-vous en saisissant votre identifiant et
 
 Cliquez sur l’avatar en haut à gauche de l'écran.
 
-![](.gitbook/assets/compte1.png)
+![](.gitbook/assets/moncompte2d.png)
 
 Vous accédez à votre espace personnel où vous pouvez modifier vos informations : photo, coordonnées, devise, humeur, centres d’intérêt, en cliquant simplement sur le champ à modifier.
 
@@ -96,11 +96,7 @@ Votre nouvelle humeur apparaît sur votre compte et est maintenant visible dans 
 
 ## Modifier mes centres d’intérêt
 
-Vous pouvez modifier vos centres d’intérêt : animaux, cinéma, musique, endroits et sports.
-
-![](.gitbook/assets/m13%20%281%29.png)
-
-Saisissez les informations souhaitées dans les champs correspondants.
+Vous pouvez modifier vos centres d’intérêt : animaux, cinéma, musique, endroits et sports. Saisissez les informations souhaitées dans les champs correspondants.
 
 ![](.gitbook/assets/m14%20%281%29.png)
 
