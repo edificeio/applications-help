@@ -14,7 +14,9 @@ Cliquez sur l’avatar en haut à gauche de l'écran.
 
 Vous accédez à votre espace personnel où vous pouvez modifier vos informations : photo, coordonnées, devise, humeur, centres d’intérêt, en cliquant simplement sur le champ à modifier.
 
-![](.gitbook/assets/compte2-1024x487.png)
+![](.gitbook/assets/2018-10-19_10h52_07.png)
+
+![](.gitbook/assets/2018-10-19_10h52_52.png)
 
 Les enseignants ont la possibilité de choisir un nom d’affichage personnalisé, visible par les autres utilisateurs. Par défaut, ce nom d’affichage est le prénom et le nom de l’utilisateur.
 
@@ -76,9 +78,9 @@ En cas d’oubli de votre mot de passe, un lien de récupération vous sera envo
 
 Vous pouvez ajouter une devise à votre compte. Pour cela, remplissez le champ « Devise » sous vos coordonnées.
 
-![](.gitbook/assets/m10-1.png)
+![](.gitbook/assets/2018-10-19_10h53_59.png)
 
-Votre devise sera visible sur votre profil et apparaitra dans le fil de nouveautés des autres utilisateurs de l’ENT lorsque vous la modifierez.
+Votre devise sera visible sur votre profil et apparaîtra dans le fil de nouveautés des autres utilisateurs de l’ENT lorsque vous la modifierez. Afin qu'elle soit valide, cliquez sur "Publier" une fois la devise écrite. 
 
 ## Changer mon humeur
 
