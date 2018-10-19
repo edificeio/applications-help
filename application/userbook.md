@@ -135,18 +135,13 @@ Lorsque vous ajoutez ou modifiez le texte ou les paramètres de visibilité dans
 
 Votre réseau est doté d’un système de notification par mail qui permet aux utilisateurs de recevoir sur leur adresse personnelle des mails contenant les nouveautés de l’ENT qui les concernent.  
 Chaque utilisateur peut modifier les notifications qu’il souhaite recevoir et la fréquence de chacune d’elles \(immédiate, quotidienne, hebdomadaire\).  
-Pour accéder à ce paramétrage, aller dans mon compte \(1\) et cliquer sur le bouton "Gérer mes notifications externes" \(2\)
+Pour accéder à ce paramétrage, aller dans mon compte et cliquer sur le bouton "Gérer mes notifications externes" :
 
 ![](.gitbook/assets/notif-ext2-1.png)
 
-La page de paramétrage des notifications externes permet de modifier l’adresse de réception des mails \(3\) et de choisir la fréquence d’envoi de chaque notification \(immédiat, quotidien, hebdomadaire, jamais\) \(4\).  
-Le détail des notifications disponibles par service est accessible en cliquant sur le nom du service dans la ligne correspondante \(5\).
+La page de paramétrage des notifications externes permet de modifier l’adresse de réception des mails \(1\). Un bouton "Enregistrer" vous permettra de valider votre adresse mail ou les modifications apportées à la fréquence d'envoi \(2\). Vous pouvez choisir, pour chaque application \(3\), la fréquence d’envoi des notifications \(immédiat, quotidien, hebdomadaire, jamais\) \(4\).
 
-![](.gitbook/assets/notif2%20%281%29.png)
-
-Lorsque les modifications sont terminées, cliquer sur "Enregistrer" en bas du tableau \(6\).
-
-![](.gitbook/assets/notif3.png)
+![](.gitbook/assets/notif2d.png)
 
 Une fois la notification reçue dans sa boîte mail personnelle, l’utilisateur peut cliquer sur le lien correspondant afin d’accéder au contenu. S’il n’est pas connecté à l’ENT, il devra saisir son identifiant et son mot de passe pour accéder à l’objet de la notification.
 
