@@ -22,6 +22,8 @@ Vous pouvez rechercher facilement et rapidement un utilisateur. Pour effectuer v
 
 ![](.gitbook/assets/annuaire1%20%281%29.png)
 
+Certains de ces filtres sont conditionnels. Par exemple : le filtre "Fonction" disparaîtra pour le profil "Élève" qui ne peut pas avoir de "Fonction" particulière dans l'ENT. 
+
 Une fois l’utilisateur trouvé, vous pouvez consulter sa fiche. Vous avez la possibilité de lui envoyer un message \(1\), l’ajouter dans vos favoris de partage \(2\), ou consulter tout simplement les informations disponibles sur sa fiche.
 
 ![](.gitbook/assets/fiche-annuaire.png)
