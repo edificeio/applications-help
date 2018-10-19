@@ -102,3 +102,13 @@ Vous pouvez réaliser les actions suivantes en cliquant sur « Publier » ou sur
 
 ![](.gitbook/assets/blog_2-1024x363.png)
 
+## Imprimer un blog
+
+Lorsque vous naviguez sur votre blog, vous avez la possibilité de l'imprimer, en cliquant sur le bouton "Imprimer le blog" :
+
+![](.gitbook/assets/imprimer-blog.png)
+
+Une option vous permettra de choisir si vous souhaitez imprimer le blog avec les commentaires ou non :
+
+![](.gitbook/assets/2018-10-19_12h42_55.png)
+
