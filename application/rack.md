@@ -26,15 +26,11 @@ Pour déposer un document dans le casier d’un autre utilisateur, accédez à l
 
 ![](.gitbook/assets/1-casier-1.png)
 
-Dans la nouvelle fenêtre, cliquez sur « Parcourir » \(1\) pour sélectionner sur votre ordinateur le document à envoyer puis sélectionnez le\(s\) destinataire\(s\) \(2\). Comme dans les autres applis de l'ENT, vous pouvez choisir un utilisateur ou un groupe d'utilisateurs.
-
-{% hint style="info" %}
-En cas d'erreur dans la sélection des destinataires, le bouton « Réinitialiser les destinataires » vous permet de supprimer la sélection faite.
-{% endhint %}
+Dans la fenêtre, cliquez sur « Parcourir » \(1\) pour sélectionner sur votre ordinateur le document à envoyer \(ou faites un glisser-déposer\) puis sélectionnez le\(s\) destinataire\(s\) \(2\). Vous pouvez retrouver vos favoris dans la barre de recherche. Une fois les utilisateurs sélectionnés, ils apparaissent à droite dans "Tous les utilisateurs ajoutés". Vous pouvez consulter leur fiche utilisateur en cliquant sur le nom, ou bien les supprimer de votre sélection en cliquant sur la croix à droite de leur nom. Vous pouvez choisir un utilisateur ou un groupe d'utilisateurs.
 
 Cliquez ensuite sur « Envoyer » \(3\) pour envoyer le document. Un message de confirmation vous informe que le document a bien été envoyé.
 
-![](.gitbook/assets/casier3%20%281%29.png)
+![](.gitbook/assets/casier-deposer.png)
 
 ## Sélection et action sur les documents
 
@@ -42,16 +38,19 @@ Pour sélectionner un fichier, vous devez cliquer une fois dessus. Le fichier es
 
 ![](.gitbook/assets/rack-tous-selectionnes2-1024x512%20%281%29.png)
 
-Vous disposez également d’un bouton "télécharger" \(1\) sur chaque fichier si vous souhaitez télécharger directement le fichier sur votre ordinateur.  
-![](.gitbook/assets/rack-bouton-telecharger2%20%281%29.png)
+Vous disposez également d’un bouton "télécharger" sur chaque fichier si vous souhaitez télécharger directement le fichier sur votre ordinateur.
+
+![](.gitbook/assets/telecharger-casier.png)
 
 ## Copier un document du casier vers l’appli Espace documentaire
 
 Lorsque vous recevez un document dans votre casier, vous avez la possibilité de le copier vers un dossier de votre espace documentaire. Connectez-vous à l’appli Casier et consultez le dossier « Mon casier ». Sélectionnez le document et cliquez sur le bouton « Copier dans mes documents » en bas de page.
 
-![](.gitbook/assets/casier4-2.png)
+![](.gitbook/assets/copier-casier.png)
 
-La nouvelle fenêtre vous présente l’arborescence du dossier « Mes documents » \(1\), vous pouvez ainsi copier le document dans le dossier que vous souhaitez \(2\).
+La nouvelle fenêtre vous présente l’arborescence du dossier « Mes documents » \(1\), vous pouvez créer un nouveau dossier directement depuis cette fenêtre \(2\), et copier le document dans le dossier que vous avez sélectionné \(3\).
 
-![](.gitbook/assets/casier5.png)
+![](.gitbook/assets/copier-casier-doc.png)
+
+
 
