@@ -47,7 +47,7 @@ Pour envoyer un fichier dans votre espace de stockage, cliquez sur le bouton "En
 
 ![](.gitbook/assets/203-modifier.png)
 
-Cliquez sur le bouton ![](.gitbook/assets/003-deposer.png) pour sélectionner sur votre poste de travail le fichier à déposer.
+Cliquez sur le bouton ![](.gitbook/assets/003-deposer%20%281%29.png) pour sélectionner sur votre poste de travail le fichier à déposer.
 
 Cliquez sur le bouton "Enregistrer" pour valider le dépôt du fichier dans votre espace de stockage. Durant le dépôt du fichier, une barre \(1\) affiche le pourcentage d’avancement du téléchargement du fichier sélectionné dans votre espace de stockage.
 
@@ -65,11 +65,11 @@ Dans la fenêtre, vous pouvez donner aux utilisateurs de l’ENT différents dro
 2. Sélectionnez le résultat.
 3. Cochez les cases correspondant aux droits que vous souhaitez leur attribuer.
 
-L’icône suivante signale que le fichier a été partagé avec d’autres utilisateurs : ![](.gitbook/assets/double-fleche.png)
+L’icône suivante signale que le fichier a été partagé avec d’autres utilisateurs : ![](.gitbook/assets/double-fleche%20%281%29.png)
 
 Pour valider, cliquez sur le bouton "Partager".
 
-![](.gitbook/assets/poste-fichiers.png)
+![](.gitbook/assets/poste-fichiers%20%281%29.png)
 
 Les droits de partage que vous pouvez attribuer aux utilisateurs sont les suivants :
 
@@ -83,7 +83,7 @@ Pour modifier le titre, la description ou la date d’expiration d’un fichier,
 
 Vous pouvez également sélectionner le fichier à modifier en cochant la case \(2\) située devant le titre, puis en cliquant sur le bouton "Editer" \(3\).
 
-![](.gitbook/assets/201-modifier1.png)
+![](.gitbook/assets/201-modifier1%20%281%29.png)
 
 Vous pouvez modifier la durée de validité \(1\) du fichier dans la limite de 30 jours à partir de la date de dépôt du fichier dans votre espace de stockage.
 
@@ -95,7 +95,7 @@ Modifiez le titre \(2\) ou la description \(3\) puis cliquez sur le bouton "Enre
 
 Pour supprimer un fichier, vous devez sélectionner le fichier en cochant la case \(1\) située devant le titre, puis cliquez sur le bouton "Supprimer" \(2\).
 
-![](.gitbook/assets/301-supprimer1.png)
+![](.gitbook/assets/301-supprimer1%20%281%29.png)
 
 ## Télécharger un fichier qui a été partagé avec moi
 
@@ -103,7 +103,7 @@ Pour télécharger un fichier partagé avec moi, il suffit de cliquer sur le nom
 
 Vous pouvez trier la liste des fichiers en cliquant sur le nom d’une colonne \(4\).
 
-![](.gitbook/assets/401-telecharger1.png)
+![](.gitbook/assets/401-telecharger1%20%281%29.png)
 
 Les fichiers dont la date de péremption est atteinte peuvent toujours être téléchargés le jour-même, mais ne seront plus disponibles dès le lendemain. Dans ce cas, le titre du fichier est affiché en **violet** et une info-bulle signale « Le téléchargement est arrivé à échéance, le fichier sera supprimé dans les prochaines 24h».
 

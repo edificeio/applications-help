@@ -93,3 +93,15 @@ Important : si vous supprimez un groupe ou un utilisateur d’un favori qui a d�
 
 Vous avez également la possibilité de créer des listes de favoris directement depuis la fenêtre de partage. Une option "Enregistrer comme favori de partage" est disponible dans toutes les fenêtres de partage, pour enregistrer rapidement et sans effort vos listes favorites.
 
+## Envoyer un message à un favori
+
+Vous pouvez envoyer directement un message sur la Messagerie en sélectionnant votre liste de favori depuis l’Annuaire. Une fois le favori sélectionné, il vous suffira de cliquer sur "Envoyer un message au favori"
+
+![Envoyer un message &#xE0; un favori depuis l&apos;Annuaire](.gitbook/assets/annuaire-message-favori.png)
+
+Les utilisateurs de votre favori seront ainsi directement pré-sélectionnés dans votre message :
+
+![](.gitbook/assets/messagerie-favori.png)
+
+
+
