@@ -13,7 +13,7 @@ pipeline {
             for app in `find ./application -type f -name '*.md' | cut -d. -f2 | cut -d'/' -f3 | cat`; 
             do
                 mkdir "application/$app"
-                sed -i 's/!\\[\\](\\.gitbook\\(.*\\))/![](\\1)/g' application/${app}.md
+                sed -i 's/!\\[.*\\](\\.gitbook\\(.*\\))/![](\\1)/g' application/${app}.md
                 sed -i '1d' application/${app}.md
                 sed -i -e '/{%.*%}/d' application/${app}.md
                 sed -i 's/\\(##.*\\){#.*}/\\1/g' application/${app}.md
