@@ -14,11 +14,11 @@ Les utilisateurs ayant des droits de contribution dans le cahier choisissent le 
 
 Pour accéder à l’appli Cahier multimédia, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/cma-2-2.png)
+![](.gitbook/assets/cma-2-2%20%282%29.png)
 
 Dans le service Cahier multimédia, cliquez sur le bouton « Créer » en haut de la page.
 
-![](.gitbook/assets/cma-3-1.png)
+![](.gitbook/assets/cma-3-1%20%281%29.png)
 
 Vous accédez à l’interface de création du cahier.
 
@@ -28,7 +28,7 @@ Vous accédez à l’interface de création du cahier.
 
 Votre cahier est désormais créé mais n’est pas encore visible. Pour le partager avec d’autres utilisateurs, cliquez sur la case à cocher \(1\) située à côté du cahier puis sur « Partager » \(2\).
 
-![](.gitbook/assets/cma-5.png)
+![](.gitbook/assets/cma-5%20%282%29.png)
 
 Dans la fenêtre, vous pouvez donner des droits de consultation, de contribution et de gestion sur votre cahier. Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez \(1\), sélectionnez le résultat \(2\) et cochez les cases correspondant aux droits que vous souhaitez leur attribuer \(3\).
 
@@ -48,7 +48,7 @@ Pour ajouter de nouvelles pages, cliquez sur « Ajouter une page » \(1\) ou sur
 
 Vous pouvez ajouter les contenus suivants dans vos cahiers :
 
-![](.gitbook/assets/2018-08-24_16h20_12%20%281%29.png)
+![](.gitbook/assets/2018-08-24_16h20_12-1.png)
 
 1. Texte
 2. Image
@@ -62,7 +62,7 @@ Pour déplacer un contenu, survolez la zone et cliquez dessus quand le curseur p
 
 Pour modifier la taille du contenu, survolez le contour de la zone et cliquez dessus quand le curseur prend la forme d’une double flèche.
 
-![](.gitbook/assets/m81-2.png)
+![](.gitbook/assets/m81-2%20%282%29.png)
 
 Pour visualiser votre cahier, cliquez sur « Afficher ».
 
@@ -82,11 +82,11 @@ Dans la fenêtre qui s’ouvre, selectionnez un type de contenu de média \(vid�
 
 puis collez l’URL de la vidéo \(2\) et cliquez sur « Appliquer » \(3\).
 
-![](.gitbook/assets/cma-16-2.png)
+![](.gitbook/assets/cma-16-2%20%282%29.png)
 
 Pour une vidéo hébergée ailleurs , appuyez sur la vignette "Collez votre propre code" \(4\),
 
-![](.gitbook/assets/cma-18%20%281%29.png)
+![](.gitbook/assets/cma-18-1%20%281%29.png)
 
 puis collez le lien Iframe \(5\) et cliquez sur "Appliquer" \(6\).
 
@@ -94,7 +94,7 @@ puis collez le lien Iframe \(5\) et cliquez sur "Appliquer" \(6\).
 
 Positionnez ensuite la vidéo dans la page et sauvegardez votre travail.
 
-![](.gitbook/assets/cma-14-2.png)
+![](.gitbook/assets/cma-14-2%20%281%29.png)
 
 Votre cahier est complété et la vidéo prête à être regardée !
 

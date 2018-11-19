@@ -8,17 +8,17 @@ L’appli **Blog** permet de publier facilement des informations, en y intégran
 
 En cas de contribution de la part d’autres utilisateurs, le gestionnaire du blog choisit le **circuit de publication** souhaité : soit il relit les billets soumis par les autres utilisateurs avant de les publier, soit les billets sont publiés immédiatement quel qu’en soit l’auteur.
 
-![](.gitbook/assets/blog_1-1024x478-2.png)
+![](.gitbook/assets/blog_1-1024x478-2%20%282%29.png)
 
 ## Créer un blog
 
 Cliquez sur la page « Mes applis » puis sur l’icône « Blog ».
 
-![](.gitbook/assets/blog2-1024x231-2.png)
+![](.gitbook/assets/blog2-1024x231-2%20%282%29.png)
 
 Dans le service Blog, cliquez sur le bouton « Créer un blog » présent en haut à droite de la page.
 
-![](.gitbook/assets/blog_2_11-1024x545-1.png)
+![](.gitbook/assets/blog_2_11-1024x545-1%20%282%29.png)
 
 Vous accédez à l’interface de création du blog.
 
@@ -50,7 +50,7 @@ Pour valider, cliquez sur le bouton "Partager".
 Les différents droits que vous pouvez attribuer aux autres utilisateurs sont les suivants :
 
 * **Consulter** : l’utilisateur peut lire le contenu du blog
-* **Contribuer** : l’utilisateur peut publier un nouveau billet
+* **Contribuer** : l’utilisateur peut rédiger un nouveau billet
 * **Gérer** : l’utilisateur peut gérer le blog, c’est-à-dire le modifier, le partager ou le supprimer
 * **Commenter** : l’utilisateur peut commenter les billets
 
@@ -67,14 +67,14 @@ Pour gérer le circuit de publication de votre blog, ouvrez la fenêtre de parta
 
 Une fois votre blog créé, vous pouvez publier un billet. Pour cela, cliquez sur le bouton « Créer un billet » présent en haut de l’écran.
 
-![](.gitbook/assets/blog_4-1024x159-2.png)
+![](.gitbook/assets/blog_4-1024x159-2%20%281%29.png)
 
 L’outil de création du billet s’affiche dans la page :
 
 1. Saisissez le titre
 2. Rédigez le contenu du billet.
 
-![](.gitbook/assets/2018-08-24_15h13_04-1.png)
+![](.gitbook/assets/2018-08-24_15h13_04-1%20%281%29.png)
 
 Une fois la saisie terminée, vous avez différents boutons d'action \(3\) :
 
@@ -92,21 +92,21 @@ Si vous avez activé un circuit de publication \(billets à soumettre pour les c
 
 Cliquez la case à cocher des billets soumis pour afficher les billets rédigés par les contributeurs du blog.
 
-![](.gitbook/assets/blog_51%20%281%29.png)
+![](.gitbook/assets/blog_51-1%20%281%29.png)
 
-Vous pouvez réaliser les actions suivantes en cliquant sur « Publier » ou sur l’icône ![](.gitbook/assets/unnamed-file-2.png) :
+Vous pouvez réaliser les actions suivantes en cliquant sur « Publier » ou sur l’icône ![](.gitbook/assets/unnamed-file-2%20%281%29.png) :
 
 * **Publier** le billet sans mise à jour : le billet est alors visible par tous les utilisateurs ayant accès au blog
 * **Modifier** le billet avant publication : vous accédez à l’éditeur de texte pour apporter vos modifications
 * **Supprimer** le billet
 
-![](.gitbook/assets/blog_2-1024x363.png)
+![](.gitbook/assets/blog_2-1024x363%20%283%29.png)
 
 ## Imprimer un blog
 
 Lorsque vous naviguez sur votre blog, vous avez la possibilité de l'imprimer, en cliquant sur le bouton "Imprimer le blog" :
 
-![](.gitbook/assets/imprimer-blog.png)
+![](.gitbook/assets/imprimer-blog%20%282%29.png)
 
 Une option vous permettra de choisir si vous souhaitez imprimer le blog avec les commentaires ou non :
 

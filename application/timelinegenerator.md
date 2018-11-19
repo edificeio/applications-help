@@ -25,11 +25,11 @@ Suivez les étapes suivantes :
 * Renseignez le descriptif de la frise
 * Cliquez sur « Sauvegarder »
 
-![](.gitbook/assets/frise_1.png)
+![](.gitbook/assets/frise_1%20%282%29.png)
 
 Votre frise chronologique est désormais créée mais n’est pas encore visible. Pour le partager avec d’autres utilisateurs, cliquez sur le bouton « + » \(1\) présent dans le coin supérieur droit de la vignette de votre frise puis cliquez sur le bouton « Partager » \(2\).
 
-![](.gitbook/assets/frise-chrono-2.png)
+![](.gitbook/assets/frise-chrono-2%20%281%29.png)
 
 Dans la fenêtre de partage, vous pouvez donner des droits de consultation, de contribution ou de gestion sur votre frise chronologique. Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez \(1\), sélectionnez le résultat \(2\) et cochez les cases correspondant aux droits que vous souhaitez leur attribuer \(3\).
 
@@ -47,7 +47,7 @@ Les différents droits que vous pouvez attribuer sont les suivants :
 
 Pour créer du contenu dans la frise, cliquez sur « Ajouter un événement ».
 
-![](.gitbook/assets/frise1-1024x361.png)
+![](.gitbook/assets/frise1-1024x361%20%282%29.png)
 
 Vous devez renseigner plusieurs informations pour créer un évènement :
 
@@ -56,7 +56,7 @@ Vous devez renseigner plusieurs informations pour créer un évènement :
 * Une image d’illustration
 * Une description
 
-![](.gitbook/assets/frise_21.png)
+![](.gitbook/assets/frise_21%20%281%29.png)
 
 * Une fois l’événement créé, il apparaît dans la frise chronologique.
 

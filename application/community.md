@@ -23,7 +23,7 @@ La fenêtre de création s’ouvre
 3. Renseignez une description
 4. Cliquez sur « Créer »
 
-![](.gitbook/assets/communaute-creation.png)
+![](.gitbook/assets/communaute-creation%20%282%29.png)
 
 La fenêtre de configuration s’affiche.
 
@@ -33,7 +33,7 @@ La fenêtre de configuration s’affiche.
 4. Vous pouvez modifier les droits de lecteurs, de contributeurs ou de gestionnaires en cochant ou décochant les cases
 5. Cliquez sur « Enregistrer »
 
-![](.gitbook/assets/communaute-partage-the-one.png)
+![](.gitbook/assets/communaute-partage-the-one%20%281%29.png)
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs sont les suivants :
 

@@ -35,7 +35,7 @@ Chaque réservation est matérialisée sur le calendrier par un pavé de la mêm
 
 Pour visualiser le détail d’une réservation, il suffit de cliquer sur la réservation en question, pour afficher une fenêtre \(pop-up\) qui présente plusieurs sections. Chaque section se déplie en cliquant sur le titre.
 
-![](.gitbook/assets/rbs-vue-calendrier-2.png)
+![](.gitbook/assets/rbs-vue-calendrier-2%20%282%29.png)
 
 ![](.gitbook/assets/r3.png)
 
@@ -48,11 +48,11 @@ La vue Liste est accessible en cliquant sur \(1\). L’utilisateur peut afficher
 
 Il bénéficie par ailleurs des mêmes filtres que sur la vue Calendrier. Le tri peut être fait sur toutes les colonnes du tableau : demandeur, ressource, date de début, date de fin et état.
 
-![](.gitbook/assets/rbs-vue-liste.png)
+![](.gitbook/assets/rbs-vue-liste%20%281%29.png)
 
 Pour visualiser le détail d’une réservation, il suffit de cliquer sur la réservation en question dans la liste, pour afficher une fenêtre \(pop-up\) qui donne toutes les informations.
 
-![](.gitbook/assets/r3-1.png)
+![](.gitbook/assets/r3-1%20%282%29.png)
 
 ## Créer une demande de réservation
 
@@ -60,7 +60,7 @@ Il est possible de réserver une ressource :
 
 * Soit en cliquant sur « Nouvelle réservation » en haut de l’écran
 
-![](.gitbook/assets/rbs_creation.png)
+![](.gitbook/assets/rbs_creation%20%282%29.png)
 
 * Soit en cliquant sur un créneau dans le calendrier.
 
@@ -68,17 +68,17 @@ Les deux méthodes conduisent à la même procédure de réservation.
 
 Il est possible de créer une demande de réservation ponctuelle ou périodique. L’utilisateur choisit de créer une demande ponctuelle ou périodique en cliquant sur "Nouvelle réservation".
 
-![](.gitbook/assets/r7.png)
+![](.gitbook/assets/r7%20%282%29.png)
 
 La première section permet de choisir le type de ressource \(1\) et la ressource à réserver \(2\). La description de la ressource est indiquée \(3\). L’utilisateur peut également voir les noms des valideurs \(4\) si les réservations pour cette ressource sont soumises à validation.
 
-![](.gitbook/assets/r8.png)
+![](.gitbook/assets/r8%20%281%29.png)
 
 **Réservation ponctuelle**
 
 Dans le cas d’une réservation ponctuelle, l’utilisateur choisit le créneau de sa demande. L’utilisateur choisit le créneau de réservation \(1\), indique le motif de la réservation \(2\) et d’enregistrer sa demande. \(3\)
 
-![](.gitbook/assets/r12.png)
+![](.gitbook/assets/r12%20%281%29.png)
 
 Si l’utilisateur souhaite modifier sa demande ponctuelle en demande périodique, il lui suffit de cliquer sur la case à cocher "réservation périodique" \(4\).
 
@@ -87,7 +87,7 @@ Pour une réservation périodique, l’utilisateur renseigne les mêmes informat
 
 Pour cela, il faut choisir la récurrence \(1\), les jours de la semaine concernés \(2\), le nombre d’occurrences ou une date de fin de période \(3\). Pour enregistrer la demande, cliquez sur "Enregistrer".
 
-![](.gitbook/assets/r21.png)
+![](.gitbook/assets/r21%20%281%29.png)
 
 Dans tous les cas, tous les créneaux réservés doivent satisfaire les contraintes éventuellement mises en place par le gestionnaire de la ressource concernant les intervalles minimum et maximum de réservation.
 
@@ -117,21 +117,21 @@ Pour valider une réservation périodique \(qui comporte plusieurs créneaux\), 
 
 * De valider/refuser d’un seul coup la totalité des créneaux, en cochant la case correspondant à la réservation \(1\) puis en cliquant sur le bouton d’action en bas de l’écran : supprimer, valider et refuser \(2\) :
 
-![](.gitbook/assets/rbs-validation-periodique.png)
+![](.gitbook/assets/rbs-validation-periodique%20%282%29.png)
 
 * De déplier la réservation \(1\) pour visualiser les différents créneaux qui la composent en cliquant sur l’icône suivant:
 
-![](.gitbook/assets/r51.png)
+![](.gitbook/assets/r51%20%282%29.png)
 
 Puis en sélectionnant les seuls créneaux que l’on veut valider/refuser\(2\) :
 
-![](.gitbook/assets/rbs-validation-periodique-2.png)
+![](.gitbook/assets/rbs-validation-periodique-2%20%281%29.png)
 
 ## Définir les types de ressources
 
 Pour accéder à l’interface de gestion des ressources, les utilisateurs habilités \(gestionnaires\) doivent cliquer sur l’icône de la molette. \(1\)
 
-![](.gitbook/assets/r71.png)
+![](.gitbook/assets/r71%20%282%29.png)
 
 Pour ajouter des nouveaux types de ressources, cliquez sur « Créer un type de ressources » \(1\) et renseignez les champs suivants :
 
@@ -145,7 +145,7 @@ L’étape suivante consiste à définir les droits d’accès et de gestion
 * Sélectionnez le type de ressources nouvellement créé \(1\)
 * Cliquez sur Modifier \(2\)
 
-![](.gitbook/assets/rdr-edition-type-de-ressources_1.png)
+![](.gitbook/assets/rdr-edition-type-de-ressources_1%20%282%29.png)
 
 * Recherchez successivement les utilisateurs et/ou groupes \(1\) auxquels vous souhaitez donner accès à cette ressource
 * Sélectionnez les utilisateurs en question \(2\)
@@ -175,9 +175,9 @@ La ressource doit ensuite être caractérisée par:
 3. Sa disponibilité, la possibilité de réserver cette ressource de manière périodique, un intervalle de réservation minimum et un intervalle maximum de réservation.
 4. Une description éditée par un éditeur de texte HTML permettant d’intégrer différents contenus: texte, images, liens, son…
 
-![](.gitbook/assets/rdr-creation-ressource-2.png)
+![](.gitbook/assets/rdr-creation-ressource-2%20%281%29.png)
 
 Après enregistrement, la nouvelle ressource s’affiche dans la liste. En cochant la case correspondante \(1\), des boutons d’action apparaissent en bas de page pour supprimer ou éditer la ressource. Vous pouvez cliquer sur "Editer la ressource" pour la modifier \(2\)
 
-![](.gitbook/assets/rdr-edition-ressource.png)
+![](.gitbook/assets/rdr-edition-ressource%20%281%29.png)
 

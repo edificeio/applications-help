@@ -6,7 +6,7 @@ Communiquez dans un cadre sécurisé ! Envoyez et recevez tous vos e-mails via l
 
 L’appli Messagerie permet d’envoyer simplement un message à **un utilisateur** ou à un **groupe d’utilisateurs** \(les élèves d’une classe, le personnel de l'établissement, etc.\) ayant un accès à l’ENT.
 
-![](.gitbook/assets/messagerie-1.png)
+![](.gitbook/assets/messagerie-1%20%282%29.png)
 
 La réception d’un nouveau message est visible dès la page d’accueil. Elle est indiquée par une **notification** dans le bandeau de navigation et dans le fil de nouveautés. Le nombre de messages non lus est indiqué devant chaque dossier.
 
@@ -18,7 +18,7 @@ Dans le service Messagerie, cliquez sur le bouton « Nouveau message » présent
 
 Vous accédez à la fenêtre de création d’un message.
 
-![](.gitbook/assets/creation.png)
+![](.gitbook/assets/creation%20%282%29.png)
 
 \(1\) Indiquez le\(s\) destinataire\(s\) de votre message dans le champ « A » en saisissant les trois premières lettres de son nom ou en appuyant sur entrée. Vous pouvez adresser un message à un utilisateur en particulier \(par exemple un élève\), ou à un groupe d’utilisateurs \(par exemple les parents d’élèves de Terminale\).
 
@@ -35,11 +35,11 @@ Pour sélectionner les destinataires de votre message :
 
 Dans la fenêtre de saisie de contenu, rédigez votre message \(1\). Cliquez sur "Ajouter une pièce jointe" \(2\) pour joindre un document à votre message.
 
-![](.gitbook/assets/rediger.png)
+![](.gitbook/assets/rediger%20%281%29.png)
 
 Choisissez le document depuis votre poste de travail.
 
-![](.gitbook/assets/m41.png)
+![](.gitbook/assets/m41%20%282%29.png)
 
 En cochant « Ajouter une signature », vous pouvez maintenant paramétrer l’ajout d’une signature pour ce message et pour les suivants.
 
@@ -57,17 +57,17 @@ Toutes les modifications effectuées sont automatiquement enregistrées. Vous po
 
 Une fois que votre message est prêt, vous pouvez l’envoyer.
 
-![](.gitbook/assets/envoyer.png)
+![](.gitbook/assets/envoyer%20%281%29.png)
 
 ## Visualiser mes messages reçus
 
 Lorsque vous recevez un nouveau message, la notification est indiquée dans le bandeau de navigation supérieur.
 
-![](.gitbook/assets/m12.png)
+![](.gitbook/assets/m12%20%281%29.png)
 
 Une fois dans l’appli messagerie, les nouveaux messages sont visibles dans la notification indiquée dans le dossier « boîte de réception ». Le nombre de messages non lus est indiqué dans la bulle à droite de la mention « Boîte de réception ».
 
-![](.gitbook/assets/messagerie-1-1.png)
+![](.gitbook/assets/messagerie-1-1%20%282%29.png)
 
 Sur l’écran central, les messages non lus apparaissent en bleu dans la liste et sont indiqués par une enveloppe fermée.
 
@@ -85,11 +85,11 @@ Sur l’écran central, les messages non lus apparaissent en bleu dans la liste 
 
 Cliquez sur le titre d’un message pour en lire le contenu.
 
-![](.gitbook/assets/messagerie-3.png)
+![](.gitbook/assets/messagerie-3%20%282%29.png)
 
 Les flèches présentes en haut à gauche du message permettent de passer d’un message à un autre au sein de la catégorie ou la sélection.
 
-![](.gitbook/assets/messagerie-4.png)
+![](.gitbook/assets/messagerie-4%20%281%29.png)
 
 En revenant à la liste de vos messages dans la rubrique « Boîte de réception » de votre messagerie, vous pouvez :
 
@@ -113,7 +113,7 @@ La fenêtre de création d’un message s’ouvre. L’émetteur du message reç
 
 Si vous avez reçu un message groupé vous pouvez cliquez sur le bouton « + » \(1\) présent en haut à droite pour faire apparaître les options secondaires :
 
-![](.gitbook/assets/messagerie-7.png)
+![](.gitbook/assets/messagerie-7%20%282%29.png)
 
 \(2\) Répondre à tous : tous les destinataires du messages reçus sont automatiquement ajoutés dans les champs « à » et « en copie » selon la répartition du message d’origine.
 

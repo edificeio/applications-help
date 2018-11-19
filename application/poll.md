@@ -12,11 +12,11 @@ L’appli Sondage permet de créer des **sondages qui pourront être intégrés 
 
 Pour accéder à l’appli Sondage, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/s1.png)
+![](.gitbook/assets/s1%20%282%29.png)
 
 Cliquez sur "Créer un sondage".
 
-![](.gitbook/assets/s13.png)
+![](.gitbook/assets/s13%20%282%29.png)
 
 1. Saisissez une question
 2. Choisissez une date de fin de validité
@@ -24,7 +24,7 @@ Cliquez sur "Créer un sondage".
 4. Saisissez les réponses possibles à la question. Pour ajouter d’autres réponses, cliquez sur "Ajouter"
 5. Cliquez sur « Sauvegarder »
 
-![](.gitbook/assets/s3.png)
+![](.gitbook/assets/s3%20%281%29.png)
 
 Le sondage est maintenant créé.
 
@@ -44,7 +44,7 @@ Les différents droits que vous pouvez attribuer sont les suivants :
 
 Pour valider, cliquez sur le bouton "Partager".
 
-![](.gitbook/assets/sondages.png)
+![](.gitbook/assets/sondages%20%282%29.png)
 
 Votre sondage est bien créé et partagé.
 
@@ -52,20 +52,20 @@ Votre sondage est bien créé et partagé.
 
 Une fois le sondage créé et partagé, il est possible de l’insérer dans une page. Pour cela, cliquez sur l’appli « Pages ».
 
-![](.gitbook/assets/logo-pages.png)
+![](.gitbook/assets/logo-pages%20%281%29.png)
 
 Cliquez sur le site dans lequel vous souhaitez insérer le sondage.
 
-![](.gitbook/assets/s7.png)
+![](.gitbook/assets/s7%20%281%29.png)
 
 Pour insérer le sondage, cliquez sur l’icône suivante:  
 ![](.gitbook/assets/s8.png)
 
-![](.gitbook/assets/s9.png)
+![](.gitbook/assets/s9%20%281%29.png)
 
 Cliquez sur « Ajouter un sniplet ».
 
-![](.gitbook/assets/s10.png)
+![](.gitbook/assets/s10%20%281%29.png)
 
 Puis choisissez l’appli Sondage.
 
@@ -73,9 +73,9 @@ Puis choisissez l’appli Sondage.
 
 La liste des sondages dont vous êtes gestionnaire apparaît. Choisissez celui que vous souhaitez faire apparaître.
 
-![](.gitbook/assets/s12.png)
+![](.gitbook/assets/s12%20%281%29.png)
 
 Le sondage apparaît bien sur la page.
 
-![](.gitbook/assets/s13-1.png)
+![](.gitbook/assets/s13-1%20%281%29.png)
 
