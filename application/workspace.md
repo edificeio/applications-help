@@ -1,6 +1,6 @@
 # Espace Documentaire
 
-À chacun son classeur numérique ! Grâce à l’application **Espace documentaire**, retrouvez, au même endroit, tous les documents utilisés à travers vos applis. Stockez d’autres fichiers et organisez-les dans votre espace en fonction de leurs thématiques, du cours ou de la classe concernée !
+À chacun son classeur numérique ! Grâce à l’application **Espace documentaire**, retrouvez, au même endroit, tous les documents utilisés à travers vos applis. Stockez d’autres fichiers, organisez-les et partagez-les dans votre espace en fonction de leurs thématiques, du cours ou de la classe concernée !
 
 ## Présentation
 
@@ -8,9 +8,9 @@ Pour accéder à l’appli Espace Documentaire, cliquez sur l’icône correspon
 
 ![](.gitbook/assets/espace-doc-1%20%282%29.png)
 
-**Mes documents** : Dans ce dossier, vous pouvez charger tous types de fichiers depuis votre ordinateur, qu’il s’agisse de documents texte ou PDF, d’images, de vidéos ou d’extraits audio. Classez ces fichiers dans des dossier pour les retrouver plus facilement. En quelques clics, partagez vos documents personnels avec d’autres utilisateurs en leur attribuant des droits de consultation, de contribution ou de commentaire, selon vos besoins.
+**Mes documents** : Dans ce dossier, vous pouvez charger tous types de fichiers depuis votre ordinateur, qu’il s’agisse de documents texte ou PDF, d’images, de vidéos ou d’extraits audio. Classez ces fichiers dans des dossier pour les retrouver plus facilement. En quelques clics, partagez vos documents personnels avec d’autres utilisateurs en leur attribuant des droits de consultation, de contribution, de gestion ou de commentaire, selon vos besoins.
 
-**Documents partagés avec moi** : Vous retrouvez dans ce dossier les documents que d’autres utilisateurs ont partagés avec vous.
+**Documents partagés** : Vous retrouvez dans ce dossier tous les documents partagés, que d’autres utilisateurs ont partagés avec vous, ou que vous leur avez partagés.
 
 **Documents ajoutés dans les applis** : Vous retrouverez ici tous les fichiers que vous avez ajouté dans d’autres applis \(par exemple image d’un billet de blog\).
 
@@ -20,11 +20,10 @@ Pour accéder à l’appli Espace Documentaire, cliquez sur l’icône correspon
 
 ## Naviguer dans mon Espace Documentaire
 
-Un nouveau mode de navigation plus intuitif a été mis en place sur l’application Espace Documentaire.  
 Pour **accéder au menu d’option** d’un fichier ou d’un dossier, vous devez **cliquer une fois** dessus. Le menu s’affiche ensuite en bas de la page et vous pouvez choisir les actions à effectuer.  
 Vous devez cliquer une nouvelle fois sur le fichier ou le dossier pour le désélectionner.
 
-![](.gitbook/assets/espace-doc-3-1%20%281%29.png)
+![](.gitbook/assets/image.png)
 
 Pour **visualiser un fichier** sur la visionneuse de l’ENT ou pour **ouvrir un dossier**, vous devez **double-cliquer dessus**.
 
@@ -35,9 +34,9 @@ Si vous effectuez une action de partage sur plusieurs fichiers ou dossiers alors
 
 ## Importer un document
 
-Pour importer un document dans votre espace de stockage personnel, cliquez sur le bouton « Importer » situé en haut de l’interface.
+Pour importer un document dans votre espace de stockage personnel ou dans un dossier partagé avec vous \(en contribution au minimum\), cliquez sur le bouton « Importer » situé en haut de l’interface.
 
-![](.gitbook/assets/import-bouton-1.png)
+![](.gitbook/assets/image%20%282%29.png)
 
 Dans la nouvelle fenêtre, suivez les étapes suivantes :
 
@@ -50,15 +49,15 @@ Dans la nouvelle fenêtre, suivez les étapes suivantes :
 
 **Vous pouvez importer plusieurs fichiers en une seule fois, si vous en sélectionnez plusieurs sur votre ordinateur.**
 
-Vous pouvez aussi importer un document ou plusieurs documents en effectuant un glisser-déposer. Pour cela, sélectionnez le ou les documents à déplacer \(1\) depuis votre espace de travail et glissez-le vers son nouvel emplacement \(2\).
+Vous pouvez aussi importer un document ou plusieurs documents en effectuant un glisser-déposer. Pour cela, sélectionnez le ou les documents à déplacer depuis votre espace de travail et glissez-le vers son nouvel emplacement !
 
-![](.gitbook/assets/espace-doc-6-1.png)
+![](.gitbook/assets/image%20%288%29.png)
 
-## Partager un document
+## Partager un document ou un dossier
 
 Pour partager votre document avec d’autres utilisateurs, suivez les étapes suivantes :
 
-* Sélectionnez le document en question en cliquant sur l’encoche \(1\)
+* Sélectionnez le document ou dossier en question en cliquant dessus \(1\)
 * Cliquez sur le bouton "Partager" en bas de l'écran \(2\)
 
 ![](.gitbook/assets/partage-doc-1%20%281%29.png)
@@ -79,7 +78,7 @@ Vous pouvez déplacer vos documents et vos dossiers facilement dans votre espace
 
 ![](.gitbook/assets/espace-doc-7-1.png)
 
-Vous ne pouvez pas déplacer un fichier du dossier « Mes documents » vers les dossiers « Documents partagés avec moi » et « Documents ajoutés dans les applis ».
+Vous ne pouvez pas déplacer un fichier du dossier « Mes documents » vers les dossiers « Documents partagés », « Documents ajoutés dans les applis » ou même à la corbeille.
 
 Le dossier se trouve maintenant à l’emplacement choisi.
 

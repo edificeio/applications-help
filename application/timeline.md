@@ -104,7 +104,7 @@ Le bandeau de navigation situé en haut de la page permet d’accéder à diffé
 Les différents services disponibles sont les suivants :
 
 * L’accès à votre compte ![](.gitbook/assets/tete-2.png)
-* Le bouton de retour à la page d’accueil ![](.gitbook/assets/image.png) 
+* Le bouton de retour à la page d’accueil ![](.gitbook/assets/image%20%284%29.png) 
 * Le bouton d’accès aux applis ![](.gitbook/assets/2018-11-30_17h20_14.png) 
 * Le bouton d’accès à l’appli Communautés ![](.gitbook/assets/c14-2%20%282%29.png)
 * Le bouton de recherche sur l’ENT ![](.gitbook/assets/loupe-1.png)

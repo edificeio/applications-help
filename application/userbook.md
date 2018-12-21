@@ -28,7 +28,7 @@ Vous pouvez remplacer votre identifiant de connexion par un alias, en cliquant s
 
 Il vous suffira ensuite de renseigner votre nouvel identifiant :
 
-![](.gitbook/assets/image%20%282%29.png)
+![](.gitbook/assets/image%20%287%29.png)
 
 ## Changer ma photo de profil
 
