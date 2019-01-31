@@ -6,7 +6,7 @@ Organisez la gestion des salles et du matériel en ligne ! À l’aide de l’ap
 
 L’outil de réservation de ressources vous permet de faire des **demandes de réservation**, **ponctuelles ou périodiques**, de ressources \(salle informatique, tablette, vidéo projecteur…\). Pour chaque ressource à laquelle vous accédez, vous pouvez visualiser les créneaux horaires déjà réservés et les disponibilités via le **calendrier**.
 
-Les ressources sont créées par des **gestionnaires** qui peuvent mettre en place un **principe de validation des réservations** pour certaines ressources et définir plusieurs paramètres \(comme par exemple la date à partir de laquelle une réservation peut être effectuée\).
+Les ressources sont créées par des **gestionnaires** qui peuvent mettre en place un **principe de validation des réservations** pour certaines ressources et définir plusieurs paramètres \(comme par exemple la définition de **plages horaires** de réservations, la date à partir de laquelle une réservation peut être effectuée, etc.\).
 
 ![](.gitbook/assets/rbs_presentation.png)
 
@@ -18,15 +18,15 @@ Pour consulter les réservations enregistrées, l’utilisateur dispose de deux 
 
 **La vue calendrier**
 
-La vue calendrier est accessible en cliquant sur l'icône calendrier \(1\). L’utilisateur peut changer la semaine affichée en cliquant sur les flèches au dessus du calendrier \(2\). L’utilisateur dispose d’un certain nombre de **filtres** :
+La vue calendrier est accessible en cliquant sur l'icône calendrier \(1\). L’utilisateur peut changer la semaine affichée en cliquant sur les flèches au dessus du calendrier \(2\). L'utilisateur peut également naviguer en modifiant l'affichage du calendrier en **vue mois, semaine ou jour** \(3\). L’utilisateur dispose d’un certain nombre de **filtres** :
 
-* Filtre sur les **types de ressources** et les **ressources** \(3\)
-* Filtre pour afficher uniquement **ses propres réservations**\(4\) :
-* Filtre pour afficher uniquement les réservations **en attente de validation**\(5\)
+* Filtre sur les **types de ressources** et les **ressources** par établissement \(4\)
+* Filtre pour afficher uniquement **ses propres réservations**\(5\) :
+* Filtre pour afficher uniquement les réservations **en attente de validation** \(6\)
 
 ![](.gitbook/assets/rbs-vue-calendrier.png)
 
-Chaque réservation est matérialisée sur le calendrier par un pavé de la même couleur que le type de ressource concerné.
+Chaque réservation est matérialisée sur le calendrier par un pavé de la même couleur que la ressource concernée.
 
 * La réservation est validée. \(1\)
 * La réservation est en attente de validation. \(2\)
@@ -44,7 +44,7 @@ Pour intervenir sur une réservation \(modification, validation, suppression\) i
 Si la réservation ne propose pas de case à cocher, c’est que l’utilisateur connecté n’est pas autorisé à agir sur cette réservation.
 
 **La vue liste**  
-La vue Liste est accessible en cliquant sur \(1\). L’utilisateur peut afficher toute la liste des réservations effectuées entre deux dates qu’il aura choisies : \(2\) pour activer le filtre, \(3\) et \(4\) pour choisir les dates.
+La vue Liste est accessible en cliquant sur \(1\). L’utilisateur peut afficher toute la liste des réservations effectuées entre deux dates qu’il aura choisies : \(2\) pour activer le filtre, \(3\) pour choisir les dates.
 
 Il bénéficie par ailleurs des mêmes filtres que sur la vue Calendrier. Le tri peut être fait sur toutes les colonnes du tableau : demandeur, ressource, date de début, date de fin et état.
 
@@ -68,15 +68,13 @@ Les deux méthodes conduisent à la même procédure de réservation.
 
 Il est possible de créer une demande de réservation ponctuelle ou périodique. L’utilisateur choisit de créer une demande ponctuelle ou périodique en cliquant sur "Nouvelle réservation".
 
-![](.gitbook/assets/r7%20%282%29.png)
-
-La première section permet de choisir le type de ressource \(1\) et la ressource à réserver \(2\). La description de la ressource est indiquée \(3\). L’utilisateur peut également voir les noms des valideurs \(4\) si les réservations pour cette ressource sont soumises à validation.
+La première section permet de choisir l'établissement \(1\), le type de ressource \(2\) et la ressource à réserver \(3\). La description de la ressource est indiquée \(4\). L’utilisateur peut également voir les noms des valideurs \(5\) si les réservations pour cette ressource sont soumises à validation.
 
 ![](.gitbook/assets/r8%20%281%29.png)
 
 **Réservation ponctuelle**
 
-Dans le cas d’une réservation ponctuelle, l’utilisateur choisit le créneau de sa demande. L’utilisateur choisit le créneau de réservation \(1\), indique le motif de la réservation \(2\) et d’enregistrer sa demande. \(3\)
+Dans le cas d’une réservation ponctuelle, l’utilisateur choisit le créneau de sa demande. L’utilisateur choisit le créneau de réservation \(ce créneau peut être en horaire libre ou sur des plages définies par l'établissement\) \(1\), indique le motif de la réservation \(2\) et d’enregistrer sa demande. \(3\)
 
 ![](.gitbook/assets/r12%20%281%29.png)
 
@@ -97,9 +95,13 @@ Le gestionnaire et/ou le valideur du type de ressource peuvent valider ou refuse
 
 Tant qu’une demande n’a pas été validée, le créneau horaire y correspondant reste libre d’accès aux autres utilisateurs.
 
-Pour valider une réservation, le valideur peut se rendre sur la vue Liste, effectuer un filtre sur le type de ressource \(1\), et afficher uniquement les réservations en attente de validation \(2\). L’icône signifie que la réservation est en attente de validation. \(3\).
+Pour valider une réservation, le valideur peut se rendre soit sur la vue Calendrier, soit sur la vue Liste, effectuer un filtre sur le type de ressource \(1\), et afficher uniquement les réservations en attente de validation \(2\). L’icône signifie que la réservation est en attente de validation. \(3\).
 
 ![](.gitbook/assets/rbs-validation.png)
+
+Le valideur peut aussi valider les demandes de réservations directement dans le calendrier en cochant la demande et en cliquant sur valider, ou également en cliquant sur la demande. Une pop up s'ouvre et permet la validation ou le refus.
+
+![](.gitbook/assets/rbs-validation-calendrier.png)
 
 **Valider une réservation ponctuelle**
 
@@ -123,7 +125,7 @@ Pour valider une réservation périodique \(qui comporte plusieurs créneaux\), 
 
 ![](.gitbook/assets/r51%20%282%29.png)
 
-Puis en sélectionnant les seuls créneaux que l’on veut valider/refuser\(2\) :
+Puis en sélectionnant les seuls créneaux que l’on veut valider/refuser \(2\) :
 
 ![](.gitbook/assets/rbs-validation-periodique-2%20%281%29.png)
 
@@ -136,7 +138,9 @@ Pour accéder à l’interface de gestion des ressources, les utilisateurs habil
 Pour ajouter des nouveaux types de ressources, cliquez sur « Créer un type de ressources » \(1\) et renseignez les champs suivants :
 
 * Indiquez le nom de la ressource et ajoutez d’un circuit de validation le cas échéant \(2\)
-* Cliquez sur Enregistrer \(3\)
+* Choisissez une couleur et indiquez si les ressources doivent avoir la même couleur que le type de ressources \(3\)
+* Choisissez des réservations libres (24/24) ou définies sur des plages horaires définies par l'établissement \(4\). Pour créer les plages horaires, les administrateurs doivent se référer à la documentation de la console d'administration (Menu Calendrier)
+* Cliquez sur Enregistrer \(5\)
 
 ![](.gitbook/assets/rdr-creation-type-de-ressource.png)
 
@@ -172,12 +176,41 @@ La ressource doit ensuite être caractérisée par:
 
 1. Le type de ressource à laquelle elle est rattachée
 2. Le nom de la ressource
-3. Sa disponibilité, la possibilité de réserver cette ressource de manière périodique, un intervalle de réservation minimum et un intervalle maximum de réservation.
-4. Une description éditée par un éditeur de texte HTML permettant d’intégrer différents contenus: texte, images, liens, son…
+3. Le circuit de validation
+4. Sa disponibilité, la possibilité de réserver cette ressource de manière périodique, un intervalle de réservation minimum et un intervalle maximum de réservation.
+5. Sa couleur \(par défaut la couleur du type de ressource si défini\)
+6. Une description éditée par un éditeur de texte HTML permettant d’intégrer différents contenus: texte, images, liens, son…
 
 ![](.gitbook/assets/rdr-creation-ressource-2%20%281%29.png)
 
-Après enregistrement, la nouvelle ressource s’affiche dans la liste. En cochant la case correspondante \(1\), des boutons d’action apparaissent en bas de page pour supprimer ou éditer la ressource. Vous pouvez cliquer sur "Editer la ressource" pour la modifier \(2\)
+Après enregistrement, la nouvelle ressource s’affiche dans la liste. En cochant la case correspondante \(1\), des boutons d’action apparaissent en bas de page pour supprimer ou éditer la ressource. Vous pouvez cliquer sur "Editer la ressource" pour la modifier ou la supprimer \(2\)
 
 ![](.gitbook/assets/rdr-edition-ressource%20%281%29.png)
 
+## Exporter les ressources
+
+Il est possible d'exporter les réservations au format iCal ou PDF. Seules les réservations validées pourront être exportées.
+
+Pour exporter les réservations :
+
+* Cliquez sur le bouton d'Export \(1\)
+
+![](.gitbook/assets/rbs-export1.png)
+
+* Choisissez le type d'export (iCal ou PDF) \(2\)
+
+![](.gitbook/assets/rbs-export2.png)
+
+* Filtrez sur les ressources sélectionnées ou toutes les ressources accessibles par l'utilisateur \(3\)
+
+![](.gitbook/assets/rbs-export3.png)
+
+* Choisissez la période \(4\). L'export des réservations se limite à une plage de 12 semaines
+
+![](.gitbook/assets/rbs-export4.png)
+
+* Choisissez le type de vue (Mois, semaine ou jour) pour l'export PDF uniquement \(5\)
+
+![](.gitbook/assets/rbs-export5.png)
+
+* Cliquez sur Exporter \(6\). L'export se télécharge ensuite.
