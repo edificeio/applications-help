@@ -1,246 +1,143 @@
-# Compétences
+# Vie scolaire
 
-Suivez l'évolution de vos élèves grâce à un outil simple et ergonomique ! Par le biais de **notes numériques ou de compétences**, évaluez vos élèves facilement, consultez leur courbe de progression, et partagez ce suivi avec vos collègues.
+Paramétrer les modules de vie scolaire pour votre établissement : personnaliser l’affichage des niveaux de maitrise, adapter le référentiel de compétences …
 
 ## Présentation
 
 Le module permet :
+-	la configuration **des périodes d’évaluation** (choix trimestres ou semestres, dates de début et de fin de saisie …)
+-	la personnalisation **des niveaux de maitrise affichés** : modification des couleurs, ajout de lettres
+-	le choix **d’afficher** ou non certaines informations sur **le bilan de fin de cycle**
+-	**la modification du référentiel de compétences** (ajout d’items, modification de libellés, masquer certains … )
+-	**le rattachement des cycles** aux classes et groupes de votre établissement (cycles 3 et 4 ici)
+-	**le paramétrage des projets éducatifs** pour le bilan périodique (création d’EPI, d’AP et de Parcours)
 
-* La **création d’évaluations** avec ou sans compétences
-* un **suivi complet de chaque élève** : suivi du niveau évalué par compétences, un accès au bilan de l’élève et un accès au bilan de fin de cycle par domaine
-* un **suivi global par classe**: suivi du niveau évalué par compétences pour chaque classe, détail par élève et accès au suivi élève directement depuis la liste
-* la mise à disposition d’un **relevé de notes**
-* la possibilité de remplacement d’enseignants \(pour le chef d’établissement\)
 
-![](.gitbook/assets/competences-presentation.jpg)
+## Configurer les périodes d’évaluation
 
-## Créer une évaluation avec des compétences
+Pour configurer les périodes par classe, suivez les étapes suivantes :
 
-Pour créer une évaluation **avec des compétences**, suivez les étapes suivantes :
+Depuis l’onglet ETABLISSMENT, cliquez sur le menu « Paramétrage des périodes » (1)
 
-* Cliquez sur le bouton **« Nouvelle évaluation » \(1\)**
+![](.gitbook/assets/periode0.png)
 
-![](.gitbook/assets/evaluation-avec-des-competences.jpg)
+Rechercher une **classe ou un ensemble de classe (2)**, sélectionner les **classes souhaitées (3)** puis cliquer sur le bouton **Modifier (4)**.
 
-![](.gitbook/assets/evaluation-avec-des-competences-2.jpg)
+  ![](.gitbook/assets/001_période_évaluation.png)
 
-* Sélectionner ou saisir les **informations obligatoires** suivantes **\(2\)** :
-  * Établissement
-  * Classe ou groupe du cycle 3 ou du cycle 4
-  * Matière
-  * Type
-* **Titre** de l'évaluation et description **\(3\)**
-* Cocher si vous le souhaitez la case **"Activer l'évaluation numérique"** pour évaluer les élèves avec des notes **\(4\)**
-* Modifier si besoin le coefficient et la note maximum
-* Choisissez **la période \(5\)**
-  * Date de l'évaluation et date de publication de la note
-* Enfin l'option **"Rendre visible les appréciations saisies"** autorise l'affichage ou non des appréciations aux élèves et aux parents - cette option peut être activée directement lors de l'évaluation du dehors.**\(6\)**
+Il est possiblde de choisir le type de période : **semestre** ou **trimestre** puis saisie des dates attendues :
 
+  ![](.gitbook/assets/002_période_évaluation.png)
 
+## Personnaliser le niveau de maitrise
 
-* Cliquer sur l’onglet **"Compétences"** si vous osuhaitez ajouter des compétences à l'évaluation **\(7\)**
+Pour personnaliser le niveau de maitrise par cycle, suivez les étapes suivantes :
 
-![](.gitbook/assets/evaluation-avec-des-competences-3.jpg)
+Depuis l’onglet COMPETENCES , cliquez sur le menu **"Niveau de maitrise" (1)**
 
-* **Filtrer** les enseignements et / ou les domaines - rechercher un item de compétences **\(8\)**
-* Sélectionner des éléments signifiants ou des **items de compétences \(9\)**
-* Visualiser le **résumé de l'évaluation** que vous êtes sur le point de créer - les items de compétences peuvent être ordonnés grâce au glisser/déposer **\(10\)**
-* Cliquer sur **"Enregistrer"** pour sauvegarder l'évaluation **\(11\)**
+![](.gitbook/assets/niveau1.png)
 
-***Par défaut, seuls les enseignants sont habilités à créer des évaluations.***
+Choisir un **cycle (2)** – possibilité d’ajouter **une lettre ou un chiffre (3)** – **modification des couleurs** par défaut en cliquant sur la case **(4)**.
 
-## Evaluer un élève
+Le bouton **Réinitialiser** permet de revenir à l’état défini par défaut.
 
-Pour évaluer les élèves suivez les étapes suivantes :  
-1. Cliquez sur le menu **"Liste des évaluations" \(1\)**
+![](.gitbook/assets/niveau2.png)
 
-![](.gitbook/assets/evaluer-un-eleve-1.jpg)
+Par exemple, modifiez l’affichage des niveaux pour le cycle 3 :
 
-2. Renseigner **les critères \(2\)**
+![](.gitbook/assets/niveau3.png)
 
-![](.gitbook/assets/evaluer-un-eleve-2%20%283%29.jpg)
+Chaque utilisateur pourra utiliser l’affichage personnalisé ici depuis **l’application Compétences (5)**, depuis **le suivi élève** par exemple (ou depuis l’écran d’évaluation d’un devoir) :
 
-Le nombre des compétences ajoutées et le pourcentage d'avancement d'un devoir (noté ou avec des compétences à évaluer) est visibile directement sur cet écran.
+**AVANT** modification :
 
-3. Cliquer sur **le devoir à évaluer \(3\)**
+![](.gitbook/assets/niveau4.png)
 
-![](.gitbook/assets/evaluer-un-eleve-4-1.jpg)
+**APRE** modification :
 
-4. Le **détail de l’évaluation** est disponible sur la partie gauche de l’écran **\(4\)**
+![](.gitbook/assets/niveau5.png)
 
-5. Si l'évaluation numérique a été activée, il est possible de **mettre des notes à chaque élève dans la colonne résultat** \(possibilité d’utiliser le clavier pour se déplacer d’élèves en élèves\) **\(5\)**
 
-6. Si le devoir possède une ou plusieurs compétences, il est possible **d’évaluer les compétences** des élèves avec les pastilles \(possibilité d’utiliser le clavier avec les touches de 0 à 4 pour évaluer les compétences\)**\(6\)**
-   * ![](.gitbook/assets/pastille-grise.png) Pastille grise : Compétence non évaluée
-   * ![](.gitbook/assets/pastille-rouge.png) Pastille rouge : Maîtrise insuffisante
-   * ![](.gitbook/assets/pastille-orange.png) Pastille orange : Maîtrise fragile
-   * ![](.gitbook/assets/pastille-jaune.png) Pastille jaune : Maîtrise satisfaisante
-   * ![](.gitbook/assets/pastille-verte.png) Pastille verte : très bonne maîtrise
+## Rendre visible certaines informations sur le BFC
 
-Le **détail des compétences** est disponible sur la partie droite de l’écran **\(7\)**.
+Pour accéder à ces fonctionnalités, suivez les étapes suivantes :
 
-7. Une **appréciation peut être indiquée dans le champ Appréciation \(8\)**. Si le devoir comprend beaucoup de compétences, l’appréciation est accessible via le bouton :  ![](.gitbook/assets/evaluer-un-eleve-3.jpg)
+Depuis **l’onglet COMPETENCES**, cliquez sur le menu **« Visibilité du niveau calculé du BFC »** ou **« Visibilité du barème DNB affiché sur le BFC » (1)**.
 
-Des **exports** vous seront proposés \(cartouches - formulaires de saisie vides - les résultats des devoirs\) **\(9\)**
+![](.gitbook/assets/visibiliteBFC.png)
 
-![](.gitbook/assets/cartouche1.jpg)
+Possibilité de masquer ou d’afficher sur le Bilan de fin de cycle :
+-	le **niveau** calculé **(2)**
+-	le **barème** calculé **(3)**
 
-![](.gitbook/assets/resultats-devoir-1.jpg)
+![](.gitbook/assets/visibiliteBFC2.png)
 
-## Accéder au relevé de notes
+#### Visibilité du niveau calculé :
+![](.gitbook/assets/visibiliteBFC3.png)
 
-Pour accéder au relevé de notes, suivez les étapes suivantes :
+#### Visibilité du barème calculé :
+![](.gitbook/assets/visibiliteBFC4.png)
 
-1. Cliquez sur le menu **«Relevés périodique » \(1\)**
 
-![](.gitbook/assets/releve-de-notes.jpg)
+## Mettre à jour le référentiel de compétences
 
-2. Renseigner **les critères \(2\)**
+Pour mettre à jour le référentiel de compétences, suivez les étapes suivantes :
 
-![](.gitbook/assets/releve-de-notes-2.jpg)
+Depuis **l’onglet COMPETENCES**, cliquez sur le menu **« Items de compétences » (1)**
 
-3. Il est possible d’accéder aux **détails des devoirs** en cliquant sur l’entête de l’évaluation \(une évaluation avec des compétences est soulignée en orange\) **\(3\)**.
+![](.gitbook/assets/ref_comp.png)
 
-4. Une aide à la saisie est proposée pour la **saisie des éléments du programme travaillés \(4\)**.
+Les items de compétences sont affichés **par cycle et par enseignement ou domaine (2)**– possibilité d’effectuer une recherche d’un item en particulier.
 
-5. Il est possible de **modifier les notes des élèves directement** sur le relevé. La moyenne peut, elle aussi, être ajustée ainsi que les appréciations de chaque élève. **\(5\)**.
+Affichage des éléments signifiants et des items de compétences du socle rattachés (3).
 
-6. L'**affichage du relevé périodique peut être simplifié** en cliquant sur **"<<"** afin de n'afficher que les moyennes et les appréciations des élèves **\(6\)**.
+Pour chaque item, vous pouvez (4) :
+-	**le masquer** : il n’apparaitra plus sur les écrans d’évaluation de compétences (les devoirs déjà créés ne sont pas impactés)
+-	**le modifier** : modification du libellé uniquement
+-	**afficher les domaines rattachés (5)**
 
-7. Le **clic sur le détail** pour un élève **\(7\)** permet de saisir ici également l'appréciation.
+Enfin, il est tout à fait possible de **créer un nouvel item** de compétence dans un élément signifiant **(6)** :
+![](.gitbook/assets/ref_comp2.png)
 
-![](.gitbook/assets/releve-de-notes-3-1.jpg)
+**Saisir un libellé et choisir un ou plusieurs domaines rattachés (7)** – ce nouvel item apparaitra dans le module Compétences.
 
-Un **rappel des moyennes** est affiché **\(8\)** et le positionnement calculé est modifiable.
-Les **notes détaillées obtenues lors des évaluations** (notes et compétences) apparaissent ici aussi **\(9\)**.
-En bas, on retrouve **l'historique de l'année \(10\)**.
-Le clic sur le **lien "Voir Détails" \(11\)** affiche le niveau obtenu par compétences de l'élève pour la période et la matière consultée.
+![](.gitbook/assets/ref_comp3.png)
 
-![](.gitbook/assets/releve-de-notes-4.jpg)
+NB : Le bouton **Réinitialiser** permet de revenir à l’état initial du référentiel de compétences du socle.
 
-Vous pouvez également consulter les **différents graphes** proposés par enseignement ou par domaine du socle **\(12\)**.
+## Rattacher les cycles
 
-![](.gitbook/assets/releve-de-notes-5.jpg)
+Pour rattacher une classe ou un groupe à un cycle, suivez les étapes suivantes :
 
-## Suivre le niveau des élèves
+Depuis **l’onglet COMPETENCES**, cliquez sur le menu **« Rattachement des cycles »**
 
-Pour suivre le niveau des élèves individuellement, suivez les étapes suivantes :
+![](.gitbook/assets/ratt_cycle0.png)
 
-1. Cliquez sur le menu **« Suivi élève » \(1\)**
+Rechercher une ou plusieurs classes ou groupes (2) – filtre possible par classe, groupes d’enseignement ou groupes manuels (3) – sélectionner les classes ou groupes à paramétrer puis cliquer sur Modifier (4) afin de les rattacher soit au cycle 3 soit au cycle 4 :
 
-![](.gitbook/assets/suivre-le-niveau-des-eleves-1.jpg)
+![](.gitbook/assets/ratt_cycle.png)
 
-2. Renseigner les **critères pour choisir un élève \(2\)** - Visualisation de la fiche élève et accès à la légende sur la partie gauche de l'écran.
 
-![](.gitbook/assets/suivre-le-niveau-des-eleves-2.jpg)
+## Bilan périodique (projets éducatifs)
 
-3. Le clic sur la barre de compétences permet d'afficher le **détail des évaluations d'une compétence en particulier \(3\)**.
+Pour paramétrer les projets éducatifs, suivez les étapes suivantes :
 
-![](.gitbook/assets/suivre-le-niveau-des-eleves-3.jpg)
+Depuis **l’onglet COMPETENCES**, cliquer sur le menu **« Bilan périodique »** :
 
-Par défaut une **vue graphique** est affichée. Il est cependant possible d’accéder à une vue en liste \(4\).
+![](.gitbook/assets/BP1.png)
 
-L’ajout d’une évaluation libre est également possible sur cette page en cliquant sur **« Ajouter une évaluation libre » \(5\)**. Elle permet d’évaluer la compétence de l’élève.
+Les différents **projets éducatifs** sont affichés par onglet (EPI, AP ou Parcours) (2).
+La liste présente les EPI déjà paramétrés sur l’établissement (3), la sélection d’une ligne permet de modifier ou supprimer un projet.
 
-## Visualiser le bilan de fin de cycle des élèves
+![](.gitbook/assets/BP2.png)
 
-Pour voir le bilan du niveau des élèves individuellement, suivez les étapes suivantes :
+Cliquez sur **« Créer EPI » (4)** :
 
-1. Cliquez sur le menu **« Suivi élève » \(1\)**
+![](.gitbook/assets/BP3.png)
 
-![](.gitbook/assets/suivre-le-niveau-des-eleves-1.jpg)
+Choisissez un thème prédéfini (5) ou créer un nouveau pour votre établissement (6).
 
-2. Renseigner les **critères pour choisir un élève \(2\)**
+Saisissez un **libellé et une description (7)** et enfin choisissez au moins **2 intervenants** (avec leur matière) et au moins **une classe ou groupe**.
 
-3. Il est possible **d’afficher le bilan de compétences** d’un élève en cliquant sur : ![](.gitbook/assets/visualisation-bilan-5-2%20%282%29.jpg) **\(3\)**
-
-![](.gitbook/assets/visualisation-bilan-4-1%20%282%29.jpg)
-
-Le bilan de fin de cycle de l’élève est accessible.
-
-![](.gitbook/assets/suivre-le-niveau-des-eleves-4.jpg)
-
-Le bilan de fin de cycle peut être visualisé par période : par trimestre, pour l'année en cours ou sur le cycle en cours.
-
-Enfin, la **synthèse du bilan de fin de cycle peut être saisie sur cet écran \(6\)** ainsi que les enseignements de complément pour les élèves du cycle 4.
-
-## Exports relevés
-
-Depuis le suivi de l'élève, vous pouvez **exporter les relevés de compétences \(1\) et \(2\) ou relevés de notes**, s'ils existent \(3\) :
-
-![](.gitbook/assets/export1.png)
-
-Les exports de compétences peuvent être générés **par enseignement ou par domaine** - avec choix de matières et de la période - pour un élève \(1\) ou pour toute la classe \(2\).
-L'export de relevé de notes est généré pour un élève uniquement \(3\).
-
-## Suivre le niveau de compétences des classes
-
-Pour suivre le niveau des compétences de classe, suivez les étapes suivantes :
-
-1. Cliquez sur le menu **« Suivi classe » \(1\)**
-
-![](.gitbook/assets/suivi-classe.jpg)
-
-2. Renseigner les **critères pour choisir une classe et une période \(2\)**
-
-3. Pour chaque compétence, le niveau de la classe est affiché sous forme de barre avec différents niveaux de maîtrise atteint par chaque élève \(3\).
-
-Il est possible de **cliquer sur une compétence** pour afficher la liste des élèves avec leur niveau **\(3\)**.
-
-![](.gitbook/assets/suiviclasse1.png)
-
-4. Il est possible de **filtrer l’affichage des élèves** suivant leur niveau de maîtrise de la compétence.
-
-5. En cliquant sur un élève, s’affiche le **suivi de compétence de l’élève \(5\)**.
-
-![](.gitbook/assets/suiviclasse2.png)
-
-Les exports proposés sur l'écran de suivi de classe \(6\) sont un **récapitulatif des niveaux acquis pour toute la classe** par domaine et un **export de relevé de compétences par élève de toute la classe.**
-
-![](.gitbook/assets/suiviclasse3.png)
-
-## Saisir les projets éducatifs
-
-POur saisir les projets éducatifs paramétrés, suivez les étapes suivantes :
-
-* Cliquer sur le menu **"Saisie de projets" \(1\)**
-
-![](.gitbook/assets/saisie-projet1.jpg)
-
-* Renseigner les critères pour **choisir une période et une classe. \(2\)**
-Tous les projets éducatifs paramétrés pour l'enseignant sur la période choisie et la classe apparaissent **triés par onglet \(3\)**: EPI, AP et Parcours.
-
-![](.gitbook/assets/projets.png)
-
-**Saisir les appréciations sur les élèves concernés par les projets \(4\)** : ces appréciations apparaîtront dans le bilan périodique.
-Vous pouvez aussi saisir une **appréciation pour la classe \(5\)**.
-
-## Exports LSU (chef d'établissement)
-
-Les exports LSU \(bilans de fin de cycle et bilans périodiques\) sont disponibles via le **menu "Export LSU"** - seul l'export **Bilan de fin de cycle est disponible** pour l'instant. L'export Bilan périodique est en cours de réalisation.
-
-![](.gitbook/assets/export-lsu1.jpg)
-
-Renseigner **les classes \(2\)** et les **responsables signant le bilan de fin de cycle \(3\)** puis cliquer sur le bouton **"Générer l'export"** \(Il faut qu'au moins un élève de la classe ait un bilan complet :tous les domaines sont évalués - sauf si facultatif - la synthèse est renseignée\).
-
-![](.gitbook/assets/exportLSU2.png)
-
-## Effectuer un remplacement (chef d'établissement)
-
-Le remplacement d’un enseignant par un autre **permet à l’enseignant remplaçant de pouvoir créer des évaluations** sur les classes remplacées. L’enseignant titulaire a également la possibilité de voir et gérer ces évaluations.
-
-Pour effectuer le remplacement d’un enseignant par un autre enseignant pour un temps donné :
-
-1. Cliquez sur le menu **« Gérer les remplacements » \(1\)**
-
-![](.gitbook/assets/remplacement-1.jpg)
-
-2. Renseigner les **critères pour choisir l’enseignant à remplacer \(2\)**, **l’enseignant remplaçant**, ainsi que les **dates durant lesquelles le remplacement a cours**.
-
-![](.gitbook/assets/remplacement-2-1%20%281%29.jpg)
-
-3. La **liste des remplacements effectués** s’affiche dans l’encart en bas de la page. Il est possible de trier sur les différents champs.
-
-![](.gitbook/assets/remplacement-4.jpg)
-
-La sélection d’un ou plusieurs remplacements permet ensuite l’édition ou la suppression de ceux-ci.
+Cliquer sur **Ajouter** pour créer l’EPI. Celui-ci apparaitra dans la liste des EPI ajoutés.
+Même principe sur les onglet AP et Parcours.
