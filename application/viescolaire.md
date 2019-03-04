@@ -68,14 +68,14 @@ Depuis **l’onglet COMPETENCES**, cliquez sur le menu **« Visibilité du nivea
 
 Possibilité de masquer ou d’afficher sur le Bilan de fin de cycle :
 -	le **niveau** calculé **(2)**
--	le **barème** calculé **(3)**
+-	le **barème** DNB calculé **(3)**
 
 ![](.gitbook/assets/visibiliteBFC2.png)
 
 #### Visibilité du niveau calculé :
 ![](.gitbook/assets/visibiliteBFC3.png)
 
-#### Visibilité du barème calculé :
+#### Visibilité du barème DNB calculé :
 ![](.gitbook/assets/visibiliteBFC4.png)
 
 
