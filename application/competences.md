@@ -38,7 +38,7 @@ Pour créer une évaluation **avec des compétences**, suivez les étapes suivan
 
 
 
-* Cliquer sur l’onglet **"Compétences"** si vous osuhaitez ajouter des compétences à l'évaluation **\(7\)**
+* Cliquer sur l’onglet **"Compétences"** si vous souhaitez ajouter des compétences à l'évaluation **\(7\)**
 
 ![](.gitbook/assets/evaluation-avec-des-competences-3.jpg)
 

@@ -53,7 +53,7 @@ Chaque utilisateur pourra utiliser l’affichage personnalisé ici depuis **l’
 
 ![](.gitbook/assets/niveau4.png)
 
-**APRE** modification :
+**APRES** modification :
 
 ![](.gitbook/assets/niveau5.png)
 
