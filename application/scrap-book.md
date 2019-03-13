@@ -8,17 +8,17 @@ Les cahiers créés peuvent être utilisés comme des **supports de restitution*
 
 Les utilisateurs ayant des droits de contribution dans le cahier choisissent le nombre de pages du cahier et la mise en forme qu’ils souhaitent appliquer à chaque page.
 
-![](.gitbook/assets/cma-1-1.png)
+![](.gitbook/assets/cma-1-1%20%282%29.png)
 
 ## Créer et partager un cahier multimédia
 
 Pour accéder à l’appli Cahier multimédia, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/cma-2-2%20%282%29.png)
+![](.gitbook/assets/cma-2-2%20%283%29.png)
 
 Dans le service Cahier multimédia, cliquez sur le bouton « Créer » en haut de la page.
 
-![](.gitbook/assets/cma-3-1%20%281%29.png)
+![](.gitbook/assets/cma-3-1%20%282%29.png)
 
 Vous accédez à l’interface de création du cahier.
 
@@ -34,7 +34,7 @@ Dans la fenêtre, vous pouvez donner des droits de consultation, de contribution
 
 Pour valider, cliquez sur le bouton "Partager".
 
-![](.gitbook/assets/cahier-multimedia-2.png)
+![](.gitbook/assets/cahier-multimedia-2%20%282%29.png)
 
 ## Editer les pages du cahier multimédia
 
@@ -44,7 +44,7 @@ Une fois votre cahier multimédia créé, vous pouvez publier des pages. Lorsque
 
 Pour ajouter de nouvelles pages, cliquez sur « Ajouter une page » \(1\) ou sur la flèche à droite du cahier \(2\).
 
-![](.gitbook/assets/2018-08-24_16h18_32.png)
+![](.gitbook/assets/2018-08-24_16h18_32%20%281%29.png)
 
 Vous pouvez ajouter les contenus suivants dans vos cahiers :
 
@@ -74,7 +74,7 @@ Il est possible d’ajouter dans vos cahiers multimédia des vidéos stockées s
 
 Ouvrez le cahier multimédia dans lequel vous souhaitez ajouter cette vidéo et cliquez sur l’icône d’ajout de vidéo.
 
-![](.gitbook/assets/cma-13-2.png)
+![](.gitbook/assets/cma-13-2%20%282%29.png)
 
 Dans la fenêtre qui s’ouvre, selectionnez un type de contenu de média \(vidéos hébergées sur Youtube, Viméo, Dailymotion, Learningaps.org et educaplay\) \(1\)
 
@@ -82,7 +82,7 @@ Dans la fenêtre qui s’ouvre, selectionnez un type de contenu de média \(vid�
 
 puis collez l’URL de la vidéo \(2\) et cliquez sur « Appliquer » \(3\).
 
-![](.gitbook/assets/cma-16-2%20%282%29.png)
+![](.gitbook/assets/cma-16-2%20%283%29.png)
 
 Pour une vidéo hébergée ailleurs , appuyez sur la vignette "Collez votre propre code" \(4\),
 
@@ -90,11 +90,11 @@ Pour une vidéo hébergée ailleurs , appuyez sur la vignette "Collez votre prop
 
 puis collez le lien Iframe \(5\) et cliquez sur "Appliquer" \(6\).
 
-![](.gitbook/assets/cma-17-2.png)
+![](.gitbook/assets/cma-17-2%20%281%29.png)
 
 Positionnez ensuite la vidéo dans la page et sauvegardez votre travail.
 
-![](.gitbook/assets/cma-14-2%20%281%29.png)
+![](.gitbook/assets/cma-14-2%20%282%29.png)
 
 Votre cahier est complété et la vidéo prête à être regardée !
 

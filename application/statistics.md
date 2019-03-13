@@ -18,7 +18,7 @@ L’appli Statistiques vous propose de suivre **cinq indicateurs** calculés sur
 
 Pour accéder à l’appli Statistiques, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/s2%20%282%29.png)
+![](.gitbook/assets/s2%20%283%29.png)
 
 A l’arrivée sur l’application, les statistiques de connexion s’affichent par défaut \(1\). Vous pouvez choisir la période pour laquelle vous souhaitez voir apparaître les statistiques en cliquant sur le début de la période \(2\) et la fin de la période \(3\) puis cliquez sur « Afficher le diagramme » \(4\) pour afficher les résultats.
 

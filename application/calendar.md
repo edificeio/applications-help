@@ -6,7 +6,7 @@ Une organisation haute en couleur ! Retrouvez, en un clin d’oeil, tous les év
 
 Le service Agenda permet de créer et partager des évènements.
 
-![](.gitbook/assets/agenda-page-1-1024x615%20%281%29.png)
+![](.gitbook/assets/agenda-page-1-1024x615%20%282%29.png)
 
 Il comprend les éléments suivants :
 
@@ -28,7 +28,7 @@ Une fois créé, l’agenda apparaît dans la liste des agendas de l’utilisate
 
 Depuis cette liste il est possible d’accéder aux opérations sur l’agenda en le sélectionnant à l’aide de la case à cocher \(2\). Un menu apparaît alors en bas de l’écran proposant les actions supplémentaires suivantes.
 
-![](.gitbook/assets/agenda-menu-bas%20%281%29.png)
+![](.gitbook/assets/agenda-menu-bas%20%282%29.png)
 
 Description des actions :
 
@@ -46,7 +46,7 @@ Pour créer un événement, plusieurs options s’offrent à l’utilisateur, il
 
 La fenêtre de création d’événement apparait en popup. Elle se décompose en trois onglets.
 
-![](.gitbook/assets/agenda-creation-evenement-1.png)
+![](.gitbook/assets/agenda-creation-evenement-1%20%281%29.png)
 
 Le premier onglet appelé "Détails" comporte les informations générales de l’événement à créer :
 
@@ -57,7 +57,7 @@ Le premier onglet appelé "Détails" comporte les informations générales de l�
 
 Le second onglet appelé "Dates" permet la sélection de la plage horaire de l’événement.
 
-![](.gitbook/assets/agenda-creation-date-1%20%282%29.png)
+![](.gitbook/assets/agenda-creation-date-1%20%283%29.png)
 
 {% hint style="info" %}
 Il est possible de changer les dates et heures de début et de fin. La case à cocher « Toute la journée » permet de définir un événement sans heure de début ou de fin.
@@ -81,11 +81,11 @@ Pour cela, il faut cocher la case « Récurrent » pour pouvoir accéder à la s
 
 L’accès au partage de la ressource calendrier se fait grâce au menu du bas lors de la sélection d’un calendrier dans la liste des calendriers de l’utilisateur.
 
-![](.gitbook/assets/2018-08-24_14h42_20-1%20%281%29.png)
+![](.gitbook/assets/2018-08-24_14h42_20-1%20%282%29.png)
 
 Dans la fenêtre, vous pouvez donner aux utilisateurs différents droits d’accès à votre agenda. Pour cela, suivez les étapes suivantes :
 
-![](.gitbook/assets/2018-08-24_14h45_50-2.png)
+![](.gitbook/assets/2018-08-24_14h45_50-2%20%281%29.png)
 
 1. Saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez.
 2. Sélectionnez le résultat.
@@ -101,13 +101,13 @@ Les droits de partage que vous pouvez attribuer aux autres utilisateurs sont les
 
 Les événements créés sont affichés sur la vue calendrier avec comme couleur de fond celle de l’agenda auxquels ils appartiennent. Si un événement est situé en dehors de la plage horaire affichée par le calendrier une petite bulle contenant le nombre d’événements antérieurs est affichée \(+1 ici\).
 
-![](.gitbook/assets/2018-08-24_14h49_45-2%20%281%29.png)
+![](.gitbook/assets/2018-08-24_14h49_45-2%20%282%29.png)
 
 Il est possible de choisir les agendas affichés sur le calendrier en cliquant dessus dans la partie de gauche. Les agenda non sélectionnés sont grisés.
 
 ![](.gitbook/assets/2018-08-24_14h50_13-1%20%281%29.png)
 
-La seconde façon de visualiser les événements est la vue liste accessible par l’icône ![](.gitbook/assets/agenda-icone-liste-1-2.png) en haut à droite de la vue principale.
+La seconde façon de visualiser les événements est la vue liste accessible par l’icône ![](.gitbook/assets/agenda-icone-liste-1-2%20%281%29.png) en haut à droite de la vue principale.
 
 ![](.gitbook/assets/2018-08-24_14h51_05-1%20%281%29.png)
 

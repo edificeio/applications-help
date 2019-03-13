@@ -8,13 +8,13 @@ L’appli Carte Mentale permet de **représenter visuellement une arborescence**
 
 La carte mentale peut être faite de manière collective ou personnelle, selon les souhaits du créateur de la carte.
 
-![](.gitbook/assets/carte-mentale-1%20%282%29.png)
+![](.gitbook/assets/carte-mentale-1%20%283%29.png)
 
 ## Créer une Carte Mentale
 
 Pour accéder à l’appli Carte mentale, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/carte-mentale-2.png)
+![](.gitbook/assets/carte-mentale-2%20%283%29.png)
 
 Cliquez sur « Créer une carte mentale ».
 
@@ -24,7 +24,7 @@ Cliquez sur « Créer une carte mentale ».
 2. Renseignez une description
 3. Cliquez sur « Enregistrer »
 
-![](.gitbook/assets/carte-mentale-5%20%281%29.png)
+![](.gitbook/assets/carte-mentale-5%20%282%29.png)
 
 Cliquez sur le nom de votre carte pour la créer. Cliquez sur le nom de votre carte mentale dans le menu principal pour commencer à la construire.
 
@@ -46,11 +46,11 @@ Pour supprimer un nœud, sélectionnez le nœud et cliquez sur l’icône « Sup
 
 La barre d’outils de la carte mentale vous permet de modifier le format du texte : la typographie, la taille, la mise en forme de la police et sa couleur. Pour modifier le texte, sélectionnez le texte du nœud et cliquez sur les icônes suivantes dans la barre d’outils.
 
-![](.gitbook/assets/carte-mentale-8%20%281%29.png)
+![](.gitbook/assets/carte-mentale-8%20%282%29.png)
 
 L’éditeur de texte vous permet de créer facilement une carte mentale.
 
-![](.gitbook/assets/m5%20%281%29.png)
+![](.gitbook/assets/m5%20%282%29.png)
 
 **Ajouter un lien entre deux nœuds**
 
@@ -72,7 +72,7 @@ Les liens et les notes apparaissent sous forme d’icône dans le nœud avant le
 
 Lorsque la carte mentale est terminée, cliquez sur « Enregistrer ».
 
-![](.gitbook/assets/m6%20%281%29.png)
+![](.gitbook/assets/m6%20%282%29.png)
 
 Votre carte est maintenant créée !
 
@@ -86,7 +86,7 @@ Dans la fenêtre de partage, vous pouvez donner des droits de lecture, de contri
 
 Pour valider, cliquez sur le bouton "Partager".
 
-![](.gitbook/assets/carte-mentale%20%282%29.png)
+![](.gitbook/assets/carte-mentale%20%283%29.png)
 
 Les différents droits que vous pouvez attribuer sont les suivants :
 

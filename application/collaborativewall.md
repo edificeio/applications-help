@@ -12,7 +12,7 @@ Différents types de contenus \(**son, image, texte, vidéo…**\) peuvent être
 
 Pour accéder à l’appli Mur collaboratif, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/mur-1%20%282%29.png)
+![](.gitbook/assets/mur-1%20%283%29.png)
 
 ![](.gitbook/assets/m11%20%281%29.png)
 
@@ -28,11 +28,11 @@ Une nouvelle page apparaît.
 4. Choisissez une image de fond
 5. Cliquez sur « Sauvegarder »
 
-![](.gitbook/assets/mur-2-1024x474%20%282%29.png)
+![](.gitbook/assets/mur-2-1024x474%20%283%29.png)
 
 Pour partager le mur, cliquez sur le + \(1\) correspondant au mur puis sur « Partager » \(2\).
 
-![](.gitbook/assets/mur-3-1024x501%20%281%29.png)
+![](.gitbook/assets/mur-3-1024x501%20%282%29.png)
 
 Dans la fenêtre de partage, vous pouvez donner des droits de lecture, de contribution et de gestion à d’autres personnes sur votre mur. Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez \(1\), sélectionnez le résultat \(2\) et cochez les cases correspondant aux droits que vous souhaitez leur attribuer \(3\).
 
@@ -65,11 +65,11 @@ Une palette de couleurs apparait sur la partie supérieure de la page. Cliquez s
 
 ![](.gitbook/assets/m111%20%281%29.png)
 
-Pour afficher l’auteur de la note, cliquez sur: ![](.gitbook/assets/m12-1.png)
+Pour afficher l’auteur de la note, cliquez sur: ![](.gitbook/assets/m12-1%20%283%29.png)
 
-![](.gitbook/assets/m13-1.png)
+![](.gitbook/assets/m13-1%20%281%29.png)
 
-Pour ajouter du contenu à la note, cliquez sur: ![](.gitbook/assets/m14-1%20%282%29.png)
+Pour ajouter du contenu à la note, cliquez sur: ![](.gitbook/assets/m14-1%20%284%29.png)
 
 ![](.gitbook/assets/editeur-texte_mur_collabora-1024x288.png)
 

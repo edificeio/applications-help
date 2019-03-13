@@ -22,9 +22,9 @@ Pour créer un fil d’actualités, suivez les étapes suivantes :
 
 ![](.gitbook/assets/actu_2_1-1024x318-1.png)
 
-![](.gitbook/assets/a28%20%282%29.png)
+![](.gitbook/assets/a28%20%283%29.png)
 
-![](.gitbook/assets/a37%20%281%29.png)
+![](.gitbook/assets/a37%20%282%29.png)
 
 {% hint style="info" %}
 Par défaut seuls les enseignants et les personnels sont habilités à créer des fils d’actualités.
@@ -50,7 +50,7 @@ Pour partager le fil d’actualités avec d’autres utilisateurs, suivez les é
 
 Pour valider, cliquez sur le bouton "Partager".
 
-![](.gitbook/assets/fil-actu%20%282%29.png)
+![](.gitbook/assets/fil-actu%20%283%29.png)
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs du réseau sur le fil d’actualités sont les suivants :
 
@@ -62,7 +62,7 @@ Les différents droits que vous pouvez attribuer aux autres utilisateurs du rés
 
 Pour créer une actualité, cliquez sur le bouton « Nouvelle actualité ».
 
-![](.gitbook/assets/capture%20%281%29.png)
+![](.gitbook/assets/capture%20%282%29.png)
 
 Dans la nouvelle fenêtre, indiquez le titre de l’actualité \(1\), le fil auquel l’actualité sera rattachée \(2\), les dates de publication et d’expiration \(3\), et le contenu de votre actualité \(4\).  
 La case à cocher « Mettre à la une » permet de laisser votre actualité en haut de la liste.

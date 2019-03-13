@@ -12,7 +12,7 @@ L’appli Frise chronologique permet **d’associer des événements à leur pos
 
 Pour accéder à l’appli Frise chronologique, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/frise-chrono-1.png)
+![](.gitbook/assets/frise-chrono-1%20%281%29.png)
 
 Cliquez sur le bouton « Créer une frise ».
 
@@ -25,7 +25,7 @@ Suivez les étapes suivantes :
 * Renseignez le descriptif de la frise
 * Cliquez sur « Sauvegarder »
 
-![](.gitbook/assets/frise_1%20%282%29.png)
+![](.gitbook/assets/frise_1%20%283%29.png)
 
 Votre frise chronologique est désormais créée mais n’est pas encore visible. Pour le partager avec d’autres utilisateurs, cliquez sur le bouton « + » \(1\) présent dans le coin supérieur droit de la vignette de votre frise puis cliquez sur le bouton « Partager » \(2\).
 
@@ -47,7 +47,7 @@ Les différents droits que vous pouvez attribuer sont les suivants :
 
 Pour créer du contenu dans la frise, cliquez sur « Ajouter un événement ».
 
-![](.gitbook/assets/frise1-1024x361%20%282%29.png)
+![](.gitbook/assets/frise1-1024x361%20%283%29.png)
 
 Vous devez renseigner plusieurs informations pour créer un évènement :
 
