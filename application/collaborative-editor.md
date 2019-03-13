@@ -10,19 +10,19 @@ Le Pad est un éditeur de texte en ligne fonctionnant en mode collaboratif temps
 
 Pour créer un Pad, cliquez sur le bouton « Créer un Pad » dans la page d’accueil de l’appli.
 
-![](.gitbook/assets/nouveaupad1%20%283%29.png)
+![](.gitbook/assets/nouveaupad1-2%20%281%29.png)
 
 Ensuite, saisissez un nom \(1\) et enregistrez si vous le souhaitez une image d’illustration du Pad \(sinon c’est l’icône par défaut qui est affichée\) \(2\). Vous pouvez ensuite si vous le souhaitez ajouter une description \(3\).
 
 Cliquez enfin sur « Enregistrer » \(4\).
 
-![](.gitbook/assets/nouveaupad2%20%283%29.png)
+![](.gitbook/assets/nouveaupad2-2%20%281%29.png)
 
 ## Partager un Pad
 
 Pour partager un Pad avec d’autres utilisateurs, cliquez sur la case à cocher correspondant à votre Pad \(1\) puis sur le bouton « Partager » \(2\).
 
-![](.gitbook/assets/partagepad%20%283%29.png)
+![](.gitbook/assets/partagepad-2.png)
 
 Dans la fenêtre, vous pouvez donner aux utilisateurs différents droits d’accès à votre Pad. Pour cela, suivez les étapes suivantes :
 
@@ -30,7 +30,7 @@ Dans la fenêtre, vous pouvez donner aux utilisateurs différents droits d’acc
 2. Sélectionnez le résultat.
 3. Cochez les cases correspondant aux droits que vous souhaitez leur attribuer.
 
-![](.gitbook/assets/partage-pad%20%281%29.png)
+![](.gitbook/assets/partage-pad%20%283%29.png)
 
 Les droits de partage que vous pouvez attribuer aux autres utilisateurs sont les suivants :
 
@@ -42,7 +42,7 @@ Les droits de partage que vous pouvez attribuer aux autres utilisateurs sont les
 
 Pour travailler avec un Pad partagé, il vous suffit de saisir le texte qui sera transmis automatiquement à tous les collaborateurs en ligne sur ce même Pad.
 
-![](.gitbook/assets/travaillerpad.png)
+![](.gitbook/assets/travaillerpad%20%282%29.png)
 
 1. Saisissez du texte dans votre Pad.
 2. Dès lors qu’un collaborateur contribue, sa contribution s’affiche en temps réel dans une couleur différente.
@@ -51,7 +51,7 @@ Pour travailler avec un Pad partagé, il vous suffit de saisir le texte qui sera
    * La partie gauche concerne des outils de saisie de texte classique \(gras, italique, souligné, etc.\)
    * La partie droite offre certaines fonctionnalités complémentaires :
 
-![](.gitbook/assets/barre-outil.png)
+![](.gitbook/assets/barre-outil%20%283%29.png)
 
 * Importer/exporter un Pad dans divers formats ;
 * Accéder à l’historique dynamique. Cette fonctionnalité présente une cinématique des différentes versions du contenu du Pad ;
