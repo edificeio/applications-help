@@ -8,7 +8,7 @@ Le forum est un outil d'échange généralement **animé par une ou plusieurs pe
 
 L’appli Forum permet de créer des catégories de forum dans lesquelles il est ensuite possible d’animer des discussions. Chaque message publié dans la discussion s’affiche à la suite du précédent avec la date de publication et l’identifiant de la personne qui a posté le message.
 
-![](.gitbook/assets/forum_presentation%20%281%29.png)
+![](.gitbook/assets/forum_presentation-1.png)
 
 ## Créer et partager une catégorie
 
@@ -20,7 +20,7 @@ Pour créer un forum, cliquez sur « Créer une catégorie ».
 2. Cliquez sur l’image pour modifier la vignette
 3. Cliquez sur « Sauvegarder »
 
-![](.gitbook/assets/a210%20%281%29.png)
+![](.gitbook/assets/a210-1%20%281%29.png)
 
 La catégorie de forum a été créée mais n’est pas encore visible par les autres utilisateurs. Pour la partager, suivez les étapes suivantes :
 
@@ -30,7 +30,7 @@ La catégorie de forum a été créée mais n’est pas encore visible par les a
 
 Pour valider, cliquez sur le bouton "Partager", puis "Terminer".
 
-![](.gitbook/assets/partage-forum%20%282%29.png)
+![](.gitbook/assets/partage-forum-2%20%281%29.png)
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs de l’ENT sur la catégorie de forum sont les suivants :
 
@@ -48,21 +48,21 @@ Pour créer une discussion :
 1. Cliquez sur la case à cocher de la catégorie de forum dans laquelle vous souhaitez créer une discussion
 2. Cliquez sur « Nouvelle discussion »
 
-![](.gitbook/assets/f21.png)
+![](.gitbook/assets/f21%20%282%29.png)
 
 Dans la fenêtre qui s’ouvre, renseignez le titre de la discussion \(3\), saisissez le premier message \(2\) et cliquez sur « Envoyer » \(3\).
 
-![](.gitbook/assets/creer-une-discussion1-1024x445.png)
+![](.gitbook/assets/creer-une-discussion1-1024x445%20%282%29.png)
 
 ## Publier un message
 
 Pour poster un message, cliquez sur la discussion concernée.
 
-![](.gitbook/assets/f3.png)
+![](.gitbook/assets/f3%20%283%29.png)
 
 Rédigez votre message dans la zone de texte en bas de page \(1\) et cliquez sur « Répondre » \(2\).
 
-![](.gitbook/assets/f4.png)
+![](.gitbook/assets/f4%20%281%29.png)
 
 ## Gérer une catégorie
 
@@ -76,7 +76,7 @@ Vous êtes gestionnaire d’une catégorie de discussions lorsque vous l’avez 
 
 Pour gérer une catégorie, cliquez sur la case à cocher qui y est associée.
 
-![](.gitbook/assets/forum%20%281%29.png)
+![](.gitbook/assets/forum-1%20%281%29.png)
 
 ## Gérer une discussion
 
@@ -90,5 +90,5 @@ Vous êtes gestionnaire d’une discussion lorsque vous l’avez créée ou lors
 
 Pour gérer une discussion, cliquez sur la case à cocher qui y est associée.
 
-![](.gitbook/assets/f22%20%282%29.png)
+![](.gitbook/assets/f22-2%20%281%29.png)
 
