@@ -4,15 +4,15 @@
 
 Pour accéder à vos applis, cliquez sur l’icône correspondante dans le bandeau de navigation.
 
-![](.gitbook/assets/a16.png)
+![](.gitbook/assets/a16%20%282%29.png)
 
 Vous accédez aux services pour lesquels vous avez des droits d’accès : applications, connecteurs aux outils de vie scolaire, sites web internes au réseau ou publics …
 
-![](.gitbook/assets/1.png)
+![](.gitbook/assets/1%20%281%29.png)
 
 Pour accéder à une appli, cliquez sur l’icône correspondante.
 
-![](.gitbook/assets/2.png)
+![](.gitbook/assets/2%20%283%29.png)
 
 La page d’accueil de l’appli apparaît.
 
@@ -20,9 +20,9 @@ La page d’accueil de l’appli apparaît.
 
 La gestion des favoris vous permet d’accéder rapidement à vos applications préférées. Le menu des favoris est accessible directement depuis l’icône du bandeau de navigation \(1\).
 
-![](.gitbook/assets/mes-applis-1.png)
+![](.gitbook/assets/mes-applis-1%20%283%29.png)
 
 Pour ajouter une application dans les favoris, il faut effectuer un glisser-déposer. Pour cela, sélectionnez l’application à déplacer \(1\) et glissez-la vers l’emplacement dédié à cet effet\(2\).
 
-![](.gitbook/assets/mes-applis-2.png)
+![](.gitbook/assets/mes-applis-2%20%283%29.png)
 

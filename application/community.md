@@ -12,7 +12,7 @@ Plutôt que de proposer un usage centré sur un outil \(le blog ou le wiki par e
 
 Pour accéder à l’appli Communautés, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/mes_applis_3-1024x231.png)
+![](.gitbook/assets/mes_applis_3-1024x231%20%284%29.png)
 
 Cliquez sur « Créer une communauté » :
 
@@ -23,7 +23,7 @@ La fenêtre de création s’ouvre
 3. Renseignez une description
 4. Cliquez sur « Créer »
 
-![](.gitbook/assets/communaute-creation.png)
+![](.gitbook/assets/communaute-creation%20%281%29.png)
 
 La fenêtre de configuration s’affiche.
 

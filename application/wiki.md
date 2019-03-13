@@ -6,25 +6,25 @@ Montez une encyclopédie sur la notion vue en cours ! Grâce à l’appli **Wiki
 
 Un wiki permet de **créer et publier des contenus \(texte, images…\) dans différentes pages liées entre elles**. La page d’accueil du wiki est souvent utilisée comme un index référençant l’ensemble des pages créées dans le wiki.
 
-![](.gitbook/assets/wiki_presentation1.png)
+![](.gitbook/assets/wiki_presentation1%20%281%29.png)
 
 ## Créer un Wiki
 
 Pour créer un wiki, cliquez sur le bouton « Créer un wiki » dans la page d’accueil de l’appli.
 
-![](.gitbook/assets/w1-1.png)
+![](.gitbook/assets/w1-1%20%282%29.png)
 
 Saisissez un titre \(1\) et enregistrez si vous le souhaitez une image d’illustration du wiki \(sinon c’est l’icône par défaut qui est affichée\) \(2\).
 
 Cliquez enfin sur « Enregistrer » \(3\)
 
-![](.gitbook/assets/w2.png)
+![](.gitbook/assets/w2%20%281%29.png)
 
 ## Partager un Wiki
 
 Pour partager un Wiki avec d’autres utilisateurs, cliquez sur le correspondant au Wiki \(1\) puis sur le bouton « Partager » \(2\).
 
-![](.gitbook/assets/wiki_1-1024x490.png)
+![](.gitbook/assets/wiki_1-1024x490%20%283%29.png)
 
 Dans la fenêtre, vous pouvez donner aux utilisateurs de l’ENT différents droits d’accès à votre wiki. Pour cela, suivez les étapes suivantes :
 
@@ -34,7 +34,7 @@ Dans la fenêtre, vous pouvez donner aux utilisateurs de l’ENT différents dro
 
 Pour valider, cliquez sur le bouton "Partager".
 
-![](.gitbook/assets/wiki.png)
+![](.gitbook/assets/wiki%20%283%29.png)
 
 Les droits de partage que vous pouvez attribuer aux autres utilisateurs sont les suivants :
 
@@ -52,7 +52,7 @@ Pour créer et éditer une page dans le Wiki, suivez les étapes suivantes :
 3. Saisissez du contenu
 4. Cliquez sur « Enregistrer »
 
-![](.gitbook/assets/w4.png)
+![](.gitbook/assets/w4%20%281%29.png)
 
 ![](.gitbook/assets/wiki-editer-1024x539.png)
 
@@ -67,7 +67,7 @@ Vous pouvez modifier une page. Pour cela, suivez les étapes suivantes :
 1. Cliquez sur le bouton « Modifier », en haut à droite de la page.
 2. Effectuez les modifications nécessaires et cliquez sur le bouton « Enregistrer ».
 
-![](.gitbook/assets/wiki-modifier-1-1024x410.png)
+![](.gitbook/assets/wiki-modifier-1-1024x410%20%281%29.png)
 
 ## Comparer deux versions de pages
 
@@ -78,7 +78,7 @@ Pour comparer deux versions de page, suivez les étapes suivantes :
 1. Cliquez sur le bouton « Plus » en haut à droite de la page.
 2. Cliquez sur le bouton « Versions »
 
-![](.gitbook/assets/wiki-version-1-1024x451.png)
+![](.gitbook/assets/wiki-version-1-1024x451%20%282%29.png)
 
 La liste des versions de la page s’affiche, avec pour chacune les informations suivantes :
 
@@ -87,14 +87,14 @@ La liste des versions de la page s’affiche, avec pour chacune les informations
 
 Pour comparer deux versions de page, sélectionnez les cases à cocher des versions correspondantes \(1\) et cliquez sur « Comparer » en bas à gauche de la page \(2\).
 
-![](.gitbook/assets/w21.png)
+![](.gitbook/assets/w21%20%281%29.png)
 
 Les deux versions de page apparaissent l’une à côté de l’autre avec :
 
 * En vert : les ajouts
 * En rouge : les suppressions
 
-![](.gitbook/assets/wiki-version-2-1024x467.png)
+![](.gitbook/assets/wiki-version-2-1024x467%20%282%29.png)
 
 Il est également possible de restaurer une version précédente en cliquant sur « Restaurer » en haut de la page correspondante.
 

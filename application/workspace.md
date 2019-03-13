@@ -6,7 +6,7 @@
 
 Pour accéder à l’appli Espace Documentaire, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/espace-doc-1.png)
+![](.gitbook/assets/espace-doc-1%20%281%29.png)
 
 **Mes documents** : Dans ce dossier, vous pouvez charger tous types de fichiers depuis votre ordinateur, qu’il s’agisse de documents texte ou PDF, d’images, de vidéos ou d’extraits audio. Classez ces fichiers dans des dossier pour les retrouver plus facilement. En quelques clics, partagez vos documents personnels avec d’autres utilisateurs en leur attribuant des droits de consultation, de contribution ou de commentaire, selon vos besoins.
 
@@ -37,22 +37,22 @@ Si vous effectuez une action de partage sur plusieurs fichiers ou dossiers alors
 
 Pour importer un document dans votre espace de stockage personnel, cliquez sur le bouton « Importer » situé en haut de l’interface.
 
-![](.gitbook/assets/import-bouton-1.png)
+![](.gitbook/assets/import-bouton-1%20%281%29.png)
 
 Dans la nouvelle fenêtre, suivez les étapes suivantes :
 
 1. Cliquez sur « Parcourir » et sélectionnez sur votre ordinateur le\(s\) document\(s\) que vous souhaitez enregistrer dans l’espace documentaire. Vous pouvez également effectuer un glisser-déposer multiple.
 2. Cliquez sur « Importer ».
 
-![](.gitbook/assets/fenetre-import-vide-1.png)
+![](.gitbook/assets/fenetre-import-vide-1%20%284%29.png)
 
-![](.gitbook/assets/fenetre-import-full%20%281%29.png)
+![](.gitbook/assets/fenetre-import-full-1%20%281%29.png)
 
 **Vous pouvez importer plusieurs fichiers en une seule fois, si vous en sélectionnez plusieurs sur votre ordinateur.**
 
 Vous pouvez aussi importer un document ou plusieurs documents en effectuant un glisser-déposer. Pour cela, sélectionnez le ou les documents à déplacer \(1\) depuis votre espace de travail et glissez-le vers son nouvel emplacement \(2\).
 
-![](.gitbook/assets/espace-doc-6-1.png)
+![](.gitbook/assets/espace-doc-6-1%20%281%29.png)
 
 ## Partager un document
 
@@ -61,7 +61,7 @@ Pour partager votre document avec d’autres utilisateurs, suivez les étapes su
 * Sélectionnez le document en question en cliquant sur l’encoche \(1\)
 * Cliquez sur le bouton "Partager" en bas de l'écran \(2\)
 
-![](.gitbook/assets/partage-doc%20%281%29.png)
+![](.gitbook/assets/partage-doc-1.png)
 
 La fenêtre de partage apparaît. Pour attribuer des droits à d’autres utilisateurs, suivez les étapes suivantes :
 
@@ -71,25 +71,25 @@ La fenêtre de partage apparaît. Pour attribuer des droits à d’autres utilis
 
 Cliquez ensuite sur le bouton "Partager"
 
-![](.gitbook/assets/partagedocumentaire.png)
+![](.gitbook/assets/partagedocumentaire%20%283%29.png)
 
 ## Déplacer un document ou un dossier
 
 Vous pouvez déplacer vos documents et vos dossiers facilement dans votre espace documentaire. Pour cela, sélectionnez le document ou le dossier à déplacer \(1\) et glissez-le vers son nouvel emplacement \(2\).
 
-![](.gitbook/assets/espace-doc-7%20%281%29.png)
+![](.gitbook/assets/espace-doc-7-1%20%281%29.png)
 
 Vous ne pouvez pas déplacer un fichier du dossier « Mes documents » vers les dossiers « Documents partagés avec moi » et « Documents ajoutés dans les applis ».
 
 Le dossier se trouve maintenant à l’emplacement choisi.
 
-![](.gitbook/assets/doc-glisser-deposer-2-1024x273.png)
+![](.gitbook/assets/doc-glisser-deposer-2-1024x273%20%283%29.png)
 
 ## Connaître l’espace de stockage disponible
 
 La jauge affichée sous la liste des dossiers de l’espace documentaire vous permet de connaître l’espace de stockage dont vous disposez. L’espace utilisé est indiqué sur la gauche. Le chiffre situé sur la droite indique l’espace total de l’utilisateur.
 
-![](.gitbook/assets/document11.png)
+![](.gitbook/assets/document11%20%281%29.png)
 
 ## Ajouter la nouvelle version d’un document
 
@@ -97,11 +97,11 @@ Vous pouvez mettre à jour un document tout en gardant une trace de ses précéd
 
 Pour mettre à jour un document, cliquer une fois sur le document pour qu’il soit surligner en bleu. La barre d’action s’affiche en bas de page, cliquez sur le bouton « Versions ».
 
-![](.gitbook/assets/doc-selection-fichier-2.png)
+![](.gitbook/assets/doc-selection-fichier-2%20%283%29.png)
 
 Une nouvelle page s’affiche, cliquez sur le bouton « Nouvelle version ».
 
-![](.gitbook/assets/document5-1024x328-1.png)
+![](.gitbook/assets/document5-1024x328-1%20%282%29.png)
 
 Choisissez le document depuis votre poste de travail et cliquez sur « Ouvrir ».
 
@@ -109,7 +109,7 @@ Choisissez le document depuis votre poste de travail et cliquez sur « Ouvrir »
 
 Le document a été mis à jour.
 
-![](.gitbook/assets/document7-1024x408%20%281%29.png)
+![](.gitbook/assets/document7-1024x408-1%20%284%29.png)
 
 Le document sera renommé avec le libellé du dernier document importé.
 
@@ -122,7 +122,7 @@ Pour visualiser les anciennes versions d’un document, suivez les étapes suiva
 1. Cliquez une fois sur le document pour qu’il soit surligné en bleu
 2. Cliquez sur le bouton "Versions" en bas de page
 
-![](.gitbook/assets/doc-selection-fichier-1.png)
+![](.gitbook/assets/doc-selection-fichier-1%20%282%29.png)
 
 Toutes les versions du document s’affichent. Chaque version permet d’accéder aux informations suivantes :
 
@@ -132,5 +132,5 @@ Toutes les versions du document s’affichent. Chaque version permet d’accéde
 
 Il est possible de supprimer toutes les versions du document sauf la dernière mise à jour.
 
-![](.gitbook/assets/document8-1024x399.png)
+![](.gitbook/assets/document8-1024x399%20%281%29.png)
 

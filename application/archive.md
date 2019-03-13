@@ -10,8 +10,8 @@ Le fichier généré \(archive\) contient les **documents personnels** de l’ut
 
 Lorsqu’un utilisateur lance l’export de ses données, il est prévenu que s’il n’a pas le temps d’attendre la fin de la génération de l’archive, il trouvera un lien vers cette archive dans son fil de nouveautés.
 
-![](.gitbook/assets/export_avertissement.png)  
+![](.gitbook/assets/export_avertissement%20%282%29.png)  
 Si l’utilisateur sort de la page sans récupérer son archive, il peut alors la retrouver dans le fil de notifications.
 
-![](.gitbook/assets/export_notif.png)
+![](.gitbook/assets/export_notif%20%281%29.png)
 
