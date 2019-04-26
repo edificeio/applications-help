@@ -100,10 +100,12 @@ Il vous suffit ensuite de compléter les champs de la question en renseignant :
 2. Le nombre de points attribués à la question
 3. L’énoncé à l’aide de l’éditeur de texte
 4. La ou les réponse\(s\)
-5. L’explication de la réponse
-6. L’aide à la réponse
+5. L’explication de la réponse \(fourni à l'apprenant après correction du sujet\)
+6. L’aide à la réponse \(fourni à l'apprenant lors de la réalisation du sujet\)
 
 ![](.gitbook/assets/renseigner-un-exercice%20%281%29.jpg)
+
+Pour certains types de question avec plusieurs possibilités de réponses \(questions "Réponses multiples", "QCM", "Association" et "Mise en ordre"\), il existe un **mode de correction "Erreur non autorisée"** affiché sous forme de case à cocher lors de la rédaction de la question. Lorsque vous cochez cette case, si l'apprenant fait une erreur, toute la question sera considérée comme fausse. Par exemple : pour une question sur 2 points, si l'apprenant effectue 1 bonne réponse alors qu'il en faut 2, il aura 0 point.
 
 Cliquez ensuite sur « ajouter un élément » et choisissez le type de la prochaine question. En cochant la case à gauche du titre de la question, un bandeau orange en bas de votre écran s’affiche. Vous pouvez « dupliquer » ou « supprimer » la question.
 
@@ -205,13 +207,25 @@ _Nota Bene : Contrairement à la publication de sujet dans la bibliothèque \(cf
 
 ## Enseignant - Corriger un sujet
 
-Pour corriger un sujet, cliquez sur l’onglet « Mes corrections » en haut à gauche de l’écran.
+Pour corriger un sujet, cliquez sur l’onglet « Mes corrections » en haut à gauche de l’écran puis cliquez sur le sujet que vous souhaitez corriger.
 
 ![](.gitbook/assets/mes-corrections%20%283%29.jpg)
 
-Cliquez sur le sujet que vous souhaitez corriger. Vous arrivez sur la liste des élèves du groupe auquel vous avez distribué le sujet. Cliquez sur le nom de l’élève pour corriger la copie \(1\). Vous pouvez cochez la case à gauche du nom de l’élève pour changer à la volée le statut de ou de plusieurs copies en "corrigé" \(2\).
+Vous arrivez sur la liste des élèves du groupe auquel vous avez distribué le sujet. Pour les élèves n'ayant pas rendu leur devoir, vous pouvez sélectionner un des élèves sur la case à cocher \(1\) afin de lui envoyer un rappel \(2\) pour faire le devoir, ou l'exclure de l'évaluation \(3\) si l'élève ne peut pas faire le devoir. Il est également possible de sélectionner en lot tous les élèves n'ayant pas rendu le devoir \(4\).
+
+![](.gitbook/assets/correction-1.PNG)
+
+Cliquez sur le nom de l’élève \(1\) pour corriger la copie rendue par celui-ci. Vous pouvez cochez la case à gauche du nom de l’élève pour changer à la volée le statut d'une ou de plusieurs copies en "corrigé" \(2\).
 
 ![](.gitbook/assets/corrections%20%281%29.jpg)
+
+Vous disposez de plusieurs statuts de correction pour vous repérez au cours des corrections des devoirs.
+
+* Corrigé \(1\) : le devoir a été corrigé et il sera disponible pour l'élève à partir de la date de rendu
+* En cours de correction \(2\) : la correction a été débutée mais n'est pas finalisée
+* Rendu \(3\) : le devoir a été rendu par l'élève mais la correction n'a pas été débutée
+
+![](.gitbook/assets/corrections-2-etat.PNG)
 
 ## Enseignant - Publier un sujet dans la bibliothèque
 
