@@ -105,9 +105,9 @@ Il vous suffit ensuite de compléter les champs de la question en renseignant :
 
 ![](.gitbook/assets/renseigner-un-exercice%20%281%29.jpg)
 
-Pour certains types de question avec plusieurs possibilités de réponses \(questions "Réponses multiples", "QCM", "Association" et "Mise en ordre"\), il existe un **mode de correction "Erreur non autorisée"** affiché sous forme de case à cocher lors de la rédaction de la question. Lorsque vous cochez cette case, si l'apprenant fait une erreur, toute la question sera considérée comme fausse. Par exemple : pour une question sur 2 points, si l'apprenant effectue 1 bonne réponse alors qu'il en faut 2, il aura 0 point.
+Pour certains types de question avec plusieurs possibilités de réponses \("Réponses multiples", "QCM", "Association" et "Mise en ordre"\), une case à cocher **"Erreur non autorisée"** s'affiche lors de la rédaction de la question. En sélectionnant cette option, cela signifie que l'apprenant devra trouver la totalité de la réponse et ne sera pas autorisé à trouver partiellement la réponse à la question. Par exemple : pour une question incluant deux bonnes réponses à trouver, si l'apprenant n'en trouve qu'une sur les deux, alors aucun point ne lui sera accordé.
 
-Cliquez ensuite sur « ajouter un élément » et choisissez le type de la prochaine question. En cochant la case à gauche du titre de la question, un bandeau orange en bas de votre écran s’affiche. Vous pouvez « dupliquer » ou « supprimer » la question.
+Après avoir créé votre question, cliquez sur « ajouter un élément » et choisissez le type de la question suivante pour poursuivre votre sujet. En cochant la case à gauche du titre de la question, un bandeau orange en bas de votre écran s’affiche. Vous pouvez « dupliquer » ou « supprimer » la question.
 
 ![](.gitbook/assets/case-a-cocher%20%282%29.jpg)
 
@@ -223,7 +223,7 @@ Vous disposez de plusieurs statuts de correction pour vous repérez au cours des
 
 * Corrigé \(1\) : le devoir a été corrigé et il sera disponible pour l'élève à partir de la date de rendu
 * En cours de correction \(2\) : la correction a été débutée mais n'est pas finalisée
-* Rendu \(3\) : le devoir a été rendu par l'élève mais la correction n'a pas été débutée
+*  Rendu \(3\) : le devoir a été rendu par l'élève mais la correction n'a pas encore débutée
 
 ![](.gitbook/assets/corrections-2-etat.PNG)
 
