@@ -6,7 +6,7 @@ Communiquez dans un cadre sécurisé ! Envoyez et recevez tous vos e-mails via l
 
 L’appli Messagerie permet d’envoyer simplement un message à **un utilisateur** ou à un **groupe d’utilisateurs** \(les élèves d’une classe, le personnel de l'établissement, etc.\) ayant un accès à l’ENT.
 
-![](.gitbook/assets/messagerie-1-2%20%281%29.png)
+![](.gitbook/assets/messagerie-1-2%20%282%29.png)
 
 La réception d’un nouveau message est visible dès la page d’accueil. Elle est indiquée par une **notification** dans le bandeau de navigation et dans le fil de nouveautés. Le nombre de messages non lus est indiqué devant chaque dossier.
 
@@ -18,7 +18,7 @@ Dans le service Messagerie, cliquez sur le bouton « Nouveau message » présent
 
 Vous accédez à la fenêtre de création d’un message.
 
-![](.gitbook/assets/creation-2%20%281%29.png)
+![](.gitbook/assets/creation-2%20%282%29.png)
 
 \(1\) Indiquez le\(s\) destinataire\(s\) de votre message dans le champ « A » en saisissant les trois premières lettres de son nom ou en appuyant sur entrée. Vous pouvez adresser un message à un utilisateur en particulier \(par exemple un élève\), ou à un groupe d’utilisateurs \(par exemple les parents d’élèves de Terminale\).
 
@@ -39,7 +39,7 @@ Dans la fenêtre de saisie de contenu, rédigez votre message \(1\). Cliquez sur
 
 Choisissez le document depuis votre poste de travail.
 
-![](.gitbook/assets/m41-2%20%281%29.png)
+![](.gitbook/assets/m41-2%20%282%29.png)
 
 En cochant « Ajouter une signature », vous pouvez maintenant paramétrer l’ajout d’une signature pour ce message et pour les suivants.
 
@@ -57,7 +57,7 @@ Toutes les modifications effectuées sont automatiquement enregistrées. Vous po
 
 Une fois que votre message est prêt, vous pouvez l’envoyer.
 
-![](.gitbook/assets/envoyer-1%20%281%29.png)
+![](.gitbook/assets/envoyer-1%20%282%29.png)
 
 ## Visualiser mes messages reçus
 
@@ -67,7 +67,7 @@ Lorsque vous recevez un nouveau message, la notification est indiquée dans le b
 
 Une fois dans l’appli messagerie, les nouveaux messages sont visibles dans la notification indiquée dans le dossier « boîte de réception ». Le nombre de messages non lus est indiqué dans la bulle à droite de la mention « Boîte de réception ».
 
-![](.gitbook/assets/messagerie-1-1-2%20%281%29.png)
+![](.gitbook/assets/messagerie-1-1-2%20%282%29.png)
 
 Sur l’écran central, les messages non lus apparaissent en bleu dans la liste et sont indiqués par une enveloppe fermée.
 
@@ -77,7 +77,7 @@ Sur l’écran central, les messages non lus apparaissent en bleu dans la liste 
 
 \(2\) Le trombone indique que le message comporte une pièce jointe
 
-![](.gitbook/assets/messagerie-2%20%282%29.png)
+![](.gitbook/assets/messagerie-2%20%283%29.png)
 
 \(1\) Le filtre « messages non lus » vous permet de ne faire apparaître que les messages qui n’ont pas encore été lus.
 

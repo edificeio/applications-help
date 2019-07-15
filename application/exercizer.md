@@ -42,19 +42,19 @@ Une fois l’exercice terminé, cliquez sur rendre la copie. Un message de confi
 
 Lorsqu’un exercice est corrigé, vous êtes informés via une publication sur le fil de nouveauté.
 
-![](.gitbook/assets/notif-2%20%281%29.jpg)
+![](.gitbook/assets/notif-2%20%282%29.jpg)
 
 Vous pouvez vous rendre sur l’application « Exercices et évaluations », cliquez sur l’onglet « terminés » en haut et à gauche de la page \(1\).
 
 Les sujets corrigés s’affichent.
 
-![](.gitbook/assets/termines%20%284%29.jpg)
+![](.gitbook/assets/termines%20%285%29.jpg)
 
 Cliquez ensuite sur le sujet dont vous souhaitez voir la correction \(2\).
 
 Un résumé s’affiche avec le score final et éventuellement des commentaires formulés par le professeur.
 
-![](.gitbook/assets/copie-1%20%281%29.jpg)
+![](.gitbook/assets/copie-1%20%282%29.jpg)
 
 Vous pouvez ensuite accéder au-dessous à la correction par question. Les bonnes réponses s’affichent en vert et les mauvaises en rouge.
 
@@ -76,7 +76,7 @@ Cliquez enfin sur « Enregistrer » \(4\)
 
 Pour ajouter du contenu à votre sujet, cliquez sur « ajouter un élément » :
 
-![](.gitbook/assets/ajouter-un-element-1%20%281%29.png)
+![](.gitbook/assets/ajouter-un-element-1%20%282%29.png)
 
 Pour sélectionner le type de contenu à ajouter, cliquez sur « Enoncé » ou « Question ».
 
@@ -111,7 +111,7 @@ Cliquez ensuite sur « ajouter un élément » et choisissez le type de la proch
 
 Le volet à gauche de l’écran vous permet de glisser et de déposer des questions avec votre curseur pour les ordonner.
 
-![](.gitbook/assets/menu-navigation-2%20%281%29.png)
+![](.gitbook/assets/menu-navigation-2%20%283%29.png)
 
 Il est possible de visualiser votre sujet en cliquant sur l’icône « aperçu » en haut à droite de votre écran.
 
@@ -125,11 +125,11 @@ Une fois la création de votre sujet terminée, vous pouvez le distribuer en cli
 
 Saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez puis sélectionnez le nom de l’utilisateur ou du groupe. Lorsque vous ajoutez un groupe, la liste des utilisateurs individuels se met à jour dans la colonne de droite. Si vous souhaitez exclure un ou plusieurs élèves d’une distribution à un groupe, supprimez les utilisateurs individuellement. Cliquer ensuite sur le bouton « suivant ».
 
-![](.gitbook/assets/image-1-1%20%281%29.png)
+![](.gitbook/assets/image-1-1%20%283%29.png)
 
 Vous pouvez accéder à la fiche de l'utilisateur en cliquant sur son nom :
 
-![](.gitbook/assets/distribuer-exercices-utilisateur-1%20%281%29.png)
+![](.gitbook/assets/distribuer-exercices-utilisateur-1%20%283%29.png)
 
 Vous pouvez également retrouver vos favoris dans la recherche d'utilisateur :
 
@@ -151,7 +151,7 @@ Afin de modifier la période de distribution d’un sujet déjà lancé, rendez-
 
 Dans le bloc des informations sur le sujet en haut à gauche, cliquer sur “Modifier” \(1\). Renseignez les nouvelles dates et heures de distribution et validez \(1\). Si le sujet est déjà distribué, vous ne pourrez plus modifier la date de début de l’évaluation. Une notification sera envoyée à tous les apprenants pour les informer de la nouvelle date de fin de distribution.
 
-![](.gitbook/assets/capture-exercizer-modification-distribution-1.png)
+![](.gitbook/assets/capture-exercizer-modification-distribution-1%20%281%29.png)
 
 ## Enseignant - Déprogrammer un sujet distribué
 
@@ -161,7 +161,7 @@ Cliquez sur l’onglet “Mes Corrections” \(1\), puis cliquez sur le sujet so
 
 Dans le bloc des informations sur sujet en haut à gauche, cliquer sur “Déprogrammer” \(1\) Les apprenants n’auront plus accès au sujet.
 
-![](.gitbook/assets/deprogrammer2%20%281%29.png)
+![](.gitbook/assets/deprogrammer2%20%282%29.png)
 
 ## Enseignant - Exclure un élève d’une évaluation distribuée à un groupe
 
@@ -195,7 +195,7 @@ Vous pouvez attribuer différents droits aux autres utilisateurs de l’ENT :
 
 La personne à qui vous avez partagé le sujet peut le retrouver dans la rubrique « Sujets partagés avec moi ». En fonction des droits accordés, elle a la possibilité de le modifier et de le distribuer en cliquant sur l’intitulé du sujet.
 
-![](.gitbook/assets/sujets-partages-avec-moi-1.jpg)
+![](.gitbook/assets/sujets-partages-avec-moi-1%20%281%29.jpg)
 
 Elle peut aussi copier le sujet en cochant la case en bas à droite du sujet et faire des modifications dans sa propre version.
 
@@ -233,7 +233,7 @@ Il est possible de copier le sujet dans « Mes sujets » en cochant la case à d
 
 Vous pouvez consulter les statistiques de vos sujets. Pour cela, rendez-vous sur l’onglet “Mes Corrections” \(1\) puis cliquez sur le sujet souhaité \(2\).
 
-![](.gitbook/assets/stat1-2%20%281%29.png)
+![](.gitbook/assets/stat1-2%20%283%29.png)
 
 Un encart en haut à droite vous donne les statistiques générales du sujet \(1\). En cliquant sur “Plus de Stats”, vous accédez aux statistiques détaillées du sujet \(2\).
 
@@ -247,7 +247,7 @@ Vous accédez ainsi :
 
 Pour exporter ces statistiques au format CSV, cliquez sur le bouton “Exporter” en haut à droite depuis la page de Statistiques.
 
-![](.gitbook/assets/exercizer-stat2%20%281%29.png)
+![](.gitbook/assets/exercizer-stat2%20%282%29.png)
 
 ## Enseignant - Importer un sujet
 
@@ -267,5 +267,5 @@ Charger le sujet au format Moodle XML. Renseignez le titre de votre sujet, une i
 
 Il vous est possible d’exporter des sujets. Dans “Mes Sujets”, sélectionnez un sujet interactif \(1\), puis cliquer sur “Exporter” \(2\).
 
-![](.gitbook/assets/exporter-2%20%281%29.png)
+![](.gitbook/assets/exporter-2%20%282%29.png)
 

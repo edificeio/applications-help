@@ -12,7 +12,7 @@ L’appli Sondage permet de créer des **sondages qui pourront être intégrés 
 
 Pour accéder à l’appli Sondage, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/s1-2%20%281%29.png)
+![](.gitbook/assets/s1-2%20%282%29.png)
 
 Cliquez sur "Créer un sondage".
 
@@ -24,7 +24,7 @@ Cliquez sur "Créer un sondage".
 4. Saisissez les réponses possibles à la question. Pour ajouter d’autres réponses, cliquez sur "Ajouter"
 5. Cliquez sur « Sauvegarder »
 
-![](.gitbook/assets/s3-1%20%281%29.png)
+![](.gitbook/assets/s3-1%20%282%29.png)
 
 Le sondage est maintenant créé.
 
@@ -56,7 +56,7 @@ Une fois le sondage créé et partagé, il est possible de l’insérer dans une
 
 Cliquez sur le site dans lequel vous souhaitez insérer le sondage.
 
-![](.gitbook/assets/s7-1%20%281%29.png)
+![](.gitbook/assets/s7-1%20%282%29.png)
 
 Pour insérer le sondage, cliquez sur l’icône suivante:  
 ![](.gitbook/assets/s8%20%281%29.png)
@@ -65,7 +65,7 @@ Pour insérer le sondage, cliquez sur l’icône suivante:
 
 Cliquez sur « Ajouter un sniplet ».
 
-![](.gitbook/assets/s10-1%20%281%29.png)
+![](.gitbook/assets/s10-1%20%282%29.png)
 
 Puis choisissez l’appli Sondage.
 
@@ -77,5 +77,5 @@ La liste des sondages dont vous êtes gestionnaire apparaît. Choisissez celui q
 
 Le sondage apparaît bien sur la page.
 
-![](.gitbook/assets/s13-1-1%20%281%29.png)
+![](.gitbook/assets/s13-1-1%20%282%29.png)
 

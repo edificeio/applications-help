@@ -18,7 +18,7 @@ Pour accéder à l’appli Cahier multimédia, cliquez sur l’icône correspond
 
 Dans le service Cahier multimédia, cliquez sur le bouton « Créer » en haut de la page.
 
-![](.gitbook/assets/cma-3-1-1%20%281%29.png)
+![](.gitbook/assets/cma-3-1-1%20%282%29.png)
 
 Vous accédez à l’interface de création du cahier.
 
@@ -62,7 +62,7 @@ Pour déplacer un contenu, survolez la zone et cliquez dessus quand le curseur p
 
 Pour modifier la taille du contenu, survolez le contour de la zone et cliquez dessus quand le curseur prend la forme d’une double flèche.
 
-![](.gitbook/assets/m81-2-2%20%281%29.png)
+![](.gitbook/assets/m81-2-2%20%282%29.png)
 
 Pour visualiser votre cahier, cliquez sur « Afficher ».
 

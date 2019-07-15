@@ -18,7 +18,7 @@ Pour accéder à l’appli Carte mentale, cliquez sur l’icône correspondante 
 
 Cliquez sur « Créer une carte mentale ».
 
-![](.gitbook/assets/c1-2%20%281%29.png)
+![](.gitbook/assets/c1-2%20%282%29.png)
 
 1. Saisissez un nom de carte
 2. Renseignez une description
@@ -46,7 +46,7 @@ Pour supprimer un nœud, sélectionnez le nœud et cliquez sur l’icône « Sup
 
 La barre d’outils de la carte mentale vous permet de modifier le format du texte : la typographie, la taille, la mise en forme de la police et sa couleur. Pour modifier le texte, sélectionnez le texte du nœud et cliquez sur les icônes suivantes dans la barre d’outils.
 
-![](.gitbook/assets/carte-mentale-8-1%20%281%29.png)
+![](.gitbook/assets/carte-mentale-8-1%20%282%29.png)
 
 L’éditeur de texte vous permet de créer facilement une carte mentale.
 
@@ -72,7 +72,7 @@ Les liens et les notes apparaissent sous forme d’icône dans le nœud avant le
 
 Lorsque la carte mentale est terminée, cliquez sur « Enregistrer ».
 
-![](.gitbook/assets/m6-1%20%281%29.png)
+![](.gitbook/assets/m6-1%20%282%29.png)
 
 Votre carte est maintenant créée !
 

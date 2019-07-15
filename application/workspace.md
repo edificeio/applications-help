@@ -36,7 +36,7 @@ Si vous effectuez une action de partage sur plusieurs fichiers ou dossiers alors
 
 Pour importer un document dans votre espace de stockage personnel ou dans un dossier partagé avec vous \(en contribution au minimum\), cliquez sur le bouton « Importer » situé en haut de l’interface.
 
-![](.gitbook/assets/image-2%20%281%29.png)
+![](.gitbook/assets/image-2%20%282%29.png)
 
 Dans la nouvelle fenêtre, suivez les étapes suivantes :
 
@@ -45,7 +45,7 @@ Dans la nouvelle fenêtre, suivez les étapes suivantes :
 
 ![](.gitbook/assets/fenetre-import-vide-1.png)
 
-![](.gitbook/assets/fenetre-import-full-1-1%20%281%29.png)
+![](.gitbook/assets/fenetre-import-full-1-1%20%282%29.png)
 
 **Vous pouvez importer plusieurs fichiers en une seule fois, si vous en sélectionnez plusieurs sur votre ordinateur.**
 
@@ -60,7 +60,7 @@ Pour partager votre document avec d’autres utilisateurs, suivez les étapes su
 * Sélectionnez le document ou dossier en question en cliquant dessus \(1\)
 * Cliquez sur le bouton "Partager" en bas de l'écran \(2\)
 
-![](.gitbook/assets/partage-doc-1-1%20%281%29.png)
+![](.gitbook/assets/partage-doc-1-1%20%282%29.png)
 
 La fenêtre de partage apparaît. Pour attribuer des droits à d’autres utilisateurs, suivez les étapes suivantes :
 
@@ -121,7 +121,7 @@ Pour visualiser les anciennes versions d’un document, suivez les étapes suiva
 1. Cliquez une fois sur le document pour qu’il soit surligné en bleu
 2. Cliquez sur le bouton "Versions" en bas de page
 
-![](.gitbook/assets/doc-selection-fichier-1-1%20%281%29.png)
+![](.gitbook/assets/doc-selection-fichier-1-1%20%282%29.png)
 
 Toutes les versions du document s’affichent. Chaque version permet d’accéder aux informations suivantes :
 
