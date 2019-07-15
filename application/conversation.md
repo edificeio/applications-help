@@ -77,7 +77,7 @@ Sur l’écran central, les messages non lus apparaissent en bleu dans la liste 
 
 \(2\) Le trombone indique que le message comporte une pièce jointe
 
-![](.gitbook/assets/messagerie-2%20%283%29.png)
+![](.gitbook/assets/messagerie-2%20%284%29.png)
 
 \(1\) Le filtre « messages non lus » vous permet de ne faire apparaître que les messages qui n’ont pas encore été lus.
 

@@ -96,7 +96,7 @@ Votre devise sera visible sur votre profil et apparaîtra dans le fil de nouveau
 
 Pour changer votre humeur, cliquez sur l’icône en dessous de votre photo.
 
-![](.gitbook/assets/m11-1-1%20%282%29.png)
+![](.gitbook/assets/m11-1-1%20%283%29.png)
 
 Une liste d’humeurs apparaît. Choisissez celle que vous souhaitez.
 

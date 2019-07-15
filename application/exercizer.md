@@ -121,7 +121,7 @@ Il est possible de visualiser votre sujet en cliquant sur l’icône « aperçu 
 
 Une fois la création de votre sujet terminée, vous pouvez le distribuer en cliquant sur l’icône en haut à gauche de votre écran.
 
-![](.gitbook/assets/distribuer%20%282%29.jpg)
+![](.gitbook/assets/distribuer%20%283%29.jpg)
 
 Saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez puis sélectionnez le nom de l’utilisateur ou du groupe. Lorsque vous ajoutez un groupe, la liste des utilisateurs individuels se met à jour dans la colonne de droite. Si vous souhaitez exclure un ou plusieurs élèves d’une distribution à un groupe, supprimez les utilisateurs individuellement. Cliquer ensuite sur le bouton « suivant ».
 
@@ -161,7 +161,7 @@ Cliquez sur l’onglet “Mes Corrections” \(1\), puis cliquez sur le sujet so
 
 Dans le bloc des informations sur sujet en haut à gauche, cliquer sur “Déprogrammer” \(1\) Les apprenants n’auront plus accès au sujet.
 
-![](.gitbook/assets/deprogrammer2%20%282%29.png)
+![](.gitbook/assets/deprogrammer2%20%283%29.png)
 
 ## Enseignant - Exclure un élève d’une évaluation distribuée à un groupe
 
@@ -247,7 +247,7 @@ Vous accédez ainsi :
 
 Pour exporter ces statistiques au format CSV, cliquez sur le bouton “Exporter” en haut à droite depuis la page de Statistiques.
 
-![](.gitbook/assets/exercizer-stat2%20%282%29.png)
+![](.gitbook/assets/exercizer-stat2%20%283%29.png)
 
 ## Enseignant - Importer un sujet
 
