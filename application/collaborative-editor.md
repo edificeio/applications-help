@@ -22,7 +22,7 @@ Cliquez enfin sur « Enregistrer » \(4\).
 
 Pour partager un Pad avec d’autres utilisateurs, cliquez sur la case à cocher correspondant à votre Pad \(1\) puis sur le bouton « Partager » \(2\).
 
-![](.gitbook/assets/partagepad-2%20%281%29.png)
+![](.gitbook/assets/partagepad-2%20%282%29.png)
 
 Dans la fenêtre, vous pouvez donner aux utilisateurs différents droits d’accès à votre Pad. Pour cela, suivez les étapes suivantes :
 

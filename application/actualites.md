@@ -89,7 +89,7 @@ Pour attribuer ces droits, suivez les étapes suivantes :
 
 Pour valider, cliquez sur le bouton "Partager".
 
-![](.gitbook/assets/actus-1%20%281%29.png)
+![](.gitbook/assets/actus-1%20%282%29.png)
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs sur l’actualité sont les suivants :
 

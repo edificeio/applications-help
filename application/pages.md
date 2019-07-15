@@ -27,7 +27,7 @@ Lorsque vous créez un site public celui-ci est visible de tous dans l’ENT. De
 
 Dans la fenêtre, saisissez le titre de votre site \(3\) puis cliquez sur le bouton « Créer » \(4\)
 
-![](.gitbook/assets/captures-pages-4-2%20%281%29.png)
+![](.gitbook/assets/captures-pages-4-2%20%282%29.png)
 
 Votre site web est maintenant créé, vous pouvez le compléter en y intégrant des contenus.
 
@@ -38,7 +38,7 @@ Pour partager votre page, avec d’autres utilisateurs, suivez les étapes suiva
 1. Sélectionnez la case à cochez de la page \(1\)
 2. Cliquez sur le bouton "Partager" \(2\)
 
-![](.gitbook/assets/captures-pages-5-2%20%281%29.png)
+![](.gitbook/assets/captures-pages-5-2%20%282%29.png)
 
 La fenêtre de partage apparaît. Pour attribuer des droits à d’autres utilisateurs, suivez les étapes suivantes :
 

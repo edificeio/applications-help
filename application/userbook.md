@@ -14,7 +14,7 @@ Cliquez sur l’avatar en haut à gauche de l'écran.
 
 Vous accédez à votre espace personnel où vous pouvez modifier vos informations : photo, coordonnées, devise, humeur, centres d’intérêt, en cliquant simplement sur le champ à modifier.
 
-![](.gitbook/assets/2018-10-19_10h52_07-2%20%281%29.png)
+![](.gitbook/assets/2018-10-19_10h52_07-2%20%282%29.png)
 
 ![](.gitbook/assets/2018-10-19_10h52_52%20%284%29.png)
 
@@ -42,7 +42,7 @@ Vous pouvez choisir une photo à partir de votre espace personnel en la sélecti
 * « Documents partagés avec moi » : documents partagés par d’autres utilisateurs,
 * « Documents ajoutés dans les applis » : documents insérés dans une appli.
 
-![](.gitbook/assets/m4-1-1%20%281%29.png)
+![](.gitbook/assets/m4-1-1%20%282%29.png)
 
 Vous pouvez aussi choisir d’importer une photo à partir de votre poste de travail.
 
@@ -63,7 +63,7 @@ Votre photo est visible dans le fil de nouveautés des autres utilisateurs lorsq
 
 Pour changer votre mot de passe, cliquez sur « Modifier mon mot de passe ».
 
-![](.gitbook/assets/m7-1-1%20%281%29.png)
+![](.gitbook/assets/m7-1-1%20%282%29.png)
 
 Puis suivez les étapes suivantes :
 
@@ -88,7 +88,7 @@ En cas d’oubli de votre mot de passe, un lien de récupération vous sera envo
 
 Vous pouvez ajouter une devise à votre compte. Pour cela, remplissez le champ « Devise » sous vos coordonnées.
 
-![](.gitbook/assets/2018-10-19_10h53_59-2%20%281%29.png)
+![](.gitbook/assets/2018-10-19_10h53_59-2%20%282%29.png)
 
 Votre devise sera visible sur votre profil et apparaîtra dans le fil de nouveautés des autres utilisateurs de l’ENT lorsque vous la modifierez. Afin qu'elle soit valide, cliquez sur "Publier" une fois la devise écrite.
 
@@ -100,7 +100,7 @@ Pour changer votre humeur, cliquez sur l’icône en dessous de votre photo.
 
 Une liste d’humeurs apparaît. Choisissez celle que vous souhaitez.
 
-![](.gitbook/assets/m12-2-1-1%20%281%29.png)
+![](.gitbook/assets/m12-2-1-1%20%282%29.png)
 
 Votre nouvelle humeur apparaît sur votre compte et est maintenant visible dans le fil de nouveautés des autres utilisateurs de l’ENT avec lesquels vous avez le droit de communiquer.
 
@@ -108,11 +108,11 @@ Votre nouvelle humeur apparaît sur votre compte et est maintenant visible dans 
 
 Vous pouvez modifier vos centres d’intérêt : animaux, cinéma, musique, endroits et sports. Saisissez les informations souhaitées dans les champs correspondants.
 
-![](.gitbook/assets/m14-1-3%20%281%29.png)
+![](.gitbook/assets/m14-1-3%20%282%29.png)
 
 Mais aussi d’autres commentaires dans « Divers ».
 
-![](.gitbook/assets/m15-1%20%281%29.png)
+![](.gitbook/assets/m15-1%20%282%29.png)
 
 ## Définir la visibilité de mes informations personnelles
 
@@ -126,7 +126,7 @@ En un seul clic, vous choisissez l’icône correspondant au niveau de visibilit
 
 * L’icône “Globe” signifie que l’information est visible des autres utilisateurs de l’ENT, en fonction des droits de communication dont ils disposent.
 
-![](.gitbook/assets/m18-1-2%20%281%29.png)  
+![](.gitbook/assets/m18-1-2%20%282%29.png)  
 Lorsque vous ajoutez ou modifiez le texte ou les paramètres de visibilité dans votre espace personnel, l’enregistrement est automatique.
 
 ![](.gitbook/assets/m19-1-2.png)

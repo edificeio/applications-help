@@ -23,7 +23,7 @@ La fenêtre de création s’ouvre
 3. Renseignez une description
 4. Cliquez sur « Créer »
 
-![](.gitbook/assets/communaute-creation-2%20%281%29.png)
+![](.gitbook/assets/communaute-creation-2%20%282%29.png)
 
 La fenêtre de configuration s’affiche.
 

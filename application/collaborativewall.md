@@ -28,7 +28,7 @@ Une nouvelle page apparaît.
 4. Choisissez une image de fond
 5. Cliquez sur « Sauvegarder »
 
-![](.gitbook/assets/mur-2-1024x474-2%20%281%29.png)
+![](.gitbook/assets/mur-2-1024x474-2%20%282%29.png)
 
 Pour partager le mur, cliquez sur le + \(1\) correspondant au mur puis sur « Partager » \(2\).
 
@@ -57,13 +57,13 @@ Puis cliquez sur « Nouvelle note ».
 ![](.gitbook/assets/c4-1%20%281%29.png)
 
 Un post-it apparaît, présentant différentes fonctionnalités disponibles sur la partie supérieure droite.  
-![](.gitbook/assets/m9-1%20%281%29.png)
+![](.gitbook/assets/m9-1%20%282%29.png)
 
-Pour modifier la couleur de la note, cliquez sur: ![](.gitbook/assets/m10-1%20%281%29.png)
+Pour modifier la couleur de la note, cliquez sur: ![](.gitbook/assets/m10-1%20%282%29.png)
 
 Une palette de couleurs apparait sur la partie supérieure de la page. Cliquez sur la couleur désirée.
 
-![](.gitbook/assets/m111-1%20%281%29.png)
+![](.gitbook/assets/m111-1%20%282%29.png)
 
 Pour afficher l’auteur de la note, cliquez sur: ![](.gitbook/assets/m12-1%20%282%29.png)
 

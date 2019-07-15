@@ -6,7 +6,7 @@ Montez une encyclopédie sur la notion vue en cours ! Grâce à l’appli **Wiki
 
 Un wiki permet de **créer et publier des contenus \(texte, images…\) dans différentes pages liées entre elles**. La page d’accueil du wiki est souvent utilisée comme un index référençant l’ensemble des pages créées dans le wiki.
 
-![](.gitbook/assets/wiki_presentation1-2%20%281%29.png)
+![](.gitbook/assets/wiki_presentation1-2%20%282%29.png)
 
 ## Créer un Wiki
 
@@ -18,7 +18,7 @@ Saisissez un titre \(1\) et enregistrez si vous le souhaitez une image d’illus
 
 Cliquez enfin sur « Enregistrer » \(3\)
 
-![](.gitbook/assets/w2-1%20%282%29.png)
+![](.gitbook/assets/w2-1%20%283%29.png)
 
 ## Partager un Wiki
 
@@ -34,7 +34,7 @@ Dans la fenêtre, vous pouvez donner aux utilisateurs de l’ENT différents dro
 
 Pour valider, cliquez sur le bouton "Partager".
 
-![](.gitbook/assets/wiki-1%20%281%29.png)
+![](.gitbook/assets/wiki-1%20%282%29.png)
 
 Les droits de partage que vous pouvez attribuer aux autres utilisateurs sont les suivants :
 
@@ -94,7 +94,7 @@ Les deux versions de page apparaissent l’une à côté de l’autre avec :
 * En vert : les ajouts
 * En rouge : les suppressions
 
-![](.gitbook/assets/wiki-version-2-1024x467-1%20%281%29.png)
+![](.gitbook/assets/wiki-version-2-1024x467-1%20%282%29.png)
 
 Il est également possible de restaurer une version précédente en cliquant sur « Restaurer » en haut de la page correspondante.
 
