@@ -14,7 +14,7 @@ La carte mentale peut être faite de manière collective ou personnelle, selon l
 
 Pour accéder à l’appli Carte mentale, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/carte-mentale-2%20%283%29.png)
+![](.gitbook/assets/carte-mentale-2.png)
 
 Cliquez sur « Créer une carte mentale ».
 

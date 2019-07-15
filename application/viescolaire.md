@@ -63,7 +63,7 @@ Pour créer une évaluation **sans compétence**, suivez les étapes suivantes :
   * Date de l'évaluation et date de publication de la note
 * Cliquer sur l’onglet "Compétences" \(6\)
 
-![](.gitbook/assets/evaluation-avec-des-competences-2-1-3.jpg)
+![](.gitbook/assets/evaluation-avec-des-competences-2-1-3%20%281%29.jpg)
 
 _**Par défaut seuls les enseignants sont habilités à créer des évaluations.**_
 
@@ -141,7 +141,7 @@ Pour voir le bilan du niveau des élèves individuellement, suivez les étapes s
 
 Le bilan du niveau de compétence de l’élève est accessible
 
-![](.gitbook/assets/visualisation-bilan-3-1-1.jpg)
+![](.gitbook/assets/visualisation-bilan-3-1-1%20%281%29.jpg)
 
 ## Visualiser le bilan de fin de cycle des élèves
 
@@ -173,12 +173,12 @@ Pour suivre le niveau des compétences de classe, suivez les étapes suivantes :
 
 Il est possible de cliquer sur une compétence pour afficher la liste des élèves avec leur niveau
 
-![](.gitbook/assets/suivi-classe-2-1%20%281%29.jpg)
+![](.gitbook/assets/suivi-classe-2-1.jpg)
 
 1. Il est possible de filtrer l’affichage des élèves suivant leur niveau de maitrise de la compétence.
 2. En cliquant sur un élève, s’affiche le suivi de compétence de l’élève
 
-![](.gitbook/assets/suivi-classe-3-2.jpg)
+![](.gitbook/assets/suivi-classe-3-2%20%281%29.jpg)
 
 ## Effectuer un remplacement
 

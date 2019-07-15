@@ -42,7 +42,7 @@ Vous pouvez choisir une photo à partir de votre espace personnel en la sélecti
 * « Documents partagés avec moi » : documents partagés par d’autres utilisateurs,
 * « Documents ajoutés dans les applis » : documents insérés dans une appli.
 
-![](.gitbook/assets/m4-1-1.png)
+![](.gitbook/assets/m4-1-1%20%281%29.png)
 
 Vous pouvez aussi choisir d’importer une photo à partir de votre poste de travail.
 
@@ -100,7 +100,7 @@ Pour changer votre humeur, cliquez sur l’icône en dessous de votre photo.
 
 Une liste d’humeurs apparaît. Choisissez celle que vous souhaitez.
 
-![](.gitbook/assets/m12-2-1-1.png)
+![](.gitbook/assets/m12-2-1-1%20%281%29.png)
 
 Votre nouvelle humeur apparaît sur votre compte et est maintenant visible dans le fil de nouveautés des autres utilisateurs de l’ENT avec lesquels vous avez le droit de communiquer.
 

@@ -65,7 +65,7 @@ Pour insérer le sondage, cliquez sur l’icône suivante:
 
 Cliquez sur « Ajouter un sniplet ».
 
-![](.gitbook/assets/s10-1.png)
+![](.gitbook/assets/s10-1%20%281%29.png)
 
 Puis choisissez l’appli Sondage.
 
@@ -77,5 +77,5 @@ La liste des sondages dont vous êtes gestionnaire apparaît. Choisissez celui q
 
 Le sondage apparaît bien sur la page.
 
-![](.gitbook/assets/s13-1-1.png)
+![](.gitbook/assets/s13-1-1%20%281%29.png)
 

@@ -8,7 +8,7 @@ Les cahiers créés peuvent être utilisés comme des **supports de restitution*
 
 Les utilisateurs ayant des droits de contribution dans le cahier choisissent le nombre de pages du cahier et la mise en forme qu’ils souhaitent appliquer à chaque page.
 
-![](.gitbook/assets/cma-1-1%20%282%29.png)
+![](.gitbook/assets/cma-1-1.png)
 
 ## Créer et partager un cahier multimédia
 
@@ -34,7 +34,7 @@ Dans la fenêtre, vous pouvez donner des droits de consultation, de contribution
 
 Pour valider, cliquez sur le bouton "Partager".
 
-![](.gitbook/assets/cahier-multimedia-2%20%282%29.png)
+![](.gitbook/assets/cahier-multimedia-2.png)
 
 ## Editer les pages du cahier multimédia
 
@@ -44,7 +44,7 @@ Une fois votre cahier multimédia créé, vous pouvez publier des pages. Lorsque
 
 Pour ajouter de nouvelles pages, cliquez sur « Ajouter une page » \(1\) ou sur la flèche à droite du cahier \(2\).
 
-![](.gitbook/assets/2018-08-24_16h18_32%20%281%29.png)
+![](.gitbook/assets/2018-08-24_16h18_32.png)
 
 Vous pouvez ajouter les contenus suivants dans vos cahiers :
 
@@ -74,7 +74,7 @@ Il est possible d’ajouter dans vos cahiers multimédia des vidéos stockées s
 
 Ouvrez le cahier multimédia dans lequel vous souhaitez ajouter cette vidéo et cliquez sur l’icône d’ajout de vidéo.
 
-![](.gitbook/assets/cma-13-2%20%282%29.png)
+![](.gitbook/assets/cma-13-2.png)
 
 Dans la fenêtre qui s’ouvre, selectionnez un type de contenu de média \(vidéos hébergées sur Youtube, Viméo, Dailymotion, Learningaps.org et educaplay\) \(1\)
 

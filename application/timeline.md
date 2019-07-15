@@ -87,7 +87,7 @@ Les widgets se situent à gauche du fil de nouveautés. Ils sont composés des n
 
 * Le widget **Dictaphone** permet d’enregistrer des sons depuis le micro de son ordinateur. Les sons seront enregistrés dans l’espace documentaire de l’utilisateur.
 
-![](.gitbook/assets/w6-1%20%281%29.png)
+![](.gitbook/assets/w6-1.png)
 
 * Le widget **Applications préférées** permet d’afficher les applications favorites directement depuis la page d’accueil.
 
@@ -123,7 +123,7 @@ L’éditeur permet également d’intégrer différents types de contenus :
 4. Une formule Latex
 5. Un lien
 
-![](.gitbook/assets/image5-1024x387-2-1.png)
+![](.gitbook/assets/image5-1024x387-2-1%20%281%29.png)
 
 L'éditeur permet désormais d’ajouter plus simplement des pièces jointes dans un contenu.
 
@@ -135,7 +135,7 @@ Lorsque l’on clique sur l’icône d’ajout de pièces jointes, on peut chois
 
 La ou les pièces jointes sélectionnées apparaissent dans la zone d'édition dans un cadre dédié.
 
-![](.gitbook/assets/image8-1-1.png)
+![](.gitbook/assets/image8-1-1%20%281%29.png)
 
 Pour modifier les pièces jointes, faire un clic droit dans la zone grisée et cliquer sur "Modifier les fichiers" \(3\).
 
@@ -171,7 +171,7 @@ La gestion des paramètres vous permet de modifier votre thème d’apparence ma
 
 Pour y accéder, cliquez sur le bouton à droite de votre fil de nouveautés.
 
-![](.gitbook/assets/f11-1-1-2.png)
+![](.gitbook/assets/f11-1-1-2%20%281%29.png)
 
 L’onglet de gestion de vos paramètres apparaît.
 
@@ -185,7 +185,7 @@ L’apparence de votre thème est modifiée.
 
 Pour décider d’afficher seulement certains widgets, désélectionnez ceux que vous ne souhaitez pas voir apparaître sur votre page d’accueil. Ils seront grisés dans la gestion de vos paramètres.
 
-![](.gitbook/assets/2018-08-24_14h29_49-2-2.png)
+![](.gitbook/assets/2018-08-24_14h29_49-2-2%20%281%29.png)
 
 ## Notifications externes
 
@@ -193,7 +193,7 @@ Votre réseau est doté d’un système de notification par mail qui permet aux 
 Chaque utilisateur peut modifier les notifications qu’il souhaite recevoir et la fréquence de chacune d’elles \(immédiate, quotidienne, hebdomadaire\).  
 Pour accéder à ce paramétrage, aller dans Mon compte \(1\) et cliquer sur le bouton "Gérer mes notifications externes" \(2\).
 
-![](.gitbook/assets/image1-1%20%281%29.png)
+![](.gitbook/assets/image1-1.png)
 
 La page de paramétrage des notifications externes permet de modifier l’adresse de réception des mails \(3\) et de choisir la fréquence d’envoi de chaque notification \(immédiat, quotidien, hebdomadaire, jamais\) \(4\).  
 Le détail des notifications disponibles par service est accessible en cliquant sur le nom du service dans la ligne correspondante \(5\).
@@ -206,7 +206,7 @@ Lorsque les modifications sont terminées, cliquer sur "Enregistrer" en bas du t
 
 Une fois la notification reçue dans sa boîte mail personnelle, l’utilisateur peut cliquer sur le lien correspondant afin d’accéder au contenu. S’il n’est pas connecté, il devra saisir son identifiant et son mot de passe pour accéder à l’objet de la notification.
 
-![](.gitbook/assets/notiff-1-2.png)
+![](.gitbook/assets/notiff-1-2%20%281%29.png)
 
 ## Le moteur de recherche
 

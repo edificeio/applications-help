@@ -110,5 +110,5 @@ Lorsque vous naviguez sur votre blog, vous avez la possibilité de l'imprimer, e
 
 Une option vous permettra de choisir si vous souhaitez imprimer le blog avec les commentaires ou non :
 
-![](.gitbook/assets/2018-10-19_12h42_55%20%282%29.png)
+![](.gitbook/assets/2018-10-19_12h42_55.png)
 

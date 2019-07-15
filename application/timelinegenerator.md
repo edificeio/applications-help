@@ -47,7 +47,7 @@ Les différents droits que vous pouvez attribuer sont les suivants :
 
 Pour créer du contenu dans la frise, cliquez sur « Ajouter un événement ».
 
-![](.gitbook/assets/frise1-1024x361-2.png)
+![](.gitbook/assets/frise1-1024x361-2%20%281%29.png)
 
 Vous devez renseigner plusieurs informations pour créer un évènement :
 

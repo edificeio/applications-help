@@ -27,7 +27,7 @@ Lorsque vous créez un site public celui-ci est visible de tous dans l’ENT. De
 
 Dans la fenêtre, saisissez le titre de votre site \(3\) puis cliquez sur le bouton « Créer » \(4\)
 
-![](.gitbook/assets/captures-pages-4-2.png)
+![](.gitbook/assets/captures-pages-4-2%20%281%29.png)
 
 Votre site web est maintenant créé, vous pouvez le compléter en y intégrant des contenus.
 
@@ -66,5 +66,5 @@ Pour créer une nouvelle page, vous pouvez :
 
 * Ou cliquer sur gérer les pages \(2\), puis sur "nouvelle page" \(3\)
 
-![](.gitbook/assets/capture-pages-7%20%281%29.png)
+![](.gitbook/assets/capture-pages-7.png)
 

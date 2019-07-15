@@ -12,13 +12,13 @@ Les enseignants peuvent créer et organiser une séance. Il leur est ensuite pos
 
 C’est l'écran d’accueil du cahier de texte. Il s’ouvre sur la semaine courante.
 
-![](.gitbook/assets/cdt-professeur-2.png)
+![](.gitbook/assets/cdt-professeur-2%20%281%29.png)
 
 #### Créer une séance
 
 Une séance correspond à un cours, à une date donnée et à une heure donnée. Cliquer sur "Créer une séance".
 
-![](.gitbook/assets/cdt-professeur-creerseance%20%281%29.png)
+![](.gitbook/assets/cdt-professeur-creerseance.png)
 
 Une nouvelle page s’ouvre. La séance sera à l'état de brouillon tant qu’elle n’aura pas été publiée. On peut sélectionner la matière \(1\), ainsi que le groupe concerné \(2\).
 
@@ -44,7 +44,7 @@ On peut créer un travail
 
 On indique la date pour laquelle le travail doit être rendu \(1\) et le type de devoir \(2 : Devoir maison / Exercices / Autres\).
 
-![](.gitbook/assets/cdt-professeur-taf-1.png)
+![](.gitbook/assets/cdt-professeur-taf-1%20%281%29.png)
 
 La charge de travail \(3\) des élèves pour la semaine courante est affichée, afin d'éviter de surcharger les élèves.
 
@@ -107,7 +107,7 @@ En cliquant sur une date \(1\), on peut accéder au détail de la journée. Une 
 
 La progression est une suite de séances, qui doivent être effectuées dans un ordre précis. Elle est accessible via la vue Agenda.
 
-![](.gitbook/assets/cdt-professeur-progression-1.png)
+![](.gitbook/assets/cdt-professeur-progression-1%20%281%29.png)
 
 On accède à la liste des progressions disponibles. Un filtre est disponible \(1\). On peut avoir une vue détaillée en cliquant sur \(2\).
 
@@ -141,10 +141,9 @@ On se retrouve avec l’interface de création de séance.
 
 De retour vers l'écran détail de la progression, on peut ordonner les séances. Cliquer sur l'élément à déplacer, et faire un glisser - déposer :
 
-![](.gitbook/assets/cdt-professeur-contenu4%20%282%29.png)
+![](.gitbook/assets/cdt-professeur-contenu4.png)
 
 Ici, nous avons pris le cours sur les verbes irréguliers pour les placer avant le cours sur le vocabulaire :
-
 
 ![](.gitbook/assets/cdt-professeur-contenu3-1%20%281%29.png)
 
@@ -244,7 +243,7 @@ Tous les visas peuvent être édités sous forme de PDF via le menu.
 
 Le directeur d'établissement peut gérer les habilitations des inspecteurs.
 
-![](.gitbook/assets/cdt-directeur-habilitations1-2.png)
+![](.gitbook/assets/cdt-directeur-habilitations1-2%20%281%29.png)
 
 Cela permet d’attribuer ou de retirer à l’inspecteur \(2\) le droit de délivrer un visa pour l’enseignant de cet établissement \(1\).
 

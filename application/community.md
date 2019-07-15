@@ -6,7 +6,7 @@ Besoin de communiquer, partager ou collaborer au sein d’un petit groupe d’ut
 
 Plutôt que de proposer un usage centré sur un outil \(le blog ou le wiki par exemple\), l’appli communautés permet de rassembler un groupe d’utilisateurs autour d’un **projet collaboratif.** Pour chaque communauté créée \(Espace CDI, parcours artistique, communauté de l’association sportive, …\), il est possible de définir précisément les droits de chaque utilisateur et les applis mises à disposition \(blog, wiki, documents, forum, pages…\).
 
-![](.gitbook/assets/communaut_pres-convertimage%20%282%29.png)
+![](.gitbook/assets/communaut_pres-convertimage.png)
 
 ## Créer et partager une communauté
 

@@ -30,7 +30,7 @@ La catégorie de forum a été créée mais n’est pas encore visible par les a
 
 Pour valider, cliquez sur le bouton "Partager", puis "Terminer".
 
-![](.gitbook/assets/partage-forum-2.png)
+![](.gitbook/assets/partage-forum-2%20%281%29.png)
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs de l’ENT sur la catégorie de forum sont les suivants :
 
@@ -62,7 +62,7 @@ Pour poster un message, cliquez sur la discussion concernée.
 
 Rédigez votre message dans la zone de texte en bas de page \(1\) et cliquez sur « Répondre » \(2\).
 
-![](.gitbook/assets/f4%20%282%29.png)
+![](.gitbook/assets/f4.png)
 
 ## Gérer une catégorie
 

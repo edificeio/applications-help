@@ -57,14 +57,13 @@ Puis cliquez sur « Nouvelle note ».
 ![](.gitbook/assets/c4-1.png)
 
 Un post-it apparaît, présentant différentes fonctionnalités disponibles sur la partie supérieure droite.  
-![](.gitbook/assets/m9-1.png)
+![](.gitbook/assets/m9-1%20%281%29.png)
 
 Pour modifier la couleur de la note, cliquez sur: ![](.gitbook/assets/m10-1.png)
 
 Une palette de couleurs apparait sur la partie supérieure de la page. Cliquez sur la couleur désirée.
 
-![](.gitbook/assets/m111-1.png)
-
+![](.gitbook/assets/m111-1%20%281%29.png)
 
 Pour afficher l’auteur de la note, cliquez sur: ![](.gitbook/assets/m12-1%20%285%29.png)
 
