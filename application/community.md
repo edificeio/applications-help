@@ -6,13 +6,13 @@ Besoin de communiquer, partager ou collaborer au sein d’un petit groupe d’ut
 
 Plutôt que de proposer un usage centré sur un outil \(le blog ou le wiki par exemple\), l’appli communautés permet de rassembler un groupe d’utilisateurs autour d’un **projet collaboratif.** Pour chaque communauté créée \(Espace CDI, parcours artistique, communauté de l’association sportive, …\), il est possible de définir précisément les droits de chaque utilisateur et les applis mises à disposition \(blog, wiki, documents, forum, pages…\).
 
-![](.gitbook/assets/communaut_pres-convertimage%20%282%29.png)
+![](.gitbook/assets/communaut_pres-convertimage-2.png)
 
 ## Créer et partager une communauté
 
 Pour accéder à l’appli Communautés, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/mes_applis_3-1024x231%20%284%29.png)
+![](.gitbook/assets/mes_applis_3-1024x231-4.png)
 
 Cliquez sur « Créer une communauté » :
 
@@ -23,7 +23,7 @@ La fenêtre de création s’ouvre
 3. Renseignez une description
 4. Cliquez sur « Créer »
 
-![](.gitbook/assets/communaute-creation-2.png)
+![](.gitbook/assets/communaute-creation-2%20%281%29.png)
 
 La fenêtre de configuration s’affiche.
 
@@ -33,7 +33,7 @@ La fenêtre de configuration s’affiche.
 4. Vous pouvez modifier les droits de lecteurs, de contributeurs ou de gestionnaires en cochant ou décochant les cases
 5. Cliquez sur « Enregistrer »
 
-![](.gitbook/assets/communaute-partage-the-one-1%20%281%29.png)
+![](.gitbook/assets/communaute-partage-the-one-1-1.png)
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs sont les suivants :
 

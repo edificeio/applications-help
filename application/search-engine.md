@@ -26,7 +26,7 @@ Seules les ressources pour lesquelles l’utilisateur a un droit d’accès sont
 
 ## Description de la page de recherche
 
-![](.gitbook/assets/presentation001-2%20%281%29.png)
+![](.gitbook/assets/presentation001-2-1.png)
 
 \(1\) Les icônes correspondants aux applications sont des filtres qui vous permettent d’activer ou de désactiver la recherche dans cette catégorie.
 
@@ -44,7 +44,7 @@ Seules les ressources pour lesquelles l’utilisateur a un droit d’accès sont
 
 Pour accéder à la page de recherche, vous devez cliquer sur l’icône de recherche de la barre de menu principale de l’ENT.
 
-![](.gitbook/assets/acces0011%20%283%29.png)
+![](.gitbook/assets/acces0011-3.png)
 
 Si vous cliquez sur l’icône « Loupe », vous accédez directement à l’application.
 
@@ -70,14 +70,14 @@ Cliquez sur le bouton "Rechercher" pour lancer la recherche.
 
 La recherche s’effectue sur des champs spécifiques en fonction du type de ressource. Pour qu’une ressource soit affichée dans la liste résultat, un des champs de la ressource doit contenir **tous les mots-clés saisis d’au moins 4 caractères**.
 
-![](.gitbook/assets/tableau-filtre-2.png)
+![](.gitbook/assets/tableau-filtre-2%20%282%29.png)
 
 ## Liste des résultats
 
 Les ressources correspondant aux filtres de recherche sont affichées sous la zone de saisie des mots-clés.  
 Si aucune ressource ne correspond aux filtres de recherche, un message indique qu’aucun résultat ne correspond à vos critères de recherche \(1\).
 
-![](.gitbook/assets/resultat001-2%20%281%29.png)
+![](.gitbook/assets/resultat001-2-1.png)
 
 Si toutes les ressources correspondant aux filtres sont affichées, un message est affiché indiquant que « Tous les résultats en correspondance avec vos critères de recherche sont affichés » \(1\).
 
@@ -86,7 +86,7 @@ Si toutes les ressources correspondant aux filtres sont affichées, un message e
 Si un nombre important de ressources correspondent aux filtres un message indique que Tous les résultats ne sont pas affichés. Veuillez utiliser la barre de scroll pour afficher la globalité des résultats de cette recherche.  
 En faisant glisser la barre de défilement verticale vers le bas, les ressources suivantes sont chargées puis affichées. En atteignant le bas de page, toutes les ressources qui correspondent aux filtres sont affichées et un message indique que « Tous les résultats en correspondance avec vos critères de recherche sont affichés » \(1\).
 
-![](.gitbook/assets/resultat003-2%20%281%29.png)
+![](.gitbook/assets/resultat003-2-1.png)
 
 ## Détail d’une ressource de la liste résultat
 

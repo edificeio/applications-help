@@ -45,19 +45,19 @@ En cochant une ou plusieurs cases de sélection de fichier, une barre d’action
 
 Pour envoyer un fichier dans votre espace de stockage, cliquez sur le bouton "Envoyer un fichier". Un message vous indique l’espace disponible \(1\) dans le volume de stockage dédié à cette application. Saisissez le nombre de jours \(2\) durant lesquels le fichier pourra être téléchargé, le nom du fichier \(3\), une description \(4\).
 
-![](.gitbook/assets/203-modifier-3.png)
+![](.gitbook/assets/203-modifier-3%20%281%29.png)
 
-Cliquez sur le bouton ![](.gitbook/assets/003-deposer-1-1%20%281%29.png) pour sélectionner sur votre poste de travail le fichier à déposer.
+Cliquez sur le bouton ![](.gitbook/assets/003-deposer-1-1-1.png) pour sélectionner sur votre poste de travail le fichier à déposer.
 
 Cliquez sur le bouton "Enregistrer" pour valider le dépôt du fichier dans votre espace de stockage. Durant le dépôt du fichier, une barre \(1\) affiche le pourcentage d’avancement du téléchargement du fichier sélectionné dans votre espace de stockage.
 
-![](.gitbook/assets/005-deposer%20%284%29.png)
+![](.gitbook/assets/005-deposer-4.png)
 
 ## Partager un fichier
 
 Pour partager un ou plusieurs fichiers avec d’autres utilisateurs, cochez les cases des fichiers à partager \(1\) puis cliquez sur le bouton "Partager" \(2\).
 
-![](.gitbook/assets/101-partager1%20%285%29.png)
+![](.gitbook/assets/101-partager1-5.png)
 
 Dans la fenêtre, vous pouvez donner aux utilisateurs de l’ENT différents droits d’accès à votre fichier. Pour cela :
 
@@ -65,11 +65,11 @@ Dans la fenêtre, vous pouvez donner aux utilisateurs de l’ENT différents dro
 2. Sélectionnez le résultat.
 3. Cochez les cases correspondant aux droits que vous souhaitez leur attribuer.
 
-L’icône suivante signale que le fichier a été partagé avec d’autres utilisateurs : ![](.gitbook/assets/double-fleche-1%20%283%29.png)
+L’icône suivante signale que le fichier a été partagé avec d’autres utilisateurs : ![](.gitbook/assets/double-fleche-1-3.png)
 
 Pour valider, cliquez sur le bouton "Partager".
 
-![](.gitbook/assets/poste-fichiers-1-1%20%281%29.png)
+![](.gitbook/assets/poste-fichiers-1-1-1.png)
 
 Les droits de partage que vous pouvez attribuer aux utilisateurs sont les suivants :
 
@@ -89,13 +89,13 @@ Vous pouvez modifier la durée de validité \(1\) du fichier dans la limite de 3
 
 Modifiez le titre \(2\) ou la description \(3\) puis cliquez sur le bouton "Enregistrer" \(4\) pour valider vos modifications.
 
-![](.gitbook/assets/203-modifier1-3.png)
+![](.gitbook/assets/203-modifier1-3%20%282%29.png)
 
 ## Supprimer un fichier
 
 Pour supprimer un fichier, vous devez sélectionner le fichier en cochant la case \(1\) située devant le titre, puis cliquez sur le bouton "Supprimer" \(2\).
 
-![](.gitbook/assets/301-supprimer1-1%20%281%29.png)
+![](.gitbook/assets/301-supprimer1-1-1.png)
 
 ## Télécharger un fichier qui a été partagé avec moi
 
@@ -103,7 +103,7 @@ Pour télécharger un fichier partagé avec moi, il suffit de cliquer sur le nom
 
 Vous pouvez trier la liste des fichiers en cliquant sur le nom d’une colonne \(4\).
 
-![](.gitbook/assets/401-telecharger1-1%20%281%29.png)
+![](.gitbook/assets/401-telecharger1-1-1.png)
 
 Les fichiers dont la date de péremption est atteinte peuvent toujours être téléchargés le jour-même, mais ne seront plus disponibles dès le lendemain. Dans ce cas, le titre du fichier est affiché en **violet** et une info-bulle signale « Le téléchargement est arrivé à échéance, le fichier sera supprimé dans les prochaines 24h».
 
@@ -115,9 +115,9 @@ Pour consulter le journal de téléchargement d’un fichier, vous devez avoir l
 
 Vous pouvez également sélectionner le fichier en cochant la case située devant le nom du fichier \(2\) puis en cliquant sur le bouton "Journal de téléchargement" \(3\).
 
-![](.gitbook/assets/501-historique1-2%20%281%29.png)
+![](.gitbook/assets/501-historique1-2-1.png)
 
 Le journal de téléchargement affiche la liste des utilisateurs \(1\) qui ont téléchargé le fichier et indique la date du téléchargement \(2\).
 
-![](.gitbook/assets/503-historique1%20%284%29.png)
+![](.gitbook/assets/503-historique1-4.png)
 

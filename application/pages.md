@@ -8,22 +8,22 @@ L’appli Pages permet de créer des pages web qui sont organisées entre elles 
 
 Il est possible d’insérer dans ces pages **différents** types de contenus **\*\*\(texte, image, son, vidéo…\) et** des liens vers d’autres contenus\*\*. En particulier, si un lien est enregistré vers un blog, une frise chronologique, un wiki, ou un forum existant, la page sera automatiquement mise à jour avec les nouvelles publications effectuées dans le blog, la frise, le wiki ou le forum.
 
-![](.gitbook/assets/captures-pages-1-1%20%281%29.png)
+![](.gitbook/assets/captures-pages-1-1-1.png)
 
 ## Créer un projet
 
 Depuis la page d’accueil, cliquez sur « Mes applis » en haut à droite de l’écran puis cliquez sur « Pages ».
 
-![](.gitbook/assets/pages1-2%20%281%29.png)
+![](.gitbook/assets/pages1-2-1.png)
 
 * Pour créer un projet : Cliquez sur « Créer un un projet» \(1\)
 * Choisissez ensuite si vous voulez créer un projet privé ou public \(2\)
 
 Lorsque vous créez un site public celui-ci est visible de tous dans l’ENT. De plus, toute personne extérieure à l’ENT peut accéder à ce site si elle dispose du lien.
 
-![](.gitbook/assets/captures-pages-2-1%20%281%29.png)
+![](.gitbook/assets/captures-pages-2-1-1.png)
 
-![](.gitbook/assets/capture-pages-3%20%282%29.png)
+![](.gitbook/assets/capture-pages-3-2.png)
 
 Dans la fenêtre, saisissez le titre de votre site \(3\) puis cliquez sur le bouton « Créer » \(4\)
 
@@ -38,7 +38,7 @@ Pour partager votre page, avec d’autres utilisateurs, suivez les étapes suiva
 1. Sélectionnez la case à cochez de la page \(1\)
 2. Cliquez sur le bouton "Partager" \(2\)
 
-![](.gitbook/assets/captures-pages-5-2.png)
+![](.gitbook/assets/captures-pages-5-2%20%281%29.png)
 
 La fenêtre de partage apparaît. Pour attribuer des droits à d’autres utilisateurs, suivez les étapes suivantes :
 
@@ -48,7 +48,7 @@ La fenêtre de partage apparaît. Pour attribuer des droits à d’autres utilis
 
 Cliquez ensuite sur le bouton "Partager"
 
-![](.gitbook/assets/partage-pages-2%20%281%29.png)
+![](.gitbook/assets/partage-pages-2-1.png)
 
 Vous pouvez attribuer différents droits aux autres utilisateurs :
 
@@ -62,9 +62,9 @@ Pour créer une nouvelle page, vous pouvez :
 
 * Cliquer sur l’icône d’ajout d’une page sur lorsque vous éditez votre projet \(1\)
 
-![](.gitbook/assets/captures-pages-6-1%20%281%29.png)
+![](.gitbook/assets/captures-pages-6-1-1.png)
 
 * Ou cliquer sur gérer les pages \(2\), puis sur "nouvelle page" \(3\)
 
-![](.gitbook/assets/capture-pages-7%20%281%29.png)
+![](.gitbook/assets/capture-pages-7-1.png)
 
