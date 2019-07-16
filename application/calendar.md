@@ -6,13 +6,13 @@ Une organisation haute en couleur ! Retrouvez, en un clin d’oeil, tous les év
 
 Le service Agenda permet de créer et partager des évènements.
 
-![](.gitbook/assets/agenda-page-1-1024x615-1%20%282%29.png)
+![](.gitbook/assets/agenda-page-1-1024x615-1%20%283%29.png)
 
 Il comprend les éléments suivants :
 
 1. Un menu de gauche pour créer un agenda et où sont listés les agendas qui appartiennent à l’utilisateur et ceux qui lui sont partagés.
 2. Un bandeau qui permet de faire défiler les semaines.
-3. Les 2 icônes en haut à droite permettent de permuter l’affichage du mode calendrier ![](.gitbook/assets/agenda-icone-liste-2-1%20%282%29.png).
+3. Les 2 icônes en haut à droite permettent de permuter l’affichage du mode calendrier ![](.gitbook/assets/agenda-icone-liste-2-1%20%283%29.png).
 4. Le calendrier qui permet d’afficher les événements des agendas sélectionnés.
 
 ## Créer un agenda
@@ -57,7 +57,7 @@ Le premier onglet appelé "Détails" comporte les informations générales de l�
 
 Le second onglet appelé "Dates" permet la sélection de la plage horaire de l’événement.
 
-![](.gitbook/assets/agenda-creation-date-1-2%20%282%29.png)
+![](.gitbook/assets/agenda-creation-date-1-2%20%283%29.png)
 
 {% hint style="info" %}
 Il est possible de changer les dates et heures de début et de fin. La case à cocher « Toute la journée » permet de définir un événement sans heure de début ou de fin.
@@ -65,7 +65,7 @@ Il est possible de changer les dates et heures de début et de fin. La case à c
 
 Enfin le dernier onglet appelé "Récurrence" permet de définir la récurrence de l’événement si nécessaire.
 
-![](.gitbook/assets/agenda-creation-recurrence-1-2%20%282%29.png)
+![](.gitbook/assets/agenda-creation-recurrence-1-2%20%283%29.png)
 
 Pour cela, il faut cocher la case « Récurrent » pour pouvoir accéder à la sélection du paramétrage de la récurrence. Ensuite, il est possible de modifier :
 

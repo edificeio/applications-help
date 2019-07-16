@@ -123,7 +123,7 @@ L’éditeur permet également d’intégrer différents types de contenus :
 4. Une formule Latex
 5. Un lien
 
-![](.gitbook/assets/image5-1024x387-2-1%20%282%29.png)
+![](.gitbook/assets/image5-1024x387-2-1%20%283%29.png)
 
 L'éditeur permet désormais d’ajouter plus simplement des pièces jointes dans un contenu.
 
@@ -135,7 +135,7 @@ Lorsque l’on clique sur l’icône d’ajout de pièces jointes, on peut chois
 
 La ou les pièces jointes sélectionnées apparaissent dans la zone d'édition dans un cadre dédié.
 
-![](.gitbook/assets/image8-1-1%20%282%29.png)
+![](.gitbook/assets/image8-1-1%20%283%29.png)
 
 Pour modifier les pièces jointes, faire un clic droit dans la zone grisée et cliquer sur "Modifier les fichiers" \(3\).
 
@@ -206,7 +206,7 @@ Lorsque les modifications sont terminées, cliquer sur "Enregistrer" en bas du t
 
 Une fois la notification reçue dans sa boîte mail personnelle, l’utilisateur peut cliquer sur le lien correspondant afin d’accéder au contenu. S’il n’est pas connecté, il devra saisir son identifiant et son mot de passe pour accéder à l’objet de la notification.
 
-![](.gitbook/assets/notiff-1-2%20%282%29.png)
+![](.gitbook/assets/notiff-1-2%20%283%29.png)
 
 ## Le moteur de recherche
 
