@@ -77,5 +77,5 @@ La liste des sondages dont vous êtes gestionnaire apparaît. Choisissez celui q
 
 Le sondage apparaît bien sur la page.
 
-![](.gitbook/assets/s13-1-1%20%282%29.png)
+![](.gitbook/assets/s13-1-1%20%283%29.png)
 

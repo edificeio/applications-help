@@ -100,7 +100,7 @@ Pour changer votre humeur, cliquez sur l’icône en dessous de votre photo.
 
 Une liste d’humeurs apparaît. Choisissez celle que vous souhaitez.
 
-![](.gitbook/assets/m12-2-1-1%20%282%29.png)
+![](.gitbook/assets/m12-2-1-1%20%283%29.png)
 
 Votre nouvelle humeur apparaît sur votre compte et est maintenant visible dans le fil de nouveautés des autres utilisateurs de l’ENT avec lesquels vous avez le droit de communiquer.
 

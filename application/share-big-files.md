@@ -83,7 +83,7 @@ Pour modifier le titre, la description ou la date d’expiration d’un fichier,
 
 Vous pouvez également sélectionner le fichier à modifier en cochant la case \(2\) située devant le titre, puis en cliquant sur le bouton "Editer" \(3\).
 
-![](.gitbook/assets/201-modifier1-1-1%20%282%29.png)
+![](.gitbook/assets/201-modifier1-1-1%20%283%29.png)
 
 Vous pouvez modifier la durée de validité \(1\) du fichier dans la limite de 30 jours à partir de la date de dépôt du fichier dans votre espace de stockage.
 

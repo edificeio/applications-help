@@ -57,7 +57,7 @@ Puis cliquez sur « Nouvelle note ».
 ![](.gitbook/assets/c4-1%20%281%29.png)
 
 Un post-it apparaît, présentant différentes fonctionnalités disponibles sur la partie supérieure droite.  
-![](.gitbook/assets/m9-1%20%282%29.png)
+![](.gitbook/assets/m9-1%20%283%29.png)
 
 Pour modifier la couleur de la note, cliquez sur: ![](.gitbook/assets/m10-1%20%282%29.png)
 
