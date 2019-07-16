@@ -22,7 +22,7 @@ Une séance correspond à un cours, à une date donnée et à une heure donnée.
 
 Une nouvelle page s’ouvre. La séance sera à l'état de brouillon tant qu’elle n’aura pas été publiée. On peut sélectionner la matière \(1\), ainsi que le groupe concerné \(2\).
 
-![](.gitbook/assets/cdt-professeur-creerseance2-1.png)
+![](.gitbook/assets/cdt-professeur-creerseance2-1%20%281%29.png)
 
 3 onglets sont disponibles :
 
@@ -36,15 +36,15 @@ On peut créer un travail
 
 * soit à partir de la page calendrier :
 
-![](.gitbook/assets/cdt-professeur-creertravail-1%20%281%29.png)
+![](.gitbook/assets/cdt-professeur-creertravail-1-1.png)
 
 * soit à partir du détail d’une séance, via l’onglet "Travail à faire".
 
-![](.gitbook/assets/cdt-professeur-creertravail2-2-1.png)
+![](.gitbook/assets/cdt-professeur-creertravail2-2-1%20%281%29.png)
 
 On indique la date pour laquelle le travail doit être rendu \(1\) et le type de devoir \(2 : Devoir maison / Exercices / Autres\).
 
-![](.gitbook/assets/cdt-professeur-taf-1.png)
+![](.gitbook/assets/cdt-professeur-taf-1%20%282%29.png)
 
 La charge de travail \(3\) des élèves pour la semaine courante est affichée, afin d'éviter de surcharger les élèves.
 
@@ -66,13 +66,13 @@ Cliquer sur le travail que vous voulez planifier, et glissez-le dans la barre de
 
 Cliquer sur l’onglet "Séances". La liste apparaît. Cliquer sur la séance à planifier, et glissez-la dans l’agenda à la date souhaitée.
 
-![](.gitbook/assets/cdt-professeur-seance-2.png)
+![](.gitbook/assets/cdt-professeur-seance-2%20%281%29.png)
 
 #### Publication
 
 Après la création d’une séance, celle-ci est d’abord à l'état de brouillon. Pour la "valider" et la rendre visible par les autres utilisateurs, on doit la "publier".
 
-![](.gitbook/assets/cdt-professeur-publication-3.png)
+![](.gitbook/assets/cdt-professeur-publication-3%20%281%29.png)
 
 * Cocher la séance que l’on souhaite publier \(1\)
 * Cliquer sur "Publier" dans le menu qui apparaît au bas de la page \(2\), et confirmer.
@@ -85,7 +85,7 @@ Il est possible de dépublier une séance via le détail.
 
 Pour déterminer avec qui l’on souhaite partager une séance, sélectionner la séance \(1\), puis cliquer sur "Partager" dans le menu \(2\).
 
-![](.gitbook/assets/cdt-professeur-partager-1%20%281%29.png)
+![](.gitbook/assets/cdt-professeur-partager-1-1.png)
 
 Il est à noter que l’on peut définir la liste de partage avant de publier la séance.
 
@@ -93,11 +93,11 @@ Il est à noter que l’on peut définir la liste de partage avant de publier la
 
 Outre la vue Agenda, une vue **liste** des séances est disponible :
 
-![](.gitbook/assets/cdt-professeur-liste-2%20%282%29.png)
+![](.gitbook/assets/cdt-professeur-liste-2-2.png)
 
 La liste peut être filtrée par date \(1\) ou par matière \(2\)
 
-![](.gitbook/assets/cdt-professeur-liste2-1%20%281%29.png)
+![](.gitbook/assets/cdt-professeur-liste2-1-1.png)
 
 En cliquant sur une date \(1\), on peut accéder au détail de la journée. Une icône indique s’il s’agit d’un cours \(2\) ou d’un travail à faire \(3\). Pour modifier un cours ou un devoir, on peut le sélectionner en le cochant, et accéder au menu.
 
@@ -107,15 +107,15 @@ En cliquant sur une date \(1\), on peut accéder au détail de la journée. Une 
 
 La progression est une suite de séances, qui doivent être effectuées dans un ordre précis. Elle est accessible via la vue Agenda.
 
-![](.gitbook/assets/cdt-professeur-progression-1.png)
+![](.gitbook/assets/cdt-professeur-progression-1%20%281%29.png)
 
 On accède à la liste des progressions disponibles. Un filtre est disponible \(1\). On peut avoir une vue détaillée en cliquant sur \(2\).
 
-![](.gitbook/assets/cdt-professeur-progression2-2%20%281%29.png)
+![](.gitbook/assets/cdt-professeur-progression2-2-1.png)
 
 En choisissant la progression, on peut accéder à la liste des séances et devoirs impliqués dans la progression \(3\).
 
-![](.gitbook/assets/cdt-professeur-progression3-4.png)
+![](.gitbook/assets/cdt-professeur-progression3-4%20%281%29.png)
 
 La vue détaillée :
 
@@ -123,37 +123,37 @@ La vue détaillée :
 
 Sélectionner une progression pour en voir le détail. Il est possible à partir de cet écran de modifier les séances et les devoirs.
 
-![](.gitbook/assets/cdt-professeur-progression5-1%20%282%29.png)
+![](.gitbook/assets/cdt-professeur-progression5-1-2.png)
 
 Pour créer une nouvelle progression, cliquer sur "Créer une progression" \(1\) et remplir les champs \(2\).
 
-![](.gitbook/assets/cdt-professeur-progression6-2-1.png)
+![](.gitbook/assets/cdt-professeur-progression6-2-1%20%281%29.png)
 
 ### Contenu
 
 Du contenu peut être rajouté à la progression. Par contenu, on entend "séance", y compris les travails à faire qui peuvent y être liés. Pour ce faire, sélectionner une progression, et "Ajouter du contenu" \(1\).
 
-![](.gitbook/assets/cdt-professeur-contenu-2-1.png)
+![](.gitbook/assets/cdt-professeur-contenu-2-1%20%281%29.png)
 
 On se retrouve avec l’interface de création de séance.
 
-![](.gitbook/assets/cdt-professeur-contenu2-2%20%281%29.png)
+![](.gitbook/assets/cdt-professeur-contenu2-2-1.png)
 
 De retour vers l'écran détail de la progression, on peut ordonner les séances. Cliquer sur l'élément à déplacer, et faire un glisser - déposer :
 
-![](.gitbook/assets/cdt-professeur-contenu4-2.png)
+![](.gitbook/assets/cdt-professeur-contenu4-2%20%281%29.png)
 
 Ici, nous avons pris le cours sur les verbes irréguliers pour les placer avant le cours sur le vocabulaire :
 
-![](.gitbook/assets/cdt-professeur-contenu3-1-1.png)
+![](.gitbook/assets/cdt-professeur-contenu3-1-1%20%281%29.png)
 
 Pour rajouter une séance d’un contenu dans l’agenda, on sélectionne d’abord la progression concernée, puis la séance, et on fait un glisser déposer :
 
-![](.gitbook/assets/cdt-professeur-progression7-1%20%282%29.png)
+![](.gitbook/assets/cdt-professeur-progression7-1-2.png)
 
 ### Semaine modèle A et B
 
-![](.gitbook/assets/cdt-professeur-modele-2-1.png)
+![](.gitbook/assets/cdt-professeur-modele-2-1%20%281%29.png)
 
 Les professeurs peuvent définir des semaines modèles, limitées à 2 \(A et B\). Cela permet de gérer facilement l’alternance de semaines.
 
@@ -177,11 +177,11 @@ On peut à partir de là consulter les archives sur une année scolaire, soit en
 
 L'élève n’a accès qu'à la consultation de l’agenda. Il ne peut pas intervenir sur les séances. Il voit les devoirs à faire \(1\) et les séances \(2\).
 
-![](.gitbook/assets/cdt-eleve-agenda-3.png)
+![](.gitbook/assets/cdt-eleve-agenda-3%20%281%29.png)
 
 En cliquant sur la séance, il peut accéder au détail, avec le travail à faire éventuellement rattaché \(toujours en lecture seule\).
 
-![](.gitbook/assets/cdt-eleve-seance-1%20%281%29.png)
+![](.gitbook/assets/cdt-eleve-seance-1-1.png)
 
 ## Profil parent \(visualisation\) choix enfant
 
@@ -205,7 +205,7 @@ Les séances et les devoirs à faire sont en lecture seule. Cependant, la gestio
 
 Les visas sont délivrés par le directeur d'établissement aux séances et aux devoirs à faire, afin de signaler l’inspection de leur contenu et leur planification. On y accède via le bouton dans l’agenda :
 
-![](.gitbook/assets/cdt-directeur-visa1-1%20%281%29.png)
+![](.gitbook/assets/cdt-directeur-visa1-1-1.png)
 
 Un filtre permet de sélectionner les élements :
 
@@ -223,13 +223,13 @@ Les séances sont regroupées par enseignant / classe / matière, avec la possib
 * Si elle est **orange** \(7\), les séances ont été validées, mais ont été modifiées depuis la validation.
 * On peut accéder au **détail des séances** en cliquant sur \(8\).
 
-![](.gitbook/assets/cdt-directeur-visa3-1%20%281%29.png)
+![](.gitbook/assets/cdt-directeur-visa3-1-1.png)
 
 #### Appliquer un visa : en verrouillant / sans verrouiller
 
 Lorsque l’on applique le visa, une fenêtre s’ouvre. Il est **obligatoire** de rentrer un commentaire pour valider.
 
-![](.gitbook/assets/cdt-directeur-visa4-3.png)
+![](.gitbook/assets/cdt-directeur-visa4-3%20%281%29.png)
 
 Si l’on **verrouille**, cela signifie que l’enseignant ne pourra plus modifier la séance.
 
@@ -243,11 +243,11 @@ Tous les visas peuvent être édités sous forme de PDF via le menu.
 
 Le directeur d'établissement peut gérer les habilitations des inspecteurs.
 
-![](.gitbook/assets/cdt-directeur-habilitations1-2.png)
+![](.gitbook/assets/cdt-directeur-habilitations1-2%20%281%29.png)
 
 Cela permet d’attribuer ou de retirer à l’inspecteur \(2\) le droit de délivrer un visa pour l’enseignant de cet établissement \(1\).
 
-![](.gitbook/assets/cdt-directeur-habilitations2-1%20%282%29.png)
+![](.gitbook/assets/cdt-directeur-habilitations2-1-2.png)
 
 Pour rajouter un enseignant, on saisit son nom dans \(3\). Et pour supprimer l’habilitation, on clique sur \(4\).
 

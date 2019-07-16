@@ -10,7 +10,7 @@ Pour accéder à l’appli Casier, cliquez sur l’icône correspondante dans la
 
 Le casier est composé de 3 dossiers :
 
-![](.gitbook/assets/2018-08-23_17h28_52-1-1.png)
+![](.gitbook/assets/2018-08-23_17h28_52-1-1%20%281%29.png)
 
 Le dossier « **Mon casier** » contient les documents envoyés dans mon casier.  
 Le dossier « **Historique** » contient les documents déposés par l’utilisateur dans le casier d’autres utilisateurs. Pour chaque document reçu, le titre du document, l’identifiant du destinataire ainsi que la date et l’heure d’envoi sont précisés.  
@@ -46,7 +46,7 @@ Vous disposez également d’un bouton "télécharger" sur chaque fichier si vou
 
 Lorsque vous recevez un document dans votre casier, vous avez la possibilité de le copier vers un dossier de votre espace documentaire. Connectez-vous à l’appli Casier et consultez le dossier « Mon casier ». Sélectionnez le document et cliquez sur le bouton « Copier dans mes documents » en bas de page.
 
-![](.gitbook/assets/copier-casier-2.png)
+![](.gitbook/assets/copier-casier-2%20%282%29.png)
 
 La nouvelle fenêtre vous présente l’arborescence du dossier « Mes documents » \(1\), vous pouvez créer un nouveau dossier directement depuis cette fenêtre \(2\), et copier le document dans le dossier que vous avez sélectionné \(3\).
 

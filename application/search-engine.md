@@ -70,7 +70,7 @@ Cliquez sur le bouton "Rechercher" pour lancer la recherche.
 
 La recherche s’effectue sur des champs spécifiques en fonction du type de ressource. Pour qu’une ressource soit affichée dans la liste résultat, un des champs de la ressource doit contenir **tous les mots-clés saisis d’au moins 4 caractères**.
 
-![](.gitbook/assets/tableau-filtre-2%20%282%29.png)
+![](.gitbook/assets/tableau-filtre-2-2.png)
 
 ## Liste des résultats
 
@@ -81,7 +81,7 @@ Si aucune ressource ne correspond aux filtres de recherche, un message indique q
 
 Si toutes les ressources correspondant aux filtres sont affichées, un message est affiché indiquant que « Tous les résultats en correspondance avec vos critères de recherche sont affichés » \(1\).
 
-![](.gitbook/assets/resultat002-2.png)
+![](.gitbook/assets/resultat002-2%20%282%29.png)
 
 Si un nombre important de ressources correspondent aux filtres un message indique que Tous les résultats ne sont pas affichés. Veuillez utiliser la barre de scroll pour afficher la globalité des résultats de cette recherche.  
 En faisant glisser la barre de défilement verticale vers le bas, les ressources suivantes sont chargées puis affichées. En atteignant le bas de page, toutes les ressources qui correspondent aux filtres sont affichées et un message indique que « Tous les résultats en correspondance avec vos critères de recherche sont affichés » \(1\).
@@ -90,7 +90,7 @@ En faisant glisser la barre de défilement verticale vers le bas, les ressources
 
 ## Détail d’une ressource de la liste résultat
 
-![](.gitbook/assets/detail001-1.png)
+![](.gitbook/assets/detail001-1%20%282%29.png)
 
 \(1\) Titre de la ressource
 

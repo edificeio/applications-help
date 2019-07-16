@@ -4,7 +4,7 @@
 
 Pour accéder à vos applis, cliquez sur l’icône correspondante dans le bandeau de navigation.
 
-![](.gitbook/assets/a16-2%20%282%29.png)
+![](.gitbook/assets/a16-2-2.png)
 
 Vous accédez aux services pour lesquels vous avez des droits d’accès : applications, connecteurs aux outils de vie scolaire, sites web internes au réseau ou publics …
 
@@ -12,7 +12,7 @@ Vous accédez aux services pour lesquels vous avez des droits d’accès : appli
 
 Pour accéder à une appli, cliquez sur l’icône correspondante.
 
-![](.gitbook/assets/2-3.png)
+![](.gitbook/assets/2-3%20%281%29.png)
 
 La page d’accueil de l’appli apparaît.
 

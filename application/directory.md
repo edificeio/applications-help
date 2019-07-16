@@ -10,7 +10,7 @@ Grâce au service "Annuaire", vous allez pouvoir :
 * Rechercher un groupe
 * Créer et gérer des favoris de partage
 
-![](.gitbook/assets/annuaire-presentation-2-2-1.png)
+![](.gitbook/assets/annuaire-presentation-2-2-1%20%281%29.png)
 
 ## Rechercher un utilisateur
 
@@ -26,7 +26,7 @@ Certains de ces filtres sont conditionnels. Par exemple : le filtre "Fonction" d
 
 Une fois l’utilisateur trouvé, vous pouvez consulter sa fiche. Vous avez la possibilité de lui envoyer un message \(1\), l’ajouter dans vos favoris de partage \(2\), ou consulter tout simplement les informations disponibles sur sa fiche.
 
-![](.gitbook/assets/fiche-annuaire-2.png)
+![](.gitbook/assets/fiche-annuaire-2%20%281%29.png)
 
 ## Rechercher un groupe
 
@@ -41,7 +41,7 @@ Vous pouvez rechercher facilement et rapidement un groupe d’utilisateurs. Pour
 
 Une fois le groupe trouvé, vous pouvez accéder à la liste des utilisateurs concernés. Vous avez la possibilité d’envoyer un message au groupe \(1\), d’ajouter le groupe à vos favoris de partage \(2\), ou consulter leurs fiches individuelles.
 
-![](.gitbook/assets/groupe-liste-1.png)
+![](.gitbook/assets/groupe-liste-1%20%281%29.png)
 
 ## Gérer vos favoris de partage
 
@@ -53,11 +53,11 @@ En cliquant sur la fenêtre des favoris, vous pourrez gérer des listes d’util
 
 Pour consulter une liste de favoris, cliquez sur son nom dans l’onglet de gauche \(1\). Vous voyez apparaître la liste des utilisateurs concernés \(2\). Si vous souhaitez supprimer ou ajouter des utilisateurs, ou des groupes d’utilisateurs à cette liste, cliquez sur "Modifier le favori" \(3\).
 
-![](.gitbook/assets/consulter-modifier-favori-1-1-1.png)
+![](.gitbook/assets/consulter-modifier-favori-1-1-1%20%281%29.png)
 
 Pour ajouter un utilisateur ou un groupe à votre favori, vous pouvez utiliser la barre de recherche \(1\), et affiner votre recherche grâce au système de filtres \(2\). Cliquez ensuite sur "Rechercher" pour faire apparaître des propositions d’utilisateurs \(3\)
 
-![](.gitbook/assets/favori-ajout-1-1-1%20%282%29.png)
+![](.gitbook/assets/favori-ajout-1-1-1-2.png)
 
 Les utilisateurs et les groupes suggérés apparaissent dans la liste "Groupes et membres à ajouter au favori". Vous pouvez ajouter individuellement des membres à votre favori en cliquant sur la flèche à droite de l’utilisateur \(1\), ou bien ajouter tous les utilisateurs en cliquant sur "Tout ajouter" \(2\).
 
@@ -77,11 +77,11 @@ Vous pouvez créer directement votre liste de favori depuis l’annuaire. Pour c
 
 Commencez par renseigner le nom de votre favori.
 
-![](.gitbook/assets/nom-favori-2-2%20%282%29.png)
+![](.gitbook/assets/nom-favori-2-2-2.png)
 
 Ajoutez ensuite vos utilisateurs ou vos groupes à votre favori. Vous pouvez utiliser la barre de recherche \(1\), et affiner votre recherche grâce au système de filtres \(2\). Cliquez ensuite sur "Rechercher" pour faire apparaître des propositions d’utilisateurs \(3\)
 
-![](.gitbook/assets/2018-08-23_09h54_11-2-2.png)
+![](.gitbook/assets/2018-08-23_09h54_11-2-2%20%281%29.png)
 
 Les utilisateurs et les groupes suggérés apparaissent dans la liste "Groupes et membres à ajouter au favori". Vous pouvez ajouter individuellement des membres à votre favori en cliquant sur la flèche à droite de l’utilisateur \(1\), ou bien ajouter tous les utilisateurs en cliquant sur "Tout ajouter" \(2\).
 
@@ -91,7 +91,7 @@ Pour supprimer de votre liste des utilisateurs ou des groupes, vous pouvez cliqu
 Important : si vous supprimez un groupe ou un utilisateur d’un favori qui a déjà été utilisé, les partages déjà effectués ne seront pas supprimés.
 {% endhint %}
 
-![](.gitbook/assets/favori-gerer-1-1%20%287%29.png)
+![](.gitbook/assets/favori-gerer-1-1-7.png)
 
 Vous avez également la possibilité de créer des listes de favoris directement depuis la fenêtre de partage. Une option "Enregistrer comme favori de partage" est disponible dans toutes les fenêtres de partage, pour enregistrer rapidement et sans effort vos listes favorites.
 
@@ -99,9 +99,9 @@ Vous avez également la possibilité de créer des listes de favoris directement
 
 Vous pouvez envoyer directement un message sur la Messagerie en sélectionnant votre liste de favori depuis l’Annuaire. Une fois le favori sélectionné, il vous suffira de cliquer sur "Envoyer un message au favori"
 
-![Envoyer un message &#xE0; un favori depuis l&apos;Annuaire](.gitbook/assets/annuaire-message-favori-1-1.png)
+![Envoyer un message &#xE0; un favori depuis l&apos;Annuaire](.gitbook/assets/annuaire-message-favori-1-1%20%281%29.png)
 
 Les utilisateurs de votre favori seront ainsi directement pré-sélectionnés dans votre message :
 
-![](.gitbook/assets/messagerie-favori-2.png)
+![](.gitbook/assets/messagerie-favori-2%20%281%29.png)
 

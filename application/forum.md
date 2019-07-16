@@ -8,19 +8,19 @@ Le forum est un outil d'échange généralement **animé par une ou plusieurs pe
 
 L’appli Forum permet de créer des catégories de forum dans lesquelles il est ensuite possible d’animer des discussions. Chaque message publié dans la discussion s’affiche à la suite du précédent avec la date de publication et l’identifiant de la personne qui a posté le message.
 
-![](.gitbook/assets/forum_presentation-1-1.png)
+![](.gitbook/assets/forum_presentation-1-1%20%281%29.png)
 
 ## Créer et partager une catégorie
 
 Pour créer un forum, cliquez sur « Créer une catégorie ».
 
-![](.gitbook/assets/f12-2.png)
+![](.gitbook/assets/f12-2%20%281%29.png)
 
 1. Saisissez un titre
 2. Cliquez sur l’image pour modifier la vignette
 3. Cliquez sur « Sauvegarder »
 
-![](.gitbook/assets/a210-1%20%281%29.png)
+![](.gitbook/assets/a210-1-1.png)
 
 La catégorie de forum a été créée mais n’est pas encore visible par les autres utilisateurs. Pour la partager, suivez les étapes suivantes :
 
@@ -30,7 +30,7 @@ La catégorie de forum a été créée mais n’est pas encore visible par les a
 
 Pour valider, cliquez sur le bouton "Partager", puis "Terminer".
 
-![](.gitbook/assets/partage-forum-2.png)
+![](.gitbook/assets/partage-forum-2%20%283%29.png)
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs de l’ENT sur la catégorie de forum sont les suivants :
 
@@ -76,7 +76,7 @@ Vous êtes gestionnaire d’une catégorie de discussions lorsque vous l’avez 
 
 Pour gérer une catégorie, cliquez sur la case à cocher qui y est associée.
 
-![](.gitbook/assets/forum-1%20%282%29.png)
+![](.gitbook/assets/forum-1-2.png)
 
 ## Gérer une discussion
 
@@ -90,5 +90,5 @@ Vous êtes gestionnaire d’une discussion lorsque vous l’avez créée ou lors
 
 Pour gérer une discussion, cliquez sur la case à cocher qui y est associée.
 
-![](.gitbook/assets/f22-2%20%281%29.png)
+![](.gitbook/assets/f22-2-1.png)
 

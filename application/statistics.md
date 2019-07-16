@@ -12,7 +12,7 @@ L’appli Statistiques vous propose de suivre **cinq indicateurs** calculés sur
 * **Activation de comptes** : calcule le nombre de comptes activés mensuellement sur la période sélectionnée ;
 * **Comptes activés** : indique la proportion d’activations de comptes par rapport à l’effectif total par profil.
 
-![](.gitbook/assets/stat-presentation-1024x372-1-1.png)
+![](.gitbook/assets/stat-presentation-1024x372-1-1%20%281%29.png)
 
 ## Statistiques de connexion
 
@@ -24,7 +24,7 @@ A l’arrivée sur l’application, les statistiques de connexion s’affichent 
 
 Vous pouvez organiser les résultats par profil \(5\) et les exporter dans un fichier au format CSV \(6\).
 
-![](.gitbook/assets/stat-21-1024x442-4.png)
+![](.gitbook/assets/stat-21-1024x442-4%20%281%29.png)
 
 ## Statistiques d’accès aux applications
 

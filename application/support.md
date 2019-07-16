@@ -22,7 +22,7 @@ La page de création d’une nouvelle demande se présente comme suit :
 * Le bouton « Ajouter une pièce jointe » \(4\) permet de joindre une copie d’écran ou un document pour illustrer votre propos.
 * La saisie est enregistrée lorsque vous cliquez sur le bouton « Enregistrer »\(5\).
 
-![](.gitbook/assets/2018-08-24_14h58_10-2-1.png)
+![](.gitbook/assets/2018-08-24_14h58_10-2-1%20%281%29.png)
 
 {% hint style="info" %}
 La création d’une nouvelle demande donne lieu à l’envoi d’une notification dans le fil de nouveautés de l’administrateur de l'établissement.
@@ -37,5 +37,5 @@ Les référents ENT reçoivent toutes les demandes des utilisateurs et peuvent c
 
 Les référents ENT et les demandeurs de l'établissement seront notifiés sur leur fil de nouveauté lorsque le support aura fourni une réponse à la demande. Le référent ENT et le demandeur peuvent visualiser l’ensemble des échanges.
 
-![](.gitbook/assets/2018-08-24_15h02_14-1%20%282%29.png)
+![](.gitbook/assets/2018-08-24_15h02_14-1-2.png)
 

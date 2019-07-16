@@ -16,7 +16,7 @@ Suite à la péremption du fichier, le fichier est supprimé et ne peut plus êt
 
 La page d’accueil de Poste-fichiers affiche les fichiers que vous avez déposés et ceux qui ont été partagés avec vous par d’autres utilisateurs.
 
-![](.gitbook/assets/600-accueil-2.png)
+![](.gitbook/assets/600-accueil-2%20%283%29.png)
 
 Le bouton "Envoyer un fichier" vous permet de déposer un nouveau fichier.
 
@@ -45,19 +45,19 @@ En cochant une ou plusieurs cases de sélection de fichier, une barre d’action
 
 Pour envoyer un fichier dans votre espace de stockage, cliquez sur le bouton "Envoyer un fichier". Un message vous indique l’espace disponible \(1\) dans le volume de stockage dédié à cette application. Saisissez le nombre de jours \(2\) durant lesquels le fichier pourra être téléchargé, le nom du fichier \(3\), une description \(4\).
 
-![](.gitbook/assets/203-modifier-3%20%281%29.png)
+![](.gitbook/assets/203-modifier-3-1.png)
 
 Cliquez sur le bouton ![](.gitbook/assets/003-deposer-1-1-1.png) pour sélectionner sur votre poste de travail le fichier à déposer.
 
 Cliquez sur le bouton "Enregistrer" pour valider le dépôt du fichier dans votre espace de stockage. Durant le dépôt du fichier, une barre \(1\) affiche le pourcentage d’avancement du téléchargement du fichier sélectionné dans votre espace de stockage.
 
-![](.gitbook/assets/005-deposer-4.png)
+![](.gitbook/assets/005-deposer-4%20%281%29.png)
 
 ## Partager un fichier
 
 Pour partager un ou plusieurs fichiers avec d’autres utilisateurs, cochez les cases des fichiers à partager \(1\) puis cliquez sur le bouton "Partager" \(2\).
 
-![](.gitbook/assets/101-partager1-5.png)
+![](.gitbook/assets/101-partager1-5%20%281%29.png)
 
 Dans la fenêtre, vous pouvez donner aux utilisateurs de l’ENT différents droits d’accès à votre fichier. Pour cela :
 
@@ -69,7 +69,7 @@ L’icône suivante signale que le fichier a été partagé avec d’autres util
 
 Pour valider, cliquez sur le bouton "Partager".
 
-![](.gitbook/assets/poste-fichiers-1-1-1.png)
+![](.gitbook/assets/poste-fichiers-1-1-1%20%281%29.png)
 
 Les droits de partage que vous pouvez attribuer aux utilisateurs sont les suivants :
 
@@ -83,19 +83,19 @@ Pour modifier le titre, la description ou la date d’expiration d’un fichier,
 
 Vous pouvez également sélectionner le fichier à modifier en cochant la case \(2\) située devant le titre, puis en cliquant sur le bouton "Editer" \(3\).
 
-![](.gitbook/assets/201-modifier1-1-1.png)
+![](.gitbook/assets/201-modifier1-1-1%20%282%29.png)
 
 Vous pouvez modifier la durée de validité \(1\) du fichier dans la limite de 30 jours à partir de la date de dépôt du fichier dans votre espace de stockage.
 
 Modifiez le titre \(2\) ou la description \(3\) puis cliquez sur le bouton "Enregistrer" \(4\) pour valider vos modifications.
 
-![](.gitbook/assets/203-modifier1-3%20%282%29.png)
+![](.gitbook/assets/203-modifier1-3-2.png)
 
 ## Supprimer un fichier
 
 Pour supprimer un fichier, vous devez sélectionner le fichier en cochant la case \(1\) située devant le titre, puis cliquez sur le bouton "Supprimer" \(2\).
 
-![](.gitbook/assets/301-supprimer1-1-1.png)
+![](.gitbook/assets/301-supprimer1-1-1%20%281%29.png)
 
 ## Télécharger un fichier qui a été partagé avec moi
 

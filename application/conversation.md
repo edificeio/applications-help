@@ -6,7 +6,7 @@ Communiquez dans un cadre sécurisé ! Envoyez et recevez tous vos e-mails via l
 
 L’appli Messagerie permet d’envoyer simplement un message à **un utilisateur** ou à un **groupe d’utilisateurs** \(les élèves d’une classe, le personnel de l'établissement, etc.\) ayant un accès à l’ENT.
 
-![](.gitbook/assets/messagerie-1-2.png)
+![](.gitbook/assets/messagerie-1-2%20%282%29.png)
 
 La réception d’un nouveau message est visible dès la page d’accueil. Elle est indiquée par une **notification** dans le bandeau de navigation et dans le fil de nouveautés. Le nombre de messages non lus est indiqué devant chaque dossier.
 
@@ -30,7 +30,7 @@ Vous accédez à la fenêtre de création d’un message.
 
 Pour sélectionner les destinataires de votre message :
 
-![](.gitbook/assets/messagerie-2%20%281%29.png)
+![](.gitbook/assets/messagerie-2-1.png)
 
 1. Effectuez votre recherche
 2. Les résultats s’affichent dans la liste déroulante
@@ -59,7 +59,7 @@ Toutes les modifications effectuées sont automatiquement enregistrées. Vous po
 
 Une fois que votre message est prêt, vous pouvez l’envoyer.
 
-![](.gitbook/assets/envoyer-1.png)
+![](.gitbook/assets/envoyer-1%20%281%29.png)
 
 ## Visualiser mes messages reçus
 
@@ -69,17 +69,17 @@ Lorsque vous recevez un nouveau message, la notification est indiquée dans le b
 
 Une fois dans l’appli messagerie, les nouveaux messages sont visibles dans la notification indiquée dans le dossier « boîte de réception ». Le nombre de messages non lus est indiqué dans la bulle à droite de la mention « Boîte de réception ».
 
-![](.gitbook/assets/messagerie-1-1-2.png)
+![](.gitbook/assets/messagerie-1-1-2%20%283%29.png)
 
 Sur l’écran central, les messages non lus apparaissent en bleu dans la liste et sont indiqués par une enveloppe fermée.
 
-![](.gitbook/assets/icones-2.png)
+![](.gitbook/assets/icones-2%20%281%29.png)
 
 \(1\) Une flèche indique que le message a été traité et qu’une réponse a été envoyée.
 
 \(2\) Le trombone indique que le message comporte une pièce jointe
 
-![](.gitbook/assets/messagerie-2-3.png)
+![](.gitbook/assets/messagerie-2-3%20%281%29.png)
 
 \(1\) Le filtre « messages non lus » vous permet de ne faire apparaître que les messages qui n’ont pas encore été lus.
 

@@ -13,5 +13,5 @@ Lorsqu’un utilisateur lance l’export de ses données, il est prévenu que s�
 ![](.gitbook/assets/export_avertissement-2-1.png)  
 Si l’utilisateur sort de la page sans récupérer son archive, il peut alors la retrouver dans le fil de notifications.
 
-![](.gitbook/assets/export_notif-1-1.png)
+![](.gitbook/assets/export_notif-1-1%20%281%29.png)
 
