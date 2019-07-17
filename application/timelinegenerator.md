@@ -47,11 +47,11 @@ Les différents droits que vous pouvez attribuer sont les suivants :
 
 En bas de chaque frise, vous pourrez voir quel droit vous disposez sur la frise en question grâce aux icônes suivantes:
 
-* ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJrV3Bz6t2ug7AOTCmd%2F-LiT9MbbnNRGQQbQ_9zR%2F-LiTPl2OssTepBdo7Dvq%2Feye.svg?alt=media&token=52b3f3fc-5b73-4eb8-b21d-5e1bf14da582) : Consulter
-* ![](.gitbook/assets/pencil%20%282%29.svg) : Contribuer
-* ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJrV3Bz6t2ug7AOTCmd%2F-LiT9MbbnNRGQQbQ_9zR%2F-LiTPggWnHSSNeB_kqfs%2Fcog.svg?alt=media&token=dedfa0d6-bbb7-4ef2-b263-36815d78bd2b) : Gérer
+* <img src=".gitbook/assets/eye.svg" width=12> : Consulter
+* <img src=".gitbook/assets/pencil.svg" width=12> : Contribuer
+* <img src=".gitbook/assets/cog.svg" width=12> : Gérer
 
-De plus, pour les frises vous appartenant, vous pourrez voir quels sont les frises que vous aurez déjà partagé car elles auront cette icône : ![](.gitbook/assets/share-1%20%283%29.svg)
+De plus, pour les frises vous appartenant, vous pourrez voir quels sont les frises que vous aurez déjà partagé car elles auront cette icône : <img src=".gitbook/assets/share-1.svg" width=12>
 
 ## Organiser ses frises chronologiques
 
