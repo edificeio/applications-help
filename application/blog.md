@@ -57,11 +57,11 @@ Les différents droits que vous pouvez attribuer aux autres utilisateurs sont le
 
 Sur les vignettes de blog, des icônes vous permettent facilement de connaitre vos droit sur les contenus :
 
-* <img src=".gitbook/assets/eye.svg" width=12> : Consulter
-* <img src=".gitbook/assets/pencil.svg" width=12> : Contribuer
-* <img src=".gitbook/assets/cog.svg" width=12> : Gérer
+* ![](.gitbook/assets/eye.png) : Consulter
+* ![](.gitbook/assets/pencil.png) : Contribuer
+* ![](.gitbook/assets/cog.png) : Gérer
 
-De plus, concernant les blogs sur lesquels vous êtes propriétaire, l'icone suivante vous permet de savoir si le contenu a déjà été partagé : <img src=".gitbook/assets/share-1.svg" width=12>
+De plus, concernant les blogs sur lesquels vous êtes propriétaire, l'icone suivante vous permet de savoir si le contenu a déjà été partagé : ![](.gitbook/assets/share-1.png)
 
 ![](.gitbook/assets/2019-07-12_17h47_38.png)
 
@@ -85,7 +85,7 @@ Note : Si l'on rend public un blog, les documents chargés sur le blog \(par vou
 
 ![](.gitbook/assets/2019-07-11_11h05_12%20%281%29.png)
 
-Sur la vignette du blog, le symbole suivant vous informe que le contenu est public : <img src=".gitbook/assets/globe.svg" width=12>
+Sur la vignette du blog, le symbole suivant vous informe que le contenu est public : ![](.gitbook/assets/globe.png)
 
 ![](.gitbook/assets/2019-07-11_11h14_08%20%281%29.png)
 

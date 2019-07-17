@@ -47,11 +47,11 @@ Les différents droits que vous pouvez attribuer sont les suivants :
 
 En bas de chaque frise, vous pourrez voir quel droit vous disposez sur la frise en question grâce aux icônes suivantes:
 
-* <img src=".gitbook/assets/eye.svg" width=12> : Consulter
-* <img src=".gitbook/assets/pencil.svg" width=12> : Contribuer
-* <img src=".gitbook/assets/cog.svg" width=12> : Gérer
+* ![](.gitbook/assets/eye.png) : Consulter
+* ![](.gitbook/assets/pencil.png) : Contribuer
+* ![](.gitbook/assets/cog.png) : Gérer
 
-De plus, pour les frises vous appartenant, vous pourrez voir quels sont les frises que vous aurez déjà partagé car elles auront cette icône : <img src=".gitbook/assets/share-1.svg" width=12>
+De plus, pour les frises vous appartenant, vous pourrez voir quels sont les frises que vous aurez déjà partagé car elles auront cette icône : ![](.gitbook/assets/share-1.png)
 
 ## Organiser ses frises chronologiques
 

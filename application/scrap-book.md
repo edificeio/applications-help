@@ -46,7 +46,7 @@ Les différents droits que vous pouvez attribuer sont les suivants :
 * Contribution : l’utilisateur peut modifier le cahier
 * Gestion : l’utilisateur peut partager, modifier et supprimer le cahier
 
-Pour les cahiers vous appartenant, vous pourrez voir quels sont les cahiers que vous aurez déjà partagé car ils auront cette icône : <img src=".gitbook/assets/share-1.svg" width=12>
+Pour les cahiers vous appartenant, vous pourrez voir quels sont les cahiers que vous aurez déjà partagé car ils auront cette icône : ![](.gitbook/assets/share-1.png)
 
 ## Organiser ses cahiers multimédias  <a id="organiser-ses-cahiers-multimedias"></a>
 
