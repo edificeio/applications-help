@@ -192,5 +192,5 @@ Dans le champ "Nom", choisissez l'option "Microsoft Print to PDF"
 
 Cliquez sur la flèche vers le bas situé à coté du PDF puis choisissez l'option "Enregistrer au format PDF"
 
-![](.gitbook/assets/capture-decran-2019-07-11-a-15.36.46%20%281%29.png)
+![](.gitbook/assets/capture-decran-2019-07-11-a-15.36.46.png)
 

@@ -187,17 +187,17 @@ Vous pouvez également ouvrir le cahier multimédia souhaité, cliquer sur le "+
 
 Dans le champ "Destination", choisissez l'option Enregistrer au format PDF‌
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LK7Lt-mhqLEh3xPcxBc%2F-LjVjROzgJE1We5avt4J%2F-LjWGF0R7Wj5jRYvv-j6%2F2019-07-11_15h18_39.png?alt=media&token=cce75275-2e0f-41fc-a534-c14d041bb9ce)
+![](.gitbook/assets/2019-07-11_15h18_39.png)
 
 * Pour Internet Explorer, Microsoft Edge et Mozilla Firefox :
 
 Dans le champ "Nom", choisissez l'option "Microsoft Print to PDF"‌
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LK7Lt-mhqLEh3xPcxBc%2F-LjVjROzgJE1We5avt4J%2F-LjWGZeFiSUjl4h2z3Bj%2F2019-07-11_15h18_03.png?alt=media&token=37062b83-c84c-4b9c-82dc-44a146a0228d)
+![](.gitbook/assets/2019-07-11_15h18_03.png)
 
 * Pour Safari :
 
 Cliquez sur la flèche vers le bas situé à coté du PDF puis choisissez l'option "Enregistrer au format PDF"
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LK7Lt-mhqLEh3xPcxBc%2F-LjVjROzgJE1We5avt4J%2F-LjWGtvOgVmNMHNjCrl_%2FCapture%20d%E2%80%99%C3%A9cran%202019-07-11%20%C3%A0%2015.36.46.png?alt=media&token=5e659e85-118c-4137-8090-4384ea1cde4f)
+![](.gitbook/assets/capture-decran-2019-07-11-a-15.36.46.png)
 
